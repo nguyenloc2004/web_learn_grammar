@@ -1,0 +1,355 @@
+[
+  {
+    "id": "ncu-001",
+    "topic": "nouns-countable-uncountable",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Please make sure that all laboratory ___ is switched off and stored in the cabinet before you leave.",
+    "options": [
+      "equipments",
+      "an equipment",
+      "equipment",
+      "the equipments"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "\"equipment\" (thiết bị) là danh từ **không đếm được**: không có -s, không đi với a / an. Động từ \"is\" số ít cũng xác nhận điều này.",
+      "wrong": {
+        "0": "\"equipments\" sai vì danh từ không đếm được không có dạng số nhiều; hơn nữa động từ là \"is\".",
+        "1": "\"an equipment\" sai vì danh từ không đếm được không đi với a / an; \"all an equipment\" cũng sai cấu trúc.",
+        "3": "\"the equipments\" vừa thêm -s sai, vừa không hợp với động từ số ít \"is\"."
+      },
+      "rule": "equipment, furniture, information, advice, luggage… không đếm được: không -s, không a / an, động từ số ít.",
+      "examples": [
+        "All office equipment must be returned when you leave the company.",
+        "We bought a new piece of equipment for the lab."
+      ],
+      "common_mistake": "Thêm -s vì trong tiếng Việt \"các thiết bị\" là số nhiều: \"equipments\"."
+    },
+    "tags": [
+      "uncountable",
+      "equipment",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ncu-002",
+    "topic": "nouns-countable-uncountable",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The hotel receptionist gave us some useful ___ about restaurants near the convention center.",
+    "options": [
+      "informations",
+      "an information",
+      "piece of information",
+      "information"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "\"information\" là danh từ **không đếm được**, đi được với \"some\": **some useful information**.",
+      "wrong": {
+        "0": "\"informations\" sai vì \"information\" không có dạng số nhiều.",
+        "1": "\"an information\" sai vì không dùng a / an với danh từ không đếm được, và \"some an\" cũng sai cấu trúc.",
+        "2": "\"piece of information\" là danh từ đếm được số ít nên cần \"a\": \"a useful piece of information\"; \"some useful piece of information\" sai."
+      },
+      "rule": "some / much / a lot of + information. Muốn đếm: a piece of information, two pieces of information.",
+      "examples": [
+        "Could you give me some information about the training course?",
+        "This is a very useful piece of information."
+      ],
+      "common_mistake": "Viết \"informations\" vì nghĩ \"những thông tin\" là số nhiều."
+    },
+    "tags": [
+      "uncountable",
+      "information",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ncu-003",
+    "topic": "nouns-countable-uncountable",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Before their first client meeting, Ms. Phuong gave the new interns ___ on how to present our services.",
+    "options": [
+      "an advice",
+      "many advices",
+      "some advice",
+      "a few advices"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "\"advice\" (lời khuyên) là danh từ **không đếm được**, đi với \"some\": **some advice**.",
+      "wrong": {
+        "0": "\"an advice\" sai: danh từ không đếm được không đi với a / an; muốn nói \"một lời khuyên\" dùng \"a piece of advice\".",
+        "1": "\"many advices\" sai hai lỗi: \"advice\" không có -s và không đi với \"many\".",
+        "3": "\"a few advices\" sai: \"a few\" chỉ đi với danh từ đếm được số nhiều, mà \"advice\" không đếm được."
+      },
+      "rule": "advice (n, không đếm được): some / much / a lot of advice, a piece of advice. advise là động từ.",
+      "examples": [
+        "My mentor gave me a valuable piece of advice.",
+        "We need some advice from a tax expert."
+      ],
+      "common_mistake": "Dịch \"một lời khuyên\" thành \"an advice\" và \"nhiều lời khuyên\" thành \"many advices\"."
+    },
+    "tags": [
+      "uncountable",
+      "advice",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ncu-004",
+    "topic": "nouns-countable-uncountable",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "On international flights, each passenger is allowed to check in two pieces of ___ free of charge.",
+    "options": [
+      "luggage",
+      "luggages",
+      "the luggages",
+      "baggages"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Sau \"pieces of\" là danh từ **không đếm được** giữ nguyên dạng: **two pieces of luggage**.",
+      "wrong": {
+        "1": "\"luggages\" sai: \"luggage\" không đếm được nên không có -s, kể cả sau \"pieces of\".",
+        "2": "\"the luggages\" vừa thêm -s sai vừa thừa mạo từ.",
+        "3": "\"baggages\" sai: \"baggage\" cũng là danh từ không đếm được, không có -s."
+      },
+      "rule": "số + pieces of + danh từ không đếm được (không -s): two pieces of luggage, three pieces of furniture.",
+      "examples": [
+        "She brought only one piece of luggage on the business trip.",
+        "How much baggage are we allowed to carry on?"
+      ],
+      "common_mistake": "Thêm -s cho cả hai danh từ: \"two pieces of luggages\"."
+    },
+    "tags": [
+      "uncountable",
+      "luggage",
+      "a-piece-of",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ncu-005",
+    "topic": "nouns-countable-uncountable",
+    "level": "intermediate",
+    "type": "fill-form",
+    "question": "Since the update was released, we have received a great deal of positive ___ (feedback) from users of our mobile app.",
+    "options": [
+      "feedbacks",
+      "feedback",
+      "a feedback",
+      "the feedbacks"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "\"a great deal of\" chỉ đi với danh từ **không đếm được**, và \"feedback\" là danh từ không đếm được: giữ nguyên **feedback**.",
+      "wrong": {
+        "0": "\"feedbacks\" sai vì \"feedback\" không có dạng số nhiều.",
+        "2": "\"a feedback\" sai vì không dùng a / an với danh từ không đếm được, và \"of positive a feedback\" sai trật tự.",
+        "3": "\"the feedbacks\" vừa thêm -s sai vừa thừa mạo từ sau tính từ \"positive\"."
+      },
+      "rule": "a great deal of / much / a little + danh từ không đếm được: a great deal of feedback, a great deal of research.",
+      "examples": [
+        "The survey produced a great deal of useful feedback.",
+        "Thank you for your feedback on our proposal."
+      ],
+      "common_mistake": "Viết \"feedbacks\" vì nghĩ \"nhiều phản hồi\" phải có -s."
+    },
+    "tags": [
+      "uncountable",
+      "feedback",
+      "toeic-part6"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ncu-006",
+    "topic": "nouns-countable-uncountable",
+    "level": "intermediate",
+    "type": "fix-error",
+    "question": "Tìm phần sai: The new <u>furnitures</u> (A) for the meeting rooms <u>will be delivered</u> (B) <u>on</u> (C) Monday <u>morning</u> (D).",
+    "options": [
+      "furnitures",
+      "will be delivered",
+      "on",
+      "morning"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Phần sai là (A). \"furniture\" (đồ nội thất) là danh từ **không đếm được**, không có -s: sửa thành **furniture**.",
+      "wrong": {
+        "1": "(B) đúng: bị động tương lai \"will be delivered\" (sẽ được giao).",
+        "2": "(C) đúng: \"on\" + ngày / buổi của ngày cụ thể: \"on Monday morning\".",
+        "3": "(D) đúng: \"Monday morning\" là cụm chỉ thời gian hợp lệ."
+      },
+      "rule": "furniture không đếm được: some furniture, a piece of furniture, the furniture is…",
+      "examples": [
+        "The office furniture was delivered yesterday.",
+        "We need to buy a few pieces of furniture for the reception area."
+      ],
+      "common_mistake": "Thêm -s vì nghĩ \"đồ nội thất\" gồm nhiều món."
+    },
+    "tags": [
+      "uncountable",
+      "furniture",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ncu-007",
+    "topic": "nouns-countable-uncountable",
+    "level": "advanced",
+    "type": "choose",
+    "question": "___ with at least five years of experience in logistics is needed for our new warehouse in Hai Phong.",
+    "options": [
+      "Manager",
+      "Managers",
+      "The managers",
+      "A manager"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "\"manager\" là danh từ **đếm được**; động từ \"is\" cho thấy chủ ngữ số ít. Danh từ đếm được số ít phải có mạo từ: **A manager**.",
+      "wrong": {
+        "0": "\"Manager\" là danh từ đếm được số ít đứng một mình, thiếu mạo từ.",
+        "1": "\"Managers\" là số nhiều, không hợp với động từ số ít \"is\".",
+        "2": "\"The managers\" là số nhiều, không hợp với \"is\", và \"the\" không hợp vì chưa xác định là người nào."
+      },
+      "rule": "Danh từ đếm được số ít luôn cần từ hạn định: a / an / the / this / my / each + N.",
+      "examples": [
+        "An assistant is needed for the marketing team.",
+        "A receptionist answers the phone during office hours."
+      ],
+      "common_mistake": "Bỏ mạo từ trước danh từ đếm được số ít vì tiếng Việt không có mạo từ: \"Manager is needed\"."
+    },
+    "tags": [
+      "countable",
+      "singular-article",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ncu-008",
+    "topic": "nouns-countable-uncountable",
+    "level": "advanced",
+    "type": "choose",
+    "question": "Please note that all ___ purchased during the clearance sale is non-refundable and cannot be exchanged.",
+    "options": [
+      "merchandises",
+      "a merchandise",
+      "merchandise",
+      "the merchandises"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "\"merchandise\" (hàng hóa) là danh từ **không đếm được**; động từ số ít \"is\" cũng xác nhận: **all merchandise … is**.",
+      "wrong": {
+        "0": "\"merchandises\" sai: danh từ không đếm được không có -s, và không hợp với \"is\".",
+        "1": "\"a merchandise\" sai: không dùng a / an với danh từ không đếm được, và \"all a\" sai cấu trúc.",
+        "3": "\"the merchandises\" vừa có -s sai, vừa không hợp với động từ số ít \"is\"."
+      },
+      "rule": "merchandise, equipment, machinery, stationery: không đếm được, động từ số ít. Muốn đếm: an item of merchandise / items.",
+      "examples": [
+        "All merchandise is inspected before shipping.",
+        "Damaged items can be returned within seven days."
+      ],
+      "common_mistake": "Thấy \"all\" liền dùng danh từ số nhiều có -s, bất kể danh từ có đếm được hay không."
+    },
+    "tags": [
+      "uncountable",
+      "merchandise",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ncu-009",
+    "topic": "nouns-countable-uncountable",
+    "level": "advanced",
+    "type": "rewrite",
+    "question": "Chọn câu đồng nghĩa với: *The consultant made two suggestions to help us reduce our budget.*",
+    "options": [
+      "The consultant gave us two advices on reducing our budget.",
+      "The consultant gave us two pieces of advice on reducing our budget.",
+      "The consultant gave us two piece of advice on reducing our budget.",
+      "The consultant gave us two pieces of advices on reducing our budget."
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "\"two suggestions\" → \"advice\" không đếm được nên phải dùng đơn vị đếm: **two pieces of advice** (\"pieces\" có -s, \"advice\" giữ nguyên).",
+      "wrong": {
+        "0": "\"two advices\" sai: \"advice\" không đếm được, không đi trực tiếp với số đếm và không có -s.",
+        "2": "\"two piece\" sai: sau số 2 danh từ đơn vị \"piece\" phải ở số nhiều \"pieces\".",
+        "3": "\"pieces of advices\" sai: chỉ \"pieces\" có -s, còn \"advice\" không bao giờ có -s."
+      },
+      "rule": "số + pieces of + danh từ không đếm được: two pieces of advice / equipment / furniture / information.",
+      "examples": [
+        "She gave me three pieces of advice before the interview.",
+        "Two pieces of equipment were damaged during shipping."
+      ],
+      "common_mistake": "Thêm -s cho cả \"piece\" và \"advice\", hoặc quên -s ở \"piece\"."
+    },
+    "tags": [
+      "uncountable",
+      "a-piece-of",
+      "advice",
+      "toeic-part6"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ncu-010",
+    "topic": "nouns-countable-uncountable",
+    "level": "advanced",
+    "type": "fix-error",
+    "question": "Tìm phần sai: The <u>information</u> (A) in the attached files <u>were</u> (B) provided <u>by</u> (C) our suppliers <u>last week</u> (D).",
+    "options": [
+      "information",
+      "were",
+      "by",
+      "last week"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Phần sai là (B). Chủ ngữ chính là \"The information\" (không đếm được), không phải \"files\": động từ phải chia số ít **was**.",
+      "wrong": {
+        "0": "(A) đúng: \"information\" không có -s.",
+        "2": "(C) đúng: câu bị động dùng \"by\" để chỉ người thực hiện.",
+        "3": "(D) đúng: \"last week\" phù hợp với thì quá khứ."
+      },
+      "rule": "Danh từ không đếm được làm chủ ngữ → động từ số ít, kể cả khi theo sau là cụm giới từ chứa danh từ số nhiều.",
+      "examples": [
+        "The equipment in these rooms was replaced last year.",
+        "The advice from our lawyers was very helpful."
+      ],
+      "common_mistake": "Chia động từ theo danh từ số nhiều gần nhất (\"files\") hoặc theo nghĩa \"những thông tin\"."
+    },
+    "tags": [
+      "uncountable",
+      "information",
+      "agreement",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  }
+]

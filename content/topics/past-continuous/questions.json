@@ -1,0 +1,237 @@
+[
+  {
+    "id": "pac-001",
+    "topic": "past-continuous",
+    "level": "basic",
+    "type": "choose",
+    "question": "At 8 p.m. yesterday, I ___ TV with my family.",
+    "options": ["watched", "was watching", "were watching", "am watching"],
+    "answer": 1,
+    "explanation": {
+      "correct": "\"At 8 p.m. yesterday\" là một thời điểm xác định trong quá khứ, hành động đang diễn ra lúc đó: **was watching**.",
+      "wrong": {
+        "0": "\"watched\" là quá khứ đơn, chỉ hành động trọn vẹn, không nhấn mạnh việc đang diễn ra tại 8 giờ.",
+        "2": "\"were\" không đi với chủ ngữ \"I\"; phải dùng \"was\".",
+        "3": "\"am watching\" là hiện tại tiếp diễn, mâu thuẫn với \"yesterday\"."
+      },
+      "rule": "at + giờ + thời điểm quá khứ → S + was/were + V-ing.",
+      "examples": ["At 7 o'clock this morning, she was having breakfast.", "What were you doing at midnight last night?"],
+      "common_mistake": "Dùng \"were\" cho mọi chủ ngữ, hoặc quên dùng tiếp diễn khi có giờ cụ thể."
+    },
+    "tags": ["specific-time"],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pac-002",
+    "topic": "past-continuous",
+    "level": "basic",
+    "type": "choose",
+    "question": "They ___ dinner when I arrived at their house.",
+    "options": ["were having", "was having", "had have", "are having"],
+    "answer": 0,
+    "explanation": {
+      "correct": "Bữa tối đang diễn ra thì hành động \"I arrived\" xen vào. Chủ ngữ \"They\" dùng **were having**.",
+      "wrong": {
+        "1": "\"was\" không dùng với \"They\".",
+        "2": "\"had have\" sai cấu trúc; quá khứ hoàn thành phải là \"had had\".",
+        "3": "\"are having\" là hiện tại, không hợp với \"arrived\" ở quá khứ."
+      },
+      "rule": "Hành động đang diễn ra (was/were + V-ing) + when + hành động xen vào (quá khứ đơn).",
+      "examples": ["I was taking a shower when the phone rang.", "We were walking home when it started to rain."],
+      "common_mistake": "Chia cả hai hành động ở quá khứ đơn nên mất ý \"đang làm thì…\"."
+    },
+    "tags": ["interrupted-action"],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pac-003",
+    "topic": "past-continuous",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "While she ___ in the park, she ___ an old school friend.",
+    "options": ["walked / was meeting", "is walking / met", "was walking / met", "was walk / met"],
+    "answer": 2,
+    "explanation": {
+      "correct": "\"While\" đi với hành động kéo dài (quá khứ tiếp diễn); việc gặp bạn là hành động ngắn xen vào (quá khứ đơn): **was walking / met**.",
+      "wrong": {
+        "0": "Đảo ngược vai trò: việc gặp là hành động ngắn nên không dùng tiếp diễn \"was meeting\".",
+        "1": "\"is walking\" ở hiện tại, không hợp với \"met\" ở quá khứ.",
+        "3": "\"was walk\" sai cấu trúc: sau was phải là V-ing."
+      },
+      "rule": "While + S + was/were + V-ing, S + V2 (hành động ngắn xen vào).",
+      "examples": ["While I was cooking, I cut my finger.", "While they were playing football, it began to rain."],
+      "common_mistake": "Dùng tiếp diễn cho cả hai vế, kể cả hành động ngắn như meet, see, find."
+    },
+    "tags": ["while-when"],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pac-004",
+    "topic": "past-continuous",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "When my alarm went off this morning, I ___ a wonderful dream about flying.",
+    "options": ["had", "have", "am having", "was having"],
+    "answer": 3,
+    "explanation": {
+      "correct": "Giấc mơ đang diễn ra thì chuông báo thức reo (hành động xen vào), nên dùng **was having**.",
+      "wrong": {
+        "0": "\"had\" (quá khứ đơn) ngụ ý giấc mơ bắt đầu sau khi chuông reo, không hợp nghĩa.",
+        "1": "\"have\" là hiện tại đơn, mâu thuẫn với \"went off\".",
+        "2": "\"am having\" là hiện tại tiếp diễn, sai thì."
+      },
+      "rule": "When + hành động ngắn (V2), S + was/were + V-ing (hành động đang diễn ra).",
+      "examples": ["When I called her, she was driving.", "When the teacher came in, the students were talking loudly."],
+      "common_mistake": "Dùng quá khứ đơn cho cả hai vế, khiến câu mang nghĩa hai hành động nối tiếp."
+    },
+    "tags": ["interrupted-action"],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pac-005",
+    "topic": "past-continuous",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "I ___ my finger while I was chopping vegetables.",
+    "options": ["cut", "was cutting", "am cutting", "cuts"],
+    "answer": 0,
+    "explanation": {
+      "correct": "Việc đứt tay là hành động ngắn, xảy ra trong lúc đang thái rau, nên dùng quá khứ đơn: **cut** (cut – cut – cut).",
+      "wrong": {
+        "1": "\"was cutting my finger\" ngụ ý tự cắt tay một cách kéo dài, không hợp nghĩa; hành động ngắn dùng quá khứ đơn.",
+        "2": "\"am cutting\" là hiện tại, mâu thuẫn với \"was chopping\".",
+        "3": "\"cuts\" là hiện tại đơn ngôi thứ ba, sai cả thì lẫn chủ ngữ."
+      },
+      "rule": "Hành động ngắn xen vào → quá khứ đơn; hành động nền kéo dài → quá khứ tiếp diễn.",
+      "examples": ["She broke a glass while she was washing the dishes.", "He fell asleep while he was watching the film."],
+      "common_mistake": "Thấy \"while\" trong câu là chia tiếp diễn cho mọi động từ."
+    },
+    "tags": ["interrupted-action", "irregular-verb"],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pac-006",
+    "topic": "past-continuous",
+    "level": "intermediate",
+    "type": "fill-form",
+    "question": "It ___ (rain) heavily when we left the cinema, so we took a taxi home.",
+    "options": ["had rain", "is raining", "was raining", "rains"],
+    "answer": 2,
+    "explanation": {
+      "correct": "Mưa là bối cảnh đang diễn ra lúc chúng tôi rời rạp chiếu phim: **was raining**.",
+      "wrong": {
+        "0": "\"had rain\" sai cấu trúc: quá khứ hoàn thành cần V3 (had rained).",
+        "1": "\"is raining\" là hiện tại, mâu thuẫn với \"left\" và \"took\".",
+        "3": "\"rains\" là hiện tại đơn, sai thì."
+      },
+      "rule": "Bối cảnh (thời tiết, khung cảnh) của câu chuyện trong quá khứ thường dùng quá khứ tiếp diễn.",
+      "examples": ["The sun was shining and the birds were singing.", "It was getting dark when we reached the village."],
+      "common_mistake": "Dùng quá khứ đơn cho bối cảnh, khiến câu chuyện mất cảm giác \"đang diễn ra\"."
+    },
+    "tags": ["background"],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pac-007",
+    "topic": "past-continuous",
+    "level": "intermediate",
+    "type": "fix-error",
+    "question": "Tìm phần sai: When I <u>was walking</u> (A) home, I <u>was seeing</u> (B) an accident, so I <u>stopped</u> (C) <u>to help</u> (D).",
+    "options": ["was walking", "was seeing", "stopped", "to help"],
+    "answer": 1,
+    "explanation": {
+      "correct": "\"see\" (nhìn thấy) là hành động ngắn và cũng là động từ tri giác, không dùng tiếp diễn ở đây: sửa thành **saw**.",
+      "wrong": {
+        "0": "\"was walking\" đúng: hành động nền đang diễn ra.",
+        "2": "\"stopped\" đúng: hành động nối tiếp ở quá khứ đơn.",
+        "3": "\"to help\" đúng: stop + to V = dừng lại để làm gì."
+      },
+      "rule": "Hành động nền: was/were + V-ing. Hành động ngắn xảy ra trong lúc đó: V2.",
+      "examples": ["When I was driving to work, I saw a strange light.", "While she was shopping, she found a lovely dress."],
+      "common_mistake": "Dùng tiếp diễn cho mọi động từ trong câu có \"when/while\"."
+    },
+    "tags": ["interrupted-action", "error-correction"],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pac-008",
+    "topic": "past-continuous",
+    "level": "advanced",
+    "type": "choose",
+    "question": "During the meeting, she ___ the answer to the problem, but she was too shy to say it.",
+    "options": ["was knowing", "has known", "is knowing", "knew"],
+    "answer": 3,
+    "explanation": {
+      "correct": "\"know\" là động từ trạng thái nên không chia tiếp diễn, kể cả khi \"during the meeting\" gợi ý khoảng thời gian: **knew**.",
+      "wrong": {
+        "0": "\"was knowing\" sai vì know là động từ trạng thái.",
+        "1": "\"has known\" là hiện tại hoàn thành, không hợp với \"was too shy\" ở quá khứ.",
+        "2": "\"is knowing\" sai cả thì lẫn quy tắc động từ trạng thái."
+      },
+      "rule": "Động từ trạng thái (know, believe, want, own, understand…) dùng quá khứ đơn thay cho quá khứ tiếp diễn.",
+      "examples": ["At that time, I didn't understand what he meant.", "When I was a child, I wanted to be a pilot."],
+      "common_mistake": "Thấy \"during\" hoặc \"while\" thì máy móc chọn dạng V-ing."
+    },
+    "tags": ["stative-verb"],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pac-009",
+    "topic": "past-continuous",
+    "level": "advanced",
+    "type": "choose",
+    "question": "I ___ call you last night, but I couldn't find your number.",
+    "options": ["was going", "was going to", "went to", "am going to"],
+    "answer": 1,
+    "explanation": {
+      "correct": "\"was/were going to + V\" diễn tả dự định trong quá khứ nhưng không thực hiện được: **was going to** call.",
+      "wrong": {
+        "0": "\"was going call\" thiếu \"to\" trước động từ nguyên mẫu.",
+        "2": "\"went to call\" không mang nghĩa dự định, và mâu thuẫn với vế \"but I couldn't…\".",
+        "3": "\"am going to\" là kế hoạch ở hiện tại, mâu thuẫn với \"last night\"."
+      },
+      "rule": "S + was/were going to + V (but …): định làm gì nhưng rốt cuộc không làm.",
+      "examples": ["We were going to have a picnic, but it rained.", "She was going to buy that dress, but it was too expensive."],
+      "common_mistake": "Bỏ \"to\" (\"was going call\") hoặc dùng \"am going to\" khi kể lại chuyện đã qua."
+    },
+    "tags": ["future-in-the-past"],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pac-010",
+    "topic": "past-continuous",
+    "level": "advanced",
+    "type": "arrange",
+    "question": "Sắp xếp thành câu đúng: the lights / reading / when / went out / I / was",
+    "options": [
+      "I was reading when the lights went out.",
+      "I was when reading the lights went out.",
+      "I reading was when the lights went out.",
+      "The lights went out when was I reading."
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Mệnh đề chính \"I was reading\" (đang đọc) + \"when the lights went out\" (đèn tắt xen vào): **I was reading when the lights went out.**",
+      "wrong": {
+        "1": "\"was when reading\" chen \"when\" vào giữa trợ động từ và V-ing, sai cấu trúc.",
+        "2": "\"I reading was\" sai trật tự: was phải đứng trước V-ing.",
+        "3": "\"when was I reading\" đảo trợ động từ lên trước chủ ngữ như câu hỏi; trong mệnh đề trạng ngữ phải giữ trật tự S + was + V-ing."
+      },
+      "rule": "S + was/were + V-ing + when + S + V2. Trong mệnh đề sau when không đảo ngữ.",
+      "examples": ["She was sleeping when the earthquake happened.", "We were having lunch when the guests arrived."],
+      "common_mistake": "Đảo trợ động từ trong mệnh đề when như trong câu hỏi (\"when was I reading\")."
+    },
+    "tags": ["word-order"],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  }
+]

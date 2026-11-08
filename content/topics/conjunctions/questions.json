@@ -1,0 +1,345 @@
+[
+  {
+    "id": "conj-001",
+    "topic": "conjunctions",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Applicants must have ___ a university degree and at least two years of relevant experience.",
+    "options": [
+      "both",
+      "either",
+      "neither",
+      "not only"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Có \"**and**\" phía sau → cặp liên từ **both … and** (cả … và): **both**.",
+      "wrong": {
+        "1": "\"either\" đi với \"or\", không đi với \"and\".",
+        "2": "\"neither\" đi với \"nor\", và mang nghĩa phủ định, trái nghĩa yêu cầu.",
+        "3": "\"not only\" đi với \"but (also)\", không đi với \"and\"."
+      },
+      "rule": "both A and B; either A or B; neither A nor B; not only A but (also) B.",
+      "examples": [
+        "The job requires both creativity and patience.",
+        "The hotel offers both breakfast and dinner."
+      ],
+      "common_mistake": "Ghép sai cặp: \"either … and\", \"both … or\"."
+    },
+    "tags": [
+      "both-and",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "conj-002",
+    "topic": "conjunctions",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Customers can pay ___ by credit card or by bank transfer.",
+    "options": [
+      "both",
+      "neither",
+      "so",
+      "either"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Có \"**or**\" phía sau và nghĩa là chọn một trong hai cách → **either … or**: **either**.",
+      "wrong": {
+        "0": "\"both\" đi với \"and\", không đi với \"or\".",
+        "1": "\"neither\" đi với \"nor\" và mang nghĩa phủ định (không cách nào), sai nghĩa.",
+        "2": "\"so\" là liên từ chỉ kết quả, không tạo cặp với \"or\"."
+      },
+      "rule": "either A or B: hoặc A hoặc B (chọn một trong hai).",
+      "examples": [
+        "You can either call us or send an email.",
+        "The meeting will be held either on Monday or on Tuesday."
+      ],
+      "common_mistake": "Dùng \"both … or\" khi muốn nói \"cả hai cách đều được\"."
+    },
+    "tags": [
+      "either-or",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "conj-003",
+    "topic": "conjunctions",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The new printer is ___ fast but also very quiet.",
+    "options": [
+      "both",
+      "not only",
+      "either",
+      "neither"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Có \"**but also**\" phía sau → **not only … but also**: **not only**.",
+      "wrong": {
+        "0": "\"both\" đi với \"and\".",
+        "2": "\"either\" đi với \"or\".",
+        "3": "\"neither\" đi với \"nor\"."
+      },
+      "rule": "not only A but (also) B: không những A mà còn B. A và B cùng từ loại (ở đây là hai tính từ).",
+      "examples": [
+        "She is not only talented but also hard-working.",
+        "The plan is not only cheap but also effective."
+      ],
+      "common_mistake": "Bỏ \"not\" thành \"only fast but also quiet\"."
+    },
+    "tags": [
+      "not-only-but-also",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "conj-004",
+    "topic": "conjunctions",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The project was completed on time, ___ it went slightly over budget.",
+    "options": [
+      "so",
+      "or",
+      "nor",
+      "but"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Hai vế **tương phản** (đúng hạn ↔ vượt ngân sách) → **but**.",
+      "wrong": {
+        "0": "\"so\" chỉ kết quả: \"đúng hạn nên vượt ngân sách\" vô lý.",
+        "1": "\"or\" chỉ lựa chọn, sai nghĩa.",
+        "2": "\"nor\" dùng sau một mệnh đề phủ định và kéo theo đảo ngữ, không hợp ở đây."
+      },
+      "rule": "Liên từ đẳng lập: and (thêm), but / yet (tương phản), so (kết quả), or (lựa chọn), for (lý do), nor (phủ định thêm).",
+      "examples": [
+        "The room is small but comfortable.",
+        "It started raining, so the event was moved indoors."
+      ],
+      "common_mistake": "Dùng \"so\" và \"but\" lẫn lộn khi không xác định quan hệ ý nghĩa giữa hai vế."
+    },
+    "tags": [
+      "coordinating",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "conj-005",
+    "topic": "conjunctions",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Neither the sales report ___ the budget proposal has been approved yet.",
+    "options": [
+      "or",
+      "nor",
+      "and",
+      "but"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Đầu câu có \"**Neither**\" → cặp **neither … nor**: **nor**.",
+      "wrong": {
+        "0": "\"or\" đi với \"either\", không đi với \"neither\".",
+        "2": "\"and\" đi với \"both\", và sẽ cần động từ số nhiều.",
+        "3": "\"but\" không tạo cặp với \"neither\"."
+      },
+      "rule": "neither A nor B: không A cũng không B. Câu đã mang nghĩa phủ định nên động từ dùng dạng khẳng định.",
+      "examples": [
+        "Neither the manager nor her assistant was available.",
+        "He speaks neither French nor German."
+      ],
+      "common_mistake": "Viết \"neither … or\" theo thói quen dùng \"or\"."
+    },
+    "tags": [
+      "neither-nor",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "conj-006",
+    "topic": "conjunctions",
+    "level": "intermediate",
+    "type": "rewrite",
+    "question": "Chọn câu đồng nghĩa với: *Mr. Tuan doesn't speak Japanese. Ms. Mai doesn't speak Japanese either.*",
+    "options": [
+      "Neither Mr. Tuan nor Ms. Mai doesn't speak Japanese.",
+      "Either Mr. Tuan or Ms. Mai speaks Japanese.",
+      "Neither Mr. Tuan nor Ms. Mai speaks Japanese.",
+      "Both Mr. Tuan and Ms. Mai speak Japanese."
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Cả hai người đều **không** nói tiếng Nhật → **Neither … nor**, động từ khẳng định, chia theo chủ ngữ gần nhất (Ms. Mai): *speaks*.",
+      "wrong": {
+        "0": "Phủ định hai lần (\"Neither … doesn't\"): sai ngữ pháp vì \"neither … nor\" đã mang nghĩa phủ định.",
+        "1": "\"Either … or\" nghĩa là một trong hai người nói được, sai nghĩa.",
+        "3": "\"Both … and\" nghĩa là cả hai đều nói được, trái nghĩa."
+      },
+      "rule": "neither A nor B + động từ khẳng định, chia theo B.",
+      "examples": [
+        "Neither the printer nor the scanner works.",
+        "Neither my brother nor I like coffee."
+      ],
+      "common_mistake": "Thêm \"not / don't\" sau \"neither … nor\" vì tiếng Việt nói \"không … cũng không … không nói\"."
+    },
+    "tags": [
+      "neither-nor",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "conj-007",
+    "topic": "conjunctions",
+    "level": "advanced",
+    "type": "choose",
+    "question": "Not only ___ the deadline, but the team also reduced costs by 15 percent.",
+    "options": [
+      "did the team meet",
+      "the team met",
+      "the team did meet",
+      "met the team"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "**Not only** đứng đầu câu → **đảo ngữ** với trợ động từ: Not only + did + S + V: **did the team meet**.",
+      "wrong": {
+        "1": "\"the team met\" không đảo ngữ, sai khi \"Not only\" đứng đầu mệnh đề.",
+        "2": "\"the team did meet\" đặt trợ động từ sau chủ ngữ, không phải đảo ngữ.",
+        "3": "\"met the team\" đảo cả động từ chính lên trước chủ ngữ, sai cấu trúc và đổi nghĩa."
+      },
+      "rule": "Not only + trợ động từ + S + V, but S + also + V.",
+      "examples": [
+        "Not only does she speak English, but she also speaks Chinese.",
+        "Not only was the hotel cheap, but it was also clean."
+      ],
+      "common_mistake": "Giữ trật tự câu thường sau \"Not only\" đứng đầu câu."
+    },
+    "tags": [
+      "not-only-but-also",
+      "inversion",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "conj-008",
+    "topic": "conjunctions",
+    "level": "advanced",
+    "type": "choose",
+    "question": "Either the regional managers or the director ___ going to present the results at the meeting.",
+    "options": [
+      "are",
+      "were",
+      "have",
+      "is"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Với **either … or**, động từ chia theo chủ ngữ **gần nhất** là \"the director\" (số ít): **is going to**.",
+      "wrong": {
+        "0": "\"are\" chia theo \"the regional managers\", nhưng phải chia theo chủ ngữ gần động từ hơn.",
+        "1": "\"were\" là số nhiều và ở quá khứ, không hợp với kế hoạch sắp tới.",
+        "2": "\"have going to\" sai cấu trúc."
+      },
+      "rule": "Either A or B / Neither A nor B + động từ chia theo B.",
+      "examples": [
+        "Either the tables or the sofa needs to be moved.",
+        "Either the director or the managers are going to attend."
+      ],
+      "common_mistake": "Chia động từ số nhiều vì câu nhắc tới nhiều người."
+    },
+    "tags": [
+      "either-or",
+      "agreement",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "conj-009",
+    "topic": "conjunctions",
+    "level": "advanced",
+    "type": "fix-error",
+    "question": "Tìm phần sai: The training course is <u>both</u> (A) informative <u>and</u> (B) <u>enjoy</u> (C), <u>so</u> (D) many employees have signed up for it.",
+    "options": [
+      "both",
+      "and",
+      "enjoy",
+      "so"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Phần sai là (C). Cặp liên từ yêu cầu **cấu trúc song song**: \"informative\" là tính từ nên vế sau cũng phải là tính từ: **enjoyable**.",
+      "wrong": {
+        "0": "(A) đúng: \"both\" đi với \"and\".",
+        "1": "(B) đúng: \"and\" hoàn thành cặp \"both … and\".",
+        "3": "(D) đúng: \"so\" chỉ kết quả: khóa học hay nên nhiều người đăng ký."
+      },
+      "rule": "Cấu trúc song song: hai vế nối bằng cặp liên từ phải cùng từ loại / cùng dạng (adj + adj, V-ing + V-ing, to V + to V).",
+      "examples": [
+        "The new system is both fast and reliable.",
+        "She enjoys not only reading but also writing."
+      ],
+      "common_mistake": "Dùng động từ thay tính từ ở vế thứ hai vì chỉ chú ý tới nghĩa."
+    },
+    "tags": [
+      "parallel-structure",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "conj-010",
+    "topic": "conjunctions",
+    "level": "advanced",
+    "type": "choose",
+    "question": "The meeting was postponed, ___ several key members were unable to attend.",
+    "options": [
+      "so",
+      "or",
+      "for",
+      "nor"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Vế sau nêu **lý do** cho vế trước → liên từ đẳng lập **for** (= because, văn phong trang trọng).",
+      "wrong": {
+        "0": "\"so\" chỉ kết quả: \"hoãn họp nên nhiều người không đến được\" đảo ngược quan hệ nguyên nhân – kết quả.",
+        "1": "\"or\" chỉ lựa chọn, sai nghĩa.",
+        "3": "\"nor\" cần mệnh đề trước phủ định và kéo theo đảo ngữ."
+      },
+      "rule": "for (liên từ) = vì; đứng giữa câu, sau dấu phẩy, không đứng đầu câu. Văn phong trang trọng.",
+      "examples": [
+        "She left early, for she had a train to catch.",
+        "We must act quickly, for time is running out."
+      ],
+      "common_mistake": "Chỉ biết \"for\" là giới từ nên bỏ qua đáp án này."
+    },
+    "tags": [
+      "coordinating",
+      "for",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  }
+]

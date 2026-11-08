@@ -1,0 +1,237 @@
+[
+  {
+    "id": "fs-001",
+    "topic": "future-simple",
+    "level": "basic",
+    "type": "choose",
+    "question": "I think it ___ tomorrow, so take an umbrella.",
+    "options": ["rains", "will rain", "raining", "is rain"],
+    "answer": 1,
+    "explanation": {
+      "correct": "Dự đoán dựa trên ý kiến (\"I think\") về tương lai (\"tomorrow\") dùng **will + V**: **will rain**.",
+      "wrong": {
+        "0": "\"rains\" là hiện tại đơn, không dùng cho dự đoán về ngày mai.",
+        "2": "\"raining\" thiếu trợ động từ nên không làm động từ chính được.",
+        "3": "\"is rain\" ghép to be với động từ nguyên mẫu, sai cấu trúc."
+      },
+      "rule": "Dự đoán theo ý kiến: I think / I'm sure / probably + S + will + V.",
+      "examples": ["I'm sure you will pass the exam.", "I don't think she will come tonight."],
+      "common_mistake": "Dùng hiện tại đơn cho tương lai vì tiếng Việt không chia thì (\"Mai trời mưa\")."
+    },
+    "tags": ["prediction"],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "fs-002",
+    "topic": "future-simple",
+    "level": "basic",
+    "type": "choose",
+    "question": "Don't worry. I ___ tell anyone your secret.",
+    "options": ["won't", "don't", "not will", "willn't"],
+    "answer": 0,
+    "explanation": {
+      "correct": "Lời hứa về tương lai dùng will; dạng phủ định là will not, viết tắt **won't**.",
+      "wrong": {
+        "1": "\"don't\" là phủ định hiện tại đơn, không diễn tả lời hứa trong tương lai.",
+        "2": "\"not will\" sai vị trí: not đứng sau will (will not).",
+        "3": "\"willn't\" không tồn tại; dạng viết tắt đúng là won't."
+      },
+      "rule": "Phủ định: S + will not (won't) + V. Dùng cho lời hứa, từ chối, dự đoán phủ định.",
+      "examples": ["I won't be late again, I promise.", "She won't forget your birthday."],
+      "common_mistake": "Viết \"willn't\" theo kiểu \"don't, isn't\"."
+    },
+    "tags": ["promise", "negative"],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "fs-003",
+    "topic": "future-simple",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "— Oh no, the phone is ringing and my hands are wet! — Don't worry, I ___ it.",
+    "options": ["answer", "am going to answer", "will answer", "answered"],
+    "answer": 2,
+    "explanation": {
+      "correct": "Quyết định được đưa ra ngay tại lúc nói, không có kế hoạch từ trước, nên dùng **will answer** (I'll answer it).",
+      "wrong": {
+        "0": "\"answer\" là hiện tại đơn, không diễn tả quyết định tức thời.",
+        "1": "\"am going to\" dùng cho kế hoạch đã định từ trước, không phải quyết định bộc phát lúc nói.",
+        "3": "\"answered\" là quá khứ, sai thì."
+      },
+      "rule": "Quyết định tức thời: will + V. Kế hoạch có trước: be going to + V.",
+      "examples": ["— We've run out of milk. — I'll buy some.", "— It's cold in here. — I'll close the window."],
+      "common_mistake": "Dùng \"be going to\" cho mọi ý tương lai, không phân biệt quyết định tức thời và kế hoạch."
+    },
+    "tags": ["instant-decision", "will-vs-going-to"],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "fs-004",
+    "topic": "future-simple",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "That bag looks really heavy. ___ I carry it for you?",
+    "options": ["Will", "Shall", "Do", "Am"],
+    "answer": 1,
+    "explanation": {
+      "correct": "Đề nghị giúp đỡ với chủ ngữ I/we dùng **Shall I…?**",
+      "wrong": {
+        "0": "\"Will I carry…?\" là hỏi một dự đoán (Liệu tôi sẽ mang nó không?), không phải lời đề nghị.",
+        "2": "\"Do I carry…?\" hỏi về thói quen ở hiện tại, sai nghĩa.",
+        "3": "\"Am I carry\" sai cấu trúc: sau am phải là V-ing hoặc tính từ."
+      },
+      "rule": "Shall I / Shall we + V? dùng để đề nghị hoặc gợi ý. Will you + V? dùng để nhờ ai làm gì.",
+      "examples": ["Shall I open the window?", "Shall we go for a walk?"],
+      "common_mistake": "Dùng \"Will I…?\" để đề nghị giúp, do dịch \"Để tôi…\" thành will."
+    },
+    "tags": ["offer", "shall"],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "fs-005",
+    "topic": "future-simple",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "I'm so sorry. I promise I ___ late for our meeting again.",
+    "options": ["won't be", "am not", "don't be", "not be"],
+    "answer": 0,
+    "explanation": {
+      "correct": "Lời hứa về tương lai dùng will; phủ định: **won't be**.",
+      "wrong": {
+        "1": "\"am not\" là hiện tại, chỉ nói về lúc này, không phải lời hứa cho các lần sau.",
+        "2": "\"don't be\" là câu mệnh lệnh phủ định, không đi sau chủ ngữ \"I\".",
+        "3": "\"not be\" thiếu trợ động từ will."
+      },
+      "rule": "Lời hứa: I promise (that) + S + will / won't + V.",
+      "examples": ["I promise I'll call you every day.", "He promised he wouldn't be late."],
+      "common_mistake": "Dùng hiện tại đơn sau \"I promise\" (\"I promise I am not late\")."
+    },
+    "tags": ["promise"],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "fs-006",
+    "topic": "future-simple",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Look at those dark clouds over the mountains! It ___.",
+    "options": ["will rain", "rains", "rained", "is going to rain"],
+    "answer": 3,
+    "explanation": {
+      "correct": "Dự đoán dựa trên bằng chứng nhìn thấy được ngay lúc này (mây đen) dùng **be going to**: **is going to rain**.",
+      "wrong": {
+        "0": "\"will rain\" dùng cho dự đoán theo ý kiến; khi có bằng chứng rõ ràng ở hiện tại, dùng be going to.",
+        "1": "\"rains\" là hiện tại đơn, chỉ thói quen hoặc sự thật.",
+        "2": "\"rained\" là quá khứ, trong khi trời chưa mưa."
+      },
+      "rule": "Có bằng chứng hiện tại → be going to. Chỉ là ý kiến, phỏng đoán → will.",
+      "examples": ["Be careful! You're going to fall.", "I think Viet Nam will win the match."],
+      "common_mistake": "Dùng will cho mọi dự đoán, không xét đến bằng chứng trong câu."
+    },
+    "tags": ["evidence", "will-vs-going-to"],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "fs-007",
+    "topic": "future-simple",
+    "level": "intermediate",
+    "type": "fix-error",
+    "question": "Tìm phần sai: If you need any help, just call me and I <u>will</u> (A) <u>to come</u> (B) <u>over</u> (C) <u>right away</u> (D).",
+    "options": ["will", "to come", "over", "right away"],
+    "answer": 1,
+    "explanation": {
+      "correct": "Sau will là động từ nguyên mẫu **không có to**: sửa \"to come\" thành **come**.",
+      "wrong": {
+        "0": "\"will\" đúng: lời đề nghị giúp đỡ trong tương lai.",
+        "2": "\"over\" đúng: come over = ghé qua nhà ai.",
+        "3": "\"right away\" đúng: ngay lập tức."
+      },
+      "rule": "will / shall / can / must… + V (nguyên mẫu không to).",
+      "examples": ["I will come back tomorrow.", "She will help you with your homework."],
+      "common_mistake": "Thêm \"to\" sau will vì nhầm với \"want to\", \"have to\"."
+    },
+    "tags": ["bare-infinitive", "error-correction"],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "fs-008",
+    "topic": "future-simple",
+    "level": "advanced",
+    "type": "choose",
+    "question": "My old car ___ start this morning. Can you give me a lift to work?",
+    "options": ["won't", "isn't going", "not will", "don't"],
+    "answer": 0,
+    "explanation": {
+      "correct": "\"won't\" còn diễn tả sự từ chối, kể cả với đồ vật không chịu hoạt động: My car **won't** start = xe không chịu nổ máy.",
+      "wrong": {
+        "1": "\"isn't going start\" thiếu \"to\" và không mang nghĩa \"không chịu\".",
+        "2": "\"not will\" sai trật tự: phải là will not / won't.",
+        "3": "\"don't\" không hợp với chủ ngữ số ít \"My old car\" (phải là doesn't)."
+      },
+      "rule": "won't + V: từ chối làm gì (người hoặc vật). Ví dụ: The door won't open. He won't listen to me.",
+      "examples": ["The door won't open. I think it's locked.", "My son won't eat vegetables."],
+      "common_mistake": "Nghĩ won't chỉ dùng cho tương lai, nên không hiểu câu \"The car won't start\" nói về hiện tại."
+    },
+    "tags": ["refusal"],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "fs-009",
+    "topic": "future-simple",
+    "level": "advanced",
+    "type": "choose",
+    "question": "— I've got a terrible headache. — Sit down for a moment. I ___ you some aspirin.",
+    "options": ["am getting", "get", "will get", "am going to get"],
+    "answer": 2,
+    "explanation": {
+      "correct": "Lời đề nghị giúp đỡ được quyết định ngay khi nghe bạn kêu đau đầu: **will get** (I'll get you some aspirin).",
+      "wrong": {
+        "0": "\"am getting\" dùng cho kế hoạch đã sắp xếp từ trước, không hợp với phản ứng tức thời.",
+        "1": "\"get\" là hiện tại đơn, không diễn tả lời đề nghị cho tương lai.",
+        "3": "\"am going to get\" ngụ ý đã có ý định từ trước khi nghe bạn kêu, không hợp ngữ cảnh."
+      },
+      "rule": "Đề nghị giúp đỡ, phản ứng tức thời trước một tình huống: I'll + V.",
+      "examples": ["— I'm hungry. — I'll make you a sandwich.", "— This box is heavy. — I'll help you."],
+      "common_mistake": "Chọn hiện tại tiếp diễn hoặc be going to vì cảm thấy hành động sắp xảy ra ngay."
+    },
+    "tags": ["offer", "instant-decision"],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "fs-010",
+    "topic": "future-simple",
+    "level": "advanced",
+    "type": "rewrite",
+    "question": "Chọn câu đồng nghĩa với: *I'm sure she won't forget your birthday.*",
+    "options": [
+      "She might forget your birthday.",
+      "She isn't forgetting your birthday.",
+      "She doesn't forget your birthday.",
+      "She definitely won't forget your birthday."
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "\"I'm sure … won't\" = chắc chắn sẽ không, tương đương **definitely won't**.",
+      "wrong": {
+        "0": "\"might forget\" nghĩa là có thể sẽ quên, ngược với sự chắc chắn của câu gốc.",
+        "1": "\"isn't forgetting\" là hiện tại tiếp diễn, không dùng cho dự đoán; \"forget\" cũng hiếm khi chia tiếp diễn.",
+        "2": "\"doesn't forget\" là hiện tại đơn, nói về thói quen chứ không phải dự đoán cho lần sinh nhật sắp tới."
+      },
+      "rule": "Mức độ chắc chắn: definitely / certainly will (won't) > probably will (won't) > might / may. definitely đứng sau will nhưng trước won't.",
+      "examples": ["He'll probably be late.", "They definitely won't agree with this plan."],
+      "common_mistake": "Đặt sai vị trí trạng từ: \"She won't definitely\" thay vì \"She definitely won't\"."
+    },
+    "tags": ["certainty", "rewrite"],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  }
+]

@@ -1,0 +1,345 @@
+[
+  {
+    "id": "mc-001",
+    "topic": "mixed-conditionals",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "If our team had booked the conference venue last month, we ___ for a new one now.",
+    "options": [
+      "wouldn't be looking",
+      "wouldn't have looked",
+      "won't look",
+      "hadn't looked"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Điều kiện trái thực tế trong quá khứ (\"had booked … last month\") nhưng kết quả ở **hiện tại** (\"now\") → câu điều kiện hỗn hợp 3 → 2: **wouldn't be looking**.",
+      "wrong": {
+        "1": "\"wouldn't have looked\" là kết quả trong quá khứ (loại 3), mâu thuẫn với \"now\".",
+        "2": "\"won't look\" là loại 1, không đi với mệnh đề If ở quá khứ hoàn thành.",
+        "3": "\"hadn't looked\" chỉ dùng trong mệnh đề If, không làm mệnh đề kết quả."
+      },
+      "rule": "Hỗn hợp 3 → 2: If + S + had + V3 (quá khứ), S + would / could + V hoặc would be + V-ing (hiện tại, thường có now).",
+      "examples": [
+        "If Lan had studied accounting, she would be working at a bank now.",
+        "If we had launched the app earlier, we would have more users today."
+      ],
+      "common_mistake": "Thấy \"had + V3\" là tự động chọn \"would have + V3\" mà không để ý \"now\" ở cuối câu."
+    },
+    "tags": [
+      "mixed-3-2",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "mc-002",
+    "topic": "mixed-conditionals",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "___ you have any questions about this invoice, please contact our billing department at extension 204.",
+    "options": [
+      "Had",
+      "Were",
+      "Would",
+      "Should"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Đảo ngữ câu điều kiện loại 1, rất hay gặp trong email: **Should** + S + V nguyên mẫu = If + S + V. \"Should you have any questions\" = If you have any questions.",
+      "wrong": {
+        "0": "\"Had\" dùng cho đảo ngữ loại 3 và phải đi với V3 (\"Had you had…\"), không đi với \"have\" nguyên mẫu và mệnh đề \"please contact\".",
+        "1": "\"Were\" dùng cho đảo ngữ loại 2, theo sau là \"to V\" hoặc tính từ / danh từ (\"Were you to have…\"), không phải V nguyên mẫu.",
+        "2": "\"Would\" không dùng để đảo ngữ điều kiện; \"Would you have…\" là câu hỏi, không nối được với \"please contact\"."
+      },
+      "rule": "Should + S + V nguyên mẫu, (please) V / S + will + V = If + S + V (khả năng có thể xảy ra, văn phong trang trọng).",
+      "examples": [
+        "Should the meeting be cancelled, we will notify you by email.",
+        "Should you require further information, please visit our website."
+      ],
+      "common_mistake": "Hiểu \"should\" là \"nên\" nên không nhận ra đây là cấu trúc điều kiện; hoặc chia động từ sau nó (\"Should you has…\")."
+    },
+    "tags": [
+      "inversion-should",
+      "toeic-part5",
+      "toeic-part6"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "mc-003",
+    "topic": "mixed-conditionals",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "___ the government subsidy, the small textile factory in Nam Dinh would have closed years ago.",
+    "options": [
+      "Unless",
+      "But for",
+      "Instead of",
+      "Despite"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Sau chỗ trống là **cụm danh từ** (\"the government subsidy\") và mệnh đề chính là giả định \"would have closed\" → **But for** = If it had not been for (nếu không có).",
+      "wrong": {
+        "0": "\"Unless\" là liên từ, phải theo sau bởi mệnh đề (S + V), không theo sau bởi cụm danh từ.",
+        "2": "\"Instead of\" nghĩa là \"thay vì\", không mang nghĩa điều kiện \"nếu không có\".",
+        "3": "\"Despite\" nghĩa là \"mặc dù\", tạo nghĩa vô lý: mặc dù có trợ cấp thì nhà máy đã đóng cửa."
+      },
+      "rule": "But for / Without + N, S + would (have) + V(3) = If it were not for / If it had not been for + N.",
+      "examples": [
+        "But for your advice, I would have made a serious mistake.",
+        "Without the new software, we would need two more accountants."
+      ],
+      "common_mistake": "Dùng \"unless\" trước danh từ hoặc nhầm \"but for\" với \"but\" (nhưng)."
+    },
+    "tags": [
+      "but-for",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "mc-004",
+    "topic": "mixed-conditionals",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Ms. Linh still doesn't speak Japanese. If she ___ fluent in Japanese, the company would have sent her to the Osaka office last year.",
+    "options": [
+      "is",
+      "would be",
+      "has been",
+      "were"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Điều kiện là tình trạng **hiện tại, lâu dài** (\"still doesn't speak\") còn kết quả là việc đã không xảy ra trong quá khứ (\"would have sent… last year\") → hỗn hợp 2 → 3: If + **were**.",
+      "wrong": {
+        "0": "\"is\" là loại 1 (có thật), không đi với kết quả giả định \"would have sent\".",
+        "1": "\"would be\" không dùng trong mệnh đề If.",
+        "2": "\"has been\" là hiện tại hoàn thành, không phải thì giả định của câu điều kiện."
+      },
+      "rule": "Hỗn hợp 2 → 3: If + S + V2 / were (hiện tại, lâu dài), S + would / could + have + V3 (quá khứ).",
+      "examples": [
+        "If I were more confident, I would have spoken up at yesterday's meeting.",
+        "If he didn't live so far away, he would have come to the party."
+      ],
+      "common_mistake": "Nghĩ câu điều kiện luôn phải \"cùng loại\" ở hai vế nên không chấp nhận \"were\" đi với \"would have V3\"."
+    },
+    "tags": [
+      "mixed-2-3",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "mc-005",
+    "topic": "mixed-conditionals",
+    "level": "intermediate",
+    "type": "fill-form",
+    "question": "If the director ___ (not / approve) the budget last week, we wouldn't be able to hire two new engineers now.",
+    "options": [
+      "didn't approve",
+      "hadn't approved",
+      "wouldn't approve",
+      "hasn't approved"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Việc phê duyệt ở quá khứ (\"last week\"), kết quả ở hiện tại (\"now\") → hỗn hợp 3 → 2: mệnh đề If dùng quá khứ hoàn thành **hadn't approved**.",
+      "wrong": {
+        "0": "\"didn't approve\" là loại 2, chỉ giả định về hiện tại, mâu thuẫn với \"last week\".",
+        "2": "\"wouldn't approve\" không dùng would trong mệnh đề If.",
+        "3": "\"hasn't approved\" là hiện tại hoàn thành, không phải thì giả định và không đi với \"last week\"."
+      },
+      "rule": "Hỗn hợp 3 → 2: If + S + had (not) + V3, S + would / could (not) + V (now).",
+      "examples": [
+        "If the client hadn't paid in advance, we wouldn't have enough cash now.",
+        "If I hadn't missed the bus, I would be at the office by now."
+      ],
+      "common_mistake": "Thấy \"wouldn't be able… now\" nên dùng quá khứ đơn cho cả mệnh đề If, bỏ qua \"last week\"."
+    },
+    "tags": [
+      "mixed-3-2",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "mc-006",
+    "topic": "mixed-conditionals",
+    "level": "intermediate",
+    "type": "fix-error",
+    "question": "Tìm phần sai: Had I <u>known</u> (A) about the road closure <u>this morning</u> (B), I <u>would leave</u> (C) home <u>much</u> (D) earlier.",
+    "options": [
+      "known",
+      "this morning",
+      "would leave",
+      "much"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Phần sai là (C). \"Had I known\" là đảo ngữ loại 3 và việc rời nhà đã xảy ra sáng nay (quá khứ) → kết quả phải là **would have left**.",
+      "wrong": {
+        "0": "(A) đúng: đảo ngữ loại 3 là Had + S + V3, \"known\" là V3 của \"know\".",
+        "1": "(B) đúng: \"this morning\" là thời điểm trong quá khứ, phù hợp với điều kiện loại 3.",
+        "3": "(D) đúng: \"much\" bổ nghĩa cho so sánh hơn \"earlier\"."
+      },
+      "rule": "Had + S + V3, S + would / could + have + V3 (= If + S + had + V3, …).",
+      "examples": [
+        "Had we checked the weather, we would have postponed the trip.",
+        "Had she not called, I would have forgotten the appointment."
+      ],
+      "common_mistake": "Nhận ra đảo ngữ \"Had I known\" nhưng ghép với kết quả loại 2 \"would + V\"."
+    },
+    "tags": [
+      "inversion-had",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "mc-007",
+    "topic": "mixed-conditionals",
+    "level": "advanced",
+    "type": "choose",
+    "question": "Were the shipment ___ late again, we would have no choice but to look for another supplier.",
+    "options": [
+      "arrive",
+      "arrived",
+      "to arrive",
+      "arriving"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Đảo ngữ loại 2 với động từ thường: **Were + S + to V** (= If the shipment arrived / were to arrive). Đáp án: **to arrive**.",
+      "wrong": {
+        "0": "\"arrive\" thiếu \"to\"; sau \"Were + S\" không dùng V nguyên mẫu trần.",
+        "1": "\"arrived\" sai: không dùng \"were\" và V2 cùng lúc; muốn dùng V2 phải viết \"If the shipment arrived\".",
+        "3": "\"arriving\" tạo thành \"were … arriving\" (quá khứ tiếp diễn), không phải cấu trúc đảo ngữ điều kiện."
+      },
+      "rule": "Were + S + to V, S + would + V (= If + S + V2 / were to V). Với be: Were + S + adj / N.",
+      "examples": [
+        "Were the price to rise again, many customers would cancel their orders.",
+        "Were I in your position, I would ask for a raise."
+      ],
+      "common_mistake": "Chỉ nhớ \"Were I you\" nên nghĩ sau \"Were + S\" luôn là danh từ / tính từ, hoặc giữ nguyên V2 như câu If."
+    },
+    "tags": [
+      "inversion-were",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "mc-008",
+    "topic": "mixed-conditionals",
+    "level": "advanced",
+    "type": "rewrite",
+    "question": "Chọn câu đồng nghĩa với: *We don't have enough staff, so we couldn't accept the large order from Hai Phong last week.*",
+    "options": [
+      "If we had enough staff, we could have accepted the large order from Hai Phong last week.",
+      "If we had had enough staff, we could accept the large order from Hai Phong last week.",
+      "If we have enough staff, we could have accepted the large order from Hai Phong last week.",
+      "If we had enough staff, we could accept the large order from Hai Phong last week."
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Thiếu nhân sự là tình trạng **hiện tại** (\"don't have\"), còn việc không nhận đơn đã xảy ra **tuần trước** → hỗn hợp 2 → 3: If + V2, could have + V3.",
+      "wrong": {
+        "1": "Mệnh đề kết quả \"could accept\" nói về hiện tại, mâu thuẫn với \"last week\".",
+        "2": "\"If we have\" là điều kiện có thật (loại 1), không đi với kết quả giả định \"could have accepted\".",
+        "3": "\"could accept … last week\" sai: kết quả trong quá khứ phải là \"could have + V3\"."
+      },
+      "rule": "Tình trạng hiện tại (don't / doesn't) + kết quả quá khứ (didn't / couldn't) → If + V2 (khẳng định), would / could + have + V3.",
+      "examples": [
+        "He isn't careful, so he made many mistakes yesterday. → If he were careful, he wouldn't have made so many mistakes yesterday.",
+        "I don't speak French, so I didn't understand the presentation. → If I spoke French, I would have understood the presentation."
+      ],
+      "common_mistake": "Chọn loại 3 hoặc loại 2 thuần túy mà không xét mỗi vế nói về thời điểm nào."
+    },
+    "tags": [
+      "mixed-2-3",
+      "rewrite",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "mc-009",
+    "topic": "mixed-conditionals",
+    "level": "advanced",
+    "type": "choose",
+    "question": "___ not been for the late delivery of raw materials, we would have met our sales target for the third quarter.",
+    "options": [
+      "Hadn't it",
+      "Were it",
+      "Should it",
+      "Had it"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Đảo ngữ của \"If it had not been for\" là **Had it not been for** (nếu không vì…), điều kiện trái với quá khứ, kết quả \"would have met\".",
+      "wrong": {
+        "0": "\"Hadn't it not been\" lặp phủ định; hơn nữa đảo ngữ điều kiện không dùng dạng rút gọn \"Hadn't\".",
+        "1": "\"Were it not for\" dùng cho hiện tại (loại 2) và không đi với \"been\".",
+        "2": "\"Should it\" dùng cho loại 1 và phải theo sau bởi V nguyên mẫu, không phải \"not been\"."
+      },
+      "rule": "Had it not been for + N, S + would have + V3 = If it had not been for / But for / Without + N.",
+      "examples": [
+        "Had it not been for the rain, the outdoor event would have been a success.",
+        "Were it not for her experience, we would need an external consultant."
+      ],
+      "common_mistake": "Rút gọn thành \"Hadn't it been for…\" vì quen với cách hỏi \"Hadn't you…?\"."
+    },
+    "tags": [
+      "inversion-had",
+      "but-for",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "mc-010",
+    "topic": "mixed-conditionals",
+    "level": "advanced",
+    "type": "fill-form",
+    "question": "Should any item ___ (be) damaged upon arrival, please notify our customer service team within 48 hours.",
+    "options": [
+      "is",
+      "been",
+      "be",
+      "were"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Sau đảo ngữ **Should + S** luôn là **V nguyên mẫu**, bất kể chủ ngữ số ít: Should any item **be** damaged = If any item is damaged.",
+      "wrong": {
+        "0": "\"is\" là động từ đã chia; sau \"should\" không chia động từ.",
+        "1": "\"been\" là V3, cần có \"have\" hoặc \"had\" phía trước.",
+        "3": "\"were\" dùng cho đảo ngữ loại 2 ở đầu câu (Were any item…), không đứng sau \"should\"."
+      },
+      "rule": "Should + S + V nguyên mẫu (be + V3 với bị động), please + V / S + will + V.",
+      "examples": [
+        "Should the flight be delayed, the hotel will hold your room.",
+        "Should you wish to cancel, please call us 24 hours in advance."
+      ],
+      "common_mistake": "Chia động từ theo chủ ngữ số ít (\"Should any item is…\") vì quên \"should\" là trợ động từ khuyết thiếu."
+    },
+    "tags": [
+      "inversion-should",
+      "toeic-part6"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  }
+]

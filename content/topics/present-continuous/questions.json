@@ -1,0 +1,232 @@
+[
+  {
+    "id": "pc-001",
+    "topic": "present-continuous",
+    "level": "basic",
+    "type": "choose",
+    "question": "Be quiet! The baby ___.",
+    "options": ["sleeps", "is sleeping", "sleep", "sleeping"],
+    "answer": 1,
+    "explanation": {
+      "correct": "\"Be quiet!\" cho biết hành động đang diễn ra ngay lúc nói, nên dùng hiện tại tiếp diễn: **is sleeping**.",
+      "wrong": {
+        "0": "\"sleeps\" là hiện tại đơn, diễn tả thói quen, không phải việc đang xảy ra lúc nói.",
+        "2": "\"sleep\" vừa sai thì vừa thiếu -s với chủ ngữ số ít \"The baby\".",
+        "3": "\"sleeping\" thiếu to be \"is\"; V-ing không đứng một mình làm động từ chính."
+      },
+      "rule": "Hành động đang xảy ra lúc nói: S + am/is/are + V-ing. Dấu hiệu: Look!, Listen!, Be quiet!, now.",
+      "examples": ["Listen! Someone is knocking at the door.", "Look! It is snowing outside."],
+      "common_mistake": "Người Việt hay bỏ to be vì tiếng Việt chỉ nói \"em bé đang ngủ\": viết \"The baby sleeping\"."
+    },
+    "tags": ["now", "be-ing"],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pc-002",
+    "topic": "present-continuous",
+    "level": "basic",
+    "type": "choose",
+    "question": "My brothers ___ football in the yard at the moment.",
+    "options": ["are playing", "play", "is playing", "plays"],
+    "answer": 0,
+    "explanation": {
+      "correct": "\"at the moment\" là dấu hiệu của hiện tại tiếp diễn. Chủ ngữ \"My brothers\" số nhiều nên dùng **are playing**.",
+      "wrong": {
+        "1": "\"play\" là hiện tại đơn, không hợp với \"at the moment\".",
+        "2": "\"is\" dùng cho chủ ngữ số ít; \"My brothers\" là số nhiều nên phải dùng \"are\".",
+        "3": "\"plays\" là hiện tại đơn ngôi thứ ba số ít, sai cả thì lẫn sự hòa hợp chủ ngữ."
+      },
+      "rule": "am đi với I; is đi với he/she/it/danh từ số ít; are đi với you/we/they/danh từ số nhiều.",
+      "examples": ["The students are doing a test right now.", "My parents are working in the garden at the moment."],
+      "common_mistake": "Chọn \"is\" vì nhìn thấy \"brother\" mà quên chữ -s số nhiều."
+    },
+    "tags": ["at-the-moment", "subject-agreement"],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pc-003",
+    "topic": "present-continuous",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "We ___ more chairs for the party tonight. Can you bring some?",
+    "options": ["are needing", "needs", "need", "needing"],
+    "answer": 2,
+    "explanation": {
+      "correct": "\"need\" là động từ chỉ trạng thái, không dùng ở dạng tiếp diễn dù nói về hiện tại. Chủ ngữ \"We\" nên dùng **need**.",
+      "wrong": {
+        "0": "\"are needing\" sai vì \"need\" là động từ trạng thái, không chia tiếp diễn.",
+        "1": "\"needs\" chỉ dùng cho chủ ngữ ngôi thứ ba số ít; \"We\" dùng \"need\".",
+        "3": "\"needing\" không thể làm động từ chính khi thiếu trợ động từ."
+      },
+      "rule": "Động từ trạng thái (need, want, know, like, believe, belong, own…) dùng thì đơn thay cho thì tiếp diễn.",
+      "examples": ["I want a glass of water right now.", "This phone belongs to my sister."],
+      "common_mistake": "Thấy \"tonight\" hoặc \"now\" là dùng ngay tiếp diễn, quên kiểm tra động từ có phải động từ trạng thái không."
+    },
+    "tags": ["stative-verb"],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pc-004",
+    "topic": "present-continuous",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "She usually drives to work, but this week she ___ the bus because her car is at the garage.",
+    "options": ["takes", "is taking", "took", "take"],
+    "answer": 1,
+    "explanation": {
+      "correct": "\"this week\" cùng lý do tạm thời (xe đang sửa) cho thấy tình huống tạm thời, nên dùng hiện tại tiếp diễn: **is taking**.",
+      "wrong": {
+        "0": "\"takes\" là hiện tại đơn, diễn tả thói quen lâu dài; nhưng đây là thay đổi tạm thời trong tuần này.",
+        "2": "\"took\" là quá khứ đơn, mâu thuẫn với \"this week\" và \"her car is\" ở hiện tại.",
+        "3": "\"take\" thiếu -s và không diễn tả được tính tạm thời."
+      },
+      "rule": "Hiện tại đơn: thói quen, lâu dài. Hiện tại tiếp diễn: tình huống tạm thời quanh thời điểm hiện tại (this week, these days, at the moment).",
+      "examples": ["I usually live in Hanoi, but I'm staying in Da Nang this month.", "He normally works in an office, but he's working from home today."],
+      "common_mistake": "Thấy \"usually\" ở vế đầu nên chia hiện tại đơn cho cả câu, bỏ qua tín hiệu \"this week\" ở vế sau."
+    },
+    "tags": ["temporary", "simple-vs-continuous"],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pc-005",
+    "topic": "present-continuous",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "— What ___ this weekend? — I'm visiting my grandparents in Nam Dinh.",
+    "options": ["are you doing", "do you do", "you are doing", "will you doing"],
+    "answer": 0,
+    "explanation": {
+      "correct": "Hỏi về kế hoạch đã sắp xếp cho tương lai gần dùng hiện tại tiếp diễn. Câu trả lời \"I'm visiting\" cũng xác nhận điều đó: **are you doing**.",
+      "wrong": {
+        "1": "\"do you do\" là hiện tại đơn, dùng hỏi về công việc hay thói quen (What do you do? = Bạn làm nghề gì?), không hỏi kế hoạch cuối tuần.",
+        "2": "\"you are doing\" sai trật tự câu hỏi: trợ động từ phải đứng trước chủ ngữ.",
+        "3": "\"will you doing\" sai cấu trúc: sau will là động từ nguyên mẫu (will you do)."
+      },
+      "rule": "Kế hoạch đã sắp xếp: S + am/is/are + V-ing + thời gian tương lai. Câu hỏi: (Wh-) + am/is/are + S + V-ing?",
+      "examples": ["We are flying to Phu Quoc on Friday.", "Are you meeting Lan tomorrow?"],
+      "common_mistake": "Hỏi \"What do you do this weekend?\" do dịch sát \"Cuối tuần bạn làm gì?\"."
+    },
+    "tags": ["future-arrangement", "question"],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pc-006",
+    "topic": "present-continuous",
+    "level": "intermediate",
+    "type": "fill-form",
+    "question": "Look! Somebody ___ (lie) on the grass over there.",
+    "options": ["is lieing", "lies", "is lying", "is liing"],
+    "answer": 2,
+    "explanation": {
+      "correct": "\"Look!\" cho biết hành động đang diễn ra. Động từ tận cùng -ie đổi thành -ying khi thêm -ing: lie → **lying**.",
+      "wrong": {
+        "0": "\"lieing\" sai chính tả: -ie phải đổi thành -y trước khi thêm -ing.",
+        "1": "\"lies\" là hiện tại đơn, không hợp với \"Look!\".",
+        "3": "\"liing\" sai chính tả: không giữ nguyên \"i\" mà đổi \"ie\" thành \"y\"."
+      },
+      "rule": "Thêm -ing: die → dying, lie → lying, tie → tying; write → writing (bỏ e); run → running (gấp đôi phụ âm).",
+      "examples": ["The old dog is dying.", "She is tying her shoelaces."],
+      "common_mistake": "Áp dụng máy móc \"thêm -ing\" mà không đổi chính tả: \"lieing\", \"writeing\", \"runing\"."
+    },
+    "tags": ["spelling-ing"],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pc-007",
+    "topic": "present-continuous",
+    "level": "intermediate",
+    "type": "fix-error",
+    "question": "Tìm phần sai: Right now my mum <u>is cooking</u> (A) dinner, my sister <u>is doing</u> (B) her homework <u>and</u> (C) my dad <u>watch</u> (D) the news.",
+    "options": ["is cooking", "is doing", "and", "watch"],
+    "answer": 3,
+    "explanation": {
+      "correct": "\"Right now\" áp dụng cho cả ba hành động, nên \"watch\" phải là **is watching**.",
+      "wrong": {
+        "0": "\"is cooking\" đúng: hiện tại tiếp diễn với chủ ngữ số ít.",
+        "1": "\"is doing\" đúng: \"do homework\" ở dạng tiếp diễn.",
+        "2": "\"and\" đúng: nối hành động cuối cùng trong chuỗi liệt kê."
+      },
+      "rule": "Các hành động cùng diễn ra tại lúc nói đều chia hiện tại tiếp diễn, kể cả động từ đứng sau \"and\".",
+      "examples": ["At the moment, Tom is reading and his friends are playing games.", "Right now I'm cooking and my husband is setting the table."],
+      "common_mistake": "Chỉ chia thì cho động từ đầu tiên rồi để nguyên các động từ phía sau."
+    },
+    "tags": ["parallel-actions"],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pc-008",
+    "topic": "present-continuous",
+    "level": "advanced",
+    "type": "choose",
+    "question": "He ___ his dirty socks on the floor! I'm so tired of tidying up after him.",
+    "options": ["always is leaving", "is always leaving", "is leaving always", "always leaving"],
+    "answer": 1,
+    "explanation": {
+      "correct": "Để phàn nàn về một thói quen gây khó chịu, dùng **am/is/are + always + V-ing**: **is always leaving**.",
+      "wrong": {
+        "0": "\"always is leaving\" sai vị trí: \"always\" đứng sau to be, không đứng trước.",
+        "2": "\"is leaving always\" sai vị trí: \"always\" phải đứng giữa \"is\" và V-ing.",
+        "3": "\"always leaving\" thiếu to be nên không phải động từ chính."
+      },
+      "rule": "Phàn nàn: S + am/is/are + always/constantly/forever + V-ing. Trạng từ tần suất đứng sau to be.",
+      "examples": ["She is always borrowing my things without asking.", "You are constantly checking your phone!"],
+      "common_mistake": "Đặt \"always\" ngay sau chủ ngữ như với hiện tại đơn (\"He always is…\")."
+    },
+    "tags": ["complaint", "adverb-position"],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pc-009",
+    "topic": "present-continuous",
+    "level": "advanced",
+    "type": "choose",
+    "question": "— You look worried. What ___ about? — My job interview tomorrow.",
+    "options": ["do you think", "you are thinking", "have you think", "are you thinking"],
+    "answer": 3,
+    "explanation": {
+      "correct": "\"think about\" ở đây là hoạt động suy nghĩ đang diễn ra (dynamic), không phải ý kiến, nên dùng tiếp diễn: **are you thinking**.",
+      "wrong": {
+        "0": "\"do you think\" dùng để hỏi ý kiến (What do you think of…?), không phải hỏi bạn đang nghĩ về điều gì lúc này.",
+        "1": "\"you are thinking\" sai trật tự câu hỏi.",
+        "2": "\"have you think\" sai cấu trúc: sau have phải là V3 (thought)."
+      },
+      "rule": "Một số động từ vừa là trạng thái vừa là hành động: think (ý kiến) → đơn; think about (suy nghĩ) → có thể tiếp diễn. Tương tự: have (sở hữu / ăn), see (thấy / gặp), taste (có vị / nếm).",
+      "examples": ["I think this film is boring. (ý kiến)", "I'm thinking about changing my job. (đang cân nhắc)"],
+      "common_mistake": "Học thuộc \"think là động từ trạng thái\" nên không bao giờ chia tiếp diễn, kể cả khi nó mang nghĩa hành động."
+    },
+    "tags": ["stative-dynamic"],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pc-010",
+    "topic": "present-continuous",
+    "level": "advanced",
+    "type": "choose",
+    "question": "Because of climate change, the summers in Viet Nam ___ hotter and hotter.",
+    "options": ["get", "got", "are getting", "has got"],
+    "answer": 2,
+    "explanation": {
+      "correct": "Cấu trúc \"hotter and hotter\" diễn tả một xu hướng đang thay đổi dần dần, nên dùng hiện tại tiếp diễn: **are getting**.",
+      "wrong": {
+        "0": "\"get\" là hiện tại đơn, diễn tả sự thật cố định, không thể hiện quá trình đang thay đổi.",
+        "1": "\"got\" là quá khứ đơn, trong khi xu hướng vẫn đang tiếp diễn.",
+        "3": "\"has got\" sai sự hòa hợp (chủ ngữ \"the summers\" số nhiều) và không diễn tả quá trình thay đổi."
+      },
+      "rule": "Xu hướng, sự thay đổi đang diễn ra: S + am/is/are + getting/becoming/rising… (thường với \"more and more\", \"-er and -er\").",
+      "examples": ["The city is becoming more and more crowded.", "House prices are rising these days."],
+      "common_mistake": "Dùng hiện tại đơn vì nghĩ đây là sự thật chung, bỏ qua ý \"đang thay đổi\"."
+    },
+    "tags": ["trend", "change"],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  }
+]

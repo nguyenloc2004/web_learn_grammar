@@ -1,0 +1,352 @@
+[
+  {
+    "id": "rrc-001",
+    "topic": "reduced-relative-clauses",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Please review the documents ___ to this email before our meeting on Friday afternoon.",
+    "options": [
+      "attaching",
+      "attached",
+      "attach",
+      "are attached"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Tài liệu **được đính kèm** (bị động) → rút gọn mệnh đề \"which are attached\" thành **V3**: *the documents **attached** to this email*.",
+      "wrong": {
+        "0": "\"attaching\" mang nghĩa chủ động (tài liệu tự đính kèm cái gì đó), sai nghĩa.",
+        "2": "\"attach\" là động từ nguyên mẫu; câu đã có động từ chính \"review\", không thêm động từ chia.",
+        "3": "\"are attached\" là động từ chia; muốn dùng phải có đại từ quan hệ (which are attached), nếu không câu có hai động từ chính."
+      },
+      "rule": "N + which / that + be + V3 → N + V3 (bị động).",
+      "examples": [
+        "The figures shown in the chart are from last year.",
+        "Please complete the form enclosed with this letter."
+      ],
+      "common_mistake": "Dùng V-ing cho mọi trường hợp rút gọn mà không xét nghĩa chủ động / bị động."
+    },
+    "tags": [
+      "past-participle",
+      "passive",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "rrc-002",
+    "topic": "reduced-relative-clauses",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Employees ___ to attend the leadership seminar must register online by Friday.",
+    "options": [
+      "wished",
+      "wish",
+      "are wishing",
+      "wishing"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Nhân viên **tự mong muốn** (chủ động) → rút gọn \"who wish\" thành **V-ing**: *Employees **wishing** to attend …*. Động từ chính của câu là \"must register\".",
+      "wrong": {
+        "0": "\"wished\" mang nghĩa bị động (được mong muốn), sai nghĩa với chủ ngữ \"Employees\".",
+        "1": "\"wish\" là động từ chia; câu đã có động từ chính \"must register\" nên không thể thêm một động từ chia nữa nếu không có \"who\".",
+        "2": "\"are wishing\" là động từ chia, làm câu có hai động từ chính; \"wish\" cũng ít dùng ở thể tiếp diễn."
+      },
+      "rule": "N + who / which + V (chủ động) → N + V-ing, kể cả với động từ thường không chia tiếp diễn (wish, want, own, contain).",
+      "examples": [
+        "Guests requiring a late checkout should contact the front desk.",
+        "Boxes containing fragile items must be marked clearly."
+      ],
+      "common_mistake": "Giữ lại động từ chia: \"Employees are wishing to attend must register…\"."
+    },
+    "tags": [
+      "present-participle",
+      "active",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "rrc-003",
+    "topic": "reduced-relative-clauses",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Mr. Quang was the first employee at the plant ___ the new international safety certificate.",
+    "options": [
+      "received",
+      "receives",
+      "to receive",
+      "to receiving"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Sau **the first + N**, mệnh đề quan hệ được rút gọn thành **to V**: *the first employee **to receive*** (= who received).",
+      "wrong": {
+        "0": "\"received\" là động từ chia; câu đã có động từ chính \"was\" nên không thể thêm \"received\" mà không có \"who\".",
+        "1": "\"receives\" là động từ chia ở hiện tại, vừa thừa động từ vừa lệch thì với \"was\".",
+        "3": "\"to receiving\" sai: sau \"to\" của to V phải là động từ nguyên mẫu."
+      },
+      "rule": "the first / the second / the last / the only / so sánh nhất + N + to V.",
+      "examples": [
+        "She was the last person to leave the office.",
+        "He is the youngest manager to run this branch."
+      ],
+      "common_mistake": "Dùng V-ing hoặc động từ chia sau \"the first\" vì không biết quy tắc rút gọn thành to V."
+    },
+    "tags": [
+      "to-infinitive",
+      "the-first",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "rrc-004",
+    "topic": "reduced-relative-clauses",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "We are pleased to offer you an ___ opportunity to join our international sales team in Singapore.",
+    "options": [
+      "excited",
+      "excite",
+      "excitement",
+      "exciting"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Phân từ làm tính từ trước danh từ. \"opportunity\" là thứ **gây ra** sự hào hứng → dùng **V-ing**: *an **exciting** opportunity*.",
+      "wrong": {
+        "0": "\"excited\" mang nghĩa \"cảm thấy hào hứng\", chỉ dùng cho người; cơ hội không thể \"cảm thấy\".",
+        "1": "\"excite\" là động từ, không đứng giữa mạo từ và danh từ.",
+        "2": "\"excitement\" là danh từ; \"an excitement opportunity\" không phải cụm danh từ đúng."
+      },
+      "rule": "V-ing (tính từ): gây ra cảm xúc (exciting, interesting, confusing). V3 (tính từ): cảm thấy / bị tác động (excited, interested, confused).",
+      "examples": [
+        "The results of the survey were very encouraging.",
+        "It was a challenging but rewarding project."
+      ],
+      "common_mistake": "Dùng \"excited\" cho sự vật vì tiếng Việt chỉ có một từ \"hào hứng / thú vị\"."
+    },
+    "tags": [
+      "participle-adjective",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "rrc-005",
+    "topic": "reduced-relative-clauses",
+    "level": "intermediate",
+    "type": "fill-form",
+    "question": "A ___ (grow) number of customers now prefer to pay with mobile banking apps instead of cash.",
+    "options": [
+      "grown",
+      "growing",
+      "grow",
+      "grows"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Phân từ đứng trước danh từ chỉ quá trình **đang diễn ra** (số lượng đang tăng) → **V-ing**: *a **growing** number of*.",
+      "wrong": {
+        "0": "\"grown\" là V3, mang nghĩa đã hoàn tất / đã trưởng thành (a grown man), không diễn tả số lượng đang tăng.",
+        "2": "\"grow\" là động từ nguyên mẫu, không đứng giữa mạo từ và danh từ.",
+        "3": "\"grows\" là động từ chia, không bổ nghĩa cho danh từ \"number\"."
+      },
+      "rule": "V-ing đứng trước danh từ = đang diễn ra / chủ động: a growing number, rising costs, the existing system.",
+      "examples": [
+        "Rising fuel prices have affected our delivery costs.",
+        "The existing software will be replaced next month."
+      ],
+      "common_mistake": "Dùng \"grown\" hoặc \"increased\" vì nghĩ \"số lượng được tăng\" mang nghĩa bị động."
+    },
+    "tags": [
+      "participle-adjective",
+      "present-participle",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "rrc-006",
+    "topic": "reduced-relative-clauses",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Employees ___ in joining the company's volunteer program should contact Ms. Ngoc in the HR department.",
+    "options": [
+      "interesting",
+      "interest",
+      "interested",
+      "are interested"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Nhân viên **cảm thấy quan tâm** → **interested in** (= who are interested in). Động từ chính của câu là \"should contact\".",
+      "wrong": {
+        "0": "\"interesting\" mang nghĩa \"gây hứng thú, thú vị\"; nhân viên ở đây là người quan tâm, không phải người gây hứng thú.",
+        "1": "\"interest\" là động từ / danh từ, không bổ nghĩa cho \"Employees\" và không đi với \"in joining\" theo cách này.",
+        "3": "\"are interested\" là động từ chia; câu đã có \"should contact\" nên phải bỏ \"are\" (hoặc thêm \"who\")."
+      },
+      "rule": "N (người) + interested in + N / V-ing = N who are interested in…",
+      "examples": [
+        "Students interested in the internship should apply by May 1.",
+        "Anyone interested in the position can call me directly."
+      ],
+      "common_mistake": "Dùng \"interesting\" cho người vì cả hai đều dịch là \"quan tâm / thú vị\"."
+    },
+    "tags": [
+      "interested-interesting",
+      "past-participle",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "rrc-007",
+    "topic": "reduced-relative-clauses",
+    "level": "advanced",
+    "type": "choose",
+    "question": "The new import regulations, ___ by the Ministry of Industry and Trade last month, will take effect in January.",
+    "options": [
+      "announced",
+      "announcing",
+      "were announced",
+      "which announced"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Quy định **được công bố** bởi Bộ (có \"by …\") → bị động. Mệnh đề không xác định \"which were announced\" rút gọn thành **V3**, giữ nguyên dấu phẩy: ***announced** by the Ministry*.",
+      "wrong": {
+        "1": "\"announcing\" là chủ động, nhưng quy định không tự công bố; có \"by the Ministry\" nên phải là bị động.",
+        "2": "\"were announced\" là động từ chia; giữa hai dấu phẩy không thể đặt động từ chia mà không có \"which\", và câu đã có động từ chính \"will take effect\".",
+        "3": "\"which announced\" là chủ động (quy định công bố cái gì đó), sai nghĩa; cần \"which were announced\"."
+      },
+      "rule": "N, which / who + be + V3 + …, V → N, V3 + …, V (mệnh đề không xác định vẫn giữ dấu phẩy).",
+      "examples": [
+        "The report, published last week, has attracted a lot of attention.",
+        "Our CEO, interviewed by VTV yesterday, spoke about the expansion plan."
+      ],
+      "common_mistake": "Dùng V-ing vì thấy hành động xảy ra \"trước\" mà không xét chủ động / bị động."
+    },
+    "tags": [
+      "past-participle",
+      "non-defining",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "rrc-008",
+    "topic": "reduced-relative-clauses",
+    "level": "advanced",
+    "type": "fix-error",
+    "question": "Tìm phần sai: All packages <u>sending</u> (A) <u>after</u> (B) 3 p.m. on Friday <u>will be delivered</u> (C) <u>the following</u> (D) Tuesday.",
+    "options": [
+      "sending",
+      "after",
+      "will be delivered",
+      "the following"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Phần sai là (A). Gói hàng **được gửi** (bị động) → rút gọn \"which are sent\" thành **V3**: *All packages **sent** after 3 p.m. …*",
+      "wrong": {
+        "1": "(B) đúng: \"after 3 p.m.\" là cụm chỉ thời gian.",
+        "2": "(C) đúng: gói hàng \"được giao\" nên động từ chính ở dạng bị động tương lai.",
+        "3": "(D) đúng: \"the following Tuesday\" = thứ Ba tuần sau đó."
+      },
+      "rule": "Danh từ không thể tự thực hiện hành động (packages, documents, products) → rút gọn bằng V3.",
+      "examples": [
+        "Orders placed before noon are shipped the same day.",
+        "Goods damaged during shipping can be returned free of charge."
+      ],
+      "common_mistake": "Dùng V-ing cho mọi phân từ đứng sau danh từ vì nghĩ V-ing là dạng \"rút gọn chung\"."
+    },
+    "tags": [
+      "past-participle",
+      "passive",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "rrc-009",
+    "topic": "reduced-relative-clauses",
+    "level": "advanced",
+    "type": "rewrite",
+    "question": "Chọn câu đồng nghĩa với: *The products which are manufactured at our Bac Ninh factory are exported mainly to Japan.*",
+    "options": [
+      "The products manufacturing at our Bac Ninh factory are exported mainly to Japan.",
+      "The products are manufactured at our Bac Ninh factory are exported mainly to Japan.",
+      "The products to manufacture at our Bac Ninh factory are exported mainly to Japan.",
+      "The products manufactured at our Bac Ninh factory are exported mainly to Japan."
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Mệnh đề bị động \"which are manufactured\" → bỏ \"which are\", giữ **V3**: *The products **manufactured** at …*",
+      "wrong": {
+        "0": "\"manufacturing\" là chủ động: sản phẩm không tự sản xuất.",
+        "1": "Chỉ bỏ \"which\" mà giữ \"are\" làm câu có hai động từ chính (\"are manufactured\" và \"are exported\").",
+        "2": "\"to manufacture\" mang nghĩa \"cần được sản xuất / để sản xuất\" (dự định), sai nghĩa; to V chỉ dùng sau the first / the only…"
+      },
+      "rule": "Rút gọn bị động: bỏ đại từ quan hệ + be, giữ V3.",
+      "examples": [
+        "The cars produced in this plant are sold across Asia.",
+        "The meals served on this flight are prepared locally."
+      ],
+      "common_mistake": "Chỉ bỏ đại từ quan hệ mà quên bỏ \"be\"."
+    },
+    "tags": [
+      "past-participle",
+      "combining",
+      "toeic-part6"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "rrc-010",
+    "topic": "reduced-relative-clauses",
+    "level": "advanced",
+    "type": "choose",
+    "question": "Out of more than 200 applicants, Ms. Yen was the only candidate ___ for a second interview with the CEO.",
+    "options": [
+      "to invite",
+      "inviting",
+      "to be invited",
+      "to inviting"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Sau **the only + N** dùng to V. Ứng viên **được mời** (bị động) → **to be invited** (= who was invited).",
+      "wrong": {
+        "0": "\"to invite\" là chủ động: Ms. Yen đi mời người khác, sai nghĩa.",
+        "1": "\"inviting\" là chủ động và không dùng sau \"the only + N\" theo quy tắc rút gọn.",
+        "3": "\"to inviting\" sai: sau \"to\" của to V phải là động từ nguyên mẫu, và vẫn thiếu nghĩa bị động."
+      },
+      "rule": "the first / the last / the only + N + to V (chủ động) / to be V3 (bị động).",
+      "examples": [
+        "He was the first employee to be promoted this year.",
+        "This is the only product to be recalled so far."
+      ],
+      "common_mistake": "Không nhận ra nghĩa bị động nên chọn \"to invite\"."
+    },
+    "tags": [
+      "to-infinitive",
+      "passive",
+      "the-only",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  }
+]

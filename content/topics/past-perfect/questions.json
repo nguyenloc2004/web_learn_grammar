@@ -1,0 +1,237 @@
+[
+  {
+    "id": "pap-001",
+    "topic": "past-perfect",
+    "level": "basic",
+    "type": "choose",
+    "question": "When we arrived at the cinema, the film ___ already ___.",
+    "options": ["has / started", "had / started", "was / starting", "did / start"],
+    "answer": 1,
+    "explanation": {
+      "correct": "Phim bắt đầu **trước** khi chúng tôi đến (một hành động quá khứ khác), nên dùng quá khứ hoàn thành: **had already started**.",
+      "wrong": {
+        "0": "\"has started\" là hiện tại hoàn thành, mốc so sánh là hiện tại; ở đây mốc là \"we arrived\" trong quá khứ.",
+        "2": "\"was already starting\" nghĩa là phim đang bắt đầu, không diễn tả việc đã xảy ra trước.",
+        "3": "\"did already start\" không dùng trong câu khẳng định thông thường và không thể hiện thứ tự trước–sau."
+      },
+      "rule": "Hành động xảy ra trước một hành động quá khứ khác: S + had + V3; hành động sau: V2.",
+      "examples": ["When I got to the station, the train had left.", "She had already eaten when I called her."],
+      "common_mistake": "Dùng \"has\" vì quen với \"already\" trong hiện tại hoàn thành."
+    },
+    "tags": ["before-past-action", "already"],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pap-002",
+    "topic": "past-perfect",
+    "level": "basic",
+    "type": "choose",
+    "question": "She ___ never ___ on a plane before she went to Japan last year.",
+    "options": ["has / been", "had / was", "had / been", "did / be"],
+    "answer": 2,
+    "explanation": {
+      "correct": "Trải nghiệm tính đến một thời điểm trong quá khứ (chuyến đi Nhật năm ngoái) dùng quá khứ hoàn thành: **had never been**.",
+      "wrong": {
+        "0": "\"has never been\" tính đến hiện tại; ở đây mốc là \"last year\".",
+        "1": "\"had was\" sai: sau had phải là V3 (been), không phải V2 (was).",
+        "3": "\"did never be\" sai cấu trúc phủ định và không diễn tả trải nghiệm."
+      },
+      "rule": "had (never/ever) + V3 + before + quá khứ đơn: trải nghiệm tính đến một mốc quá khứ.",
+      "examples": ["I had never seen snow before I visited Sa Pa.", "Had you ever met him before the party?"],
+      "common_mistake": "Dùng V2 sau had: \"had was\", \"had went\"."
+    },
+    "tags": ["experience", "past-participle"],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pap-003",
+    "topic": "past-perfect",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "By the time the police arrived, the thief ___.",
+    "options": ["had escaped", "escapes", "has escaped", "was escaping"],
+    "answer": 0,
+    "explanation": {
+      "correct": "\"By the time + quá khứ đơn\" yêu cầu mệnh đề chính ở quá khứ hoàn thành, vì việc trốn thoát hoàn tất trước khi cảnh sát đến: **had escaped**.",
+      "wrong": {
+        "1": "\"escapes\" là hiện tại đơn, mâu thuẫn với \"arrived\".",
+        "2": "\"has escaped\" là hiện tại hoàn thành, mốc so sánh sai (hiện tại thay vì quá khứ).",
+        "3": "\"was escaping\" nghĩa là đang trốn lúc cảnh sát đến, không phải đã trốn thoát xong."
+      },
+      "rule": "By the time + S + V2, S + had + V3.",
+      "examples": ["By the time I woke up, my parents had gone to work.", "By the time we got there, the shop had closed."],
+      "common_mistake": "Dùng quá khứ đơn cho cả hai vế, không thể hiện được thứ tự trước–sau mà \"by the time\" đòi hỏi."
+    },
+    "tags": ["by-the-time"],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pap-004",
+    "topic": "past-perfect",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "I didn't recognise my old classmate at the reunion because he ___ so much since school.",
+    "options": ["changes", "had changed", "has changed", "was changing"],
+    "answer": 1,
+    "explanation": {
+      "correct": "Sự thay đổi diễn ra trước thời điểm buổi họp lớp (quá khứ), từ thời đi học đến lúc đó: **had changed**.",
+      "wrong": {
+        "0": "\"changes\" là hiện tại đơn, sai thì.",
+        "2": "\"has changed\" lấy mốc hiện tại; nhưng câu kể về lúc \"didn't recognise\" trong quá khứ.",
+        "3": "\"was changing\" nghĩa là đang thay đổi tại lúc đó, không phải đã thay đổi xong."
+      },
+      "rule": "Mốc tham chiếu ở quá khứ → dùng had + V3 cho những gì đã xảy ra trước mốc đó (kể cả với since).",
+      "examples": ["She was tired because she had worked all day.", "The town looked different because they had built many new roads."],
+      "common_mistake": "Thấy \"since\" là chọn ngay hiện tại hoàn thành mà không xét mốc thời gian của câu."
+    },
+    "tags": ["reason", "since"],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pap-005",
+    "topic": "past-perfect",
+    "level": "intermediate",
+    "type": "fill-form",
+    "question": "It was the first time I ___ (see) such a huge waterfall.",
+    "options": ["saw", "have seen", "had seen", "had saw"],
+    "answer": 2,
+    "explanation": {
+      "correct": "Cấu trúc \"It was the first time\" (quá khứ) đi với quá khứ hoàn thành: **had seen**.",
+      "wrong": {
+        "0": "\"saw\" không theo cấu trúc chuẩn \"It was the first time + had V3\".",
+        "1": "\"have seen\" dùng cho \"It is the first time\" (hiện tại), không dùng với \"It was\".",
+        "3": "\"had saw\" sai: sau had phải là V3 (seen)."
+      },
+      "rule": "It is the first time + S + have/has + V3. It was the first time + S + had + V3.",
+      "examples": ["It was the second time she had failed the driving test.", "It was the first time we had travelled abroad."],
+      "common_mistake": "Dùng quá khứ đơn hoặc giữ nguyên hiện tại hoàn thành như với \"It is the first time\"."
+    },
+    "tags": ["first-time", "fixed-structure"],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pap-006",
+    "topic": "past-perfect",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "When I got home, I found that someone ___ into my flat and taken my laptop.",
+    "options": ["had broke", "has broken", "was breaking", "had broken"],
+    "answer": 3,
+    "explanation": {
+      "correct": "Vụ đột nhập xảy ra trước khi tôi về nhà và phát hiện ra. \"and taken\" cũng cho thấy cấu trúc had + V3: **had broken** (break – broke – broken).",
+      "wrong": {
+        "0": "\"had broke\" sai: V3 của break là broken, không phải broke.",
+        "1": "\"has broken\" lấy mốc hiện tại, không hợp với \"got home\" và \"found\".",
+        "2": "\"was breaking\" nghĩa là đang đột nhập lúc tôi về, mâu thuẫn với \"taken my laptop\" (đã lấy xong)."
+      },
+      "rule": "Phát hiện ra kết quả của một việc xảy ra trước đó trong quá khứ: found / realised / saw that + S + had + V3.",
+      "examples": ["She realised she had left her keys at the office.", "We saw that somebody had eaten all the cake."],
+      "common_mistake": "Nhầm V2 và V3 của động từ bất quy tắc: \"had broke\", \"had stole\"."
+    },
+    "tags": ["discovery", "irregular-verb"],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pap-007",
+    "topic": "past-perfect",
+    "level": "intermediate",
+    "type": "fix-error",
+    "question": "Tìm phần sai: Before he <u>moved</u> (A) to Hanoi, he <u>has lived</u> (B) in Hue <u>for</u> (C) ten years <u>with</u> (D) his grandparents.",
+    "options": ["moved", "has lived", "for", "with"],
+    "answer": 1,
+    "explanation": {
+      "correct": "Việc sống ở Huế diễn ra trước một mốc quá khứ (moved), nên phải là **had lived**, không phải \"has lived\".",
+      "wrong": {
+        "0": "\"moved\" đúng: hành động mốc ở quá khứ đơn.",
+        "2": "\"for\" đúng: đi với khoảng thời gian \"ten years\".",
+        "3": "\"with\" đúng: live with somebody = sống cùng ai."
+      },
+      "rule": "Before + S + V2, S + had + V3 (khoảng thời gian kéo dài đến mốc quá khứ).",
+      "examples": ["Before she became a teacher, she had worked as a nurse.", "He had studied English for five years before he went to London."],
+      "common_mistake": "Giữ hiện tại hoàn thành vì có \"for ten years\", không nhận ra mốc là quá khứ."
+    },
+    "tags": ["before", "error-correction"],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pap-008",
+    "topic": "past-perfect",
+    "level": "advanced",
+    "type": "choose",
+    "question": "No sooner ___ home than it started to pour with rain.",
+    "options": ["had I got", "I had got", "did I get", "have I got"],
+    "answer": 0,
+    "explanation": {
+      "correct": "Cấu trúc đảo ngữ \"No sooner + had + S + V3 + than + S + V2\" (vừa mới… thì…): **had I got**.",
+      "wrong": {
+        "1": "\"I had got\" thiếu đảo ngữ; sau \"No sooner\" đứng đầu câu phải đảo trợ động từ lên trước chủ ngữ.",
+        "2": "\"did I get\" sai thì: cấu trúc chuẩn dùng quá khứ hoàn thành cho hành động xảy ra trước.",
+        "3": "\"have I got\" là hiện tại hoàn thành, không hợp với \"started\" ở quá khứ."
+      },
+      "rule": "No sooner had + S + V3 + than + S + V2. Hardly / Scarcely had + S + V3 + when + S + V2.",
+      "examples": ["No sooner had she sat down than the phone rang.", "Hardly had we left the house when it began to snow."],
+      "common_mistake": "Quên đảo ngữ hoặc dùng \"when\" sau \"No sooner\" (phải là \"than\")."
+    },
+    "tags": ["inversion", "no-sooner"],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pap-009",
+    "topic": "past-perfect",
+    "level": "advanced",
+    "type": "choose",
+    "question": "By the end of last year, my aunt ___ over 40 countries, and she was planning to visit even more.",
+    "options": ["visited", "has visited", "was visiting", "had visited"],
+    "answer": 3,
+    "explanation": {
+      "correct": "\"By the end of last year\" là mốc quá khứ; số nước đã đi được tính đến mốc đó: **had visited**.",
+      "wrong": {
+        "0": "\"visited\" không thể hiện ý \"tính đến mốc cuối năm ngoái\" mà \"By the end of…\" yêu cầu.",
+        "1": "\"has visited\" tính đến hiện tại, mâu thuẫn với \"last year\" và \"was planning\".",
+        "2": "\"was visiting 40 countries\" vô lý: không thể đang thăm 40 nước cùng lúc."
+      },
+      "rule": "By + mốc thời gian quá khứ (by 2020, by the end of last month) → S + had + V3.",
+      "examples": ["By 2015, they had built three new hospitals.", "By the age of ten, Mozart had written several symphonies."],
+      "common_mistake": "Nhầm \"By the end of last year\" (quá khứ hoàn thành) với \"By the end of this year\" (tương lai hoàn thành)."
+    },
+    "tags": ["by-time-point"],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pap-010",
+    "topic": "past-perfect",
+    "level": "advanced",
+    "type": "rewrite",
+    "question": "Chọn câu đồng nghĩa với: *I finished my report first, and then my boss called me.*",
+    "options": [
+      "When my boss called me, I was finishing my report.",
+      "Before my boss called me, I have finished my report.",
+      "By the time my boss called me, I had finished my report.",
+      "By the time my boss called me, I finished my report."
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Báo cáo xong **trước** cuộc gọi; \"By the time + V2, S + had + V3\" diễn đạt đúng thứ tự: **By the time my boss called me, I had finished my report.**",
+      "wrong": {
+        "0": "\"was finishing\" nghĩa là lúc sếp gọi tôi vẫn đang làm, khác nghĩa câu gốc (đã xong).",
+        "1": "\"have finished\" là hiện tại hoàn thành, không dùng với mốc quá khứ \"called\".",
+        "3": "\"By the time\" đòi hỏi mệnh đề chính ở quá khứ hoàn thành; \"finished\" không thể hiện việc đã hoàn tất trước mốc."
+      },
+      "rule": "Diễn đạt hành động xảy ra trước: before / by the time / when + V2, S + had + V3.",
+      "examples": ["By the time the guests arrived, we had prepared everything.", "When I reached the office, the meeting had already begun."],
+      "common_mistake": "Chỉ dùng quá khứ đơn cho cả hai hành động nên không thể hiện được thứ tự trước–sau."
+    },
+    "tags": ["rewrite", "by-the-time"],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  }
+]

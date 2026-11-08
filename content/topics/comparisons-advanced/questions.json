@@ -1,0 +1,345 @@
+[
+  {
+    "id": "ca-001",
+    "topic": "comparisons-advanced",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The new warehouse in Long An is twice ___ the old one, so we can now store much more inventory.",
+    "options": [
+      "as large as",
+      "larger as",
+      "as larger as",
+      "as large than"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Bội số **twice** + **as + adj nguyên mẫu + as**: *twice as large as* (rộng gấp đôi).",
+      "wrong": {
+        "1": "\"larger as\" trộn so sánh hơn với \"as\"; so sánh hơn phải đi với \"than\", còn bội số đi với \"as … as\".",
+        "2": "\"as larger as\" sai: giữa hai chữ \"as\" phải là tính từ nguyên mẫu, không dùng dạng so sánh hơn.",
+        "3": "\"as large than\" trộn hai cấu trúc: \"as\" phải đi với \"as\", không đi với \"than\"."
+      },
+      "rule": "twice / three times / half + as + adj / adv + as.",
+      "examples": [
+        "The new server is three times as fast as the old one.",
+        "Our booth this year is half as big as last year's."
+      ],
+      "common_mistake": "Dịch \"rộng gấp đôi\" thành \"twice larger as\" hoặc \"twice larger than\"."
+    },
+    "tags": [
+      "multiple",
+      "as-as",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ca-002",
+    "topic": "comparisons-advanced",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The ___ we respond to customer complaints, the more satisfied our clients will be.",
+    "options": [
+      "fast",
+      "fastest",
+      "more fast",
+      "faster"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Cấu trúc so sánh kép **The + so sánh hơn + S + V, the + so sánh hơn + S + V** (càng … càng): *The faster we respond…, the more satisfied…*",
+      "wrong": {
+        "0": "\"fast\" là dạng nguyên mẫu; vế đầu của so sánh kép phải là so sánh hơn, tương ứng với \"the more satisfied\" ở vế sau.",
+        "1": "\"fastest\" là so sánh nhất, không dùng trong cấu trúc \"càng … càng\".",
+        "2": "\"more fast\" sai: \"fast\" là từ một âm tiết, so sánh hơn là \"faster\"."
+      },
+      "rule": "The + so sánh hơn + S + V, the + so sánh hơn + S + V.",
+      "examples": [
+        "The earlier you book, the cheaper the tickets are.",
+        "The more you prepare, the more confident you become."
+      ],
+      "common_mistake": "Bỏ \"the\" hoặc dùng dạng nguyên mẫu vì dịch \"càng nhanh … càng hài lòng\" từng chữ."
+    },
+    "tags": [
+      "double-comparative",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ca-003",
+    "topic": "comparisons-advanced",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The design of our new logo is very similar ___ the one our main competitor launched last year.",
+    "options": [
+      "with",
+      "to",
+      "as",
+      "from"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Tính từ **similar** luôn đi với giới từ **to**: *similar to* (tương tự với).",
+      "wrong": {
+        "0": "\"similar with\" là lỗi rất phổ biến; giới từ đúng đi sau \"similar\" là \"to\".",
+        "2": "\"as\" đi với \"the same … as\" hoặc \"as … as\", không đi với \"similar\".",
+        "3": "\"from\" đi với \"different\", mang nghĩa ngược lại (khác với)."
+      },
+      "rule": "similar to + N; the same (+ N) as + N; different from + N.",
+      "examples": [
+        "Her proposal is similar to the one we discussed last month.",
+        "The final design is quite different from the first draft."
+      ],
+      "common_mistake": "Dịch \"tương tự với\" thành \"similar with\"."
+    },
+    "tags": [
+      "similar-to",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ca-004",
+    "topic": "comparisons-advanced",
+    "level": "intermediate",
+    "type": "fill-form",
+    "question": "Because of the economic slowdown, this year's marketing budget is not as ___ (big) as last year's.",
+    "options": [
+      "bigger",
+      "biggest",
+      "more big",
+      "big"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "So sánh không bằng **not as + adj nguyên mẫu + as**: *not as big as* (không lớn bằng).",
+      "wrong": {
+        "0": "\"bigger\" là so sánh hơn, phải đi với \"than\", không đặt giữa \"as … as\".",
+        "1": "\"biggest\" là so sánh nhất, không dùng trong cấu trúc \"as … as\".",
+        "2": "\"more big\" sai hình thức (so sánh hơn của big là bigger) và cũng không đặt giữa \"as … as\"."
+      },
+      "rule": "not as / not so + adj / adv nguyên mẫu + as = kém hơn.",
+      "examples": [
+        "The second hotel was not as comfortable as the first.",
+        "Sales in March were not as strong as we expected."
+      ],
+      "common_mistake": "Dùng dạng so sánh hơn giữa \"as … as\" vì nghĩ câu đang so sánh nên phải có \"-er\"."
+    },
+    "tags": [
+      "not-as-as",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ca-005",
+    "topic": "comparisons-advanced",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Please confirm your attendance as ___ as possible so that we can finalize the seating arrangements.",
+    "options": [
+      "sooner",
+      "soon",
+      "soonest",
+      "more soon"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Cụm cố định **as soon as possible** (sớm nhất có thể): giữa hai chữ \"as\" là trạng từ nguyên mẫu **soon**.",
+      "wrong": {
+        "0": "\"sooner\" là so sánh hơn, không đặt giữa \"as … as\".",
+        "2": "\"soonest\" là so sánh nhất, không đặt giữa \"as … as\".",
+        "3": "\"more soon\" sai hình thức (so sánh hơn của soon là sooner) và không đặt giữa \"as … as\"."
+      },
+      "rule": "as + adj / adv nguyên mẫu + as possible = … nhất có thể.",
+      "examples": [
+        "Please send the invoice as soon as possible.",
+        "We tried to keep the costs as low as possible."
+      ],
+      "common_mistake": "Nghĩ \"nhất có thể\" phải dùng so sánh nhất: \"as soonest as possible\"."
+    },
+    "tags": [
+      "as-possible",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ca-006",
+    "topic": "comparisons-advanced",
+    "level": "intermediate",
+    "type": "fix-error",
+    "question": "Tìm phần sai: Online advertising is becoming <u>more and more</u> (A) <u>popular</u> (B), and its prices are getting <u>high and high</u> (C) <u>every</u> (D) year.",
+    "options": [
+      "more and more",
+      "popular",
+      "high and high",
+      "every"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Phần sai là (C). Cấu trúc \"càng ngày càng\" lặp lại **dạng so sánh hơn**: *higher and higher*.",
+      "wrong": {
+        "0": "(A) đúng: \"popular\" là tính từ dài nên dùng \"more and more popular\".",
+        "1": "(B) đúng: tính từ nguyên mẫu đứng sau \"more and more\".",
+        "3": "(D) đúng: \"every year\" là cụm chỉ thời gian đúng."
+      },
+      "rule": "Tính từ ngắn: adj-er and adj-er (higher and higher). Tính từ dài: more and more + adj (more and more expensive).",
+      "examples": [
+        "Traffic in the city is getting worse and worse.",
+        "Remote work is becoming more and more common."
+      ],
+      "common_mistake": "Lặp lại tính từ nguyên mẫu (\"high and high\") theo kiểu tiếng Việt \"cao và cao\"."
+    },
+    "tags": [
+      "more-and-more",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ca-007",
+    "topic": "comparisons-advanced",
+    "level": "advanced",
+    "type": "choose",
+    "question": "The ___, the more likely the client is to approve it.",
+    "options": [
+      "more the proposal is detailed",
+      "proposal is more detailed",
+      "more detailed the proposal is",
+      "most detailed the proposal is"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Trong so sánh kép, **tính từ so sánh hơn đứng ngay sau \"the\"**, rồi mới đến chủ ngữ và động từ: *The more detailed the proposal is, …*",
+      "wrong": {
+        "0": "\"more the proposal is detailed\" tách \"more\" khỏi tính từ \"detailed\"; tính từ phải đi liền \"the more\".",
+        "1": "\"The proposal is more detailed\" thiếu cấu trúc \"The + so sánh hơn\" ở đầu, không tương ứng với \"the more likely\" ở vế sau.",
+        "3": "\"most detailed\" là so sánh nhất, không dùng trong cấu trúc \"càng … càng\"."
+      },
+      "rule": "The + so sánh hơn (adj / adv / more + N) + S + V, the + so sánh hơn + S + V.",
+      "examples": [
+        "The more experienced the staff are, the fewer mistakes they make.",
+        "The bigger the order is, the larger the discount we offer."
+      ],
+      "common_mistake": "Giữ trật tự câu thường S + be + adj sau \"the more\" (\"The more the proposal is detailed\")."
+    },
+    "tags": [
+      "double-comparative",
+      "word-order",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ca-008",
+    "topic": "comparisons-advanced",
+    "level": "advanced",
+    "type": "choose",
+    "question": "Our competitor's new printer costs nearly three times ___ ours, yet it offers very few additional features.",
+    "options": [
+      "as much as",
+      "as many as",
+      "as much than",
+      "so much as"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Bội số **three times + as much as** khi nói về **giá tiền / lượng không đếm được** (costs … as much as).",
+      "wrong": {
+        "1": "\"as many as\" dùng cho danh từ đếm được số nhiều (as many staff as), không dùng để nói về giá tiền với động từ \"cost\".",
+        "2": "\"as much than\" trộn hai cấu trúc; \"as … as\" không đi với \"than\".",
+        "3": "\"so … as\" chỉ dùng trong câu phủ định (not so … as); câu khẳng định với bội số phải dùng \"as … as\"."
+      },
+      "rule": "cost + bội số + as much as; bội số + as many + N số nhiều + as.",
+      "examples": [
+        "The new laptop costs twice as much as the old model.",
+        "We hired three times as many interns as last year."
+      ],
+      "common_mistake": "Dùng \"many\" với tiền vì nghĩ tiền đếm được (\"nhiều tiền\")."
+    },
+    "tags": [
+      "multiple",
+      "as-much-as",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ca-009",
+    "topic": "comparisons-advanced",
+    "level": "advanced",
+    "type": "rewrite",
+    "question": "Chọn câu đồng nghĩa với: *As the deadline got closer, the team became more and more stressed.*",
+    "options": [
+      "The closer the deadline got, the team became more stressed.",
+      "Closer the deadline got, more stressed the team became.",
+      "The more close the deadline got, the more stressed the team became.",
+      "The closer the deadline got, the more stressed the team became."
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Ý \"càng … càng\" diễn đạt bằng so sánh kép: **The closer** the deadline got, **the more stressed** the team became. Cả hai vế đều mở đầu bằng \"the + so sánh hơn\".",
+      "wrong": {
+        "0": "Vế sau thiếu cấu trúc \"the + so sánh hơn\" ở đầu; so sánh kép phải có \"the\" ở cả hai vế.",
+        "1": "Thiếu \"the\" ở cả hai vế; so sánh kép bắt buộc mở đầu mỗi vế bằng \"the\".",
+        "2": "\"more close\" sai: \"close\" là tính từ ngắn, so sánh hơn là \"closer\"."
+      },
+      "rule": "The + so sánh hơn + S + V, the + so sánh hơn + S + V (cả hai vế đều đảo so sánh lên đầu).",
+      "examples": [
+        "The longer the meeting lasted, the more tired everyone felt.",
+        "The higher the price is, the fewer customers we attract."
+      ],
+      "common_mistake": "Chỉ đảo so sánh ở vế đầu, vế sau giữ trật tự câu thường theo tiếng Việt."
+    },
+    "tags": [
+      "double-comparative",
+      "toeic-part6"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ca-010",
+    "topic": "comparisons-advanced",
+    "level": "advanced",
+    "type": "choose",
+    "question": "Staff at the Hue branch receive ___ health insurance benefits as those working at the head office.",
+    "options": [
+      "as same",
+      "same",
+      "the same",
+      "the similar"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Có **as** phía sau và danh từ \"health insurance benefits\" ở giữa → cấu trúc **the same + N + as** (giống như).",
+      "wrong": {
+        "0": "\"as same\" sai trật tự; cấu trúc đúng là \"the same … as\".",
+        "1": "\"same\" phải có mạo từ \"the\" đi kèm.",
+        "3": "\"similar\" đi với \"to\" (similar to), không đi với \"as\"; \"the similar … as\" không phải cấu trúc chuẩn."
+      },
+      "rule": "the same + (N) + as + N / mệnh đề. Không dùng \"the same … like / than\".",
+      "examples": [
+        "She has the same qualifications as her predecessor.",
+        "This model uses the same battery as the previous one."
+      ],
+      "common_mistake": "Bỏ \"the\" trước \"same\" hoặc dùng \"like\" vì dịch \"giống như\"."
+    },
+    "tags": [
+      "the-same-as",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  }
+]

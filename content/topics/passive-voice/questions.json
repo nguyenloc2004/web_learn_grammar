@@ -1,0 +1,344 @@
+[
+  {
+    "id": "pv-001",
+    "topic": "passive-voice",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The annual shareholders' meeting ___ in the main conference hall next Friday.",
+    "options": [
+      "will be held",
+      "will hold",
+      "has held",
+      "is holding"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Cuộc họp **được tổ chức** (không tự tổ chức) → bị động; \"next Friday\" → tương lai: **will be held**.",
+      "wrong": {
+        "1": "\"will hold\" là chủ động: cuộc họp không thể tự \"tổ chức\" ai/cái gì, và sau động từ không có tân ngữ.",
+        "2": "\"has held\" là chủ động, thì hiện tại hoàn thành, không hợp với \"next Friday\".",
+        "3": "\"is holding\" là chủ động tiếp diễn: \"cuộc họp đang tổ chức\" sai nghĩa."
+      },
+      "rule": "Bị động tương lai: will be + V3. Dùng bị động khi chủ ngữ là đối tượng chịu tác động.",
+      "examples": [
+        "The results will be announced tomorrow.",
+        "The new office will be opened by the mayor."
+      ],
+      "common_mistake": "Dịch sát \"cuộc họp sẽ tổ chức\" nên dùng chủ động \"will hold\"."
+    },
+    "tags": [
+      "future-passive",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pv-002",
+    "topic": "passive-voice",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "All visitors ___ to wear safety helmets while on the construction site.",
+    "options": [
+      "require",
+      "are requiring",
+      "are required",
+      "required"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Khách tham quan **bị yêu cầu** đội mũ → bị động, nói về quy định chung → hiện tại đơn: **are required**. Cấu trúc: be required to V.",
+      "wrong": {
+        "0": "\"require\" là chủ động: \"khách yêu cầu đội mũ\" sai nghĩa và thiếu tân ngữ.",
+        "1": "\"are requiring\" là chủ động tiếp diễn, sai nghĩa.",
+        "3": "\"required\" (quá khứ chủ động) sai nghĩa; nếu hiểu là phân từ thì câu thiếu động từ chính \"be\"."
+      },
+      "rule": "be required / asked / expected / advised + to V: bị yêu cầu / được đề nghị / được kỳ vọng làm gì.",
+      "examples": [
+        "Employees are asked to wear their ID badges at all times.",
+        "Guests are advised to check out before noon."
+      ],
+      "common_mistake": "Quên \"be\" trong câu bị động: \"All visitors required to wear…\"."
+    },
+    "tags": [
+      "present-passive",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pv-003",
+    "topic": "passive-voice",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The damaged items ___ to the warehouse yesterday afternoon.",
+    "options": [
+      "delivered",
+      "were delivered",
+      "have been delivered",
+      "are delivered"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Hàng hóa **được giao** → bị động; \"yesterday afternoon\" → quá khứ đơn: **were delivered**.",
+      "wrong": {
+        "0": "\"delivered\" là chủ động: hàng hóa không tự giao chính nó.",
+        "2": "\"have been delivered\" là hiện tại hoàn thành, không dùng với mốc quá khứ xác định \"yesterday afternoon\".",
+        "3": "\"are delivered\" là hiện tại đơn, mâu thuẫn với \"yesterday\"."
+      },
+      "rule": "Bị động quá khứ đơn: was / were + V3.",
+      "examples": [
+        "The contract was signed last week.",
+        "Two new printers were installed yesterday."
+      ],
+      "common_mistake": "Bỏ \"were\" vì tiếng Việt nói \"hàng giao hôm qua\", không cần từ \"được\"."
+    },
+    "tags": [
+      "past-passive",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pv-004",
+    "topic": "passive-voice",
+    "level": "intermediate",
+    "type": "fill-form",
+    "question": "More than 500 résumés ___ (receive) since the job advertisement was posted.",
+    "options": [
+      "have received",
+      "were received",
+      "are received",
+      "have been received"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Hồ sơ **được nhận** → bị động; \"since …\" → hiện tại hoàn thành: **have been received**.",
+      "wrong": {
+        "0": "\"have received\" là chủ động: hồ sơ không tự \"nhận\" được gì.",
+        "1": "\"were received\" là quá khứ đơn, không đi với \"since\" khi kết quả kéo dài tới hiện tại.",
+        "2": "\"are received\" là hiện tại đơn, không đi với \"since\"."
+      },
+      "rule": "Bị động hiện tại hoàn thành: have / has been + V3.",
+      "examples": [
+        "Three new branches have been opened since 2024.",
+        "The software has been updated twice this month."
+      ],
+      "common_mistake": "Viết thiếu \"been\": \"have received\" thay vì \"have been received\"."
+    },
+    "tags": [
+      "present-perfect-passive",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pv-005",
+    "topic": "passive-voice",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The report must ___ by the finance department before it is sent to the client.",
+    "options": [
+      "approve",
+      "be approved",
+      "approved",
+      "being approved"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Sau động từ khuyết thiếu \"must\" dùng động từ nguyên mẫu; báo cáo **được phê duyệt** \"by the finance department\" → bị động: **must be approved**.",
+      "wrong": {
+        "0": "\"approve\" là chủ động: báo cáo không tự phê duyệt; có \"by\" chỉ người thực hiện → phải bị động.",
+        "2": "\"approved\" không đứng ngay sau \"must\" (thiếu \"be\").",
+        "3": "\"being approved\" không đứng sau động từ khuyết thiếu."
+      },
+      "rule": "Bị động với động từ khuyết thiếu: must / can / should / may + be + V3.",
+      "examples": [
+        "All forms should be completed in black ink.",
+        "The room can be booked online."
+      ],
+      "common_mistake": "Viết \"must approved\" vì quên \"be\"."
+    },
+    "tags": [
+      "modal-passive",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pv-006",
+    "topic": "passive-voice",
+    "level": "intermediate",
+    "type": "rewrite",
+    "question": "Chọn câu đồng nghĩa với: *The IT team is updating the company website this week.*",
+    "options": [
+      "The company website is updated by the IT team this week.",
+      "The company website is being update by the IT team this week.",
+      "The company website is being updated by the IT team this week.",
+      "The company website has being updated by the IT team this week."
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Câu gốc ở hiện tại tiếp diễn → bị động **is being + V3**: *is being updated*.",
+      "wrong": {
+        "0": "Đổi sang hiện tại đơn (is updated), mất ý \"đang diễn ra trong tuần này\".",
+        "1": "\"update\" phải ở dạng V3 \"updated\" sau \"being\".",
+        "3": "\"has being\" sai cấu trúc; hiện tại hoàn thành bị động là \"has been\"."
+      },
+      "rule": "Bị động hiện tại tiếp diễn: am / is / are + being + V3. Thì của câu bị động giữ nguyên thì của câu chủ động.",
+      "examples": [
+        "The road is being repaired at the moment.",
+        "New staff are being trained this month."
+      ],
+      "common_mistake": "Quên \"being\" và đổi thì khi chuyển sang bị động."
+    },
+    "tags": [
+      "continuous-passive",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pv-007",
+    "topic": "passive-voice",
+    "level": "advanced",
+    "type": "choose",
+    "question": "Ms. Nguyen ___ a special bonus by the board of directors last month.",
+    "options": [
+      "was awarded",
+      "awarded",
+      "has been awarded",
+      "was awarding"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "\"award\" có hai tân ngữ (award somebody something). Ở đây người nhận (Ms. Nguyen) làm chủ ngữ, có \"by the board\" → bị động; \"last month\" → quá khứ: **was awarded**.",
+      "wrong": {
+        "1": "\"awarded\" chủ động: nghĩa thành cô ấy trao thưởng, mâu thuẫn với \"by the board of directors\".",
+        "2": "\"has been awarded\" là hiện tại hoàn thành, không dùng với \"last month\".",
+        "3": "\"was awarding\" là quá khứ tiếp diễn chủ động, sai nghĩa và không đi với \"by\"."
+      },
+      "rule": "Động từ hai tân ngữ (give, award, offer, send, show): người nhận có thể làm chủ ngữ bị động: S + be + V3 + vật.",
+      "examples": [
+        "He was offered a promotion last year.",
+        "All participants were given a certificate."
+      ],
+      "common_mistake": "Thấy có tân ngữ \"a special bonus\" phía sau nên nghĩ câu phải chủ động."
+    },
+    "tags": [
+      "two-objects",
+      "past-passive",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pv-008",
+    "topic": "passive-voice",
+    "level": "advanced",
+    "type": "choose",
+    "question": "The new policy is expected ___ employee productivity by at least 10 percent.",
+    "options": [
+      "to be increased",
+      "increasing",
+      "being increased",
+      "to increase"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Cấu trúc **be expected to V**. Chính sách **làm tăng** năng suất (chủ động, có tân ngữ \"employee productivity\") → **to increase**.",
+      "wrong": {
+        "0": "\"to be increased\" nghĩa là chính sách bị tăng lên, sai nghĩa và không thể có tân ngữ phía sau.",
+        "1": "\"increasing\" sai: \"expect\" (kể cả ở dạng bị động) đi với to V, không đi với V-ing.",
+        "2": "\"being increased\" vừa sai dạng sau \"expected\", vừa sai nghĩa bị động."
+      },
+      "rule": "S + be expected / said / believed + to V (chủ động) hoặc to be V3 (bị động). Chọn theo việc chủ ngữ làm hay chịu tác động.",
+      "examples": [
+        "The project is expected to finish in June.",
+        "The bridge is expected to be completed next year."
+      ],
+      "common_mistake": "Thấy \"is expected\" là bị động nên chọn luôn \"to be increased\" mà không xét tân ngữ phía sau."
+    },
+    "tags": [
+      "passive-infinitive",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pv-009",
+    "topic": "passive-voice",
+    "level": "advanced",
+    "type": "fix-error",
+    "question": "Tìm phần sai: The conference room <u>has</u> (A) <u>been booked</u> (B) for Tuesday, but the projector <u>has not</u> (C) <u>repaired</u> (D) yet.",
+    "options": [
+      "has",
+      "been booked",
+      "has not",
+      "repaired"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Phần sai là (D). Máy chiếu **được sửa** → bị động hiện tại hoàn thành: **has not been repaired**.",
+      "wrong": {
+        "0": "(A) đúng: trợ động từ \"has\" cho thì hiện tại hoàn thành.",
+        "1": "(B) đúng: \"has been booked\" là bị động hiện tại hoàn thành.",
+        "2": "(C) đúng: \"has not\" là phủ định hiện tại hoàn thành, hợp với \"yet\"."
+      },
+      "rule": "Phủ định bị động hiện tại hoàn thành: has / have + not + been + V3.",
+      "examples": [
+        "The invoice has not been paid yet.",
+        "The tickets haven't been printed yet."
+      ],
+      "common_mistake": "Vế trước dùng bị động đúng nhưng vế sau quên \"been\"."
+    },
+    "tags": [
+      "present-perfect-passive",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pv-010",
+    "topic": "passive-voice",
+    "level": "advanced",
+    "type": "choose",
+    "question": "Customers whose orders ___ during the system outage will receive a full refund.",
+    "options": [
+      "cancelled",
+      "were cancelling",
+      "were cancelled",
+      "had cancelled"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Trong mệnh đề quan hệ, chủ ngữ là \"orders\": đơn hàng **bị hủy** → bị động quá khứ: **were cancelled**.",
+      "wrong": {
+        "0": "\"cancelled\" chủ động: đơn hàng không tự hủy được thứ gì.",
+        "1": "\"were cancelling\" là quá khứ tiếp diễn chủ động, sai nghĩa.",
+        "3": "\"had cancelled\" là quá khứ hoàn thành chủ động, sai nghĩa và thiếu tân ngữ."
+      },
+      "rule": "Xác định chủ ngữ thật của từng mệnh đề (ở đây là \"orders\") rồi mới quyết định chủ động hay bị động.",
+      "examples": [
+        "Passengers whose flights were delayed received a meal voucher.",
+        "Students whose essays were submitted late lost marks."
+      ],
+      "common_mistake": "Lấy \"Customers\" làm chủ ngữ cho động từ trong mệnh đề quan hệ nên chọn chủ động."
+    },
+    "tags": [
+      "past-passive",
+      "relative-clause",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  }
+]

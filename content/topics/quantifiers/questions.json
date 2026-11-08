@@ -1,0 +1,346 @@
+[
+  {
+    "id": "qt-001",
+    "topic": "quantifiers",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "We have received only ___ complaints about the new packaging, so there is no need to redesign it.",
+    "options": [
+      "a little",
+      "much",
+      "a few",
+      "little"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "\"complaints\" là danh từ **đếm được số nhiều**, và \"only a few\" = chỉ một vài → **a few**.",
+      "wrong": {
+        "0": "\"a little\" chỉ đi với danh từ không đếm được, không đi với \"complaints\".",
+        "1": "\"much\" đi với danh từ không đếm được; \"much complaints\" sai.",
+        "3": "\"little\" đi với danh từ không đếm được; với danh từ đếm được phải dùng \"few\"."
+      },
+      "rule": "(a) few + N đếm được số nhiều; (a) little + N không đếm được. \"only a few\" = chỉ vài.",
+      "examples": [
+        "Only a few customers asked for a refund.",
+        "We still have a few seats left for the workshop."
+      ],
+      "common_mistake": "Dùng \"little\" hoặc \"much\" cho mọi danh từ vì tiếng Việt chỉ nói \"ít\" / \"nhiều\"."
+    },
+    "tags": [
+      "a-few",
+      "countable",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "qt-002",
+    "topic": "quantifiers",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Unfortunately, there is ___ time left before the deadline, so we cannot add any new features to the app.",
+    "options": [
+      "few",
+      "a few",
+      "many",
+      "little"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "\"time\" là danh từ **không đếm được**; nghĩa tiêu cực (\"Unfortunately\", \"so we cannot…\") = gần như không còn → **little**.",
+      "wrong": {
+        "0": "\"few\" chỉ đi với danh từ đếm được số nhiều; \"time\" (thời gian) không đếm được.",
+        "1": "\"a few\" vừa đi với danh từ đếm được, vừa mang nghĩa tích cực (một vài), trái với \"Unfortunately\".",
+        "2": "\"many\" đi với danh từ đếm được số nhiều, và \"there is many time\" sai cả hòa hợp chủ ngữ - động từ."
+      },
+      "rule": "little + N không đếm được = rất ít, gần như không (tiêu cực). a little = một chút (đủ dùng, tích cực).",
+      "examples": [
+        "There is little demand for this model in rural areas.",
+        "We have a little money left, so we can buy some snacks for the meeting."
+      ],
+      "common_mistake": "Nhầm \"little\" và \"a little\" vì đều dịch là \"ít\", không để ý nghĩa tiêu cực / tích cực của câu."
+    },
+    "tags": [
+      "little-a-little",
+      "uncountable",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "qt-003",
+    "topic": "quantifiers",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "___ employee is required to wear an ID badge at all times inside the factory.",
+    "options": [
+      "All",
+      "Most",
+      "Every",
+      "Many"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "\"employee\" là danh từ **đếm được số ít** và động từ \"is\" số ít → **Every** (mỗi, mọi).",
+      "wrong": {
+        "0": "\"All\" đi với danh từ số nhiều (\"All employees are…\"), không đi với \"employee\" số ít.",
+        "1": "\"Most\" đi với danh từ số nhiều hoặc không đếm được (\"Most employees are…\").",
+        "3": "\"Many\" đi với danh từ đếm được số nhiều; \"Many employee\" sai."
+      },
+      "rule": "every / each + N đếm được số ít + V số ít. all / most / many + N số nhiều + V số nhiều.",
+      "examples": [
+        "Every visitor must sign in at the reception desk.",
+        "All visitors must sign in at the reception desk."
+      ],
+      "common_mistake": "Dùng danh từ số nhiều sau \"every\" vì nghĩa là \"tất cả\": \"every employees\"."
+    },
+    "tags": [
+      "every",
+      "singular",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "qt-004",
+    "topic": "quantifiers",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "___ of our corporate clients have already renewed their service contracts for next year.",
+    "options": [
+      "Most",
+      "Almost",
+      "The most",
+      "Mostly"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Trước \"of + tính từ sở hữu + N\" cần đại từ chỉ lượng: **Most of our clients** (phần lớn khách hàng của chúng tôi).",
+      "wrong": {
+        "1": "\"Almost\" là trạng từ, không đi trực tiếp với \"of\"; phải nói \"Almost all of our clients\".",
+        "2": "\"The most\" là so sánh nhất, không dùng với nghĩa \"phần lớn\" trước \"of our clients\".",
+        "3": "\"Mostly\" là trạng từ (chủ yếu), không làm chủ ngữ và không đi với \"of\"."
+      },
+      "rule": "Most of + the / these / my / our + N. Most + N (chung chung). Almost + all / every / no.",
+      "examples": [
+        "Most of the participants found the workshop useful.",
+        "Almost all of our products are made locally."
+      ],
+      "common_mistake": "Dùng \"almost of\" vì dịch \"hầu hết\" thành \"almost\"."
+    },
+    "tags": [
+      "most-of",
+      "almost",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "qt-005",
+    "topic": "quantifiers",
+    "level": "intermediate",
+    "type": "fix-error",
+    "question": "Tìm phần sai: <u>Most of</u> (A) employees in our Hue office <u>have</u> (B) <u>already</u> (C) completed <u>the</u> (D) online safety training.",
+    "options": [
+      "Most of",
+      "have",
+      "already",
+      "the"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Phần sai là (A). \"Most of\" phải đi kèm **the / these / tính từ sở hữu** trước danh từ. Sửa thành **Most employees** (nói chung) hoặc **Most of the employees**.",
+      "wrong": {
+        "1": "(B) đúng: chủ ngữ số nhiều \"employees\" đi với \"have\".",
+        "2": "(C) đúng: \"already\" đứng giữa \"have\" và V3 trong thì hiện tại hoàn thành.",
+        "3": "(D) đúng: khóa đào tạo đã xác định (khóa an toàn trực tuyến của công ty) nên dùng \"the\"."
+      },
+      "rule": "most / all / some / none + of + the / these / my… + N. Không có \"of\" khi nói chung: most employees.",
+      "examples": [
+        "Most of the staff attended the party.",
+        "Most companies now offer flexible working hours."
+      ],
+      "common_mistake": "Dịch \"hầu hết nhân viên\" thành \"most of employees\", bỏ mất \"the\"."
+    },
+    "tags": [
+      "most-of",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "qt-006",
+    "topic": "quantifiers",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "If this laptop model is out of stock, our sales staff can recommend ___ one with similar features.",
+    "options": [
+      "other",
+      "another",
+      "others",
+      "the others"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "\"one\" là danh từ đếm được số ít (một chiếc) → **another one** (một chiếc khác).",
+      "wrong": {
+        "0": "\"other\" + danh từ số nhiều (\"other models\"), không đi với \"one\" số ít.",
+        "2": "\"others\" là đại từ đứng một mình, không đi kèm danh từ \"one\".",
+        "3": "\"the others\" (những cái còn lại) là đại từ số nhiều, không đi kèm \"one\"."
+      },
+      "rule": "another + N số ít; other + N số nhiều; others / the others đứng một mình (thay cho danh từ số nhiều).",
+      "examples": [
+        "Could we schedule another meeting next week?",
+        "Other suppliers offer lower prices."
+      ],
+      "common_mistake": "Dùng \"other\" cho mọi trường hợp vì tiếng Việt chỉ có \"khác\"."
+    },
+    "tags": [
+      "another-other",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "qt-007",
+    "topic": "quantifiers",
+    "level": "advanced",
+    "type": "choose",
+    "question": "Of the two proposals we received, one was far too expensive and ___ did not meet our technical requirements.",
+    "options": [
+      "another",
+      "other",
+      "the others",
+      "the other"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Có **hai** đề xuất: một cái đã nói đến, cái **còn lại** (duy nhất) → **the other**.",
+      "wrong": {
+        "0": "\"another\" là \"một cái khác\" không xác định, dùng khi còn nhiều lựa chọn; ở đây chỉ còn đúng một cái.",
+        "1": "\"other\" phải đi kèm danh từ số nhiều, không đứng một mình làm chủ ngữ.",
+        "2": "\"the others\" là số nhiều (những cái còn lại); trong hai cái chỉ còn lại một."
+      },
+      "rule": "Trong hai đối tượng: one … the other. Trong nhiều đối tượng: one … another … the others.",
+      "examples": [
+        "We have two offices: one is in Hue and the other is in Da Lat.",
+        "Some guests stayed for dinner; the others went back to the hotel."
+      ],
+      "common_mistake": "Dùng \"another\" vì nghĩ \"cái kia\" = \"một cái khác\"."
+    },
+    "tags": [
+      "the-other",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "qt-008",
+    "topic": "quantifiers",
+    "level": "advanced",
+    "type": "choose",
+    "question": "___ of the applicants had the required safety certification, so the position will be advertised again next month.",
+    "options": [
+      "No",
+      "Nobody",
+      "None",
+      "Any"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Kết quả \"will be advertised again\" cho thấy **không ai** đạt yêu cầu. Trước \"of the + N\" dùng **None**.",
+      "wrong": {
+        "0": "\"No\" là từ hạn định, phải đi trực tiếp với danh từ (\"No applicant had…\"), không đi với \"of\".",
+        "1": "\"Nobody\" là đại từ đứng một mình, không đi với \"of the applicants\".",
+        "3": "\"Any of the applicants had…\" trong câu khẳng định không mang nghĩa phủ định, trái với ý \"phải đăng tuyển lại\"."
+      },
+      "rule": "none of + the / my / these + N (không ai / không cái nào trong số…). no + N. nobody / no one đứng một mình.",
+      "examples": [
+        "None of the documents were signed.",
+        "No employee is allowed to enter the server room without permission."
+      ],
+      "common_mistake": "Dùng \"No of\" hoặc \"Nobody of\" vì dịch thẳng \"không ai trong số\"."
+    },
+    "tags": [
+      "none-of",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "qt-009",
+    "topic": "quantifiers",
+    "level": "advanced",
+    "type": "rewrite",
+    "question": "Chọn câu đồng nghĩa với: *Hardly any customers responded to our online survey.*",
+    "options": [
+      "A few customers responded to our online survey.",
+      "Few customers responded to our online survey.",
+      "Little customers responded to our online survey.",
+      "A little customers responded to our online survey."
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "\"Hardly any\" = hầu như không có → **Few** + danh từ đếm được số nhiều (rất ít, nghĩa tiêu cực).",
+      "wrong": {
+        "0": "\"A few\" mang nghĩa tích cực (có một vài người), không diễn tả ý \"hầu như không ai\".",
+        "2": "\"Little\" chỉ đi với danh từ không đếm được, không đi với \"customers\".",
+        "3": "\"A little\" vừa đi với danh từ không đếm được, vừa mang nghĩa tích cực."
+      },
+      "rule": "few = hardly any (+ N đếm được); little = hardly any (+ N không đếm được). a few / a little mang nghĩa \"có một vài / một chút\".",
+      "examples": [
+        "Few people knew about the change in schedule.",
+        "There was little interest in the new service."
+      ],
+      "common_mistake": "Coi \"few\" và \"a few\" là như nhau, bỏ qua sắc thái tiêu cực / tích cực."
+    },
+    "tags": [
+      "few-a-few",
+      "toeic-part6"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "qt-010",
+    "topic": "quantifiers",
+    "level": "advanced",
+    "type": "fix-error",
+    "question": "Tìm phần sai: Ms. Nhung <u>has visited</u> (A) <u>every of</u> (B) our suppliers <u>in</u> (C) the Mekong Delta <u>at least</u> (D) once.",
+    "options": [
+      "has visited",
+      "every of",
+      "in",
+      "at least"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Phần sai là (B). Không có cấu trúc \"every of\". Sửa thành **each of** our suppliers hoặc **all of** our suppliers.",
+      "wrong": {
+        "0": "(A) đúng: hiện tại hoàn thành \"has visited\" diễn tả trải nghiệm tính đến hiện tại (\"at least once\").",
+        "2": "(C) đúng: \"in the Mekong Delta\" chỉ khu vực.",
+        "3": "(D) đúng: \"at least once\" = ít nhất một lần."
+      },
+      "rule": "each of / all of / most of + the / our… + N số nhiều. every chỉ đi trực tiếp với danh từ số ít: every supplier.",
+      "examples": [
+        "Each of the suppliers received a copy of the new policy.",
+        "Every supplier must follow the new policy."
+      ],
+      "common_mistake": "Coi \"every\" và \"each\" giống nhau hoàn toàn nên viết \"every of\"."
+    },
+    "tags": [
+      "each-every",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  }
+]

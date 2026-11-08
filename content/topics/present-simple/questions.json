@@ -1,0 +1,482 @@
+[
+  {
+    "id": "ps-001",
+    "topic": "present-simple",
+    "level": "basic",
+    "type": "choose",
+    "question": "My brother ___ to work by bus every day.",
+    "options": [
+      "go",
+      "goes",
+      "is going",
+      "went"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "\"Every day\" diễn tả thói quen, nên dùng hiện tại đơn. Chủ ngữ \"My brother\" là ngôi thứ ba số ít, động từ \"go\" tận cùng bằng -o nên thêm -es: **goes**.",
+      "wrong": {
+        "0": "\"go\" thiếu -es. Với chủ ngữ ngôi thứ ba số ít (he/she/it, my brother) động từ phải thêm -s/-es.",
+        "2": "\"is going\" là hiện tại tiếp diễn, dùng cho việc đang xảy ra lúc nói, không dùng cho thói quen lặp lại \"every day\".",
+        "3": "\"went\" là quá khứ đơn. Câu nói về thói quen hiện tại (every day), không có mốc thời gian quá khứ."
+      },
+      "rule": "Thói quen hiện tại: S + V(s/es). Chủ ngữ ngôi thứ ba số ít → thêm -s; động từ tận cùng -o, -s, -sh, -ch, -x, -z → thêm -es.",
+      "examples": [
+        "She goes swimming every Sunday.",
+        "My father watches the news every evening.",
+        "Tom usually takes the bus to school."
+      ],
+      "common_mistake": "Người Việt hay quên thêm -s/-es vì tiếng Việt không chia động từ theo chủ ngữ: nói \"He go\" thay vì \"He goes\"."
+    },
+    "tags": [
+      "third-person-s",
+      "habit"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ps-002",
+    "topic": "present-simple",
+    "level": "basic",
+    "type": "choose",
+    "question": "Water ___ at 100 degrees Celsius.",
+    "options": [
+      "boil",
+      "is boiling",
+      "boils",
+      "boiled"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Đây là một sự thật khoa học luôn đúng, nên dùng hiện tại đơn. \"Water\" là danh từ không đếm được, đi với động từ số ít: **boils**.",
+      "wrong": {
+        "0": "\"boil\" thiếu -s. Danh từ không đếm được (water) được xem là ngôi thứ ba số ít.",
+        "1": "\"is boiling\" chỉ việc nước đang sôi ngay lúc nói, không diễn tả chân lý chung.",
+        "3": "\"boiled\" là quá khứ đơn, trong khi sự thật khoa học vẫn đúng ở hiện tại."
+      },
+      "rule": "Sự thật hiển nhiên, chân lý khoa học dùng hiện tại đơn. Danh từ không đếm được + V(s/es).",
+      "examples": [
+        "The sun rises in the east.",
+        "Ice melts when it gets warm.",
+        "The Earth goes around the Sun."
+      ],
+      "common_mistake": "Nhiều người coi \"water\" là số nhiều và viết \"water boil\". Danh từ không đếm được luôn đi với động từ số ít."
+    },
+    "tags": [
+      "general-truth",
+      "uncountable-noun"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ps-003",
+    "topic": "present-simple",
+    "level": "basic",
+    "type": "choose",
+    "question": "She ___ coffee in the evening because it keeps her awake.",
+    "options": [
+      "doesn't drink",
+      "don't drink",
+      "doesn't drinks",
+      "isn't drink"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Phủ định hiện tại đơn với chủ ngữ ngôi thứ ba số ít: S + **doesn't** + động từ nguyên mẫu → **doesn't drink**.",
+      "wrong": {
+        "1": "\"don't\" dùng cho I/you/we/they. Chủ ngữ \"She\" phải dùng \"doesn't\".",
+        "2": "Sau \"doesn't\" động từ trở về nguyên mẫu, không thêm -s: \"doesn't drink\", không phải \"doesn't drinks\".",
+        "3": "Không dùng to be (isn't) để phủ định động từ thường. Phải mượn trợ động từ do/does."
+      },
+      "rule": "Phủ định: S + do/does + not + V (nguyên mẫu). does dùng cho he/she/it; do dùng cho I/you/we/they.",
+      "examples": [
+        "He doesn't like spicy food.",
+        "My parents don't watch TV in the morning.",
+        "It doesn't rain much here in winter."
+      ],
+      "common_mistake": "Lỗi rất phổ biến là giữ -s sau doesn't (\"She doesn't likes\") hoặc dùng \"isn't\" với động từ thường (\"She isn't drink\")."
+    },
+    "tags": [
+      "negative",
+      "auxiliary-do"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ps-004",
+    "topic": "present-simple",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Don't tell me. I ___ the answer to this question already.",
+    "options": [
+      "am knowing",
+      "knowing",
+      "am know",
+      "know"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "\"know\" là động từ chỉ trạng thái (stative verb), không dùng ở dạng tiếp diễn. Chủ ngữ \"I\" nên dùng nguyên mẫu: **know**.",
+      "wrong": {
+        "0": "\"am knowing\" sai vì \"know\" là động từ trạng thái, không chia tiếp diễn dù đang nói về hiện tại.",
+        "1": "\"knowing\" đứng một mình không làm động từ chính của câu được, thiếu trợ động từ và sai thì.",
+        "2": "\"am know\" ghép to be với động từ nguyên mẫu, sai cấu trúc."
+      },
+      "rule": "Động từ trạng thái (know, understand, believe, like, love, want, need, belong…) thường chỉ dùng thì đơn, không dùng tiếp diễn.",
+      "examples": [
+        "I understand what you mean.",
+        "She wants a new phone.",
+        "This bag belongs to my sister."
+      ],
+      "common_mistake": "Do dịch từ tiếng Việt \"tôi đang biết\", nhiều người viết \"I am knowing\". Với động từ trạng thái, chỉ dùng \"I know\"."
+    },
+    "tags": [
+      "stative-verb",
+      "simple-vs-continuous"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ps-005",
+    "topic": "present-simple",
+    "level": "intermediate",
+    "type": "fix-error",
+    "question": "Tìm phần sai: He usually <u>get up</u> (A) at six, <u>has</u> (B) breakfast <u>at</u> (C) home and <u>leaves</u> (D) for work at seven.",
+    "options": [
+      "get up",
+      "has",
+      "at",
+      "leaves"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Chủ ngữ \"He\" là ngôi thứ ba số ít nên \"get up\" phải là **gets up**. Các động từ còn lại (has, leaves) đã chia đúng.",
+      "wrong": {
+        "1": "\"has\" đúng: \"have\" chia với he/she/it là \"has\".",
+        "2": "\"at home\" là cụm cố định đúng, nghĩa là \"ở nhà\".",
+        "3": "\"leaves\" đúng: \"leave\" thêm -s với chủ ngữ \"He\"; \"leave for\" nghĩa là rời đi đến đâu đó."
+      },
+      "rule": "Trong chuỗi hành động thói quen, mọi động từ cùng chủ ngữ ngôi thứ ba số ít đều phải thêm -s/-es. Với cụm động từ, chỉ chia động từ chính: get up → gets up.",
+      "examples": [
+        "She wakes up at six and goes jogging.",
+        "My dad gets home at five and cooks dinner.",
+        "He turns off the light and goes to bed."
+      ],
+      "common_mistake": "Khi câu có nhiều động từ, người học hay chỉ chia động từ đầu tiên hoặc quên chia động từ trong cụm động từ (\"get up\" thay vì \"gets up\")."
+    },
+    "tags": [
+      "third-person-s",
+      "phrasal-verb"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ps-006",
+    "topic": "present-simple",
+    "level": "advanced",
+    "type": "choose",
+    "question": "I'll call you as soon as I ___ at the airport.",
+    "options": [
+      "will arrive",
+      "arrive",
+      "am going to arrive",
+      "would arrive"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Trong mệnh đề thời gian bắt đầu bằng \"as soon as\" (cũng như when, until, before, after), dùng hiện tại đơn để nói về tương lai: **arrive**.",
+      "wrong": {
+        "0": "\"will arrive\" sai: không dùng will trong mệnh đề thời gian, dù hành động xảy ra ở tương lai.",
+        "2": "\"am going to arrive\" cũng là cấu trúc tương lai, không dùng sau \"as soon as\".",
+        "3": "\"would arrive\" dùng cho tương lai trong quá khứ hoặc câu điều kiện, không hợp với mệnh đề chính \"I'll call\"."
+      },
+      "rule": "Mệnh đề chính (will + V) + as soon as / when / until / before / after + hiện tại đơn.",
+      "examples": [
+        "We'll start the meeting when everyone arrives.",
+        "Please wait here until I come back.",
+        "She'll tell you the news after she finishes work."
+      ],
+      "common_mistake": "Vì cả câu nói về tương lai, người Việt thường dùng \"will\" ở cả hai vế: \"as soon as I will arrive\". Mệnh đề thời gian chỉ dùng hiện tại đơn."
+    },
+    "tags": [
+      "time-clause",
+      "future-meaning"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ps-007",
+    "topic": "present-simple",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Look! The children ___ in the garden, but they usually ___ indoors after school.",
+    "options": [
+      "play / are playing",
+      "are playing / play",
+      "are playing / are playing",
+      "play / play"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "\"Look!\" → hành động đang diễn ra (hiện tại tiếp diễn: **are playing**); \"usually\" → thói quen (hiện tại đơn: **play**).",
+      "wrong": {
+        "0": "Đảo ngược hai thì: \"Look!\" cần tiếp diễn, còn \"usually\" cần hiện tại đơn.",
+        "2": "Vế sau có \"usually\" (thói quen) nên không dùng tiếp diễn.",
+        "3": "Vế đầu có \"Look!\" (đang xảy ra) nên không dùng hiện tại đơn."
+      },
+      "rule": "Hiện tại đơn: thói quen (usually, often, every day). Hiện tại tiếp diễn: đang xảy ra (now, Look!, Listen!).",
+      "examples": [
+        "I usually walk to school, but today I'm taking the bus.",
+        "He often wears jeans, but now he is wearing a suit."
+      ],
+      "common_mistake": "Chia cả câu theo một thì duy nhất, không xét dấu hiệu riêng của từng vế."
+    },
+    "tags": [
+      "simple-vs-continuous"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ps-008",
+    "topic": "present-simple",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Who ___ the cooking in your family?",
+    "options": [
+      "does",
+      "do",
+      "doing",
+      "is do"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Câu hỏi chủ ngữ với \"Who\": Who đóng vai chủ ngữ ngôi thứ ba số ít, động từ chia trực tiếp, không mượn trợ động từ: Who **does** the cooking? (does là động từ chính \"làm\").",
+      "wrong": {
+        "1": "\"do\" không hợp với \"Who\" làm chủ ngữ; Who được xem là ngôi thứ ba số ít.",
+        "2": "\"doing\" không thể làm động từ chính khi thiếu trợ động từ.",
+        "3": "\"is do\" ghép to be với động từ nguyên mẫu, sai cấu trúc."
+      },
+      "rule": "Câu hỏi chủ ngữ: Who/What + V(s/es)…? (không dùng do/does làm trợ động từ). So sánh: Who does Lan love? (Who là tân ngữ).",
+      "examples": [
+        "Who lives in that house?",
+        "What makes you happy?"
+      ],
+      "common_mistake": "Dùng \"Who do the cooking?\" hoặc thêm trợ động từ thừa (\"Who does cook…?\")."
+    },
+    "tags": [
+      "subject-question"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ps-009",
+    "topic": "present-simple",
+    "level": "intermediate",
+    "type": "fix-error",
+    "question": "Tìm phần sai: My sister <u>doesn't</u> (A) <u>likes</u> (B) <u>getting</u> (C) up early <u>on</u> (D) weekends.",
+    "options": [
+      "doesn't",
+      "likes",
+      "getting",
+      "on"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Sau \"doesn't\" động từ phải ở dạng nguyên mẫu: sửa \"likes\" thành **like**.",
+      "wrong": {
+        "0": "\"doesn't\" đúng: phủ định với chủ ngữ số ít \"My sister\".",
+        "2": "\"getting\" đúng: like + V-ing (thích làm gì).",
+        "3": "\"on weekends\" đúng (Anh–Mỹ); Anh–Anh dùng \"at weekends\", cả hai đều chấp nhận."
+      },
+      "rule": "S + doesn't + V (nguyên mẫu). Dấu hiệu ngôi thứ ba đã nằm ở \"does\".",
+      "examples": [
+        "He doesn't want to go out tonight.",
+        "It doesn't matter."
+      ],
+      "common_mistake": "Thêm -s hai lần: \"doesn't likes\", \"doesn't goes\"."
+    },
+    "tags": [
+      "negative",
+      "error-correction"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ps-010",
+    "topic": "present-simple",
+    "level": "intermediate",
+    "type": "arrange",
+    "question": "Sắp xếp thành câu đúng: always / late / she / is / for class",
+    "options": [
+      "She always is late for class.",
+      "Always she is late for class.",
+      "She is always late for class.",
+      "She is late always for class."
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Trạng từ tần suất đứng **sau động từ to be**: **She is always late for class.**",
+      "wrong": {
+        "0": "\"always is\" sai: với to be, trạng từ tần suất đứng sau, không đứng trước.",
+        "1": "Đưa \"Always\" lên đầu câu không tự nhiên với trạng từ này trong câu trần thuật thông thường.",
+        "3": "\"late always\" sai: trạng từ tần suất không đứng sau tính từ."
+      },
+      "rule": "Trạng từ tần suất: đứng sau to be (She is always…) và trước động từ thường (She always arrives…).",
+      "examples": [
+        "He is never at home on Sundays.",
+        "We often go swimming in summer."
+      ],
+      "common_mistake": "Đặt trạng từ tần suất trước to be theo trật tự tiếng Việt (\"cô ấy luôn luôn là…\")."
+    },
+    "tags": [
+      "adverb-position",
+      "word-order"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ps-011",
+    "topic": "present-simple",
+    "level": "advanced",
+    "type": "choose",
+    "question": "You won't pass the exam unless you ___ much harder.",
+    "options": [
+      "will study",
+      "studied",
+      "study",
+      "don't study"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "\"unless\" (= if not) mở đầu mệnh đề điều kiện về tương lai nên dùng hiện tại đơn và ở dạng khẳng định: **study**.",
+      "wrong": {
+        "0": "\"will study\" sai: không dùng will trong mệnh đề unless/if.",
+        "1": "\"studied\" là quá khứ, không hợp với \"won't pass\" (điều kiện loại 1).",
+        "3": "\"don't study\" tạo phủ định kép với unless, làm câu ngược nghĩa (\"trừ khi bạn không học\")."
+      },
+      "rule": "Mệnh đề chính (will/won't + V) + unless / if / when / as soon as + hiện tại đơn. unless đã mang nghĩa phủ định.",
+      "examples": [
+        "We'll be late unless we leave now.",
+        "Unless it rains, we'll have a picnic."
+      ],
+      "common_mistake": "Thêm \"not\" sau unless vì dịch \"nếu không… thì\" thành \"unless … don't\"."
+    },
+    "tags": [
+      "unless",
+      "future-meaning"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ps-012",
+    "topic": "present-simple",
+    "level": "advanced",
+    "type": "rewrite",
+    "question": "Chọn câu đồng nghĩa với: *It's not my habit to get up late on Sundays.*",
+    "options": [
+      "I'm not getting up late on Sundays.",
+      "I didn't use to get up late on Sundays.",
+      "I won't get up late on Sundays.",
+      "I don't usually get up late on Sundays."
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Câu gốc nói về thói quen hiện tại; hiện tại đơn + trạng từ tần suất diễn đạt đúng: **I don't usually get up late on Sundays.**",
+      "wrong": {
+        "0": "\"I'm not getting up\" là tiếp diễn, chỉ một sự việc/kế hoạch cụ thể, không phải thói quen.",
+        "1": "\"didn't use to\" nói về thói quen trong quá khứ, khác với thói quen hiện tại.",
+        "2": "\"won't get up\" là quyết định/dự đoán cho tương lai, không phải thói quen."
+      },
+      "rule": "Thói quen hiện tại: S + (don't/doesn't) + usually/often/always + V.",
+      "examples": [
+        "She doesn't usually eat breakfast.",
+        "My parents usually go to bed early."
+      ],
+      "common_mistake": "Nhầm \"used to\" (thói quen quá khứ) với thói quen hiện tại."
+    },
+    "tags": [
+      "habit",
+      "rewrite"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ps-013",
+    "topic": "present-simple",
+    "level": "advanced",
+    "type": "choose",
+    "question": "Mmm, this soup ___ delicious! Can I have some more?",
+    "options": [
+      "tastes",
+      "is tasting",
+      "taste",
+      "tasting"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "\"taste\" ở đây nghĩa là \"có vị\" (động từ liên kết, chỉ trạng thái), nên dùng hiện tại đơn: **tastes**.",
+      "wrong": {
+        "1": "\"is tasting\" chỉ dùng khi taste là hành động \"nếm\" (The chef is tasting the soup); chủ ngữ \"this soup\" không thể tự nếm.",
+        "2": "\"taste\" thiếu -s với chủ ngữ số ít.",
+        "3": "\"tasting\" không làm động từ chính khi thiếu to be."
+      },
+      "rule": "taste / smell / look / sound / feel + tính từ (chỉ trạng thái) → thì đơn. Khi là hành động có chủ ý (nếm, ngửi) → có thể dùng tiếp diễn.",
+      "examples": [
+        "These flowers smell wonderful.",
+        "She is smelling the milk to check if it's fresh."
+      ],
+      "common_mistake": "Dùng tiếp diễn vì thấy người nói đang ăn ngay lúc đó."
+    },
+    "tags": [
+      "stative-dynamic",
+      "linking-verb"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ps-014",
+    "topic": "present-simple",
+    "level": "advanced",
+    "type": "fix-error",
+    "question": "Tìm phần sai: My father <u>reads</u> (A) the news, my mother <u>makes</u> (B) breakfast, everyone in my family <u>enjoys</u> (C) Sundays, but nobody <u>like</u> (D) Monday mornings.",
+    "options": [
+      "reads",
+      "makes",
+      "enjoys",
+      "like"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "\"nobody\" là đại từ bất định, luôn đi với động từ số ít: sửa \"like\" thành **likes**.",
+      "wrong": {
+        "0": "\"reads\" đúng: chủ ngữ \"My father\" số ít.",
+        "1": "\"makes\" đúng: chủ ngữ \"my mother\" số ít.",
+        "2": "\"enjoys\" đúng: \"everyone\" là đại từ bất định số ít dù mang nghĩa \"mọi người\"."
+      },
+      "rule": "everyone, everybody, someone, nobody, nothing, each… + V(s/es) (số ít).",
+      "examples": [
+        "Everybody knows the answer.",
+        "Nobody wants to work on Sundays."
+      ],
+      "common_mistake": "Thấy \"nobody\" hay \"everyone\" mang nghĩa nhiều người nên chia động từ số nhiều."
+    },
+    "tags": [
+      "indefinite-pronoun",
+      "subject-agreement"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  }
+]

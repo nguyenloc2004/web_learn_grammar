@@ -1,0 +1,508 @@
+[
+  {
+    "id": "cond-001",
+    "topic": "conditionals",
+    "level": "basic",
+    "type": "choose",
+    "question": "If it ___ tomorrow, we will stay at home and watch films.",
+    "options": [
+      "rains",
+      "will rain",
+      "rained",
+      "is raining"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Câu điều kiện loại 1 (có thể xảy ra): mệnh đề If dùng hiện tại đơn, mệnh đề chính dùng will: **rains**.",
+      "wrong": {
+        "1": "\"will rain\" sai: không dùng will trong mệnh đề If của câu điều kiện loại 1.",
+        "2": "\"rained\" dùng cho loại 2 (giả định), không đi với \"will stay\".",
+        "3": "\"is raining\" chỉ việc đang mưa lúc nói, không hợp với \"tomorrow\"."
+      },
+      "rule": "Loại 1: If + S + V(s/es), S + will + V.",
+      "examples": [
+        "If you study hard, you will pass the exam.",
+        "If she calls, I will tell her the news."
+      ],
+      "common_mistake": "Dùng will ở cả hai vế vì cả câu nói về tương lai: \"If it will rain…\"."
+    },
+    "tags": [
+      "type-1"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "cond-002",
+    "topic": "conditionals",
+    "level": "basic",
+    "type": "choose",
+    "question": "If you heat ice, it ___.",
+    "options": [
+      "melted",
+      "melts",
+      "will melts",
+      "melting"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Sự thật khoa học luôn đúng dùng câu điều kiện loại 0: cả hai vế ở hiện tại đơn: **melts**.",
+      "wrong": {
+        "0": "\"melted\" là quá khứ, không diễn tả quy luật luôn đúng.",
+        "2": "\"will melts\" sai: sau will không thêm -s.",
+        "3": "\"melting\" thiếu trợ động từ nên không làm động từ chính."
+      },
+      "rule": "Loại 0: If + S + V(s/es), S + V(s/es). Dùng cho sự thật, quy luật tự nhiên.",
+      "examples": [
+        "If you mix red and white, you get pink.",
+        "Plants die if they don't get water."
+      ],
+      "common_mistake": "Thêm -s sau will (\"will melts\")."
+    },
+    "tags": [
+      "type-0"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "cond-003",
+    "topic": "conditionals",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "If I ___ more money, I would buy a new laptop, but I can't afford one right now.",
+    "options": [
+      "have",
+      "had",
+      "would have",
+      "will have"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "\"I can't afford one right now\" cho thấy điều kiện trái với thực tế hiện tại → câu điều kiện loại 2: mệnh đề If dùng quá khứ đơn: **had**.",
+      "wrong": {
+        "0": "\"have\" là loại 1, không đi với \"would buy\" và mâu thuẫn với thực tế \"can't afford\".",
+        "2": "\"would have\" không dùng trong mệnh đề If.",
+        "3": "\"will have\" không dùng trong mệnh đề If và không hợp với \"would\"."
+      },
+      "rule": "Loại 2: If + S + V2 (be → were), S + would/could/might + V. Diễn tả điều không có thật ở hiện tại.",
+      "examples": [
+        "If I lived near the sea, I would go swimming every day.",
+        "If she knew the answer, she would tell us."
+      ],
+      "common_mistake": "Dùng would ở mệnh đề If (\"If I would have money…\")."
+    },
+    "tags": [
+      "type-2"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "cond-004",
+    "topic": "conditionals",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "If she had studied harder last term, she ___ the final exam.",
+    "options": [
+      "would pass",
+      "will pass",
+      "would have passed",
+      "had passed"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Mệnh đề If ở quá khứ hoàn thành, nói về \"last term\" → câu điều kiện loại 3: **would have passed**.",
+      "wrong": {
+        "0": "\"would pass\" là mệnh đề chính của loại 2, nói về hiện tại, không hợp với kỳ thi đã qua.",
+        "1": "\"will pass\" là loại 1, không đi với \"had studied\".",
+        "3": "\"had passed\" chỉ dùng trong mệnh đề If, không dùng cho mệnh đề chính."
+      },
+      "rule": "Loại 3: If + S + had + V3, S + would/could/might + have + V3. Diễn tả điều trái với thực tế trong quá khứ.",
+      "examples": [
+        "If we had left earlier, we wouldn't have missed the train.",
+        "If he had seen the sign, he would have stopped."
+      ],
+      "common_mistake": "Kết hợp \"had + V3\" với \"would + V\", lẫn lộn loại 2 và loại 3."
+    },
+    "tags": [
+      "type-3"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "cond-005",
+    "topic": "conditionals",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "You'll miss the last bus ___ you leave right now.",
+    "options": [
+      "if",
+      "when",
+      "unless",
+      "because"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Nghĩa câu: \"Bạn sẽ lỡ chuyến xe cuối **trừ khi** bạn đi ngay bây giờ\" → **unless** (= if … not).",
+      "wrong": {
+        "0": "\"if\" làm câu mang nghĩa ngược: đi ngay thì lại lỡ xe, vô lý.",
+        "1": "\"when\" cũng tạo nghĩa vô lý tương tự \"if\".",
+        "3": "\"because\" chỉ nguyên nhân: \"lỡ xe vì bạn đi ngay\", không hợp logic."
+      },
+      "rule": "unless + mệnh đề khẳng định = if + mệnh đề phủ định. Không dùng unless với not.",
+      "examples": [
+        "Unless you hurry, you'll be late. (= If you don't hurry…)",
+        "I won't go unless you come with me."
+      ],
+      "common_mistake": "Dùng \"unless you don't…\", tạo thành phủ định kép."
+    },
+    "tags": [
+      "unless"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "cond-006",
+    "topic": "conditionals",
+    "level": "intermediate",
+    "type": "fill-form",
+    "question": "If we ___ (live) near the sea now, we could go swimming every day.",
+    "options": [
+      "live",
+      "had lived",
+      "would live",
+      "lived"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "\"could go\" và \"now\" cho thấy giả định trái thực tế hiện tại → loại 2: **lived**.",
+      "wrong": {
+        "0": "\"live\" là loại 1, không đi với \"could go\" (giả định).",
+        "1": "\"had lived\" là loại 3 (quá khứ), mâu thuẫn với \"now\".",
+        "2": "\"would live\" không dùng trong mệnh đề If."
+      },
+      "rule": "Loại 2: If + V2, S + would/could/might + V. could = would be able to.",
+      "examples": [
+        "If I had a car, I could drive you home.",
+        "If he spoke English, he could get a better job."
+      ],
+      "common_mistake": "Giữ nguyên hiện tại đơn sau If vì thấy \"now\"."
+    },
+    "tags": [
+      "type-2"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "cond-007",
+    "topic": "conditionals",
+    "level": "intermediate",
+    "type": "fix-error",
+    "question": "Tìm phần sai: If I <u>will see</u> (A) him tomorrow, I <u>will tell</u> (B) him <u>about</u> (C) the meeting <u>straight away</u> (D).",
+    "options": [
+      "will see",
+      "will tell",
+      "about",
+      "straight away"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Mệnh đề If của câu điều kiện loại 1 dùng hiện tại đơn, không dùng will: sửa thành **see**.",
+      "wrong": {
+        "1": "\"will tell\" đúng: mệnh đề chính của loại 1.",
+        "2": "\"about\" đúng: tell somebody about something.",
+        "3": "\"straight away\" đúng: ngay lập tức."
+      },
+      "rule": "If + hiện tại đơn, will + V. Will chỉ xuất hiện ở mệnh đề chính.",
+      "examples": [
+        "If I see Lan, I'll give her your message.",
+        "If it is sunny, we'll go to the beach."
+      ],
+      "common_mistake": "Dùng will ở cả hai vế vì cả câu nói về tương lai."
+    },
+    "tags": [
+      "type-1",
+      "error-correction"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "cond-008",
+    "topic": "conditionals",
+    "level": "advanced",
+    "type": "choose",
+    "question": "If I had accepted that job offer in 2020, I ___ in London now.",
+    "options": [
+      "will live",
+      "had lived",
+      "would have lived",
+      "would be living"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Điều kiện ở quá khứ (2020) nhưng kết quả ở hiện tại (now) → câu điều kiện hỗn hợp: would + V (ở đây là would be living).",
+      "wrong": {
+        "0": "\"will live\" là loại 1, không đi với \"had accepted\".",
+        "1": "\"had lived\" chỉ dùng trong mệnh đề If.",
+        "2": "\"would have lived\" là kết quả trong quá khứ (loại 3), mâu thuẫn với \"now\"."
+      },
+      "rule": "Hỗn hợp (quá khứ → hiện tại): If + S + had + V3, S + would + V / would be + V-ing + now.",
+      "examples": [
+        "If I had studied medicine, I would be a doctor now.",
+        "If she hadn't missed the flight, she would be in Paris now."
+      ],
+      "common_mistake": "Máy móc ghép \"had V3\" với \"would have V3\" mà không để ý trạng từ \"now\"."
+    },
+    "tags": [
+      "mixed-conditional"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "cond-009",
+    "topic": "conditionals",
+    "level": "advanced",
+    "type": "choose",
+    "question": "___ I known about the problem earlier, I would have helped you.",
+    "options": [
+      "Had",
+      "If",
+      "Should",
+      "Were"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Đảo ngữ câu điều kiện loại 3: bỏ \"If\", đưa \"had\" lên đầu: **Had** I known = If I had known.",
+      "wrong": {
+        "1": "\"If I known\" thiếu \"had\"; muốn dùng If phải viết \"If I had known\".",
+        "2": "\"Should\" dùng để đảo ngữ loại 1 (Should you need help…), và sau nó là động từ nguyên mẫu.",
+        "3": "\"Were\" dùng để đảo ngữ loại 2 (Were I you…), không đi với V3 \"known\"."
+      },
+      "rule": "Đảo ngữ: loại 1: Should + S + V; loại 2: Were + S + (to V / adj); loại 3: Had + S + V3.",
+      "examples": [
+        "Had she left earlier, she would have caught the train.",
+        "Were I you, I would accept the offer."
+      ],
+      "common_mistake": "Giữ \"If\" và đảo ngữ cùng lúc (\"If had I known…\")."
+    },
+    "tags": [
+      "inversion",
+      "type-3"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "cond-010",
+    "topic": "conditionals",
+    "level": "advanced",
+    "type": "rewrite",
+    "question": "Chọn câu đồng nghĩa với: *I didn't know her phone number, so I didn't call her.*",
+    "options": [
+      "If I knew her phone number, I would call her.",
+      "If I had known her phone number, I would call her.",
+      "If I had known her phone number, I would have called her.",
+      "If I know her phone number, I will call her."
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Cả hai sự việc đều ở quá khứ và trái với thực tế (đã không biết, đã không gọi) → loại 3: **If I had known…, I would have called her.**",
+      "wrong": {
+        "0": "Loại 2 nói về hiện tại, trong khi câu gốc nói về quá khứ.",
+        "1": "Câu hỗn hợp: kết quả \"would call\" nói về hiện tại, nhưng việc không gọi đã xảy ra trong quá khứ.",
+        "3": "Loại 1 nói về khả năng trong tương lai, không phải điều đã không xảy ra."
+      },
+      "rule": "Viết lại \"…didn't…, so …didn't…\" (quá khứ) → If + had + V3, would have + V3 (đổi phủ định thành khẳng định).",
+      "examples": [
+        "It rained, so we didn't go out. → If it hadn't rained, we would have gone out.",
+        "He was ill, so he missed the party. → If he hadn't been ill, he wouldn't have missed the party."
+      ],
+      "common_mistake": "Quên đổi khẳng định ↔ phủ định khi viết lại, hoặc chọn nhầm loại 2."
+    },
+    "tags": [
+      "type-3",
+      "rewrite"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "cond-011",
+    "topic": "conditionals",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Please bring a raincoat to the outdoor product launch ___ it rains in the afternoon.",
+    "options": [
+      "in case",
+      "unless",
+      "as long as",
+      "otherwise"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Mang áo mưa **phòng khi** trời mưa (chuẩn bị trước cho một khả năng) → **in case**.",
+      "wrong": {
+        "1": "\"unless\" (= if … not) tạo nghĩa vô lý: \"mang áo mưa trừ khi trời mưa\".",
+        "2": "\"as long as\" (miễn là) biến việc mưa thành điều kiện bắt buộc để mang áo, sai logic.",
+        "3": "\"otherwise\" (nếu không thì) là trạng từ nối, không đứng trước mệnh đề phụ \"it rains\" theo cách này."
+      },
+      "rule": "in case + S + V (hiện tại đơn): làm A trước để phòng khi B xảy ra. Khác với if: làm A chỉ khi B xảy ra.",
+      "examples": [
+        "Take my number in case you get lost.",
+        "I'll print an extra copy in case the client asks for one."
+      ],
+      "common_mistake": "Dùng \"in case\" như \"if\": \"In case it rains, the event will be cancelled\" (đúng phải là \"If it rains…\")."
+    },
+    "tags": [
+      "in-case",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "cond-012",
+    "topic": "conditionals",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The supplier has agreed to offer a 10 percent discount ___ we place the order before the end of the month.",
+    "options": [
+      "unless",
+      "in case",
+      "otherwise",
+      "as long as"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Giảm giá **với điều kiện / miễn là** đặt hàng trước cuối tháng → **as long as** (= provided that, only if).",
+      "wrong": {
+        "0": "\"unless\" làm ngược nghĩa: \"giảm giá trừ khi chúng ta đặt hàng trước cuối tháng\".",
+        "1": "\"in case\" (phòng khi) không diễn tả điều kiện để được hưởng ưu đãi.",
+        "2": "\"otherwise\" là trạng từ nối mang nghĩa \"nếu không thì\", không nối trực tiếp hai mệnh đề như liên từ."
+      },
+      "rule": "as long as / so long as / provided (that) / providing (that) + S + V (hiện tại đơn) = chỉ khi, với điều kiện là.",
+      "examples": [
+        "You can leave early as long as you finish your report.",
+        "We will deliver on Saturday provided that you pay in advance."
+      ],
+      "common_mistake": "Dùng \"will\" sau \"as long as\" (\"as long as we will place…\")."
+    },
+    "tags": [
+      "as-long-as",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "cond-013",
+    "topic": "conditionals",
+    "level": "intermediate",
+    "type": "fix-error",
+    "question": "Tìm phần sai: <u>Unless</u> (A) you <u>don't submit</u> (B) your expense report <u>by</u> (C) Friday, you <u>won't be</u> (D) reimbursed this month.",
+    "options": [
+      "Unless",
+      "don't submit",
+      "by",
+      "won't be"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Phần sai là (B). \"Unless\" đã mang nghĩa phủ định (= if … not), nên động từ sau nó ở dạng khẳng định: **Unless you submit** = If you don't submit.",
+      "wrong": {
+        "0": "(A) đúng: \"Unless\" (trừ khi) hợp nghĩa: không nộp đúng hạn thì không được hoàn tiền.",
+        "2": "(C) đúng: \"by Friday\" = chậm nhất là thứ Sáu.",
+        "3": "(D) đúng: mệnh đề chính câu điều kiện loại 1 dùng will (won't) + be + V3 bị động."
+      },
+      "rule": "unless + mệnh đề khẳng định = if + mệnh đề phủ định. Không dùng \"unless … not / don't\".",
+      "examples": [
+        "Unless you book now, the seats will be gone.",
+        "The machine won't start unless you press the green button."
+      ],
+      "common_mistake": "Dịch \"trừ khi bạn không…\" nên thêm \"don't\", tạo phủ định kép."
+    },
+    "tags": [
+      "unless",
+      "error-correction",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "cond-014",
+    "topic": "conditionals",
+    "level": "advanced",
+    "type": "choose",
+    "question": "Please back up all your files before the system upgrade tonight; ___, you may lose important data.",
+    "options": [
+      "unless",
+      "in case",
+      "otherwise",
+      "provided that"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Sau dấu chấm phẩy, cần **trạng từ nối** mang nghĩa \"nếu không (làm vậy) thì\" → **otherwise**, theo sau là dấu phẩy và một mệnh đề hoàn chỉnh.",
+      "wrong": {
+        "0": "\"unless\" là liên từ, phải đi trực tiếp với một mệnh đề (\"unless you back up…\"), không đứng một mình trước dấu phẩy.",
+        "1": "\"in case\" cũng là liên từ cần mệnh đề theo sau, và nghĩa \"phòng khi\" không hợp.",
+        "3": "\"provided that\" là liên từ cần mệnh đề theo sau; nghĩa \"với điều kiện là\" cũng ngược ý câu."
+      },
+      "rule": "Mệnh đề 1; otherwise, mệnh đề 2 (= If you don't do 1, 2 will happen). unless / in case / provided that là liên từ, phải nối trực tiếp với mệnh đề.",
+      "examples": [
+        "Leave now; otherwise, you'll miss the train.",
+        "We need the deposit by Monday. Otherwise, we cannot hold the room."
+      ],
+      "common_mistake": "Dùng \"unless\" thay cho \"otherwise\" ở đầu vế sau dấu chấm phẩy vì cả hai đều dịch là \"nếu không\"."
+    },
+    "tags": [
+      "otherwise",
+      "toeic-part5",
+      "toeic-part6"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "cond-015",
+    "topic": "conditionals",
+    "level": "advanced",
+    "type": "rewrite",
+    "question": "Chọn câu đồng nghĩa với: *You can use the company car this weekend, but only if you return it by 6 p.m. on Sunday.*",
+    "options": [
+      "You can use the company car this weekend unless you return it by 6 p.m. on Sunday.",
+      "You can use the company car this weekend in case you return it by 6 p.m. on Sunday.",
+      "You can use the company car this weekend provided that you will return it by 6 p.m. on Sunday.",
+      "You can use the company car this weekend provided that you return it by 6 p.m. on Sunday."
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "\"only if\" = **provided that** (với điều kiện là); mệnh đề điều kiện dùng hiện tại đơn \"you return\".",
+      "wrong": {
+        "0": "\"unless\" làm ngược nghĩa: được dùng xe trừ khi trả xe đúng giờ.",
+        "1": "\"in case\" (phòng khi) không diễn tả điều kiện bắt buộc.",
+        "2": "Đúng liên từ nhưng dùng \"will\" trong mệnh đề điều kiện; sau provided that dùng hiện tại đơn để nói về tương lai."
+      },
+      "rule": "only if = provided (that) / providing (that) / as long as + S + V (hiện tại đơn, không dùng will).",
+      "examples": [
+        "You may borrow the projector provided that you sign it out.",
+        "Staff can work remotely as long as they attend Monday meetings."
+      ],
+      "common_mistake": "Dùng \"will\" sau provided that vì việc trả xe xảy ra trong tương lai."
+    },
+    "tags": [
+      "provided-that",
+      "rewrite",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  }
+]

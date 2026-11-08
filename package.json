@@ -1,0 +1,30 @@
+{
+  "name": "grammar-practice-web",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "engines": {
+    "node": ">=22.18"
+  },
+  "scripts": {
+    "dev": "vite --open",
+    "build": "svelte-check --tsconfig ./tsconfig.json && vite build",
+    "preview": "vite preview --open",
+    "validate": "node scripts/validate.ts",
+    "stats": "node scripts/stats.ts",
+    "test": "node --test \"tests/**/*.test.ts\"",
+    "check": "svelte-check --tsconfig ./tsconfig.json"
+  },
+  "dependencies": {
+    "marked": "^18.1.3"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^7.3.1",
+    "@tsconfig/svelte": "^5.0.4",
+    "@types/node": "^24.0.0",
+    "svelte": "^5.57.3",
+    "svelte-check": "^4.7.8",
+    "typescript": "~5.9.3",
+    "vite": "^8.3.6"
+  }
+}

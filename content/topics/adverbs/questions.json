@@ -1,0 +1,352 @@
+[
+  {
+    "id": "adv-001",
+    "topic": "adverbs",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The new accountant has worked very ___ to clear the backlog of unpaid invoices before the audit.",
+    "options": [
+      "hardly",
+      "hard",
+      "hardness",
+      "more hardly"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Cần trạng từ bổ nghĩa cho \"worked\" với nghĩa **chăm chỉ, vất vả**: **hard**. \"hard\" vừa là tính từ vừa là trạng từ, không thêm -ly.",
+      "wrong": {
+        "0": "\"hardly\" nghĩa là **hầu như không**; \"worked very hardly\" vừa sai nghĩa vừa không tự nhiên (không dùng \"very\" với \"hardly\").",
+        "2": "\"hardness\" là danh từ (độ cứng), không bổ nghĩa cho động từ \"worked\".",
+        "3": "\"more hardly\" không tồn tại với nghĩa \"chăm chỉ hơn\"; so sánh hơn của \"hard\" là \"harder\"."
+      },
+      "rule": "hard (adv) = chăm chỉ, vất vả: work hard, try hard. hardly (adv) = hầu như không: can hardly hear.",
+      "examples": [
+        "Our sales team worked hard to meet the year-end target.",
+        "The technicians are trying hard to restore the network."
+      ],
+      "common_mistake": "Nghĩ \"hardly\" là dạng trạng từ của \"hard\" (theo quy tắc thêm -ly) nên viết \"work hardly\" với nghĩa \"làm việc chăm chỉ\"."
+    },
+    "tags": [
+      "confusing-adverbs",
+      "hard-hardly",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "adv-002",
+    "topic": "adverbs",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The microphone in the main hall was so faulty that the participants could ___ hear the keynote speaker.",
+    "options": [
+      "hard",
+      "harder",
+      "hardness",
+      "hardly"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "\"so faulty that…\" cho thấy kết quả tiêu cực: người nghe **hầu như không** nghe được. Đứng giữa \"could\" và động từ \"hear\" cần trạng từ **hardly**.",
+      "wrong": {
+        "0": "\"hard\" (chăm chỉ, vất vả) không hợp nghĩa và không đứng giữa \"could\" và \"hear\" theo cách này.",
+        "1": "\"harder\" là so sánh hơn, không có đối tượng so sánh và cũng không mang nghĩa phủ định.",
+        "2": "\"hardness\" là danh từ, không đứng giữa động từ khuyết thiếu và động từ chính."
+      },
+      "rule": "can / could + hardly + V = hầu như không thể. \"hardly\" mang nghĩa phủ định nên không dùng thêm \"not\".",
+      "examples": [
+        "I could hardly read the handwriting on the delivery note.",
+        "There is hardly any space left in the warehouse."
+      ],
+      "common_mistake": "Thêm \"not\" thành phủ định kép: \"could not hardly hear\"."
+    },
+    "tags": [
+      "confusing-adverbs",
+      "hard-hardly",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "adv-003",
+    "topic": "adverbs",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Customer complaints about delayed deliveries have increased sharply ___, so we are reviewing our shipping partners.",
+    "options": [
+      "late",
+      "later",
+      "lately",
+      "latest"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Thì hiện tại hoàn thành \"have increased\" + nghĩa **gần đây** → **lately** (= recently).",
+      "wrong": {
+        "0": "\"late\" nghĩa là **muộn**; \"have increased sharply late\" không có nghĩa.",
+        "1": "\"later\" (sau đó, lát nữa) chỉ thời điểm sau, không đi với hiện tại hoàn thành để chỉ \"gần đây\".",
+        "3": "\"latest\" là tính từ so sánh nhất (mới nhất), cần danh từ đi kèm: \"the latest figures\"."
+      },
+      "rule": "lately = recently (gần đây), thường đi với thì hiện tại hoàn thành. late = muộn: arrive late.",
+      "examples": [
+        "Have you spoken to Mr. Phong lately?",
+        "The train arrived late because of the storm."
+      ],
+      "common_mistake": "Nghĩ \"lately\" là dạng trạng từ của \"late\" nên dùng với nghĩa \"muộn\": \"He came to work lately\"."
+    },
+    "tags": [
+      "confusing-adverbs",
+      "late-lately",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "adv-004",
+    "topic": "adverbs",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Ms. Ngoc is a ___ respected consultant who has advised several logistics companies in the region.",
+    "options": [
+      "high",
+      "higher",
+      "height",
+      "highly"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Đứng trước phân từ/tính từ \"respected\" cần trạng từ chỉ mức độ: **highly** (rất, hết sức). \"highly respected\" là cụm cố định thường gặp.",
+      "wrong": {
+        "0": "\"high\" chỉ độ cao/vị trí (\"fly high\"), không bổ nghĩa mức độ cho \"respected\".",
+        "1": "\"higher\" là so sánh hơn, câu không có đối tượng so sánh; \"a higher respected\" sai cấu trúc.",
+        "2": "\"height\" là danh từ (chiều cao), không bổ nghĩa cho tính từ."
+      },
+      "rule": "highly + tính từ / phân từ = rất: highly recommended, highly qualified, highly competitive.",
+      "examples": [
+        "This hotel is highly recommended by business travelers.",
+        "We are looking for highly qualified engineers."
+      ],
+      "common_mistake": "Dùng \"high\" vì dịch \"đánh giá cao\": \"a high respected expert\"."
+    },
+    "tags": [
+      "confusing-adverbs",
+      "high-highly",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "adv-005",
+    "topic": "adverbs",
+    "level": "intermediate",
+    "type": "fix-error",
+    "question": "Tìm phần sai: Our technicians <u>respond usually</u> (A) to service requests <u>within</u> (B) two hours, and they <u>are always</u> (C) <u>polite</u> (D) to customers.",
+    "options": [
+      "respond usually",
+      "within",
+      "are always",
+      "polite"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Phần sai là (A). Trạng từ tần suất đứng **trước động từ thường**: sửa thành **usually respond**.",
+      "wrong": {
+        "1": "(B) đúng: \"within two hours\" = trong vòng hai giờ.",
+        "2": "(C) đúng: trạng từ tần suất đứng **sau** động từ \"be\": \"are always\".",
+        "3": "(D) đúng: sau \"be\" dùng tính từ \"polite\"."
+      },
+      "rule": "Trạng từ tần suất: trước động từ thường (usually respond), sau be (are always), sau trợ động từ đầu tiên (have never missed).",
+      "examples": [
+        "We usually ship orders on the same day.",
+        "The manager is rarely in the office on Fridays."
+      ],
+      "common_mistake": "Đặt trạng từ tần suất sau động từ thường theo trật tự tiếng Việt \"trả lời thường xuyên\": \"respond usually\"."
+    },
+    "tags": [
+      "frequency-adverb",
+      "position",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "adv-006",
+    "topic": "adverbs",
+    "level": "intermediate",
+    "type": "fill-form",
+    "question": "We ___ (sincere) apologize for any inconvenience caused by the temporary closure of our Hai Phong branch.",
+    "options": [
+      "sincere",
+      "sincerely",
+      "sincerity",
+      "more sincere"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Giữa chủ ngữ \"We\" và động từ \"apologize\" cần **trạng từ** bổ nghĩa cho động từ: **sincerely**.",
+      "wrong": {
+        "0": "\"sincere\" là tính từ, không đứng trước động từ thường để bổ nghĩa cho nó.",
+        "2": "\"sincerity\" là danh từ (sự chân thành); \"We sincerity apologize\" thừa thành phần.",
+        "3": "\"more sincere\" là tính từ so sánh hơn, vẫn sai từ loại và không có đối tượng so sánh."
+      },
+      "rule": "S + trạng từ + V: We sincerely apologize / We kindly request / We greatly appreciate.",
+      "examples": [
+        "We greatly appreciate your continued support.",
+        "Guests are kindly requested to check out by noon."
+      ],
+      "common_mistake": "Dịch \"chân thành xin lỗi\" rồi dùng tính từ \"sincere\" trước động từ."
+    },
+    "tags": [
+      "adverb-formation",
+      "position",
+      "toeic-part6"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "adv-007",
+    "topic": "adverbs",
+    "level": "advanced",
+    "type": "choose",
+    "question": "The attendees at yesterday's product launch were ___ distributors and retailers from the southern provinces.",
+    "options": [
+      "most",
+      "almost",
+      "mostly",
+      "the most"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Cần trạng từ nghĩa **chủ yếu, phần lớn là** đứng sau \"were\" và trước cụm danh từ: **mostly**.",
+      "wrong": {
+        "0": "\"most\" đứng trước danh từ nghĩa \"phần lớn\" (\"most distributors\") thì phải làm chủ ngữ hoặc tân ngữ; \"were most distributors\" sai cấu trúc.",
+        "1": "\"almost\" (gần như) không bổ nghĩa trực tiếp cho danh từ; \"almost distributors\" sai.",
+        "3": "\"the most\" là so sánh nhất, cần tính từ/trạng từ đi kèm (\"the most important\")."
+      },
+      "rule": "mostly = chủ yếu (trạng từ): be mostly + N / adj. most + N = phần lớn (từ hạn định). almost + all / every / adj.",
+      "examples": [
+        "Our customers are mostly small businesses.",
+        "The delays were mostly caused by bad weather."
+      ],
+      "common_mistake": "Nhầm \"most\", \"mostly\", \"almost\" vì cùng dịch là \"hầu hết, phần lớn\"."
+    },
+    "tags": [
+      "confusing-adverbs",
+      "most-mostly",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "adv-008",
+    "topic": "adverbs",
+    "level": "advanced",
+    "type": "choose",
+    "question": "Thanks to the new online booking system, ticket sales have ___ doubled since the price was reduced in March.",
+    "options": [
+      "nearly",
+      "near",
+      "nearby",
+      "nearest"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Đứng giữa trợ động từ \"have\" và động từ chính \"doubled\" cần trạng từ nghĩa **gần như, suýt** (= almost): **nearly**.",
+      "wrong": {
+        "1": "\"near\" chỉ khoảng cách (gần), không mang nghĩa \"gần như\" trong tiếng Anh chuẩn.",
+        "2": "\"nearby\" chỉ vị trí gần đó (\"a nearby hotel\"), không bổ nghĩa mức độ cho \"doubled\".",
+        "3": "\"nearest\" là so sánh nhất của \"near\", chỉ khoảng cách gần nhất."
+      },
+      "rule": "nearly = almost (gần như): nearly doubled, nearly finished, nearly 500 people. near = gần về khoảng cách.",
+      "examples": [
+        "The renovation is nearly finished.",
+        "Nearly all of the guests stayed until the end of the dinner."
+      ],
+      "common_mistake": "Dùng \"near\" vì dịch \"gần\", không phân biệt \"gần về khoảng cách\" và \"gần như\"."
+    },
+    "tags": [
+      "confusing-adverbs",
+      "near-nearly",
+      "position",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "adv-009",
+    "topic": "adverbs",
+    "level": "advanced",
+    "type": "rewrite",
+    "question": "Chọn câu đồng nghĩa với: *It is clear that the new manager has improved team morale.*",
+    "options": [
+      "Clear, the new manager has improved team morale.",
+      "The new manager clear has improved team morale.",
+      "The new manager has improved team morale clear.",
+      "Clearly, the new manager has improved team morale."
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "\"It is clear that + mệnh đề\" = trạng từ bổ nghĩa cả câu **Clearly**, đặt đầu câu và có dấu phẩy.",
+      "wrong": {
+        "0": "\"Clear\" là tính từ, không thể đứng một mình ở đầu câu để bổ nghĩa cho cả mệnh đề.",
+        "1": "\"clear\" là tính từ, không chen giữa chủ ngữ và trợ động từ để bổ nghĩa cho động từ.",
+        "2": "\"clear\" ở cuối câu là tính từ, không bổ nghĩa cho động từ \"improved\"; cần trạng từ."
+      },
+      "rule": "It is + adj + that + S + V → Adv-ly, S + V: It is fortunate that… → Fortunately, …; It is obvious that… → Obviously, …",
+      "examples": [
+        "Obviously, the client was satisfied with the results.",
+        "Unfortunately, the conference has been postponed."
+      ],
+      "common_mistake": "Đặt tính từ ở đầu câu vì tiếng Việt nói \"Rõ ràng, …\" mà không đổi hình thức từ."
+    },
+    "tags": [
+      "sentence-adverb",
+      "toeic-part6"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "adv-010",
+    "topic": "adverbs",
+    "level": "advanced",
+    "type": "arrange",
+    "question": "Sắp xếp thành câu đúng: has / always / punctual / been / Mr. Hai / for client meetings",
+    "options": [
+      "Mr. Hai has been always punctual for client meetings.",
+      "Always Mr. Hai has been punctual for client meetings.",
+      "Mr. Hai has always been punctual for client meetings.",
+      "Mr. Hai has been punctual always for client meetings."
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Với thì có trợ động từ, trạng từ tần suất đứng **sau trợ động từ đầu tiên**: **has always been**.",
+      "wrong": {
+        "0": "\"has been always\" đặt trạng từ sau trợ động từ thứ hai; vị trí chuẩn là ngay sau \"has\".",
+        "1": "\"Always\" không đứng đầu câu trần thuật như thế này để bổ nghĩa cho động từ.",
+        "3": "\"always\" chen giữa tính từ \"punctual\" và cụm giới từ là sai vị trí."
+      },
+      "rule": "S + trợ động từ (has / will / can…) + trạng từ tần suất + phần còn lại: has always been, will never forget, can usually find.",
+      "examples": [
+        "She has never missed a deadline.",
+        "Our suppliers have usually delivered on time."
+      ],
+      "common_mistake": "Coi \"has been\" là một khối rồi đặt trạng từ sau \"be\" như với động từ \"be\" đơn lẻ: \"has been always\"."
+    },
+    "tags": [
+      "frequency-adverb",
+      "position",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  }
+]

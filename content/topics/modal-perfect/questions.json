@@ -1,0 +1,351 @@
+[
+  {
+    "id": "mp-001",
+    "topic": "modal-perfect",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The report we sent to the client contained several calculation errors. Mr. Khoa ___ it more carefully before sending it out.",
+    "options": [
+      "should have checked",
+      "must have checked",
+      "should check",
+      "should have check"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Báo cáo đã gửi đi và có lỗi → **lẽ ra nên** kiểm tra kỹ hơn (nhưng đã không làm): **should have checked**.",
+      "wrong": {
+        "1": "\"must have checked\" là suy luận \"chắc hẳn đã kiểm tra\", mâu thuẫn với việc báo cáo đầy lỗi.",
+        "2": "\"should check\" nói về hiện tại / tương lai, trong khi việc gửi báo cáo đã xảy ra.",
+        "3": "\"should have check\" sai dạng: sau \"have\" phải là V3 \"checked\"."
+      },
+      "rule": "should have + V3: lẽ ra nên làm (nhưng đã không làm) – dùng để trách hoặc tiếc về quá khứ.",
+      "examples": [
+        "We should have booked the hotel earlier.",
+        "She should have asked for a receipt."
+      ],
+      "common_mistake": "Dùng \"should + V\" cho việc quá khứ vì tiếng Việt chỉ nói \"lẽ ra nên kiểm tra\" mà không đổi dạng động từ."
+    },
+    "tags": [
+      "should-have",
+      "criticism",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "mp-002",
+    "topic": "modal-perfect",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The documents I left on my desk last night are now neatly filed in the cabinet. The office assistant ___ them while I was out.",
+    "options": [
+      "should have filed",
+      "must file",
+      "can't have filed",
+      "must have filed"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Có **bằng chứng** rõ ràng (tài liệu đã được xếp gọn) → suy luận chắc chắn về quá khứ: **must have filed** (chắc hẳn đã xếp).",
+      "wrong": {
+        "0": "\"should have filed\" nghĩa là lẽ ra nên xếp nhưng đã không làm, mâu thuẫn với việc tài liệu đã được xếp.",
+        "1": "\"must file\" nói về bắt buộc ở hiện tại / tương lai, không phải suy luận về việc đã xảy ra \"while I was out\".",
+        "2": "\"can't have filed\" nghĩa là chắc chắn đã không xếp, ngược với bằng chứng trong câu."
+      },
+      "rule": "must have + V3: chắc hẳn đã (suy luận có căn cứ về quá khứ).",
+      "examples": [
+        "The lights are off; everyone must have gone home.",
+        "He must have forgotten about the meeting."
+      ],
+      "common_mistake": "Nhầm \"must have\" (chắc hẳn đã) với \"should have\" (lẽ ra nên) vì đều dịch là \"phải\"."
+    },
+    "tags": [
+      "must-have",
+      "deduction",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "mp-003",
+    "topic": "modal-perfect",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Mr. Phong ___ the revised contract yet; he has been on a long-haul flight without internet access since early this morning.",
+    "options": [
+      "must have read",
+      "can't have read",
+      "shouldn't have read",
+      "needn't have read"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Lý do rõ ràng (đang bay, không có internet) → suy luận **chắc chắn đã không** đọc: **can't have read**.",
+      "wrong": {
+        "0": "\"must have read\" là suy luận khẳng định \"chắc hẳn đã đọc\", ngược với bằng chứng không có internet.",
+        "2": "\"shouldn't have read\" nghĩa là lẽ ra không nên đọc (nhưng đã đọc), sai nghĩa và mâu thuẫn với ngữ cảnh.",
+        "3": "\"needn't have read\" nghĩa là đã đọc nhưng hóa ra không cần, mâu thuẫn với việc anh ấy không thể đọc."
+      },
+      "rule": "can't / couldn't have + V3: chắc chắn đã không (suy luận phủ định có căn cứ).",
+      "examples": [
+        "She can't have seen the message; her phone was switched off.",
+        "They couldn't have finished the job in one day."
+      ],
+      "common_mistake": "Dùng \"shouldn't have\" để nói \"chắc là chưa\", vì không phân biệt suy luận với trách móc."
+    },
+    "tags": [
+      "cant-have",
+      "deduction",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "mp-004",
+    "topic": "modal-perfect",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "We ___ so early for the presentation; it was postponed by an hour, so we just sat in the lobby.",
+    "options": [
+      "can't have arrived",
+      "needn't arrive",
+      "must have arrived",
+      "needn't have arrived"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Đã đến sớm (thực tế đã làm) nhưng hóa ra **không cần thiết** vì buổi thuyết trình bị dời → **needn't have arrived**.",
+      "wrong": {
+        "0": "\"can't have arrived\" là suy luận \"chắc chắn đã không đến\", mâu thuẫn với việc họ đã ngồi chờ ở sảnh.",
+        "1": "\"needn't arrive\" nói về hiện tại / tương lai, không hợp với sự việc đã xảy ra.",
+        "2": "\"must have arrived\" là suy luận về người khác; người nói tự biết mình đã đến sớm, và câu muốn nói việc đó là thừa."
+      },
+      "rule": "needn't have + V3: đã làm một việc nhưng hóa ra không cần thiết.",
+      "examples": [
+        "You needn't have printed the slides; we used the projector.",
+        "I needn't have taken a taxi; the hotel was very close."
+      ],
+      "common_mistake": "Dùng \"needn't + V\" cho việc đã xảy ra vì tiếng Việt không đổi dạng động từ theo thời gian."
+    },
+    "tags": [
+      "neednt-have",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "mp-005",
+    "topic": "modal-perfect",
+    "level": "intermediate",
+    "type": "fill-form",
+    "question": "The client was upset that nobody told her about the delay. We ___ (call) her as soon as the shipment was held at customs.",
+    "options": [
+      "should call",
+      "should have called",
+      "should have call",
+      "must have called"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Việc không gọi đã xảy ra và khách hàng phật ý → **lẽ ra nên gọi**: **should have called**.",
+      "wrong": {
+        "0": "\"should call\" nói về hiện tại / tương lai, không hợp với sự việc đã qua (\"was held at customs\").",
+        "2": "\"should have call\" sai dạng: sau \"have\" cần V3 \"called\".",
+        "3": "\"must have called\" là suy luận \"chắc hẳn đã gọi\", mâu thuẫn với \"nobody told her\"."
+      },
+      "rule": "should have + V3 = lẽ ra nên làm (thực tế đã không làm).",
+      "examples": [
+        "The supplier should have informed us earlier.",
+        "I should have saved the file before closing it."
+      ],
+      "common_mistake": "Quên đổi \"should + V\" sang \"should have V3\" khi nói về chuyện đã qua."
+    },
+    "tags": [
+      "should-have",
+      "customer-service",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "mp-006",
+    "topic": "modal-perfect",
+    "level": "intermediate",
+    "type": "rewrite",
+    "question": "Chọn câu đồng nghĩa với: *I'm sure Mr. Tuan didn't receive the invitation; his name isn't on the mailing list.*",
+    "options": [
+      "Mr. Tuan shouldn't have received the invitation; his name isn't on the mailing list.",
+      "Mr. Tuan needn't have received the invitation; his name isn't on the mailing list.",
+      "Mr. Tuan can't have received the invitation; his name isn't on the mailing list.",
+      "Mr. Tuan can't receive the invitation; his name isn't on the mailing list."
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "\"I'm sure … didn't\" (chắc chắn đã không) về quá khứ = **can't have + V3**: **can't have received**.",
+      "wrong": {
+        "0": "\"shouldn't have received\" nghĩa là lẽ ra không nên nhận (nhưng đã nhận), sai nghĩa câu gốc.",
+        "1": "\"needn't have received\" nghĩa là đã nhận nhưng không cần, sai nghĩa câu gốc.",
+        "3": "\"can't receive\" nói về hiện tại (không thể nhận), không diễn tả suy luận về việc đã xảy ra."
+      },
+      "rule": "I'm sure + S + didn't V = S + can't / couldn't have + V3. I'm sure + S + V2 = S + must have + V3.",
+      "examples": [
+        "I'm sure she didn't lock the door. → She can't have locked the door.",
+        "I'm sure he left early. → He must have left early."
+      ],
+      "common_mistake": "Đổi sang \"shouldn't have\" vì tưởng đó là dạng phủ định của \"must have\"."
+    },
+    "tags": [
+      "cant-have",
+      "rewrite",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "mp-007",
+    "topic": "modal-perfect",
+    "level": "advanced",
+    "type": "fix-error",
+    "question": "Tìm phần sai: Ms. Thu <u>was</u> (A) late for the interview <u>because of</u> (B) the heavy traffic; she <u>should have took</u> (C) the earlier train <u>instead of</u> (D) driving.",
+    "options": [
+      "was",
+      "because of",
+      "should have took",
+      "instead of"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Phần sai là (C). Sau \"should have\" phải dùng **V3** của \"take\": sửa thành **should have taken**.",
+      "wrong": {
+        "0": "(A) đúng: quá khứ đơn \"was late\" kể lại sự việc đã xảy ra.",
+        "1": "(B) đúng: \"because of\" + cụm danh từ (the heavy traffic).",
+        "3": "(D) đúng: \"instead of\" + V-ing (driving)."
+      },
+      "rule": "modal + have + V3 (cột 3): should have taken, must have gone, could have written.",
+      "examples": [
+        "He should have taken a taxi.",
+        "They must have gone to the wrong building."
+      ],
+      "common_mistake": "Dùng V2 (took, went) sau \"have\" vì nhầm quá khứ đơn với quá khứ phân từ của động từ bất quy tắc."
+    },
+    "tags": [
+      "should-have",
+      "irregular-verbs",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "mp-008",
+    "topic": "modal-perfect",
+    "level": "advanced",
+    "type": "choose",
+    "question": "Thanks to the quick response of the security staff, the fire was put out within minutes. Otherwise, the entire warehouse ___ down.",
+    "options": [
+      "could have burned",
+      "could burn",
+      "must have burned",
+      "should have burned"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "\"Otherwise\" (nếu không có sự can thiệp) → điều **đã có thể xảy ra** trong quá khứ nhưng thực tế không xảy ra: **could have burned**.",
+      "wrong": {
+        "1": "\"could burn\" chỉ khả năng ở hiện tại / tương lai, không nói về tình huống quá khứ đã được ngăn chặn.",
+        "2": "\"must have burned\" là suy luận \"chắc hẳn đã cháy\", mâu thuẫn với việc lửa đã được dập tắt.",
+        "3": "\"should have burned\" nghĩa là \"lẽ ra nên cháy\", vô lý về nghĩa."
+      },
+      "rule": "could have + V3: điều đã có thể xảy ra (nhưng thực tế không xảy ra). Thường đi với otherwise, without…, if … had V3.",
+      "examples": [
+        "Without the map, we could have taken the wrong road.",
+        "The accident could have been much worse."
+      ],
+      "common_mistake": "Chọn \"must have\" vì hiểu \"otherwise\" là \"chắc chắn sẽ\", không nhận ra sự việc thực tế đã không xảy ra."
+    },
+    "tags": [
+      "could-have",
+      "unreal-past",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "mp-009",
+    "topic": "modal-perfect",
+    "level": "advanced",
+    "type": "choose",
+    "question": "I'm not sure why the package hasn't reached our Hai Phong office yet. The courier ___ it to the wrong address.",
+    "options": [
+      "must have delivered",
+      "should have delivered",
+      "may deliver",
+      "may have delivered"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "\"I'm not sure\" → chỉ là **phỏng đoán không chắc** về việc đã xảy ra: **may have delivered** (có lẽ đã giao nhầm).",
+      "wrong": {
+        "0": "\"must have delivered\" là suy luận chắc chắn, mâu thuẫn với \"I'm not sure\".",
+        "1": "\"should have delivered … to the wrong address\" nghĩa là \"lẽ ra nên giao nhầm địa chỉ\", vô lý.",
+        "2": "\"may deliver\" nói về khả năng ở hiện tại / tương lai, không giải thích được việc gói hàng chưa đến."
+      },
+      "rule": "may / might / could have + V3: có lẽ đã (phỏng đoán không chắc chắn về quá khứ).",
+      "examples": [
+        "She may have missed the bus.",
+        "The email might have gone to your spam folder."
+      ],
+      "common_mistake": "Dùng \"must have\" cho mọi phỏng đoán quá khứ mà không xét mức độ chắc chắn."
+    },
+    "tags": [
+      "may-might-have",
+      "speculation",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "mp-010",
+    "topic": "modal-perfect",
+    "level": "advanced",
+    "type": "choose",
+    "question": "The CEO admitted that the company ___ the product before it had been fully tested, as many customers have since reported defects.",
+    "options": [
+      "can't have launched",
+      "shouldn't launch",
+      "shouldn't have launched",
+      "needn't have launched"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Công ty **đã** tung sản phẩm khi chưa thử nghiệm đủ và CEO thừa nhận đó là sai lầm → **shouldn't have launched** (lẽ ra không nên tung ra).",
+      "wrong": {
+        "0": "\"can't have launched\" nghĩa là chắc chắn đã không tung ra, mâu thuẫn với việc khách hàng đã báo lỗi sản phẩm.",
+        "1": "\"shouldn't launch\" nói về hiện tại / tương lai, không hợp với sự việc đã xảy ra trong quá khứ.",
+        "3": "\"needn't have launched\" nghĩa là việc tung ra \"không cần thiết\", không diễn tả được ý thừa nhận sai lầm."
+      },
+      "rule": "shouldn't have + V3: lẽ ra không nên làm (nhưng đã làm) – thừa nhận sai lầm hoặc chỉ trích.",
+      "examples": [
+        "I shouldn't have sent that email without checking it.",
+        "They shouldn't have signed the contract so quickly."
+      ],
+      "common_mistake": "Không phân biệt \"shouldn't have\" (sai lầm) với \"needn't have\" (thừa, không cần)."
+    },
+    "tags": [
+      "should-have",
+      "criticism",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  }
+]

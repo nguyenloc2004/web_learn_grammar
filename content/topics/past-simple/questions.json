@@ -1,0 +1,482 @@
+[
+  {
+    "id": "pst-001",
+    "topic": "past-simple",
+    "level": "basic",
+    "type": "choose",
+    "question": "We ___ a great film at the cinema last night.",
+    "options": [
+      "see",
+      "have seen",
+      "saw",
+      "seen"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "\"Last night\" là thời điểm xác định đã kết thúc, nên dùng quá khứ đơn. \"see\" là động từ bất quy tắc, quá khứ là **saw**.",
+      "wrong": {
+        "0": "\"see\" là hiện tại đơn, không phù hợp với mốc \"last night\".",
+        "1": "\"have seen\" là hiện tại hoàn thành, không dùng với thời điểm xác định trong quá khứ như \"last night\".",
+        "3": "\"seen\" là quá khứ phân từ (V3), phải đi sau have/has/had, không đứng một mình làm động từ chính."
+      },
+      "rule": "Hành động đã kết thúc tại thời điểm xác định trong quá khứ: S + V2/V-ed. see – saw – seen.",
+      "examples": [
+        "I saw Lan at the market yesterday.",
+        "They watched a football match last weekend.",
+        "We went to Da Lat two years ago."
+      ],
+      "common_mistake": "Nhầm giữa V2 và V3 của động từ bất quy tắc: viết \"We seen\" thay vì \"We saw\"."
+    },
+    "tags": [
+      "irregular-verb",
+      "time-marker"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pst-002",
+    "topic": "past-simple",
+    "level": "basic",
+    "type": "choose",
+    "question": "They ___ to the party yesterday because they were ill.",
+    "options": [
+      "didn't come",
+      "didn't came",
+      "don't come",
+      "weren't come"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Phủ định quá khứ đơn: S + **didn't** + động từ nguyên mẫu → **didn't come**. \"Yesterday\" cho biết sự việc đã xảy ra.",
+      "wrong": {
+        "1": "\"didn't came\" sai: sau did/didn't động từ phải ở dạng nguyên mẫu, không chia quá khứ lần nữa.",
+        "2": "\"don't come\" là hiện tại đơn, không hợp với \"yesterday\".",
+        "3": "\"weren't come\" sai: không dùng to be để phủ định động từ thường; phải dùng didn't."
+      },
+      "rule": "Phủ định: S + did not (didn't) + V (nguyên mẫu). Trợ động từ \"did\" đã mang thì quá khứ.",
+      "examples": [
+        "She didn't call me last night.",
+        "We didn't have time to finish the test.",
+        "He didn't go to work on Monday."
+      ],
+      "common_mistake": "Lỗi phổ biến nhất là chia quá khứ hai lần: \"didn't went\", \"didn't came\"."
+    },
+    "tags": [
+      "negative",
+      "auxiliary-did"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pst-003",
+    "topic": "past-simple",
+    "level": "basic",
+    "type": "choose",
+    "question": "___ you finish your homework last night?",
+    "options": [
+      "Do",
+      "Did",
+      "Were",
+      "Have"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Câu hỏi quá khứ đơn với động từ thường: **Did** + S + V (nguyên mẫu)? Có \"last night\" nên dùng quá khứ.",
+      "wrong": {
+        "0": "\"Do\" dùng cho câu hỏi hiện tại đơn, không hợp với \"last night\".",
+        "2": "\"Were\" là quá khứ của to be; \"finish\" là động từ thường nên phải mượn \"Did\".",
+        "3": "\"Have\" dùng cho hiện tại hoàn thành và cần động từ V3 (finished). Ngoài ra không dùng với \"last night\"."
+      },
+      "rule": "Nghi vấn quá khứ đơn: Did + S + V? Trả lời: Yes, S did. / No, S didn't.",
+      "examples": [
+        "Did she enjoy the trip?",
+        "Did they win the game yesterday?",
+        "What did you do last weekend?"
+      ],
+      "common_mistake": "Người học hay dùng \"Were you finish…?\" do nhầm to be với trợ động từ, hoặc chia quá khứ sau Did (\"Did you finished…?\")."
+    },
+    "tags": [
+      "question",
+      "auxiliary-did"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pst-004",
+    "topic": "past-simple",
+    "level": "intermediate",
+    "type": "fill-form",
+    "question": "My grandfather ___ (build) this house in 1990.",
+    "options": [
+      "builded",
+      "has built",
+      "builds",
+      "built"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "\"In 1990\" là mốc thời gian đã kết thúc → quá khứ đơn. \"build\" là động từ bất quy tắc: build – **built** – built.",
+      "wrong": {
+        "0": "\"builded\" không tồn tại. \"build\" là động từ bất quy tắc, không thêm -ed.",
+        "1": "\"has built\" là hiện tại hoàn thành, không dùng với mốc thời gian cụ thể \"in 1990\".",
+        "2": "\"builds\" là hiện tại đơn, mâu thuẫn với mốc quá khứ."
+      },
+      "rule": "in + năm trong quá khứ → quá khứ đơn. Động từ bất quy tắc phải học thuộc: build – built, write – wrote, buy – bought.",
+      "examples": [
+        "They built a new bridge in 2005.",
+        "My parents bought this car in 2012.",
+        "She taught English in Hanoi in 2018."
+      ],
+      "common_mistake": "Áp dụng máy móc quy tắc thêm -ed cho mọi động từ: \"builded\", \"buyed\", \"teached\"."
+    },
+    "tags": [
+      "irregular-verb",
+      "time-marker"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pst-005",
+    "topic": "past-simple",
+    "level": "intermediate",
+    "type": "fix-error",
+    "question": "Tìm phần sai: She <u>didn't</u> (A) <u>went</u> (B) out last night because she <u>was</u> (C) very tired and <u>wanted</u> (D) to sleep early.",
+    "options": [
+      "didn't",
+      "went",
+      "was",
+      "wanted"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Sau \"didn't\" động từ phải ở dạng nguyên mẫu, nên \"went\" phải sửa thành **go**: She didn't go out last night.",
+      "wrong": {
+        "0": "\"didn't\" đúng: phủ định quá khứ đơn với động từ thường.",
+        "2": "\"was\" đúng: to be ở quá khứ với chủ ngữ \"she\".",
+        "3": "\"wanted\" đúng: động từ thứ hai trong câu cũng chia quá khứ, nối bằng \"and\"."
+      },
+      "rule": "did/didn't + V (nguyên mẫu). Thì quá khứ chỉ thể hiện một lần ở trợ động từ \"did\".",
+      "examples": [
+        "He didn't eat breakfast this morning.",
+        "We didn't see the sign.",
+        "I didn't know the answer."
+      ],
+      "common_mistake": "Chia quá khứ hai lần (\"didn't went\") là lỗi điển hình của người học ở mọi trình độ."
+    },
+    "tags": [
+      "negative",
+      "auxiliary-did"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pst-006",
+    "topic": "past-simple",
+    "level": "advanced",
+    "type": "choose",
+    "question": "Shakespeare ___ about 39 plays during his lifetime.",
+    "options": [
+      "wrote",
+      "has written",
+      "writes",
+      "had written"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Shakespeare đã mất; quãng đời của ông (during his lifetime) là giai đoạn đã kết thúc hoàn toàn, nên dùng quá khứ đơn: **wrote**.",
+      "wrong": {
+        "1": "\"has written\" ngụ ý giai đoạn còn kéo dài đến hiện tại, tức là người đó vẫn còn sống và có thể viết thêm. Không dùng cho người đã mất.",
+        "2": "\"writes\" là hiện tại đơn, không hợp với việc đã kết thúc trong quá khứ.",
+        "3": "\"had written\" (quá khứ hoàn thành) cần một mốc hoặc hành động quá khứ khác để so sánh trước–sau; câu này không có."
+      },
+      "rule": "Giai đoạn đã kết thúc (người đã mất, sự kiện lịch sử) → quá khứ đơn, kể cả khi không có trạng từ thời gian cụ thể.",
+      "examples": [
+        "Van Gogh painted more than 800 pictures.",
+        "Ho Xuan Huong wrote many famous poems.",
+        "Beethoven composed nine symphonies."
+      ],
+      "common_mistake": "Thấy câu không có \"yesterday/ago\" nên chọn hiện tại hoàn thành. Cần xét giai đoạn đã kết thúc hay chưa, không chỉ tìm trạng từ thời gian."
+    },
+    "tags": [
+      "finished-period",
+      "past-vs-present-perfect"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pst-007",
+    "topic": "past-simple",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "When the teacher ___ into the room, all the students stood up.",
+    "options": [
+      "came",
+      "was coming",
+      "has come",
+      "had been coming"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Hai hành động ngắn nối tiếp nhau: giáo viên vào lớp, rồi học sinh đứng dậy. Cả hai dùng quá khứ đơn: **came**.",
+      "wrong": {
+        "1": "\"was coming\" diễn tả hành động đang diễn ra kéo dài; nhưng việc bước vào lớp là hành động ngắn gây ra phản ứng \"stood up\".",
+        "2": "\"has come\" là hiện tại hoàn thành, không hợp với \"stood up\" ở quá khứ.",
+        "3": "\"had been coming\" là quá khứ hoàn thành tiếp diễn, sai nghĩa và quá phức tạp cho chuỗi hành động nối tiếp."
+      },
+      "rule": "Chuỗi hành động nối tiếp trong quá khứ: When + S + V2, S + V2.",
+      "examples": [
+        "When the bell rang, the students left the classroom.",
+        "When she saw me, she smiled."
+      ],
+      "common_mistake": "Thấy \"when\" là chọn quá khứ tiếp diễn, không xét hành động dài hay ngắn."
+    },
+    "tags": [
+      "sequence",
+      "when"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pst-008",
+    "topic": "past-simple",
+    "level": "intermediate",
+    "type": "fill-form",
+    "question": "She ___ (stop) the car and got out to check the tyres.",
+    "options": [
+      "stoped",
+      "stopped",
+      "stops",
+      "was stop"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Chuỗi hành động quá khứ (\"got out\"). \"stop\" có một nguyên âm + một phụ âm cuối nên gấp đôi p: **stopped**.",
+      "wrong": {
+        "0": "\"stoped\" sai chính tả: phải gấp đôi phụ âm cuối.",
+        "2": "\"stops\" là hiện tại đơn, không song song với \"got out\".",
+        "3": "\"was stop\" sai cấu trúc: was không đi với động từ nguyên mẫu."
+      },
+      "rule": "Động từ một âm tiết kết thúc bằng phụ âm–nguyên âm–phụ âm: gấp đôi phụ âm cuối rồi thêm -ed: stop → stopped, plan → planned.",
+      "examples": [
+        "They planned a trip to Ha Long Bay.",
+        "He dropped his phone on the floor."
+      ],
+      "common_mistake": "Quên gấp đôi phụ âm: \"stoped\", \"planed\"."
+    },
+    "tags": [
+      "spelling-ed"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pst-009",
+    "topic": "past-simple",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "When ___ you ___ your first job?",
+    "options": [
+      "have / got",
+      "were / get",
+      "did / get",
+      "did / got"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Câu hỏi với \"When\" hỏi về thời điểm cụ thể trong quá khứ nên dùng quá khứ đơn: **did … get**.",
+      "wrong": {
+        "0": "\"When have you got…\" sai: không dùng hiện tại hoàn thành trong câu hỏi \"When\".",
+        "1": "\"were … get\" sai: \"get\" là động từ thường, phải mượn \"did\".",
+        "3": "\"did … got\" sai: sau did động từ trở về nguyên mẫu."
+      },
+      "rule": "When + did + S + V? Câu hỏi \"When\" luôn gắn với thời điểm xác định nên dùng quá khứ đơn, không dùng hiện tại hoàn thành.",
+      "examples": [
+        "When did you move to Ho Chi Minh City?",
+        "When did they get married?"
+      ],
+      "common_mistake": "Dùng hiện tại hoàn thành với When (\"When have you started…?\")."
+    },
+    "tags": [
+      "when-question",
+      "past-vs-present-perfect"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pst-010",
+    "topic": "past-simple",
+    "level": "intermediate",
+    "type": "fix-error",
+    "question": "Tìm phần sai: We <u>went</u> (A) to the beach, <u>swam</u> (B) in the sea and <u>lay</u> (C) in the sun for hours, then we <u>catched</u> (D) the last bus home.",
+    "options": [
+      "went",
+      "swam",
+      "lay",
+      "catched"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "\"catch\" là động từ bất quy tắc: catch – **caught** – caught. \"catched\" không tồn tại.",
+      "wrong": {
+        "0": "\"went\" đúng: quá khứ của go.",
+        "1": "\"swam\" đúng: swim – swam – swum.",
+        "2": "\"lay\" đúng: quá khứ của lie (nằm) là lay (lie – lay – lain)."
+      },
+      "rule": "Động từ bất quy tắc phải học thuộc: catch – caught, teach – taught, buy – bought, lie – lay.",
+      "examples": [
+        "He caught a cold last week.",
+        "She lay on the sofa and fell asleep."
+      ],
+      "common_mistake": "Nghĩ \"lay\" là sai vì nhầm với lay (đặt), trong khi quá khứ của lie (nằm) chính là lay."
+    },
+    "tags": [
+      "irregular-verb",
+      "error-correction"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pst-011",
+    "topic": "past-simple",
+    "level": "advanced",
+    "type": "choose",
+    "question": "It's been ages since we last ___ each other.",
+    "options": [
+      "saw",
+      "have seen",
+      "see",
+      "had seen"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Mệnh đề sau \"since\" chỉ mốc thời điểm trong quá khứ (lần cuối gặp nhau) nên dùng quá khứ đơn: **saw**.",
+      "wrong": {
+        "1": "\"have seen\" dùng ở mệnh đề chính, không dùng trong mệnh đề since chỉ mốc.",
+        "2": "\"see\" là hiện tại, không chỉ được mốc đã qua.",
+        "3": "\"had seen\" cần một mốc quá khứ khác để so sánh; ở đây mệnh đề chính ở hiện tại (It's been)."
+      },
+      "rule": "S + have/has + V3 + since + S + V2. Ví dụ: It's been two years since I left school.",
+      "examples": [
+        "I've known her since we were children.",
+        "It's been a long time since I visited my hometown."
+      ],
+      "common_mistake": "Dùng hiện tại hoàn thành ở cả hai vế (\"since we have seen\")."
+    },
+    "tags": [
+      "since-clause"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pst-012",
+    "topic": "past-simple",
+    "level": "advanced",
+    "type": "rewrite",
+    "question": "Chọn câu đồng nghĩa với: *The last time I went to the cinema was two months ago.*",
+    "options": [
+      "I have gone to the cinema for two months.",
+      "I haven't been to the cinema for two months.",
+      "I didn't go to the cinema two months ago.",
+      "I went to the cinema for two months."
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "\"Lần cuối… là hai tháng trước\" = \"đã hai tháng nay không…\": **I haven't been to the cinema for two months.**",
+      "wrong": {
+        "0": "\"have gone to the cinema for two months\" nghĩa là đi xem phim suốt hai tháng, vô lý.",
+        "2": "\"didn't go … two months ago\" ngược nghĩa: câu gốc nói hai tháng trước có đi.",
+        "3": "\"went … for two months\" nghĩa là đi suốt hai tháng, sai nghĩa."
+      },
+      "rule": "The last time + S + V2 + was + khoảng thời gian + ago = S + haven't/hasn't + V3 + for + khoảng thời gian.",
+      "examples": [
+        "The last time I saw him was in 2019. → I haven't seen him since 2019.",
+        "The last time she ate meat was a year ago. → She hasn't eaten meat for a year."
+      ],
+      "common_mistake": "Giữ khẳng định khi viết lại; đúng ra phải chuyển sang phủ định \"haven't … for/since\"."
+    },
+    "tags": [
+      "last-time",
+      "rewrite"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pst-013",
+    "topic": "past-simple",
+    "level": "advanced",
+    "type": "choose",
+    "question": "It's nearly midnight. It's high time we ___ home.",
+    "options": [
+      "are going",
+      "have gone",
+      "went",
+      "will go"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Sau \"It's (high) time + S\", dùng quá khứ đơn nhưng mang nghĩa hiện tại (đáng lẽ phải làm rồi): **went**.",
+      "wrong": {
+        "0": "\"are going\" là hiện tại tiếp diễn, không dùng sau It's high time + S.",
+        "1": "\"have gone\" là hiện tại hoàn thành, sai cấu trúc.",
+        "3": "\"will go\" là tương lai, không dùng trong cấu trúc này."
+      },
+      "rule": "It's (high/about) time + S + V2 (quá khứ giả định) = It's time for sb + to V.",
+      "examples": [
+        "It's time you started studying for the exam.",
+        "It's about time they fixed this road."
+      ],
+      "common_mistake": "Dùng hiện tại vì câu nói về \"bây giờ\"; cấu trúc này bắt buộc lùi về quá khứ."
+    },
+    "tags": [
+      "its-time",
+      "unreal-past"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pst-014",
+    "topic": "past-simple",
+    "level": "advanced",
+    "type": "arrange",
+    "question": "Sắp xếp thành câu đúng: did / where / last / you / go / summer / ?",
+    "options": [
+      "Where you did go last summer?",
+      "Where did you went last summer?",
+      "Where last summer did you go?",
+      "Where did you go last summer?"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Wh- + did + S + V (nguyên mẫu) + trạng ngữ thời gian: **Where did you go last summer?**",
+      "wrong": {
+        "0": "\"you did go\" sai trật tự: trợ động từ did phải đứng trước chủ ngữ.",
+        "1": "\"did you went\" chia quá khứ hai lần; sau did dùng nguyên mẫu \"go\".",
+        "2": "Trạng ngữ \"last summer\" đặt giữa từ để hỏi và trợ động từ là sai trật tự thông thường."
+      },
+      "rule": "Câu hỏi Wh- quá khứ đơn: Wh- + did + S + V + (tân ngữ/trạng ngữ)?",
+      "examples": [
+        "What did you eat for breakfast?",
+        "Why did she leave so early?"
+      ],
+      "common_mistake": "Giữ trật tự câu trần thuật (\"Where you went…?\") theo cách hỏi trong tiếng Việt."
+    },
+    "tags": [
+      "question",
+      "word-order"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  }
+]

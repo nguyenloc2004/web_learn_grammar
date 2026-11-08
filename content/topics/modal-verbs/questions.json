@@ -1,0 +1,347 @@
+[
+  {
+    "id": "mv-001",
+    "topic": "modal-verbs",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Under the new dress code, employees ___ wear a tie on Fridays, but they may do so if they wish.",
+    "options": [
+      "don't have to",
+      "must not",
+      "can't",
+      "should"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Vế sau \"they may do so if they wish\" cho thấy đeo cà vạt là **không bắt buộc** → **don't have to** (không cần).",
+      "wrong": {
+        "1": "\"must not\" nghĩa là bị cấm, mâu thuẫn với \"they may do so if they wish\".",
+        "2": "\"can't\" nghĩa là không được phép, cũng mâu thuẫn với việc được tự chọn.",
+        "3": "\"should\" là lời khuyên nên làm, không khớp với ý \"tùy họ muốn\" ở vế sau."
+      },
+      "rule": "don't have to / needn't = không cần (làm cũng được); must not / mustn't = cấm.",
+      "examples": [
+        "You don't have to print the tickets; a digital copy is fine.",
+        "Staff must not share their passwords with anyone."
+      ],
+      "common_mistake": "Dịch \"không phải đeo\" thành \"must not\", trong khi \"must not\" nghĩa là \"không được đeo\"."
+    },
+    "tags": [
+      "must-have-to",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "mv-002",
+    "topic": "modal-verbs",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Visitors ___ enter the laboratory without a protective coat; this rule is strictly enforced at all times.",
+    "options": [
+      "don't have to",
+      "needn't",
+      "must not",
+      "might not"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "\"this rule is strictly enforced\" → đây là **lệnh cấm**: **must not** (không được).",
+      "wrong": {
+        "0": "\"don't have to\" nghĩa là không cần, không diễn tả một quy định cấm được thực thi nghiêm ngặt.",
+        "1": "\"needn't\" cũng nghĩa là không cần thiết, ngược với ý cấm.",
+        "3": "\"might not\" chỉ khả năng (có lẽ không), không phải quy định."
+      },
+      "rule": "Quy định, lệnh cấm (strictly, prohibited, at all times) → must not + V nguyên mẫu.",
+      "examples": [
+        "Passengers must not leave their bags unattended.",
+        "Employees must not use company cars for personal trips."
+      ],
+      "common_mistake": "Nhầm \"needn't / don't have to\" với \"must not\" vì đều có chữ phủ định."
+    },
+    "tags": [
+      "must-have-to",
+      "notice",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "mv-003",
+    "topic": "modal-verbs",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Customers who have questions about their monthly bills ___ our support team by phone or online chat at any time.",
+    "options": [
+      "can to contact",
+      "can contact",
+      "can contacting",
+      "can be contacted"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Sau modal **can** dùng **động từ nguyên mẫu không to**; khách hàng là người liên hệ (chủ động) và có tân ngữ \"our support team\": **can contact**.",
+      "wrong": {
+        "0": "\"can to contact\" sai vì sau \"can\" không có \"to\".",
+        "2": "\"can contacting\" sai vì sau modal không dùng V-ing.",
+        "3": "\"can be contacted\" là bị động (được liên hệ), sai nghĩa và không thể có tân ngữ \"our support team\" theo sau."
+      },
+      "rule": "can / could / may / might / must / should / will / would + V nguyên mẫu (không to, không chia).",
+      "examples": [
+        "Guests can check out until noon.",
+        "Applicants should submit their forms online."
+      ],
+      "common_mistake": "Thêm \"to\" sau modal vì quen cấu trúc \"want to / need to\"."
+    },
+    "tags": [
+      "modal-form",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "mv-004",
+    "topic": "modal-verbs",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Ms. Ha ___ attend the trade fair in Singapore next month, but nothing is confirmed until the travel budget is approved.",
+    "options": [
+      "must",
+      "will",
+      "might to",
+      "might"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "\"nothing is confirmed\" → việc tham dự chỉ là **khả năng**, chưa chắc chắn: **might**.",
+      "wrong": {
+        "0": "\"must\" diễn tả bắt buộc hoặc suy luận chắc chắn, mâu thuẫn với \"nothing is confirmed\".",
+        "1": "\"will\" diễn tả việc chắc chắn sẽ xảy ra, trái với ý chưa được xác nhận.",
+        "2": "\"might to\" sai dạng: sau \"might\" dùng V nguyên mẫu không to."
+      },
+      "rule": "may / might + V nguyên mẫu: diễn tả khả năng chưa chắc chắn; might thường ít chắc chắn hơn may.",
+      "examples": [
+        "The flight might be delayed because of the storm.",
+        "We may need extra staff during the holiday season."
+      ],
+      "common_mistake": "Dùng \"will\" cho mọi việc tương lai mà không xét mức độ chắc chắn trong câu."
+    },
+    "tags": [
+      "may-might",
+      "possibility",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "mv-005",
+    "topic": "modal-verbs",
+    "level": "intermediate",
+    "type": "fill-form",
+    "question": "Once the system upgrade is finished next week, staff ___ (access) their work files from home.",
+    "options": [
+      "will can access",
+      "will be able to access",
+      "will able to access",
+      "can be able access"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Muốn nói \"sẽ có thể\" ở tương lai, không ghép hai modal \"will can\" mà dùng **will be able to + V**: **will be able to access**.",
+      "wrong": {
+        "0": "\"will can access\" sai vì không dùng hai modal liền nhau.",
+        "2": "\"will able to access\" thiếu \"be\"; \"able\" là tính từ nên cần \"be\" đứng trước.",
+        "3": "\"can be able access\" vừa ghép \"can\" với \"be able\", vừa thiếu \"to\"."
+      },
+      "rule": "Tương lai của can: will be able to + V. Tương tự: may be able to, should be able to.",
+      "examples": [
+        "After the training, you will be able to use the new software.",
+        "We may be able to offer you a discount next month."
+      ],
+      "common_mistake": "Dịch \"sẽ có thể\" từng chữ thành \"will can\"."
+    },
+    "tags": [
+      "be-able-to",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "mv-006",
+    "topic": "modal-verbs",
+    "level": "intermediate",
+    "type": "rewrite",
+    "question": "Chọn câu đồng nghĩa với: *It is not necessary to bring your laptop to the training session.*",
+    "options": [
+      "You mustn't bring your laptop to the training session.",
+      "You don't must bring your laptop to the training session.",
+      "You don't have to bring your laptop to the training session.",
+      "You can't bring your laptop to the training session."
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "\"It is not necessary to …\" (không cần thiết) = **don't have to** + V.",
+      "wrong": {
+        "0": "\"mustn't\" nghĩa là bị cấm mang laptop, sai nghĩa câu gốc.",
+        "1": "\"don't must\" sai ngữ pháp: modal \"must\" không dùng với trợ động từ \"do\".",
+        "3": "\"can't\" nghĩa là không được phép mang, sai nghĩa câu gốc."
+      },
+      "rule": "It is not necessary to V = S + don't / doesn't have to + V = S + needn't + V.",
+      "examples": [
+        "You don't have to reply to this email.",
+        "Guests needn't bring their own towels."
+      ],
+      "common_mistake": "Coi \"mustn't\" và \"don't have to\" là một vì tiếng Việt đều có thể nói \"không phải\"."
+    },
+    "tags": [
+      "must-have-to",
+      "rewrite",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "mv-007",
+    "topic": "modal-verbs",
+    "level": "advanced",
+    "type": "fix-error",
+    "question": "Tìm phần sai: All applicants <u>must</u> (A) submit their portfolios <u>by</u> (B) Friday, and those <u>who are</u> (C) shortlisted <u>should to prepare</u> (D) a ten-minute presentation for the interview.",
+    "options": [
+      "must",
+      "by",
+      "who are",
+      "should to prepare"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Phần sai là (D). Sau modal **should** dùng V nguyên mẫu không to: sửa thành **should prepare**.",
+      "wrong": {
+        "0": "(A) đúng: \"must submit\" (modal + V nguyên mẫu) diễn tả quy định bắt buộc.",
+        "1": "(B) đúng: \"by Friday\" = chậm nhất là thứ Sáu.",
+        "2": "(C) đúng: mệnh đề quan hệ \"who are shortlisted\" bổ nghĩa cho \"those\", chia số nhiều."
+      },
+      "rule": "should / must / can / may + V nguyên mẫu; chỉ \"ought to\" mới có \"to\".",
+      "examples": [
+        "Candidates should bring a copy of their ID.",
+        "You ought to arrive fifteen minutes early."
+      ],
+      "common_mistake": "Nhầm \"should\" với \"ought to\" hoặc \"need to\" nên thêm \"to\"."
+    },
+    "tags": [
+      "modal-form",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "mv-008",
+    "topic": "modal-verbs",
+    "level": "advanced",
+    "type": "choose",
+    "question": "___ you mind sending me the updated price list before our meeting with the supplier tomorrow?",
+    "options": [
+      "Would",
+      "Could",
+      "Should",
+      "May"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Cấu trúc yêu cầu lịch sự cố định: **Would you mind + V-ing?** (Phiền anh/chị … được không?).",
+      "wrong": {
+        "1": "\"Could\" dùng trong \"Could you send…?\", nhưng không đi với \"mind\" (\"Could you mind\" sai).",
+        "2": "\"Should\" dùng cho lời khuyên, không tạo cấu trúc nhờ vả với \"mind\".",
+        "3": "\"May\" dùng để xin phép với chủ ngữ \"I/we\" (May I…?), không đi với \"you mind\"."
+      },
+      "rule": "Would you mind + V-ing? = yêu cầu lịch sự. Would you mind if I + V2? = xin phép lịch sự.",
+      "examples": [
+        "Would you mind closing the door?",
+        "Could you send me the invoice, please?"
+      ],
+      "common_mistake": "Thấy câu nhờ vả lịch sự là chọn \"Could\" mà không để ý động từ \"mind\" đi sau."
+    },
+    "tags": [
+      "polite-request",
+      "would",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "mv-009",
+    "topic": "modal-verbs",
+    "level": "advanced",
+    "type": "choose",
+    "question": "Given the steady rise in online orders, the company ___ to consider opening a second distribution center in the north.",
+    "options": [
+      "should",
+      "must",
+      "had better",
+      "ought"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Chỗ trống đứng trước **to + V** (\"to consider\"). Trong các lựa chọn, chỉ **ought** đi với \"to\": **ought to consider** (nên cân nhắc).",
+      "wrong": {
+        "0": "\"should\" là modal, theo sau là V nguyên mẫu không to (\"should consider\"), nên \"should to consider\" sai.",
+        "1": "\"must\" theo sau là V nguyên mẫu không to; \"must to consider\" sai.",
+        "2": "\"had better\" theo sau là V nguyên mẫu không to; \"had better to consider\" sai."
+      },
+      "rule": "ought to + V = should + V (lời khuyên). Đây là modal duy nhất có \"to\".",
+      "examples": [
+        "You ought to update your antivirus software.",
+        "The hotel ought to hire more staff for the peak season."
+      ],
+      "common_mistake": "Chọn \"should\" vì quen nghĩa \"nên\", không để ý chữ \"to\" ngay sau chỗ trống."
+    },
+    "tags": [
+      "ought-to",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "mv-010",
+    "topic": "modal-verbs",
+    "level": "advanced",
+    "type": "choose",
+    "question": "You ___ back up all your files before the system update tonight, or you could lose important data.",
+    "options": [
+      "would better",
+      "had better to",
+      "had better",
+      "have better"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Lời khuyên mạnh mang tính cảnh báo (\"or you could lose important data\") → **had better + V nguyên mẫu**: **had better back up**.",
+      "wrong": {
+        "0": "\"would better\" không phải cấu trúc đúng; chỉ có \"had better\" hoặc \"would rather\".",
+        "1": "\"had better to\" sai vì sau \"had better\" dùng V nguyên mẫu không to.",
+        "3": "\"have better\" sai dạng; cụm cố định luôn là \"had better\" dù nói về hiện tại / tương lai."
+      },
+      "rule": "S + had better (not) + V nguyên mẫu: lời khuyên mạnh, thường kèm hậu quả nếu không làm (or …).",
+      "examples": [
+        "We had better leave now, or we will miss the train.",
+        "You had better not be late for the interview."
+      ],
+      "common_mistake": "Nghĩ \"had\" là quá khứ nên đổi thành \"have better\", hoặc thêm \"to\" như \"need to\"."
+    },
+    "tags": [
+      "had-better",
+      "advice",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  }
+]

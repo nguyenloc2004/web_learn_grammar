@@ -1,0 +1,351 @@
+[
+  {
+    "id": "par-001",
+    "topic": "parallel-structure",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Applicants for the design position will be evaluated on their experience, communication skills, and ___.",
+    "options": [
+      "creativity",
+      "creative",
+      "creatively",
+      "create"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Danh sách nối bằng **and** gồm các **danh từ** (experience, communication skills) → phần tử cuối cũng phải là danh từ: **creativity**.",
+      "wrong": {
+        "1": "\"creative\" là tính từ, không song song với hai danh từ đứng trước và không làm tân ngữ của \"on\".",
+        "2": "\"creatively\" là trạng từ, không đứng trong danh sách danh từ.",
+        "3": "\"create\" là động từ, phá vỡ cấu trúc song song N, N, and N."
+      },
+      "rule": "X, Y, and Z: các phần tử cùng từ loại (N, N, and N).",
+      "examples": [
+        "The course covers planning, budgeting, and reporting.",
+        "We value honesty, teamwork, and flexibility."
+      ],
+      "common_mistake": "Chọn tính từ vì nghĩ theo nghĩa tiếng Việt \"sáng tạo\" mà không nhìn dạng của các phần tử phía trước."
+    },
+    "tags": [
+      "list",
+      "noun",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "par-002",
+    "topic": "parallel-structure",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The receptionist's duties include answering customer inquiries, processing orders, and ___ refunds when necessary.",
+    "options": [
+      "issue",
+      "to issue",
+      "issued",
+      "issuing"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Sau \"include\" là danh sách **V-ing** (answering, processing) → phần tử thứ ba cũng là **V-ing**: **issuing**.",
+      "wrong": {
+        "0": "\"issue\" là động từ nguyên mẫu, không cùng dạng với \"answering\" và \"processing\".",
+        "1": "\"to issue\" là to V, không song song với hai V-ing phía trước.",
+        "2": "\"issued\" là V3, làm danh sách không cùng dạng và sai nghĩa (không phải bị động)."
+      },
+      "rule": "V-ing, V-ing, and V-ing. Dạng của phần tử đầu tiên quyết định dạng các phần tử sau.",
+      "examples": [
+        "Her job involves planning events, booking venues, and contacting suppliers.",
+        "We spent the morning checking data and preparing slides."
+      ],
+      "common_mistake": "Chỉ để ý đến từ đứng ngay trước chỗ trống (\"and\") nên chọn động từ nguyên mẫu."
+    },
+    "tags": [
+      "list",
+      "gerund",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "par-003",
+    "topic": "parallel-structure",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The consultant advised us to cut unnecessary expenses and ___ new markets in Southeast Asia.",
+    "options": [
+      "exploring",
+      "explore",
+      "explores",
+      "to exploring"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "\"advised us **to cut** … and ___\": hai động từ song song sau **to**. Chữ \"to\" thứ hai được lược bỏ nên dùng **động từ nguyên mẫu**: **explore**.",
+      "wrong": {
+        "0": "\"exploring\" là V-ing, không cùng dạng với \"to cut\".",
+        "2": "\"explores\" là động từ chia ở hiện tại đơn, vừa lệch thì với \"advised\" vừa không song song với \"to cut\".",
+        "3": "\"to exploring\" sai: sau \"to\" (của to V) phải là động từ nguyên mẫu."
+      },
+      "rule": "to V1 and (to) V2: động từ thứ hai vẫn ở dạng nguyên mẫu.",
+      "examples": [
+        "We plan to hire more staff and open a new branch.",
+        "She decided to resign and start her own company."
+      ],
+      "common_mistake": "Thấy động từ đứng sau \"and\" là thêm -ing hoặc chia quá khứ theo động từ chính \"advised\"."
+    },
+    "tags": [
+      "to-infinitive",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "par-004",
+    "topic": "parallel-structure",
+    "level": "intermediate",
+    "type": "fix-error",
+    "question": "Tìm phần sai: The new booking system will <u>save</u> (A) time, <u>reduce</u> (B) errors, and <u>improving</u> (C) communication <u>between</u> (D) departments.",
+    "options": [
+      "save",
+      "reduce",
+      "improving",
+      "between"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Phần sai là (C). Sau \"will\" là danh sách động từ nguyên mẫu (save, reduce) → sửa thành **improve**.",
+      "wrong": {
+        "0": "(A) đúng: \"will\" + động từ nguyên mẫu \"save\".",
+        "1": "(B) đúng: \"reduce\" song song với \"save\".",
+        "3": "(D) đúng: \"between\" dùng cho hai hay nhiều đối tượng riêng biệt (các phòng ban)."
+      },
+      "rule": "will + V1, V2, and V3: mọi động từ trong danh sách đều ở dạng nguyên mẫu.",
+      "examples": [
+        "The new policy will cut costs, increase sales, and attract new customers.",
+        "You should read the contract, sign it, and return it by Friday."
+      ],
+      "common_mistake": "Đổi dạng động từ ở phần tử cuối vì câu dài, quên mất dạng của phần tử đầu."
+    },
+    "tags": [
+      "list",
+      "verb",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "par-005",
+    "topic": "parallel-structure",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The new office is not only closer to the metro station but also ___ than our previous one.",
+    "options": [
+      "more spacious",
+      "more space",
+      "more spaciously",
+      "spaciousness"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Cặp **not only … but also** nối hai thành phần cùng dạng. Vế đầu là tính từ so sánh \"closer\" → vế sau cũng là tính từ so sánh: **more spacious**.",
+      "wrong": {
+        "1": "\"more space\" là cụm danh từ, không song song với tính từ \"closer\" và không đứng sau \"is\" để so sánh với \"than\".",
+        "2": "\"more spaciously\" là trạng từ, không làm vị ngữ sau động từ \"is\".",
+        "3": "\"spaciousness\" là danh từ, vừa sai dạng song song vừa không đi được với \"than\"."
+      },
+      "rule": "not only X but also Y: X và Y cùng dạng (adj – adj, N – N, V – V, cụm giới từ – cụm giới từ).",
+      "examples": [
+        "The software is not only faster but also more secure.",
+        "She is not only talented but also hard-working."
+      ],
+      "common_mistake": "Dịch \"rộng rãi hơn\" thành \"more space\" hoặc \"has more space\", làm hai vế lệch dạng."
+    },
+    "tags": [
+      "not-only-but-also",
+      "correlative",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "par-006",
+    "topic": "parallel-structure",
+    "level": "intermediate",
+    "type": "fill-form",
+    "question": "In customer service, replying to emails quickly is just as important as ___ (write) them politely.",
+    "options": [
+      "write",
+      "writing",
+      "to write",
+      "written"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Hai vế được so sánh bằng **as … as** phải cùng dạng. Vế đầu là V-ing \"replying\" → vế sau là **writing**.",
+      "wrong": {
+        "0": "\"write\" là động từ nguyên mẫu, không song song với \"replying\" (danh động từ làm chủ ngữ).",
+        "2": "\"to write\" là to V, không cùng dạng với \"replying\".",
+        "3": "\"written\" là V3, sai cả dạng lẫn nghĩa (không phải bị động)."
+      },
+      "rule": "V-ing … as … as V-ing; V-ing … than V-ing: hai vế so sánh phải cùng dạng.",
+      "examples": [
+        "Listening to customers is as important as talking to them.",
+        "Preparing well is more effective than working late."
+      ],
+      "common_mistake": "Dùng \"to write\" sau \"as important as\" vì nhớ cấu trúc \"It is important to V\"."
+    },
+    "tags": [
+      "comparison",
+      "gerund",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "par-007",
+    "topic": "parallel-structure",
+    "level": "advanced",
+    "type": "choose",
+    "question": "At next week's meeting, the board will decide whether to expand the current factory or ___ a new one in Binh Duong.",
+    "options": [
+      "building",
+      "built",
+      "to building",
+      "build"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Cặp **whether … or** nối hai cụm cùng dạng: **to expand** … or **(to) build**. Chữ \"to\" thứ hai được lược bỏ → động từ nguyên mẫu **build**.",
+      "wrong": {
+        "0": "\"building\" là V-ing, không song song với \"to expand\".",
+        "1": "\"built\" là V3 / quá khứ, không cùng dạng với \"to expand\".",
+        "2": "\"to building\" sai: sau \"to\" của to V phải là động từ nguyên mẫu."
+      },
+      "rule": "whether to V1 or (to) V2; either X or Y; neither X nor Y: hai vế cùng dạng.",
+      "examples": [
+        "We have to decide whether to renew the contract or find a new supplier.",
+        "You can either call the hotline or send us an email."
+      ],
+      "common_mistake": "Thêm -ing vì nghĩ \"or\" giống như một giới từ."
+    },
+    "tags": [
+      "whether-or",
+      "correlative",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "par-008",
+    "topic": "parallel-structure",
+    "level": "advanced",
+    "type": "fix-error",
+    "question": "Tìm phần sai: For small businesses, <u>renting</u> (A) office equipment is often <u>cheaper</u> (B) than <u>to buy</u> (C) it <u>outright</u> (D).",
+    "options": [
+      "renting",
+      "cheaper",
+      "to buy",
+      "outright"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Phần sai là (C). Hai vế so sánh bằng **than** phải cùng dạng: vế đầu là V-ing \"renting\" → sửa thành **buying**.",
+      "wrong": {
+        "0": "(A) đúng: V-ing \"renting\" làm chủ ngữ.",
+        "1": "(B) đúng: \"cheap\" là tính từ ngắn → \"cheaper than\".",
+        "3": "(D) đúng: \"outright\" là trạng từ (mua đứt, trả hết một lần)."
+      },
+      "rule": "V-ing + be + so sánh hơn + than + V-ing.",
+      "examples": [
+        "Taking the train is often faster than driving.",
+        "Repairing the machine is more expensive than replacing it."
+      ],
+      "common_mistake": "Dùng \"to V\" sau \"than\" vì dịch \"rẻ hơn là mua\"."
+    },
+    "tags": [
+      "comparison",
+      "gerund",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "par-009",
+    "topic": "parallel-structure",
+    "level": "advanced",
+    "type": "rewrite",
+    "question": "Chọn câu đồng nghĩa với: *Mr. Dat writes the quarterly reports. He also presents them to the clients and answers their questions.*",
+    "options": [
+      "Mr. Dat writes the quarterly reports, presenting them to the clients, and answers their questions.",
+      "Mr. Dat writes the quarterly reports, presents them to the clients, and answering their questions.",
+      "Mr. Dat writes the quarterly reports, presents them to the clients, and answers their questions.",
+      "Mr. Dat writes the quarterly reports, to present them to the clients, and answers their questions."
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Ba hành động cùng chủ ngữ \"Mr. Dat\", cùng thì hiện tại đơn → ba động từ chia giống nhau: **writes, presents, and answers**.",
+      "wrong": {
+        "0": "\"presenting\" là V-ing, lệch dạng với \"writes\" và \"answers\".",
+        "1": "\"answering\" là V-ing, lệch dạng với \"writes\" và \"presents\".",
+        "3": "\"to present\" là to V, làm câu mang nghĩa mục đích và phá vỡ danh sách động từ chia."
+      },
+      "rule": "S + V1(s), V2(s), and V3(s): các động từ chung chủ ngữ chia cùng thì, cùng dạng.",
+      "examples": [
+        "She checks the invoices, records the payments, and updates the database.",
+        "Last year we opened two stores, hired 50 staff, and doubled our sales."
+      ],
+      "common_mistake": "Chỉ chia động từ đầu tiên, các động từ sau để V-ing hoặc to V."
+    },
+    "tags": [
+      "verb",
+      "combining",
+      "toeic-part6"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "par-010",
+    "topic": "parallel-structure",
+    "level": "advanced",
+    "type": "choose",
+    "question": "The purpose of this review is not to criticize individual employees but ___ the overall workflow of the department.",
+    "options": [
+      "improving",
+      "to improve",
+      "improved",
+      "improvement"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Cặp **not … but** nối hai cụm cùng dạng. Vế đầu là \"to criticize\" → vế sau là **to improve**.",
+      "wrong": {
+        "0": "\"improving\" là V-ing, không song song với \"to criticize\".",
+        "2": "\"improved\" là V3 / quá khứ, không cùng dạng với \"to criticize\".",
+        "3": "\"improvement\" là danh từ, không thể có tân ngữ trực tiếp \"the overall workflow\" và không song song với to V."
+      },
+      "rule": "not X but Y (không phải X mà là Y): X và Y cùng dạng (to V – to V, N – N…).",
+      "examples": [
+        "Our goal is not to sell more products but to build long-term relationships.",
+        "The problem was not the price but the quality."
+      ],
+      "common_mistake": "Đổi sang V-ing hoặc danh từ ở vế sau vì không nhận ra \"not … but\" là cặp liên từ."
+    },
+    "tags": [
+      "not-but",
+      "correlative",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  }
+]

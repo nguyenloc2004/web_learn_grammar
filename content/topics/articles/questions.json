@@ -1,0 +1,355 @@
+[
+  {
+    "id": "art-001",
+    "topic": "articles",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Before joining our firm, Ms. Lan earned ___ MBA from ___ university in Singapore.",
+    "options": [
+      "a … an",
+      "an … a",
+      "an … an",
+      "a … a"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Chọn a / an theo **âm đầu**, không theo chữ cái: \"MBA\" đọc /em-bi-ei/ (âm nguyên âm) → **an** MBA; \"university\" đọc /juː/ (âm phụ âm) → **a** university.",
+      "wrong": {
+        "0": "\"a MBA\" sai vì \"M\" đọc là /em/, bắt đầu bằng âm nguyên âm; \"an university\" sai vì \"u\" ở đây đọc là /juː/.",
+        "2": "\"an university\" sai: \"university\" bắt đầu bằng âm /j/ (phụ âm) nên dùng \"a\".",
+        "3": "\"a MBA\" sai: chữ viết tắt \"MBA\" bắt đầu bằng âm /e/ nên dùng \"an\"."
+      },
+      "rule": "an + âm nguyên âm (an hour, an MBA, an honest man); a + âm phụ âm (a university, a European, a one-day trip).",
+      "examples": [
+        "It took us an hour to find a useful solution.",
+        "He works for a European company and holds an MSc in finance."
+      ],
+      "common_mistake": "Nhìn chữ cái đầu (u, h, M) thay vì nghe âm đầu, nên viết \"an university\", \"a hour\", \"a MBA\"."
+    },
+    "tags": [
+      "a-an",
+      "sound",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "art-002",
+    "topic": "articles",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Could you send me ___ sales report you mentioned at yesterday's meeting?",
+    "options": [
+      "an",
+      "the",
+      "(không mạo từ)",
+      "these"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Bản báo cáo đã được xác định bởi mệnh đề \"you mentioned at yesterday's meeting\" (cả hai người đều biết là cái nào) → **the**.",
+      "wrong": {
+        "0": "\"an\" sai: \"sales\" bắt đầu bằng âm phụ âm, và danh từ đã được xác định nên không dùng mạo từ bất định.",
+        "2": "Không thể bỏ mạo từ vì \"report\" là danh từ đếm được số ít.",
+        "3": "\"these\" đi với danh từ số nhiều, không hợp với \"report\" số ít."
+      },
+      "rule": "the + danh từ được xác định bởi mệnh đề / cụm phía sau: the report (that) you mentioned, the file I sent.",
+      "examples": [
+        "Have you read the email I forwarded this morning?",
+        "The contract we signed last year expires in June."
+      ],
+      "common_mistake": "Bỏ mạo từ hoàn toàn vì tiếng Việt nói \"gửi tôi báo cáo bạn nhắc đến\"."
+    },
+    "tags": [
+      "the",
+      "definite",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "art-003",
+    "topic": "articles",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "___ customer satisfaction has always been the top priority of every department in our company.",
+    "options": [
+      "The",
+      "A",
+      "An",
+      "(không mạo từ)"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "\"customer satisfaction\" là danh từ **không đếm được**, nói **chung chung** (sự hài lòng của khách hàng nói chung) → **không dùng mạo từ**.",
+      "wrong": {
+        "0": "\"The\" sai: không dùng \"the\" với danh từ không đếm được mang nghĩa chung chung.",
+        "1": "\"A\" sai: không dùng a / an với danh từ không đếm được.",
+        "2": "\"An\" sai: vừa đi với danh từ không đếm được, vừa đứng trước âm phụ âm /k/."
+      },
+      "rule": "Danh từ không đếm được / số nhiều mang nghĩa chung → không mạo từ: Safety is important. Customers expect fast delivery.",
+      "examples": [
+        "Experience is more important than qualifications for this role.",
+        "Online advertising has become very expensive."
+      ],
+      "common_mistake": "Thêm \"the\" trước danh từ trừu tượng chung chung theo thói quen dịch \"Sự hài lòng của khách hàng…\"."
+    },
+    "tags": [
+      "zero-article",
+      "uncountable",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "art-004",
+    "topic": "articles",
+    "level": "intermediate",
+    "type": "fix-error",
+    "question": "Tìm phần sai: Most of our employees in Ha Noi <u>go</u> (A) <u>to</u> (B) work <u>by the</u> (C) bus, but a few <u>prefer</u> (D) to cycle.",
+    "options": [
+      "go",
+      "to",
+      "by the",
+      "prefer"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Phần sai là (C). Cụm cố định **by + phương tiện** không có mạo từ: sửa thành **by bus**.",
+      "wrong": {
+        "0": "(A) đúng: chủ ngữ \"Most of our employees\" đi với động từ số nhiều \"go\".",
+        "1": "(B) đúng: \"go to work\" là cụm cố định, không có mạo từ.",
+        "3": "(D) đúng: \"a few\" đi với động từ số nhiều \"prefer\"."
+      },
+      "rule": "by + bus / car / train / taxi / email (không mạo từ). Nhưng: on the bus, in a taxi, in my car.",
+      "examples": [
+        "The documents were sent by email.",
+        "Many employees travel to the factory by train."
+      ],
+      "common_mistake": "Thêm \"the\" vì tiếng Việt nói \"đi bằng xe buýt\" và người học quen đặt mạo từ trước mọi danh từ đếm được."
+    },
+    "tags": [
+      "zero-article",
+      "fixed-phrase",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "art-005",
+    "topic": "articles",
+    "level": "intermediate",
+    "type": "fix-error",
+    "question": "Tìm phần sai: <u>The</u> (A) applicants for this position <u>must have</u> (B) <u>a</u> (C) university degree and at least two years of <u>the experience</u> (D).",
+    "options": [
+      "The",
+      "must have",
+      "a",
+      "the experience"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Phần sai là (D): bỏ \"the\". \"experience\" (kinh nghiệm) là danh từ **không đếm được**, dùng chung chung → **không mạo từ**: \"two years of experience\".",
+      "wrong": {
+        "0": "(A) đúng: \"The applicants for this position\" được xác định bởi cụm \"for this position\".",
+        "1": "(B) đúng: \"must have\" + danh từ.",
+        "2": "(C) đúng: \"university\" bắt đầu bằng âm /j/ (phụ âm) nên dùng \"a\"; \"degree\" là danh từ đếm được số ít, nhắc lần đầu."
+      },
+      "rule": "số năm + of + experience (không mạo từ). \"experience\" nghĩa \"kinh nghiệm\" là không đếm được.",
+      "examples": [
+        "Candidates should have three years of experience in sales.",
+        "She has experience in managing large teams."
+      ],
+      "common_mistake": "Thêm \"the\" vì nghĩ danh từ đứng sau \"of\" luôn cần mạo từ."
+    },
+    "tags": [
+      "zero-article",
+      "uncountable",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "art-006",
+    "topic": "articles",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The airport shuttle leaves the hotel at 7:00, so please be in the lobby by 6:45 in ___ morning.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "(không mạo từ)"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Cụm cố định chỉ buổi trong ngày: **in the morning / in the afternoon / in the evening**.",
+      "wrong": {
+        "0": "\"in a morning\" sai: cụm chỉ buổi trong ngày dùng \"the\".",
+        "1": "\"an\" sai: \"morning\" bắt đầu bằng âm phụ âm /m/, và cụm này dùng \"the\".",
+        "3": "\"in morning\" thiếu mạo từ; chỉ có \"at night\" là không dùng mạo từ."
+      },
+      "rule": "in the morning / afternoon / evening; at night; on Monday morning (không mạo từ khi có tên ngày).",
+      "examples": [
+        "The meeting will start at 9:00 in the morning.",
+        "I usually reply to emails in the evening."
+      ],
+      "common_mistake": "Nói \"in morning\" vì tiếng Việt \"vào buổi sáng\" không có mạo từ."
+    },
+    "tags": [
+      "the",
+      "fixed-phrase",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "art-007",
+    "topic": "articles",
+    "level": "advanced",
+    "type": "choose",
+    "question": "Ms. Vy is ___ only member of our team who has ___ experience in negotiating with overseas suppliers.",
+    "options": [
+      "the … (không mạo từ)",
+      "an … (không mạo từ)",
+      "the … an",
+      "a … an"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "**the only + N** (người duy nhất, đã xác định) và \"experience\" (kinh nghiệm) là danh từ không đếm được → **không mạo từ**.",
+      "wrong": {
+        "1": "\"an only member\" sai: \"only\" (duy nhất) xác định danh từ nên phải dùng \"the\".",
+        "2": "\"an experience\" sai: \"experience\" với nghĩa \"kinh nghiệm\" không đếm được, không đi với \"an\".",
+        "3": "\"a only member\" sai cả âm (\"only\" bắt đầu bằng nguyên âm) lẫn nghĩa (phải là \"the only\"), và \"an experience\" cũng sai."
+      },
+      "rule": "the only / the same / the first / the + so sánh nhất. experience (kinh nghiệm) không đếm được; an experience = một trải nghiệm.",
+      "examples": [
+        "He was the only candidate who spoke fluent Korean.",
+        "We are looking for someone with experience in event planning."
+      ],
+      "common_mistake": "Bỏ \"the\" trước \"only\" vì tiếng Việt nói \"là thành viên duy nhất\"; thêm \"an\" trước \"experience\" vì dịch \"có một kinh nghiệm\"."
+    },
+    "tags": [
+      "the",
+      "the-only",
+      "uncountable",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "art-008",
+    "topic": "articles",
+    "level": "advanced",
+    "type": "fix-error",
+    "question": "Tìm phần sai: Ms. Hoa usually goes <u>to the work</u> (A) early, but today she <u>had to</u> (B) stop <u>at the bank</u> (C) <u>to withdraw</u> (D) some cash.",
+    "options": [
+      "to the work",
+      "had to",
+      "at the bank",
+      "to withdraw"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Phần sai là (A). **go to work** (đi làm) là cụm cố định không có mạo từ: sửa thành **to work**.",
+      "wrong": {
+        "1": "(B) đúng: \"had to\" (đã phải) phù hợp với \"today\" trong câu kể sự việc đã xảy ra.",
+        "2": "(C) đúng: \"at the bank\" là cách nói thông thường khi đến ngân hàng làm việc.",
+        "3": "(D) đúng: \"to withdraw\" chỉ mục đích."
+      },
+      "rule": "Không mạo từ: go to work, at work, at home, go to bed. Có the: at the bank, at the post office, at the airport.",
+      "examples": [
+        "She was still at work when I called.",
+        "I need to go to the post office before lunch."
+      ],
+      "common_mistake": "Thêm \"the\" trước \"work\" vì nghĩ đây là nơi làm việc cụ thể."
+    },
+    "tags": [
+      "zero-article",
+      "fixed-phrase",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "art-009",
+    "topic": "articles",
+    "level": "advanced",
+    "type": "rewrite",
+    "question": "Chọn câu đồng nghĩa với: *Our company has opened a new branch, which is located in Can Tho.*",
+    "options": [
+      "Our company has opened a new branch. A branch is located in Can Tho.",
+      "Our company has opened a new branch. The branch is located in Can Tho.",
+      "Our company has opened a new branch. Branch is located in Can Tho.",
+      "Our company has opened the new branch. A branch is located in Can Tho."
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Lần đầu nhắc đến dùng **a** (a new branch); lần thứ hai nhắc lại chính chi nhánh đó dùng **the**: **The branch is located in Can Tho**.",
+      "wrong": {
+        "0": "\"A branch\" ở câu thứ hai nghĩa là \"một chi nhánh nào đó\", không còn chỉ chi nhánh vừa mở.",
+        "2": "\"Branch\" là danh từ đếm được số ít đứng một mình, thiếu mạo từ.",
+        "3": "\"the new branch\" ở lần nhắc đầu tiên không hợp (người đọc chưa biết chi nhánh nào), và \"A branch\" ở câu sau lại không chỉ chi nhánh đã nói."
+      },
+      "rule": "Nhắc lần đầu: a / an + N. Nhắc lại cùng đối tượng: the + N.",
+      "examples": [
+        "We hired a consultant last month. The consultant has already improved our processes.",
+        "I received an email from a client. The email was about a late payment."
+      ],
+      "common_mistake": "Dùng \"a\" ở cả hai lần nhắc, hoặc bỏ mạo từ ở lần nhắc lại."
+    },
+    "tags": [
+      "a-an",
+      "the",
+      "second-mention",
+      "toeic-part6"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "art-010",
+    "topic": "articles",
+    "level": "advanced",
+    "type": "choose",
+    "question": "Ms. Yen is ___ honest and reliable accountant, so the board asked her to review ___ most recent budget proposal.",
+    "options": [
+      "an … the",
+      "a … the",
+      "an … a",
+      "a … a"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "\"honest\" có **h câm**, đọc bắt đầu bằng âm nguyên âm /ɒ/ → **an** honest; so sánh nhất \"most recent\" luôn đi với **the**.",
+      "wrong": {
+        "1": "\"a honest\" sai vì chữ \"h\" trong \"honest\" không được phát âm.",
+        "2": "\"a most recent\" sai: so sánh nhất phải dùng \"the\".",
+        "3": "Sai cả hai chỗ: \"a honest\" (h câm) và \"a most recent\" (so sánh nhất cần \"the\")."
+      },
+      "rule": "an + từ có h câm: an hour, an honest person, an honor. the + so sánh nhất: the most recent, the lowest price.",
+      "examples": [
+        "It was an honor to meet the founder of the company.",
+        "This is the lowest price we can offer."
+      ],
+      "common_mistake": "Thấy chữ \"h\" (phụ âm) liền dùng \"a\"; bỏ \"the\" trước so sánh nhất."
+    },
+    "tags": [
+      "a-an",
+      "sound",
+      "superlative",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  }
+]

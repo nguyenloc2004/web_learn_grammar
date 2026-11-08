@@ -1,0 +1,518 @@
+[
+  {
+    "id": "gi-001",
+    "topic": "gerund-infinitive",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The manager suggested ___ the meeting until all the sales data was available.",
+    "options": [
+      "postponing",
+      "to postpone",
+      "postpone",
+      "postponed"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "**suggest + V-ing**: **postponing** (đề nghị hoãn).",
+      "wrong": {
+        "1": "\"to postpone\" sai: \"suggest\" không đi với to V.",
+        "2": "\"postpone\" (nguyên mẫu không to) không đứng ngay sau \"suggest\" khi không có \"that + S\".",
+        "3": "\"postponed\" là quá khứ, không làm tân ngữ cho \"suggested\"."
+      },
+      "rule": "Các động từ + V-ing hay gặp trong TOEIC: suggest, recommend, consider, avoid, delay, postpone, finish, mind, keep.",
+      "examples": [
+        "She recommended hiring an external consultant.",
+        "We are considering moving to a bigger office."
+      ],
+      "common_mistake": "Dịch \"đề nghị để làm gì\" nên dùng \"suggest to do\"."
+    },
+    "tags": [
+      "gerund",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "gi-002",
+    "topic": "gerund-infinitive",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "We plan ___ two new stores in Hai Phong by the end of the year.",
+    "options": [
+      "opening",
+      "open",
+      "to opening",
+      "to open"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "**plan + to V**: **to open**.",
+      "wrong": {
+        "0": "\"opening\" sai: \"plan\" không đi trực tiếp với V-ing (chỉ \"plan on + V-ing\").",
+        "1": "\"open\" thiếu \"to\".",
+        "2": "\"to opening\" sai: \"to\" ở đây là một phần của to-infinitive, không phải giới từ."
+      },
+      "rule": "Các động từ + to V: plan, decide, hope, agree, intend, expect, aim, offer, refuse, promise.",
+      "examples": [
+        "The company intends to expand into Cambodia.",
+        "They agreed to share the costs."
+      ],
+      "common_mistake": "Dùng V-ing sau mọi động từ chỉ kế hoạch: \"We plan opening…\"."
+    },
+    "tags": [
+      "infinitive",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "gi-003",
+    "topic": "gerund-infinitive",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Please avoid ___ personal phone calls during business hours.",
+    "options": [
+      "to make",
+      "make",
+      "making",
+      "made"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "**avoid + V-ing**: **making**.",
+      "wrong": {
+        "0": "\"to make\" sai: \"avoid\" không đi với to V.",
+        "1": "\"make\" thiếu -ing.",
+        "3": "\"made\" là quá khứ/phân từ, không làm tân ngữ cho \"avoid\"."
+      },
+      "rule": "avoid + V-ing (tránh làm gì).",
+      "examples": [
+        "Try to avoid using your phone while driving.",
+        "He avoided answering the question directly."
+      ],
+      "common_mistake": "Dùng \"avoid to do\" vì tưởng mọi động từ đều theo sau bởi to V."
+    },
+    "tags": [
+      "gerund",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "gi-004",
+    "topic": "gerund-infinitive",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The company cannot afford ___ any more experienced staff this year.",
+    "options": [
+      "losing",
+      "lose",
+      "to losing",
+      "to lose"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "**afford + to V** (đủ khả năng / không thể để mất): **to lose**.",
+      "wrong": {
+        "0": "\"losing\" sai: \"afford\" đi với to V.",
+        "1": "\"lose\" thiếu \"to\".",
+        "2": "\"to losing\" sai: \"to\" là phần của to-infinitive, không phải giới từ."
+      },
+      "rule": "can't afford + to V: không đủ khả năng / không thể chấp nhận làm gì.",
+      "examples": [
+        "We can't afford to miss this deadline.",
+        "Few families can afford to buy a house in the city centre."
+      ],
+      "common_mistake": "Dùng V-ing sau \"afford\" theo kiểu \"can't help doing\"."
+    },
+    "tags": [
+      "infinitive",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "gi-005",
+    "topic": "gerund-infinitive",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "I look forward to ___ from you at your earliest convenience.",
+    "options": [
+      "hear",
+      "hearing",
+      "to hear",
+      "heard"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Trong **look forward to**, \"to\" là **giới từ** nên theo sau là V-ing: **hearing**.",
+      "wrong": {
+        "0": "\"hear\" sai: sau giới từ \"to\" không dùng động từ nguyên mẫu.",
+        "2": "\"to hear\" lặp \"to\", sai cấu trúc.",
+        "3": "\"heard\" là quá khứ/phân từ, không đứng sau giới từ."
+      },
+      "rule": "Cụm có \"to\" là giới từ + V-ing: look forward to, be committed to, be used to, object to, be dedicated to.",
+      "examples": [
+        "We look forward to working with you.",
+        "She is used to giving presentations."
+      ],
+      "common_mistake": "Viết \"look forward to hear\" vì nhầm \"to\" là dấu hiệu của động từ nguyên mẫu."
+    },
+    "tags": [
+      "gerund",
+      "preposition-to",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "gi-006",
+    "topic": "gerund-infinitive",
+    "level": "intermediate",
+    "type": "fill-form",
+    "question": "The new receptionist is responsible for ___ (greet) visitors and answering the phone.",
+    "options": [
+      "to greet",
+      "greet",
+      "greeting",
+      "greeted"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Sau giới từ **for** dùng V-ing: **greeting**. Vế sau \"answering\" cũng dạng V-ing (song song).",
+      "wrong": {
+        "0": "\"to greet\" sai: không dùng to V sau giới từ.",
+        "1": "\"greet\" sai: không dùng động từ nguyên mẫu sau giới từ.",
+        "3": "\"greeted\" sai: phân từ quá khứ không đứng sau \"for\" trong cấu trúc này."
+      },
+      "rule": "Giới từ (for, in, of, about, by, without…) + V-ing.",
+      "examples": [
+        "Thank you for attending the workshop.",
+        "She is interested in learning Korean."
+      ],
+      "common_mistake": "Dùng \"responsible for to greet\" do dịch \"chịu trách nhiệm để chào\"."
+    },
+    "tags": [
+      "gerund",
+      "preposition",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "gi-007",
+    "topic": "gerund-infinitive",
+    "level": "advanced",
+    "type": "choose",
+    "question": "Please remember ___ off all the lights before you leave the office tonight.",
+    "options": [
+      "to turn",
+      "turning",
+      "turn",
+      "turned"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Việc **chưa làm, cần nhớ để làm** (\"before you leave … tonight\") → **remember + to V**: **to turn**.",
+      "wrong": {
+        "1": "\"turning\": remember + V-ing nghĩa là nhớ việc **đã làm** trong quá khứ, không hợp với lời nhắc.",
+        "2": "\"turn\" thiếu \"to\".",
+        "3": "\"turned\" là quá khứ, không làm tân ngữ của \"remember\"."
+      },
+      "rule": "remember / forget + to V: nhớ / quên phải làm (việc chưa làm). remember / forget + V-ing: nhớ / quên đã làm (việc đã xảy ra).",
+      "examples": [
+        "Don't forget to sign the attendance sheet.",
+        "I remember meeting him at the trade fair last year."
+      ],
+      "common_mistake": "Dùng một dạng cho mọi nghĩa của \"remember\", không phân biệt việc đã làm hay chưa làm."
+    },
+    "tags": [
+      "meaning-change",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "gi-008",
+    "topic": "gerund-infinitive",
+    "level": "advanced",
+    "type": "choose",
+    "question": "Our company is committed to ___ high-quality products at affordable prices.",
+    "options": [
+      "provide",
+      "provided",
+      "provides",
+      "providing"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Trong **be committed to**, \"to\" là giới từ → V-ing: **providing**.",
+      "wrong": {
+        "0": "\"provide\" là bẫy phổ biến nhất: thấy \"to\" nên chọn nguyên mẫu, nhưng \"to\" ở đây là giới từ.",
+        "1": "\"provided\" là phân từ quá khứ, không đứng sau giới từ trong cấu trúc này.",
+        "2": "\"provides\" là động từ chia, không đứng sau giới từ."
+      },
+      "rule": "be committed / dedicated / devoted to + V-ing (cam kết / tận tâm làm gì).",
+      "examples": [
+        "The hotel is dedicated to providing excellent service.",
+        "We are committed to reducing our carbon emissions."
+      ],
+      "common_mistake": "Viết \"committed to provide\" vì nghĩ \"to\" luôn đi với động từ nguyên mẫu."
+    },
+    "tags": [
+      "gerund",
+      "preposition-to",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "gi-009",
+    "topic": "gerund-infinitive",
+    "level": "advanced",
+    "type": "rewrite",
+    "question": "Chọn câu đồng nghĩa với: *I'm sorry, but I have to tell you that your application was unsuccessful.*",
+    "options": [
+      "I regret informing you that your application was unsuccessful.",
+      "I regret inform you that your application was unsuccessful.",
+      "I regret to inform you that your application was unsuccessful.",
+      "I regret to informing you that your application was unsuccessful."
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "**regret + to V** = lấy làm tiếc phải báo tin (việc đang/sắp làm): *I regret to inform you…*, cách viết chuẩn trong thư thương mại.",
+      "wrong": {
+        "0": "\"regret informing\" nghĩa là hối hận vì **đã** thông báo, sai nghĩa câu gốc.",
+        "1": "\"regret inform\" thiếu \"to\".",
+        "3": "\"regret to informing\" sai cấu trúc: \"to\" ở đây là to-infinitive, không phải giới từ."
+      },
+      "rule": "regret + to V: tiếc phải làm (thông báo tin xấu). regret + V-ing: hối hận vì đã làm.",
+      "examples": [
+        "We regret to announce that the flight has been cancelled.",
+        "He regrets not taking the job offer."
+      ],
+      "common_mistake": "Dùng \"regret + V-ing\" trong thư từ chối, vô tình đổi nghĩa thành \"hối hận vì đã báo\"."
+    },
+    "tags": [
+      "meaning-change",
+      "business-letter",
+      "toeic-part6"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "gi-010",
+    "topic": "gerund-infinitive",
+    "level": "advanced",
+    "type": "fix-error",
+    "question": "Tìm phần sai: The board <u>decided</u> (A) <u>delaying</u> (B) the product launch <u>in order to</u> (C) <u>conduct</u> (D) further tests.",
+    "options": [
+      "decided",
+      "delaying",
+      "in order to",
+      "conduct"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Phần sai là (B). **decide + to V**: sửa thành **to delay**.",
+      "wrong": {
+        "0": "(A) đúng: \"decided\" là quá khứ đơn của động từ chính.",
+        "2": "(C) đúng: \"in order to\" + V chỉ mục đích.",
+        "3": "(D) đúng: sau \"in order to\" dùng động từ nguyên mẫu \"conduct\"."
+      },
+      "rule": "decide + to V. Các động từ chỉ quyết định, dự định thường đi với to V.",
+      "examples": [
+        "They decided to hire two more engineers.",
+        "She decided to accept the offer."
+      ],
+      "common_mistake": "Dùng V-ing sau \"decide\" vì nhầm với \"consider + V-ing\"."
+    },
+    "tags": [
+      "infinitive",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "gi-011",
+    "topic": "gerund-infinitive",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The new IT policy requires all employees ___ their passwords every three months.",
+    "options": [
+      "to change",
+      "change",
+      "changing",
+      "changed"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "**require + tân ngữ + to V**: *requires all employees to change*.",
+      "wrong": {
+        "1": "\"change\" (nguyên mẫu không to) chỉ dùng sau let / make / have + O; \"require\" cần \"to\".",
+        "2": "\"changing\" sai vì sau \"require + O\" không dùng V-ing.",
+        "3": "\"changed\" là quá khứ/phân từ, không đứng sau tân ngữ của \"require\" trong nghĩa chủ động này."
+      },
+      "rule": "require / ask / allow / encourage / remind / advise / invite + O + to V.",
+      "examples": [
+        "The bank requires customers to show their ID.",
+        "Our manager encouraged us to share new ideas."
+      ],
+      "common_mistake": "Bỏ \"to\" sau tân ngữ vì lẫn với \"let / make + O + V\"."
+    },
+    "tags": [
+      "verb-object-to-v",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "gi-012",
+    "topic": "gerund-infinitive",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Our manager let us ___ home early on Friday because we had finished the project ahead of schedule.",
+    "options": [
+      "to go",
+      "going",
+      "went",
+      "go"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "**let + tân ngữ + V nguyên mẫu không to**: *let us go*.",
+      "wrong": {
+        "0": "\"to go\" sai: \"let\" không đi với to V (khác với \"allow us to go\").",
+        "1": "\"going\" sai: sau \"let + O\" không dùng V-ing.",
+        "2": "\"went\" sai: động từ sau tân ngữ của \"let\" luôn ở dạng nguyên mẫu, không chia thì dù câu ở quá khứ."
+      },
+      "rule": "let / make / have + O + V nguyên mẫu; allow / permit + O + to V.",
+      "examples": [
+        "The supervisor let the new staff leave early.",
+        "The supervisor allowed the new staff to leave early."
+      ],
+      "common_mistake": "Chia quá khứ cho động từ sau \"let\" (\"let us went\") hoặc thêm \"to\" vì quen mẫu \"allow sb to V\"."
+    },
+    "tags": [
+      "let-make-have",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "gi-013",
+    "topic": "gerund-infinitive",
+    "level": "intermediate",
+    "type": "fill-form",
+    "question": "The organizers have invited Ms. Vy ___ (give) the opening speech at the conference in Da Nang.",
+    "options": [
+      "give",
+      "giving",
+      "to give",
+      "to giving"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "**invite + tân ngữ + to V**: *invited Ms. Vy to give the opening speech*.",
+      "wrong": {
+        "0": "\"give\" thiếu \"to\"; \"invite\" không thuộc nhóm let / make / have.",
+        "1": "\"giving\" sai: sau \"invite + O\" không dùng V-ing.",
+        "3": "\"to giving\" sai: \"to\" ở đây là to-infinitive, không phải giới từ."
+      },
+      "rule": "invite / ask / encourage / remind + O + to V.",
+      "examples": [
+        "They invited us to join the dinner.",
+        "Please remind Mr. Bao to bring the contract."
+      ],
+      "common_mistake": "Dùng V-ing sau \"invite\" vì lẫn với \"invite sb for dinner\" hoặc nghĩ \"to\" là giới từ."
+    },
+    "tags": [
+      "verb-object-to-v",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "gi-014",
+    "topic": "gerund-infinitive",
+    "level": "advanced",
+    "type": "choose",
+    "question": "For security reasons, the museum does not allow ___ photographs in the main exhibition hall.",
+    "options": [
+      "to take",
+      "take",
+      "visitors take",
+      "taking"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Khi **allow không có tân ngữ chỉ người**, theo sau là **V-ing**: *does not allow taking photographs*. (Nếu có tân ngữ thì dùng: allow visitors **to take**.)",
+      "wrong": {
+        "0": "\"to take\" sai vì \"allow + to V\" chỉ đúng khi có tân ngữ chỉ người đứng giữa (allow visitors to take).",
+        "1": "\"take\" (nguyên mẫu không to) không đứng sau \"allow\" trong bất kỳ cấu trúc nào.",
+        "2": "\"visitors take\" thiếu \"to\": allow + O + to V (allow visitors to take), không dùng mẫu của \"let\"."
+      },
+      "rule": "allow / permit + V-ing (không có tân ngữ); allow / permit + O + to V (có tân ngữ). Bị động: sb is allowed to V.",
+      "examples": [
+        "The hotel does not allow smoking in the rooms.",
+        "The hotel does not allow guests to smoke in the rooms."
+      ],
+      "common_mistake": "Viết \"allow to take\" vì chỉ nhớ \"allow … to V\" mà quên điều kiện phải có tân ngữ."
+    },
+    "tags": [
+      "allow-ving",
+      "verb-object-to-v",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "gi-015",
+    "topic": "gerund-infinitive",
+    "level": "advanced",
+    "type": "fix-error",
+    "question": "Tìm phần sai: The director <u>had</u> (A) her assistant <u>to reschedule</u> (B) the board meeting and <u>asked</u> (C) the finance team <u>to prepare</u> (D) a revised budget.",
+    "options": [
+      "had",
+      "to reschedule",
+      "asked",
+      "to prepare"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Phần sai là (B). **have + người + V nguyên mẫu không to** (nhờ / bảo ai làm): *had her assistant reschedule*.",
+      "wrong": {
+        "0": "(A) đúng: \"had\" là quá khứ của \"have\" (sai khiến), hợp với \"asked\" ở vế sau.",
+        "2": "(C) đúng: quá khứ đơn \"asked\", song song với \"had\".",
+        "3": "(D) đúng: ask + O + to V (asked the finance team to prepare)."
+      },
+      "rule": "have / make / let + O + V nguyên mẫu; ask / get / tell + O + to V.",
+      "examples": [
+        "I will have the technician check your computer.",
+        "I will get the technician to check your computer."
+      ],
+      "common_mistake": "Thêm \"to\" sau \"have + O\" vì lẫn với \"ask / get + O + to V\" trong cùng một câu."
+    },
+    "tags": [
+      "let-make-have",
+      "verb-object-to-v",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  }
+]

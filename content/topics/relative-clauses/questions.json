@@ -1,0 +1,346 @@
+[
+  {
+    "id": "rc-001",
+    "topic": "relative-clauses",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The candidate ___ we interviewed yesterday has accepted our job offer.",
+    "options": [
+      "whom",
+      "which",
+      "whose",
+      "what"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Danh từ chỉ người \"The candidate\" làm **tân ngữ** của \"interviewed\" → **whom** (cũng có thể dùng who / that hoặc lược bỏ).",
+      "wrong": {
+        "1": "\"which\" chỉ dùng cho vật, không dùng cho người.",
+        "2": "\"whose\" chỉ sở hữu và phải đi kèm danh từ (\"whose + N\").",
+        "3": "\"what\" không làm đại từ quan hệ sau một danh từ."
+      },
+      "rule": "Người + who (chủ ngữ) / whom (tân ngữ). Vật + which. that thay được cho cả hai trong mệnh đề xác định.",
+      "examples": [
+        "The consultant whom we hired is very experienced.",
+        "The person who called you is waiting in the lobby."
+      ],
+      "common_mistake": "Dùng \"which\" cho người vì tiếng Việt chỉ có một từ \"mà\" cho mọi trường hợp."
+    },
+    "tags": [
+      "whom",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "rc-002",
+    "topic": "relative-clauses",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Customers ___ orders exceed $500 will receive free delivery.",
+    "options": [
+      "who",
+      "which",
+      "whom",
+      "whose"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Giữa \"Customers\" và danh từ \"orders\" là quan hệ **sở hữu** (đơn hàng của khách) → **whose**.",
+      "wrong": {
+        "0": "\"who\" phải theo sau bởi động từ; \"who orders exceed\" sai cấu trúc.",
+        "1": "\"which\" dùng cho vật và không mang nghĩa sở hữu khi đứng trước danh từ.",
+        "2": "\"whom\" là tân ngữ, không đứng trước danh từ để chỉ sở hữu."
+      },
+      "rule": "N + whose + N + V: whose thay cho tính từ sở hữu (his, her, their, its).",
+      "examples": [
+        "Employees whose contracts end this month must see HR.",
+        "I met a woman whose brother works at our company."
+      ],
+      "common_mistake": "Dùng \"who\" rồi thêm \"their\": \"Customers who their orders…\"."
+    },
+    "tags": [
+      "whose",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "rc-003",
+    "topic": "relative-clauses",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The software ___ we installed last week has already improved our workflow.",
+    "options": [
+      "who",
+      "whose",
+      "that",
+      "what"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "\"The software\" là vật, làm tân ngữ của \"installed\" → **that** (hoặc which, hoặc lược bỏ).",
+      "wrong": {
+        "0": "\"who\" chỉ dùng cho người.",
+        "1": "\"whose\" phải đi kèm danh từ.",
+        "3": "\"what\" = \"the thing that\", không dùng sau một danh từ đã có."
+      },
+      "rule": "Vật + which / that. Khi đại từ quan hệ làm tân ngữ trong mệnh đề xác định, có thể lược bỏ.",
+      "examples": [
+        "The printer that we bought is very fast.",
+        "This is the book I told you about."
+      ],
+      "common_mistake": "Dùng \"what\" sau danh từ: \"The software what we installed…\"."
+    },
+    "tags": [
+      "that",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "rc-004",
+    "topic": "relative-clauses",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "This is the hotel ___ the international trade conference will be held next month.",
+    "options": [
+      "which",
+      "who",
+      "whose",
+      "where"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Mệnh đề sau đã đủ thành phần (chủ ngữ \"the conference\", động từ \"will be held\"), chỉ thiếu **trạng ngữ nơi chốn** → **where** (= in which).",
+      "wrong": {
+        "0": "\"which\" phải làm chủ ngữ hoặc tân ngữ trong mệnh đề; mệnh đề này không thiếu hai thành phần đó (cần \"in which\").",
+        "1": "\"who\" chỉ dùng cho người.",
+        "2": "\"whose\" phải đi kèm danh từ chỉ sở hữu."
+      },
+      "rule": "Nơi chốn + where + S + V (mệnh đề đủ). Nơi chốn + which + (S) + V (mệnh đề thiếu chủ ngữ/tân ngữ).",
+      "examples": [
+        "This is the office where I started my career.",
+        "This is the office which was renovated last year."
+      ],
+      "common_mistake": "Thấy danh từ chỉ vật (\"hotel\") là chọn \"which\" mà không kiểm tra mệnh đề phía sau có thiếu thành phần không."
+    },
+    "tags": [
+      "where",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "rc-005",
+    "topic": "relative-clauses",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Please return the completed forms to Ms. Hanh, ___ office is on the third floor.",
+    "options": [
+      "who",
+      "whose",
+      "which",
+      "that"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "\"office\" thuộc về Ms. Hanh (văn phòng của cô ấy) → **whose**.",
+      "wrong": {
+        "0": "\"who\" phải theo sau bởi động từ, không theo sau bởi danh từ \"office\".",
+        "2": "\"which\" dùng cho vật, không chỉ sở hữu của người.",
+        "3": "\"that\" không dùng sau dấu phẩy (mệnh đề không xác định) và không chỉ sở hữu."
+      },
+      "rule": "whose + N dùng cho cả người và vật; mệnh đề không xác định đặt sau dấu phẩy.",
+      "examples": [
+        "Mr. Tan, whose son works here, is retiring.",
+        "The company, whose profits have risen, is hiring."
+      ],
+      "common_mistake": "Viết \"who her office is…\" theo kiểu dịch \"người mà văn phòng của cô ấy\"."
+    },
+    "tags": [
+      "whose",
+      "non-defining",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "rc-006",
+    "topic": "relative-clauses",
+    "level": "intermediate",
+    "type": "fix-error",
+    "question": "Tìm phần sai: The report <u>which</u> (A) you asked for <u>it</u> (B) <u>is</u> (C) now <u>on</u> (D) your desk.",
+    "options": [
+      "which",
+      "it",
+      "is",
+      "on"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Phần sai là (B). \"which\" đã thay cho tân ngữ \"the report\", nên không lặp lại \"it\": *The report which you asked for is…*",
+      "wrong": {
+        "0": "(A) đúng: \"which\" dùng cho vật \"the report\".",
+        "2": "(C) đúng: động từ chính \"is\" chia theo \"The report\" (số ít).",
+        "3": "(D) đúng: \"on your desk\" là cụm chỉ nơi chốn đúng."
+      },
+      "rule": "Đại từ quan hệ đã thay cho danh từ thì không lặp lại đại từ nhân xưng (it, him, them) trong mệnh đề.",
+      "examples": [
+        "The laptop which I bought last month is already broken.",
+        "The man who you met is our new director."
+      ],
+      "common_mistake": "Thêm \"it / him\" vào cuối mệnh đề quan hệ vì tiếng Việt nói \"cái báo cáo mà bạn yêu cầu nó\"."
+    },
+    "tags": [
+      "pronoun-repetition",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "rc-007",
+    "topic": "relative-clauses",
+    "level": "advanced",
+    "type": "choose",
+    "question": "The new branch manager, ___ has worked in the banking industry for 15 years, will start on Monday.",
+    "options": [
+      "that",
+      "whom",
+      "who",
+      "which"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Mệnh đề **không xác định** (giữa hai dấu phẩy), chỉ người, làm **chủ ngữ** của \"has worked\" → **who**.",
+      "wrong": {
+        "0": "\"that\" không được dùng trong mệnh đề không xác định (sau dấu phẩy).",
+        "1": "\"whom\" là tân ngữ, nhưng ở đây cần chủ ngữ cho \"has worked\".",
+        "3": "\"which\" chỉ dùng cho vật."
+      },
+      "rule": "Mệnh đề không xác định (có dấu phẩy): dùng who / whom / which / whose, không dùng that, không lược bỏ.",
+      "examples": [
+        "Ms. Lien, who leads the design team, will join the call.",
+        "Our new app, which was launched in May, has 1 million users."
+      ],
+      "common_mistake": "Dùng \"that\" sau dấu phẩy vì quen dùng \"that\" cho mọi trường hợp."
+    },
+    "tags": [
+      "non-defining",
+      "who",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "rc-008",
+    "topic": "relative-clauses",
+    "level": "advanced",
+    "type": "choose",
+    "question": "The factory, ___ production capacity has doubled since 2024, now employs over 2,000 workers.",
+    "options": [
+      "whose",
+      "which",
+      "where",
+      "that"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "\"production capacity\" là năng lực sản xuất **của nhà máy** → quan hệ sở hữu, dùng **whose** (whose dùng được cho vật).",
+      "wrong": {
+        "1": "\"which\" cần làm chủ ngữ/tân ngữ, nhưng mệnh đề đã có chủ ngữ \"production capacity\".",
+        "2": "\"where\" chỉ nơi chốn, sai nghĩa: năng lực sản xuất không \"ở trong\" nhà máy theo nghĩa địa điểm, mà thuộc về nhà máy.",
+        "3": "\"that\" không dùng sau dấu phẩy và không chỉ sở hữu."
+      },
+      "rule": "whose + N dùng cho cả vật (= of which): The factory, whose capacity… = The factory, the capacity of which…",
+      "examples": [
+        "The hotel, whose rooms were recently renovated, is fully booked.",
+        "We visited a city whose history goes back 1,000 years."
+      ],
+      "common_mistake": "Nghĩ \"whose\" chỉ dùng cho người nên chọn \"which\" hoặc \"where\" cho vật."
+    },
+    "tags": [
+      "whose",
+      "non-defining",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "rc-009",
+    "topic": "relative-clauses",
+    "level": "advanced",
+    "type": "choose",
+    "question": "The consultant with ___ we discussed the merger plan has recently left the firm.",
+    "options": [
+      "who",
+      "that",
+      "him",
+      "whom"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Sau **giới từ** (with) trong mệnh đề quan hệ chỉ người, bắt buộc dùng **whom**.",
+      "wrong": {
+        "0": "\"who\" không đứng ngay sau giới từ.",
+        "1": "\"that\" không bao giờ đứng sau giới từ trong mệnh đề quan hệ.",
+        "2": "\"him\" là đại từ nhân xưng, không nối được hai mệnh đề."
+      },
+      "rule": "Giới từ + whom (người) / which (vật). Không dùng giới từ + who / that.",
+      "examples": [
+        "The colleague to whom I sent the file has replied.",
+        "The project on which we worked was a success."
+      ],
+      "common_mistake": "Viết \"with who\" hoặc \"with that\" theo thói quen dùng who/that ở mọi vị trí."
+    },
+    "tags": [
+      "preposition-whom",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "rc-010",
+    "topic": "relative-clauses",
+    "level": "advanced",
+    "type": "rewrite",
+    "question": "Chọn câu đồng nghĩa với: *The company hired a new designer. Her work has won several international awards.*",
+    "options": [
+      "The company hired a new designer who her work has won several international awards.",
+      "The company hired a new designer which work has won several international awards.",
+      "The company hired a new designer whose work has won several international awards.",
+      "The company hired a new designer whom work has won several international awards."
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "\"Her work\" (công việc của cô ấy) → thay \"her\" bằng **whose**: *a new designer whose work has won…*",
+      "wrong": {
+        "0": "\"who her work\" thừa tính từ sở hữu \"her\"; \"whose\" đã bao gồm nghĩa sở hữu.",
+        "1": "\"which\" dùng cho vật và không chỉ sở hữu.",
+        "3": "\"whom\" là tân ngữ, không đứng trước danh từ để chỉ sở hữu."
+      },
+      "rule": "Nối hai câu: tính từ sở hữu (his / her / their / its) + N → whose + N.",
+      "examples": [
+        "I know a man whose daughter is a pilot.",
+        "We contacted the client whose order was delayed."
+      ],
+      "common_mistake": "Giữ nguyên \"her\" khi nối câu: \"who her work…\"."
+    },
+    "tags": [
+      "whose",
+      "combining",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  }
+]

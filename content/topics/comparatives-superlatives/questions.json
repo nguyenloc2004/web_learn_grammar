@@ -1,0 +1,351 @@
+[
+  {
+    "id": "cs-001",
+    "topic": "comparatives-superlatives",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Of all the candidates we interviewed, Ms. Thu has the ___ experience in project management.",
+    "options": [
+      "most",
+      "more",
+      "much",
+      "many"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Có **the** và cụm **Of all the candidates** (so với cả nhóm) → so sánh nhất của much: **the most experience** (nhiều kinh nghiệm nhất).",
+      "wrong": {
+        "1": "\"more\" là so sánh hơn, dùng khi so sánh hai đối tượng với \"than\"; \"Of all the candidates\" đòi hỏi so sánh nhất.",
+        "2": "\"much\" là dạng nguyên mẫu, không phải so sánh; \"the much experience\" không đúng cấu trúc.",
+        "3": "\"many\" dùng với danh từ đếm được số nhiều, còn \"experience\" (kinh nghiệm) là danh từ không đếm được; hơn nữa đây không phải dạng so sánh."
+      },
+      "rule": "much / many → more → the most. Of all + nhóm / in + tập thể là dấu hiệu so sánh nhất.",
+      "examples": [
+        "Of all our suppliers, Tan Phat offers the most flexible payment terms.",
+        "Our Hanoi branch received the most complaints last month."
+      ],
+      "common_mistake": "Dùng \"more\" vì quen dịch \"nhiều hơn\", không để ý \"the\" và \"Of all\" báo hiệu so sánh nhất."
+    },
+    "tags": [
+      "superlative",
+      "irregular",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "cs-002",
+    "topic": "comparatives-superlatives",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "This year's sales conference was ___ better attended than last year's, with over 800 participants.",
+    "options": [
+      "very",
+      "more",
+      "most",
+      "much"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "\"better … than\" là so sánh hơn (bất quy tắc của well). Từ nhấn mạnh đứng trước so sánh hơn là **much** (cũng có thể far, even, considerably).",
+      "wrong": {
+        "0": "\"very\" chỉ bổ nghĩa cho tính từ / trạng từ ở dạng nguyên mẫu (very good), không đứng trước so sánh hơn (\"very better\" sai).",
+        "1": "\"more better\" là so sánh kép sai: \"better\" đã là so sánh hơn nên không thêm \"more\".",
+        "2": "\"most\" là dấu hiệu so sánh nhất, không kết hợp với \"better … than\"."
+      },
+      "rule": "much / far / even / significantly / considerably / a lot + so sánh hơn. Không dùng very + so sánh hơn.",
+      "examples": [
+        "The new model is far more energy-efficient than the old one.",
+        "Delivery times are significantly shorter now."
+      ],
+      "common_mistake": "Nói \"very better\" vì dịch sát \"tốt hơn rất nhiều\"."
+    },
+    "tags": [
+      "intensifier",
+      "comparative",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "cs-003",
+    "topic": "comparatives-superlatives",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The revised budget is ___ than the original one because it now includes the cost of new equipment.",
+    "options": [
+      "expensiver",
+      "more expensive",
+      "most expensive",
+      "the more expensive"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Có **than** → so sánh hơn. \"expensive\" là tính từ dài (3 âm tiết) → **more expensive**.",
+      "wrong": {
+        "0": "\"expensiver\" sai: tính từ dài không thêm -er mà dùng \"more\".",
+        "2": "\"most expensive\" là so sánh nhất, không đi với \"than\".",
+        "3": "\"the more expensive\" thừa \"the\"; so sánh hơn thông thường không có \"the\" trước nó."
+      },
+      "rule": "Tính từ dài: more + adj + than. Tính từ ngắn: adj-er + than.",
+      "examples": [
+        "The second proposal is more practical than the first.",
+        "This route is more convenient than the highway."
+      ],
+      "common_mistake": "Thêm -er vào mọi tính từ (\"expensiver\", \"modern-er\") hoặc thêm \"the\" vì nhầm với so sánh nhất."
+    },
+    "tags": [
+      "comparative",
+      "long-adjective",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "cs-004",
+    "topic": "comparatives-superlatives",
+    "level": "intermediate",
+    "type": "fill-form",
+    "question": "The delivery delays this month were ___ (bad) than we had anticipated, so we have decided to change carriers.",
+    "options": [
+      "badder",
+      "worst",
+      "more bad",
+      "worse"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Có **than** → so sánh hơn. \"bad\" là tính từ bất quy tắc: bad → **worse** → the worst.",
+      "wrong": {
+        "0": "\"badder\" không tồn tại trong tiếng Anh chuẩn; bad có dạng so sánh bất quy tắc.",
+        "1": "\"worst\" là so sánh nhất, không đi với \"than\".",
+        "2": "\"more bad\" sai: tính từ bất quy tắc không dùng \"more\"."
+      },
+      "rule": "Bất quy tắc: good/well → better → the best; bad/badly → worse → the worst; far → further/farther → the furthest/farthest.",
+      "examples": [
+        "The weather was worse than the forecast had predicted.",
+        "Last quarter's results were the worst in five years."
+      ],
+      "common_mistake": "Nhầm \"worse\" (so sánh hơn) với \"worst\" (so sánh nhất) vì phát âm gần giống nhau."
+    },
+    "tags": [
+      "irregular",
+      "comparative",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "cs-005",
+    "topic": "comparatives-superlatives",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Our Da Nang branch recorded the ___ revenue growth of all our regional offices last quarter.",
+    "options": [
+      "higher",
+      "highest",
+      "high",
+      "most high"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Có **the** trước chỗ trống và **of all our regional offices** (so với cả nhóm) → so sánh nhất của tính từ ngắn \"high\": **the highest**.",
+      "wrong": {
+        "0": "\"higher\" là so sánh hơn, dùng cho hai đối tượng với \"than\"; ở đây so với tất cả các văn phòng.",
+        "2": "\"high\" là dạng nguyên mẫu, không thể hiện được ý \"cao nhất\" mà \"of all\" đòi hỏi.",
+        "3": "\"most high\" sai: tính từ một âm tiết dùng đuôi -est, không dùng \"most\"."
+      },
+      "rule": "the + adj-est / the most + adj dài + of (nhóm) / in (nơi chốn, tổ chức).",
+      "examples": [
+        "She gave the clearest presentation of all the speakers.",
+        "This is the busiest airport in the country."
+      ],
+      "common_mistake": "Dùng \"most\" với tính từ ngắn (\"the most high\", \"the most cheap\")."
+    },
+    "tags": [
+      "superlative",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "cs-006",
+    "topic": "comparatives-superlatives",
+    "level": "intermediate",
+    "type": "fix-error",
+    "question": "Tìm phần sai: Mr. Kien is <u>one</u> (A) of the <u>most</u> (B) experienced <u>engineer</u> (C) <u>in</u> (D) our company.",
+    "options": [
+      "one",
+      "most",
+      "engineer",
+      "in"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Phần sai là (C). Sau **one of the + so sánh nhất** phải là **danh từ số nhiều**: *one of the most experienced **engineers***.",
+      "wrong": {
+        "0": "(A) đúng: \"one of the …\" là cấu trúc \"một trong những …\".",
+        "1": "(B) đúng: \"experienced\" là tính từ dài → \"the most experienced\".",
+        "3": "(D) đúng: dùng \"in\" + tổ chức / nơi chốn sau so sánh nhất."
+      },
+      "rule": "one of the + so sánh nhất + N số nhiều (+ động từ số ít nếu \"one\" làm chủ ngữ).",
+      "examples": [
+        "Vietnam is one of the fastest-growing markets in Asia.",
+        "This is one of the best hotels in Hue."
+      ],
+      "common_mistake": "Dịch \"một trong những kỹ sư\" nhưng vẫn để danh từ số ít vì tiếng Việt không có đuôi số nhiều."
+    },
+    "tags": [
+      "one-of-the",
+      "superlative",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "cs-007",
+    "topic": "comparatives-superlatives",
+    "level": "advanced",
+    "type": "choose",
+    "question": "Please do not hesitate to contact our support team if you require ___ information about the new refund policy.",
+    "options": [
+      "farther",
+      "furthest",
+      "further",
+      "more far"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Với nghĩa **thêm, bổ sung** (trừu tượng), chỉ dùng **further**: *further information* = thông tin thêm.",
+      "wrong": {
+        "0": "\"farther\" chỉ dùng cho khoảng cách địa lý (farther away), không dùng với nghĩa \"thêm\" cho \"information\".",
+        "1": "\"furthest\" là so sánh nhất (xa nhất), sai nghĩa và thiếu \"the\".",
+        "3": "\"more far\" sai hình thức: far có dạng so sánh bất quy tắc (further / farther)."
+      },
+      "rule": "further + N (information, details, questions, notice) = thêm, bổ sung. farther / further + khoảng cách.",
+      "examples": [
+        "The office will remain closed until further notice.",
+        "For further details, please visit our website."
+      ],
+      "common_mistake": "Nghĩ further và farther hoàn toàn giống nhau nên chọn \"farther information\"."
+    },
+    "tags": [
+      "further",
+      "irregular",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "cs-008",
+    "topic": "comparatives-superlatives",
+    "level": "advanced",
+    "type": "choose",
+    "question": "The second quarter was by ___ the most profitable period in the company's twenty-year history.",
+    "options": [
+      "far",
+      "very",
+      "much",
+      "more"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Cụm cố định **by far + the + so sánh nhất** để nhấn mạnh \"hơn hẳn, nhất hẳn\": *by far the most profitable*.",
+      "wrong": {
+        "1": "\"by very\" không phải cụm từ; \"very\" không nhấn mạnh so sánh nhất theo cách này.",
+        "2": "\"much\" có thể nhấn mạnh so sánh hơn, nhưng \"by much the most\" không phải cấu trúc chuẩn; cụm cố định là \"by far\".",
+        "3": "\"by more\" không có nghĩa và không kết hợp với so sánh nhất."
+      },
+      "rule": "Nhấn mạnh so sánh nhất: by far the + adj-est / the most + adj.",
+      "examples": [
+        "This is by far the best offer we have received.",
+        "She is by far the most popular speaker at the event."
+      ],
+      "common_mistake": "Dùng \"very the most\" hoặc \"the very most\" để nhấn mạnh theo kiểu tiếng Việt \"nhất rất nhiều\"."
+    },
+    "tags": [
+      "by-far",
+      "superlative",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "cs-009",
+    "topic": "comparatives-superlatives",
+    "level": "advanced",
+    "type": "rewrite",
+    "question": "Chọn câu đồng nghĩa với: *No other employee in the department works as efficiently as Mr. Phong.*",
+    "options": [
+      "Mr. Phong works more efficient than any other employee in the department.",
+      "Mr. Phong works less efficiently than any other employee in the department.",
+      "Mr. Phong works as efficiently as the other employees in the department.",
+      "Mr. Phong works more efficiently than any other employee in the department."
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "\"Không ai làm việc hiệu quả bằng anh Phong\" = anh Phong làm việc **hiệu quả hơn bất kỳ nhân viên nào khác**: *more efficiently than any other employee*. Trạng từ \"efficiently\" bổ nghĩa cho \"works\".",
+      "wrong": {
+        "0": "\"more efficient\" là tính từ, không bổ nghĩa cho động từ \"works\"; cần trạng từ \"more efficiently\".",
+        "1": "\"less efficiently\" đảo ngược nghĩa: anh Phong làm kém hiệu quả nhất.",
+        "2": "\"as efficiently as the other employees\" chỉ nói anh Phong ngang bằng người khác, mất ý \"hơn tất cả\"."
+      },
+      "rule": "No other + N + V + as … as X = X + V + so sánh hơn + than any other + N số ít = X + V + so sánh nhất.",
+      "examples": [
+        "No other hotel in the area is as quiet as this one. = This hotel is quieter than any other hotel in the area.",
+        "She speaks English more fluently than any other member of the team."
+      ],
+      "common_mistake": "Dùng tính từ thay trạng từ sau động từ thường: \"works more efficient\"."
+    },
+    "tags": [
+      "any-other",
+      "comparative",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "cs-010",
+    "topic": "comparatives-superlatives",
+    "level": "advanced",
+    "type": "choose",
+    "question": "Among the three shipping options, standard delivery is the ___ expensive, but it is also the slowest.",
+    "options": [
+      "less",
+      "fewest",
+      "least",
+      "lesser"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Có **the** và **Among the three** (so với cả nhóm) → so sánh nhất theo chiều \"ít nhất\": **the least expensive** (rẻ nhất). Vế sau \"but … the slowest\" cũng xác nhận ý ngược lại.",
+      "wrong": {
+        "0": "\"less\" là so sánh hơn (ít … hơn), dùng cho hai đối tượng với \"than\"; \"Among the three\" cần so sánh nhất.",
+        "1": "\"fewest\" chỉ đi với danh từ đếm được số nhiều (the fewest errors), không bổ nghĩa cho tính từ \"expensive\".",
+        "3": "\"lesser\" là tính từ mang nghĩa \"kém quan trọng hơn\" (a lesser extent), không đứng trước tính từ khác."
+      },
+      "rule": "the least + adj = ít … nhất (ngược với the most). less + adj + than = ít … hơn.",
+      "examples": [
+        "This is the least crowded time of the day.",
+        "Option B is less risky than option A."
+      ],
+      "common_mistake": "Nhầm \"least\" với \"fewest\" vì cùng dịch là \"ít nhất\"."
+    },
+    "tags": [
+      "least",
+      "superlative",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  }
+]

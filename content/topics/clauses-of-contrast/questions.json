@@ -1,0 +1,345 @@
+[
+  {
+    "id": "coc-001",
+    "topic": "clauses-of-contrast",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "___ the heavy traffic, Mr. Bao arrived at the client meeting on time.",
+    "options": [
+      "Although",
+      "Despite",
+      "However",
+      "Because"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Sau chỗ trống là **cụm danh từ** \"the heavy traffic\" và ý **tương phản** → giới từ **Despite**.",
+      "wrong": {
+        "0": "\"Although\" là liên từ, phải đi với mệnh đề (S + V), ví dụ \"Although the traffic was heavy\".",
+        "2": "\"However\" là trạng từ nối, không đứng trước cụm danh từ trong cùng mệnh đề.",
+        "3": "\"Because\" là liên từ cần mệnh đề, và chỉ lý do, sai nghĩa."
+      },
+      "rule": "Despite / In spite of + danh từ / V-ing. Although / Though / Even though + S + V.",
+      "examples": [
+        "Despite the rain, the concert went ahead.",
+        "Although it was raining, the concert went ahead."
+      ],
+      "common_mistake": "Dùng \"Although + danh từ\" vì chỉ nhớ nghĩa \"mặc dù\"."
+    },
+    "tags": [
+      "despite",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "coc-002",
+    "topic": "clauses-of-contrast",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "___ the hotel was very expensive, the guests were disappointed with the service.",
+    "options": [
+      "Despite",
+      "In spite of",
+      "Because of",
+      "Although"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Sau chỗ trống là **mệnh đề** (the hotel was …) và ý **tương phản** (đắt nhưng dịch vụ kém) → liên từ **Although**.",
+      "wrong": {
+        "0": "\"Despite\" là giới từ, không đi trực tiếp với mệnh đề.",
+        "1": "\"In spite of\" là giới từ, không đi trực tiếp với mệnh đề.",
+        "2": "\"Because of\" là giới từ chỉ lý do, vừa sai cấu trúc vừa sai nghĩa."
+      },
+      "rule": "Although / Though / Even though + S + V, S + V.",
+      "examples": [
+        "Although the room was small, it was very clean.",
+        "Even though he was tired, he finished the report."
+      ],
+      "common_mistake": "Dùng \"Despite + mệnh đề\" vì dịch \"mặc dù khách sạn đắt\"."
+    },
+    "tags": [
+      "although",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "coc-003",
+    "topic": "clauses-of-contrast",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "In spite of ___ a long day at work, Ms. Lan stayed late to help her colleagues.",
+    "options": [
+      "she had",
+      "have",
+      "having",
+      "to have"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "**In spite of** là giới từ nên theo sau là **V-ing**: **having** (dù đã có một ngày dài làm việc).",
+      "wrong": {
+        "0": "\"she had\" là mệnh đề, không đứng sau giới từ \"in spite of\".",
+        "1": "\"have\" là động từ nguyên mẫu, không đứng sau giới từ.",
+        "3": "\"to have\" là to-infinitive, không đứng sau giới từ."
+      },
+      "rule": "In spite of / Despite + V-ing (chủ ngữ của V-ing trùng chủ ngữ mệnh đề chính).",
+      "examples": [
+        "Despite feeling ill, he went to work.",
+        "In spite of being new, she made a great impression."
+      ],
+      "common_mistake": "Đặt mệnh đề sau \"in spite of\": \"In spite of she had…\"."
+    },
+    "tags": [
+      "in-spite-of",
+      "gerund",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "coc-004",
+    "topic": "clauses-of-contrast",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The product sold very well in Vietnam, ___ it failed to attract buyers in Thailand.",
+    "options": [
+      "despite",
+      "in spite of",
+      "because",
+      "whereas"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Hai mệnh đề **đối lập nhau** về hai thị trường → liên từ **whereas** (trong khi đó).",
+      "wrong": {
+        "0": "\"despite\" là giới từ, không đi với mệnh đề \"it failed…\".",
+        "1": "\"in spite of\" là giới từ, không đi với mệnh đề.",
+        "2": "\"because\" chỉ lý do: \"bán chạy ở Việt Nam vì thất bại ở Thái Lan\" vô lý."
+      },
+      "rule": "whereas / while + S + V: đối chiếu hai sự việc trái ngược.",
+      "examples": [
+        "My sister loves coffee, whereas I prefer tea.",
+        "Some staff work remotely, while others come to the office."
+      ],
+      "common_mistake": "Dùng \"despite\" để nối hai mệnh đề đối lập."
+    },
+    "tags": [
+      "whereas",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "coc-005",
+    "topic": "clauses-of-contrast",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "___ the fact that the deadline was very tight, the team delivered high-quality work.",
+    "options": [
+      "Although",
+      "Despite",
+      "Even though",
+      "In spite"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Sau chỗ trống là **cụm danh từ** \"the fact that…\" → giới từ **Despite** (Despite the fact that + mệnh đề).",
+      "wrong": {
+        "0": "\"Although\" là liên từ; \"Although the fact that…\" sai vì \"the fact\" là cụm danh từ.",
+        "2": "\"Even though\" là liên từ, cũng không đi với cụm danh từ \"the fact that…\".",
+        "3": "\"In spite\" thiếu \"of\"; phải là \"In spite of the fact that\"."
+      },
+      "rule": "Despite / In spite of + the fact that + S + V = Although + S + V.",
+      "examples": [
+        "Despite the fact that it was late, the shop was still busy.",
+        "In spite of the fact that he had no experience, he got the job."
+      ],
+      "common_mistake": "Viết \"In spite the fact that\" (thiếu \"of\") hoặc \"Although the fact that\"."
+    },
+    "tags": [
+      "despite-the-fact-that",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "coc-006",
+    "topic": "clauses-of-contrast",
+    "level": "intermediate",
+    "type": "fix-error",
+    "question": "Tìm phần sai: <u>Although</u> (A) the recent price increase, sales <u>have remained</u> (B) <u>stable</u> (C) <u>over</u> (D) the past year.",
+    "options": [
+      "Although",
+      "have remained",
+      "stable",
+      "over"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Phần sai là (A). \"the recent price increase\" là **cụm danh từ**, nên phải dùng giới từ **Despite / In spite of**, không dùng liên từ \"Although\".",
+      "wrong": {
+        "1": "(B) đúng: hiện tại hoàn thành \"have remained\" hợp với \"over the past year\".",
+        "2": "(C) đúng: \"remain\" + tính từ \"stable\".",
+        "3": "(D) đúng: \"over the past year\" = trong suốt năm qua."
+      },
+      "rule": "Although + mệnh đề; Despite / In spite of + danh từ.",
+      "examples": [
+        "Despite the price increase, demand stayed high.",
+        "Although prices increased, demand stayed high."
+      ],
+      "common_mistake": "Dùng \"Although\" trước danh từ vì cả hai đều dịch là \"mặc dù\"."
+    },
+    "tags": [
+      "although",
+      "despite",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "coc-007",
+    "topic": "clauses-of-contrast",
+    "level": "advanced",
+    "type": "choose",
+    "question": "___ experienced she is, Ms. Hoa still asks her colleagues for feedback on every report.",
+    "options": [
+      "Although",
+      "Despite",
+      "However",
+      "Even"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "**However + tính từ + S + be** = dù … đến đâu (No matter how): **However experienced she is** (dù cô ấy có kinh nghiệm đến đâu).",
+      "wrong": {
+        "0": "\"Although\" phải đi với mệnh đề đầy đủ theo trật tự thường (\"Although she is experienced\"), không đặt tính từ lên trước chủ ngữ.",
+        "1": "\"Despite\" là giới từ, không đi với cấu trúc \"tính từ + S + V\".",
+        "3": "\"Even\" là trạng từ, không nối được hai mệnh đề."
+      },
+      "rule": "However / No matter how + adj / adv + S + V, mệnh đề chính.",
+      "examples": [
+        "However hard he tried, he couldn't open the door.",
+        "No matter how busy she is, she always replies to emails."
+      ],
+      "common_mistake": "Chỉ biết \"However\" là từ nối \"tuy nhiên\" đứng đầu câu có dấu phẩy."
+    },
+    "tags": [
+      "however-adj",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "coc-008",
+    "topic": "clauses-of-contrast",
+    "level": "advanced",
+    "type": "rewrite",
+    "question": "Chọn câu đồng nghĩa với: *Although the company made a profit, it laid off 200 workers.*",
+    "options": [
+      "Despite making a profit, the company laid off 200 workers.",
+      "Despite the company made a profit, it laid off 200 workers.",
+      "In spite of make a profit, the company laid off 200 workers.",
+      "Because of making a profit, the company laid off 200 workers."
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Hai vế cùng chủ ngữ \"the company\" → rút gọn bằng **Despite + V-ing**: *Despite making a profit, …*",
+      "wrong": {
+        "1": "\"Despite\" không đi trực tiếp với mệnh đề \"the company made…\".",
+        "2": "\"In spite of\" phải đi với V-ing (\"making\"), không đi với động từ nguyên mẫu.",
+        "3": "\"Because of\" chỉ lý do, biến câu thành \"vì có lãi nên sa thải\", sai nghĩa."
+      },
+      "rule": "Although + S + V, S + V → Despite / In spite of + V-ing, S + V (khi hai vế cùng chủ ngữ).",
+      "examples": [
+        "Despite having little time, she finished the project.",
+        "In spite of working hard, he failed the exam."
+      ],
+      "common_mistake": "Giữ nguyên mệnh đề sau khi đổi \"Although\" thành \"Despite\"."
+    },
+    "tags": [
+      "despite",
+      "transformation",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "coc-009",
+    "topic": "clauses-of-contrast",
+    "level": "advanced",
+    "type": "choose",
+    "question": "___ some managers strongly support the merger, others are firmly opposed to it.",
+    "options": [
+      "Despite",
+      "However",
+      "In spite of",
+      "While"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Chỗ trống đứng trước **mệnh đề** và hai mệnh đề **đối chiếu** quan điểm hai nhóm → liên từ **While** (trong khi).",
+      "wrong": {
+        "0": "\"Despite\" là giới từ, không đi với mệnh đề.",
+        "1": "\"However\" là trạng từ nối, không dùng để nối hai mệnh đề như một liên từ (trừ cấu trúc \"However + adj\").",
+        "2": "\"In spite of\" là giới từ, không đi với mệnh đề."
+      },
+      "rule": "While / Whereas + S + V, S + V: đối chiếu hai ý trái ngược.",
+      "examples": [
+        "While some customers prefer cash, others pay by card.",
+        "While I understand your concern, I cannot change the rules."
+      ],
+      "common_mistake": "Chỉ hiểu \"while\" theo nghĩa thời gian (\"trong lúc\")."
+    },
+    "tags": [
+      "while",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "coc-010",
+    "topic": "clauses-of-contrast",
+    "level": "advanced",
+    "type": "choose",
+    "question": "The new branch has not been profitable so far. We remain optimistic about its future, ___.",
+    "options": [
+      "although",
+      "despite",
+      "though",
+      "even though"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Đứng **cuối câu** sau dấu phẩy với nghĩa \"dù vậy\" → chỉ **though** (dùng như trạng từ) đứng được ở vị trí này.",
+      "wrong": {
+        "0": "\"although\" là liên từ, phải đi với một mệnh đề phía sau, không đứng cuối câu.",
+        "1": "\"despite\" là giới từ, cần danh từ phía sau.",
+        "3": "\"even though\" là liên từ, phải đi với mệnh đề phía sau."
+      },
+      "rule": "though có thể đứng cuối câu như trạng từ (= however); although / even though thì không.",
+      "examples": [
+        "The hotel was old. It was very clean, though.",
+        "It's a difficult task. We'll finish it on time, though."
+      ],
+      "common_mistake": "Coi \"though\" và \"although\" có thể thay nhau ở mọi vị trí."
+    },
+    "tags": [
+      "though",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  }
+]

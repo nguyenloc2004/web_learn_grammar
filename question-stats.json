@@ -1,0 +1,1442 @@
+{
+  "_readme": "File tự sinh bởi `npm run stats`, không sửa số liệu bằng tay. Danh sách \"topics\" là lộ trình ngữ pháp đầy đủ: status \"created\" là chủ đề đã có trong content/, \"planned\" là chủ đề chưa tạo (agent có thể thêm/sửa mục planned: id, name, group, order, prerequisites). Khi tạo chủ đề mới, lấy đúng id/name/group/order/prerequisites từ đây sang content/topics.json.",
+  "updated_at": "2026-11-08",
+  "summary": {
+    "topics_total": 62,
+    "topics_created": 37,
+    "topics_planned": 25,
+    "questions": 407,
+    "by_level": {
+      "basic": 18,
+      "intermediate": 232,
+      "advanced": 157
+    },
+    "by_type": {
+      "choose": 281,
+      "fix-error": 54,
+      "fill-form": 34,
+      "rewrite": 33,
+      "arrange": 5
+    }
+  },
+  "topics": [
+    {
+      "id": "present-simple",
+      "name": "Hiện tại đơn (Present Simple)",
+      "group": "Thì",
+      "order": 10,
+      "prerequisites": [],
+      "status": "created",
+      "total": 14,
+      "by_level": {
+        "basic": 3,
+        "intermediate": 6,
+        "advanced": 5
+      },
+      "by_type": {
+        "choose": 9,
+        "fix-error": 3,
+        "fill-form": 0,
+        "rewrite": 1,
+        "arrange": 1
+      }
+    },
+    {
+      "id": "present-continuous",
+      "name": "Hiện tại tiếp diễn (Present Continuous)",
+      "group": "Thì",
+      "order": 20,
+      "prerequisites": [
+        "present-simple"
+      ],
+      "status": "created",
+      "total": 10,
+      "by_level": {
+        "basic": 2,
+        "intermediate": 5,
+        "advanced": 3
+      },
+      "by_type": {
+        "choose": 8,
+        "fix-error": 1,
+        "fill-form": 1,
+        "rewrite": 0,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "past-simple",
+      "name": "Quá khứ đơn (Past Simple)",
+      "group": "Thì",
+      "order": 30,
+      "prerequisites": [
+        "present-simple"
+      ],
+      "status": "created",
+      "total": 14,
+      "by_level": {
+        "basic": 3,
+        "intermediate": 6,
+        "advanced": 5
+      },
+      "by_type": {
+        "choose": 8,
+        "fix-error": 2,
+        "fill-form": 2,
+        "rewrite": 1,
+        "arrange": 1
+      }
+    },
+    {
+      "id": "past-continuous",
+      "name": "Quá khứ tiếp diễn (Past Continuous)",
+      "group": "Thì",
+      "order": 40,
+      "prerequisites": [
+        "past-simple",
+        "present-continuous"
+      ],
+      "status": "created",
+      "total": 10,
+      "by_level": {
+        "basic": 2,
+        "intermediate": 5,
+        "advanced": 3
+      },
+      "by_type": {
+        "choose": 7,
+        "fix-error": 1,
+        "fill-form": 1,
+        "rewrite": 0,
+        "arrange": 1
+      }
+    },
+    {
+      "id": "present-perfect",
+      "name": "Hiện tại hoàn thành (Present Perfect)",
+      "group": "Thì",
+      "order": 50,
+      "prerequisites": [
+        "present-simple",
+        "past-simple"
+      ],
+      "status": "created",
+      "total": 14,
+      "by_level": {
+        "basic": 2,
+        "intermediate": 6,
+        "advanced": 6
+      },
+      "by_type": {
+        "choose": 9,
+        "fix-error": 2,
+        "fill-form": 2,
+        "rewrite": 1,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "present-perfect-continuous",
+      "name": "Hiện tại hoàn thành tiếp diễn (Present Perfect Continuous)",
+      "group": "Thì",
+      "order": 60,
+      "prerequisites": [
+        "present-perfect",
+        "present-continuous"
+      ],
+      "status": "created",
+      "total": 10,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 6,
+        "advanced": 4
+      },
+      "by_type": {
+        "choose": 7,
+        "fix-error": 1,
+        "fill-form": 1,
+        "rewrite": 1,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "past-perfect",
+      "name": "Quá khứ hoàn thành (Past Perfect)",
+      "group": "Thì",
+      "order": 70,
+      "prerequisites": [
+        "past-simple",
+        "present-perfect"
+      ],
+      "status": "created",
+      "total": 10,
+      "by_level": {
+        "basic": 2,
+        "intermediate": 5,
+        "advanced": 3
+      },
+      "by_type": {
+        "choose": 7,
+        "fix-error": 1,
+        "fill-form": 1,
+        "rewrite": 1,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "past-perfect-continuous",
+      "name": "Quá khứ hoàn thành tiếp diễn (Past Perfect Continuous)",
+      "group": "Thì",
+      "order": 80,
+      "prerequisites": [
+        "past-perfect",
+        "past-continuous"
+      ],
+      "status": "planned",
+      "total": 0,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 0,
+        "advanced": 0
+      },
+      "by_type": {
+        "choose": 0,
+        "fix-error": 0,
+        "fill-form": 0,
+        "rewrite": 0,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "future-simple",
+      "name": "Tương lai đơn (Future Simple – will)",
+      "group": "Thì",
+      "order": 90,
+      "prerequisites": [
+        "present-simple"
+      ],
+      "status": "created",
+      "total": 10,
+      "by_level": {
+        "basic": 2,
+        "intermediate": 5,
+        "advanced": 3
+      },
+      "by_type": {
+        "choose": 8,
+        "fix-error": 1,
+        "fill-form": 0,
+        "rewrite": 1,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "be-going-to",
+      "name": "Tương lai gần (be going to)",
+      "group": "Thì",
+      "order": 100,
+      "prerequisites": [
+        "future-simple",
+        "present-continuous"
+      ],
+      "status": "planned",
+      "total": 0,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 0,
+        "advanced": 0
+      },
+      "by_type": {
+        "choose": 0,
+        "fix-error": 0,
+        "fill-form": 0,
+        "rewrite": 0,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "future-continuous",
+      "name": "Tương lai tiếp diễn (Future Continuous)",
+      "group": "Thì",
+      "order": 110,
+      "prerequisites": [
+        "future-simple",
+        "present-continuous"
+      ],
+      "status": "planned",
+      "total": 0,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 0,
+        "advanced": 0
+      },
+      "by_type": {
+        "choose": 0,
+        "fix-error": 0,
+        "fill-form": 0,
+        "rewrite": 0,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "future-perfect",
+      "name": "Tương lai hoàn thành (Future Perfect)",
+      "group": "Thì",
+      "order": 120,
+      "prerequisites": [
+        "future-simple",
+        "present-perfect"
+      ],
+      "status": "created",
+      "total": 10,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 6,
+        "advanced": 4
+      },
+      "by_type": {
+        "choose": 7,
+        "fix-error": 1,
+        "fill-form": 1,
+        "rewrite": 1,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "future-perfect-continuous",
+      "name": "Tương lai hoàn thành tiếp diễn (Future Perfect Continuous)",
+      "group": "Thì",
+      "order": 130,
+      "prerequisites": [
+        "future-perfect",
+        "present-perfect-continuous"
+      ],
+      "status": "planned",
+      "total": 0,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 0,
+        "advanced": 0
+      },
+      "by_type": {
+        "choose": 0,
+        "fix-error": 0,
+        "fill-form": 0,
+        "rewrite": 0,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "modal-verbs",
+      "name": "Động từ khuyết thiếu (can, could, may, might, must, should)",
+      "group": "Động từ",
+      "order": 200,
+      "prerequisites": [
+        "present-simple"
+      ],
+      "status": "created",
+      "total": 10,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 6,
+        "advanced": 4
+      },
+      "by_type": {
+        "choose": 7,
+        "fix-error": 1,
+        "fill-form": 1,
+        "rewrite": 1,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "modal-obligation",
+      "name": "Diễn tả bắt buộc và lời khuyên (must, have to, should, ought to)",
+      "group": "Động từ",
+      "order": 205,
+      "prerequisites": [
+        "modal-verbs"
+      ],
+      "status": "planned",
+      "total": 0,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 0,
+        "advanced": 0
+      },
+      "by_type": {
+        "choose": 0,
+        "fix-error": 0,
+        "fill-form": 0,
+        "rewrite": 0,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "modal-perfect",
+      "name": "Động từ khuyết thiếu + have V3 (Modal Perfect)",
+      "group": "Động từ",
+      "order": 210,
+      "prerequisites": [
+        "modal-verbs",
+        "present-perfect"
+      ],
+      "status": "created",
+      "total": 10,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 6,
+        "advanced": 4
+      },
+      "by_type": {
+        "choose": 7,
+        "fix-error": 1,
+        "fill-form": 1,
+        "rewrite": 1,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "gerund-infinitive",
+      "name": "Danh động từ và động từ nguyên mẫu (Gerund & Infinitive)",
+      "group": "Động từ",
+      "order": 220,
+      "prerequisites": [],
+      "status": "created",
+      "total": 15,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 9,
+        "advanced": 6
+      },
+      "by_type": {
+        "choose": 10,
+        "fix-error": 2,
+        "fill-form": 2,
+        "rewrite": 1,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "passive-voice",
+      "name": "Câu bị động (Passive Voice)",
+      "group": "Động từ",
+      "order": 230,
+      "prerequisites": [
+        "present-simple",
+        "past-simple",
+        "present-perfect"
+      ],
+      "status": "created",
+      "total": 10,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 6,
+        "advanced": 4
+      },
+      "by_type": {
+        "choose": 7,
+        "fix-error": 1,
+        "fill-form": 1,
+        "rewrite": 1,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "causative",
+      "name": "Thể truyền khiến (have / get something done)",
+      "group": "Động từ",
+      "order": 240,
+      "prerequisites": [
+        "passive-voice"
+      ],
+      "status": "planned",
+      "total": 0,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 0,
+        "advanced": 0
+      },
+      "by_type": {
+        "choose": 0,
+        "fix-error": 0,
+        "fill-form": 0,
+        "rewrite": 0,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "used-to",
+      "name": "Used to / Be used to / Get used to",
+      "group": "Động từ",
+      "order": 250,
+      "prerequisites": [
+        "past-simple",
+        "gerund-infinitive"
+      ],
+      "status": "planned",
+      "total": 0,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 0,
+        "advanced": 0
+      },
+      "by_type": {
+        "choose": 0,
+        "fix-error": 0,
+        "fill-form": 0,
+        "rewrite": 0,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "phrasal-verbs",
+      "name": "Cụm động từ (Phrasal Verbs)",
+      "group": "Động từ",
+      "order": 260,
+      "prerequisites": [],
+      "status": "planned",
+      "total": 0,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 0,
+        "advanced": 0
+      },
+      "by_type": {
+        "choose": 0,
+        "fix-error": 0,
+        "fill-form": 0,
+        "rewrite": 0,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "stative-verbs",
+      "name": "Động từ chỉ trạng thái (Stative Verbs)",
+      "group": "Động từ",
+      "order": 270,
+      "prerequisites": [
+        "present-continuous"
+      ],
+      "status": "planned",
+      "total": 0,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 0,
+        "advanced": 0
+      },
+      "by_type": {
+        "choose": 0,
+        "fix-error": 0,
+        "fill-form": 0,
+        "rewrite": 0,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "nouns-countable-uncountable",
+      "name": "Danh từ đếm được và không đếm được",
+      "group": "Danh từ/Mạo từ/Đại từ",
+      "order": 300,
+      "prerequisites": [],
+      "status": "created",
+      "total": 10,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 6,
+        "advanced": 4
+      },
+      "by_type": {
+        "choose": 6,
+        "fix-error": 2,
+        "fill-form": 1,
+        "rewrite": 1,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "plural-nouns",
+      "name": "Danh từ số nhiều (Plural Nouns)",
+      "group": "Danh từ/Mạo từ/Đại từ",
+      "order": 310,
+      "prerequisites": [],
+      "status": "planned",
+      "total": 0,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 0,
+        "advanced": 0
+      },
+      "by_type": {
+        "choose": 0,
+        "fix-error": 0,
+        "fill-form": 0,
+        "rewrite": 0,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "articles",
+      "name": "Mạo từ (a, an, the)",
+      "group": "Danh từ/Mạo từ/Đại từ",
+      "order": 320,
+      "prerequisites": [
+        "nouns-countable-uncountable"
+      ],
+      "status": "created",
+      "total": 10,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 6,
+        "advanced": 4
+      },
+      "by_type": {
+        "choose": 6,
+        "fix-error": 3,
+        "fill-form": 0,
+        "rewrite": 1,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "quantifiers",
+      "name": "Từ chỉ lượng (some, any, much, many, a few, a little…)",
+      "group": "Danh từ/Mạo từ/Đại từ",
+      "order": 330,
+      "prerequisites": [
+        "nouns-countable-uncountable"
+      ],
+      "status": "created",
+      "total": 10,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 6,
+        "advanced": 4
+      },
+      "by_type": {
+        "choose": 7,
+        "fix-error": 2,
+        "fill-form": 0,
+        "rewrite": 1,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "determiners-each-every-both",
+      "name": "each, every, all, both, either, neither",
+      "group": "Danh từ/Mạo từ/Đại từ",
+      "order": 340,
+      "prerequisites": [
+        "quantifiers"
+      ],
+      "status": "planned",
+      "total": 0,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 0,
+        "advanced": 0
+      },
+      "by_type": {
+        "choose": 0,
+        "fix-error": 0,
+        "fill-form": 0,
+        "rewrite": 0,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "possessives",
+      "name": "Sở hữu cách và tính từ sở hữu (Possessives)",
+      "group": "Danh từ/Mạo từ/Đại từ",
+      "order": 350,
+      "prerequisites": [],
+      "status": "planned",
+      "total": 0,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 0,
+        "advanced": 0
+      },
+      "by_type": {
+        "choose": 0,
+        "fix-error": 0,
+        "fill-form": 0,
+        "rewrite": 0,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "pronouns",
+      "name": "Đại từ nhân xưng, tân ngữ, sở hữu (Pronouns)",
+      "group": "Danh từ/Mạo từ/Đại từ",
+      "order": 360,
+      "prerequisites": [],
+      "status": "created",
+      "total": 15,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 9,
+        "advanced": 6
+      },
+      "by_type": {
+        "choose": 12,
+        "fix-error": 2,
+        "fill-form": 1,
+        "rewrite": 0,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "reflexive-pronouns",
+      "name": "Đại từ phản thân (Reflexive Pronouns)",
+      "group": "Danh từ/Mạo từ/Đại từ",
+      "order": 370,
+      "prerequisites": [
+        "pronouns"
+      ],
+      "status": "planned",
+      "total": 0,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 0,
+        "advanced": 0
+      },
+      "by_type": {
+        "choose": 0,
+        "fix-error": 0,
+        "fill-form": 0,
+        "rewrite": 0,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "indefinite-pronouns",
+      "name": "Đại từ bất định (someone, anything, nobody…)",
+      "group": "Danh từ/Mạo từ/Đại từ",
+      "order": 380,
+      "prerequisites": [
+        "pronouns",
+        "quantifiers"
+      ],
+      "status": "planned",
+      "total": 0,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 0,
+        "advanced": 0
+      },
+      "by_type": {
+        "choose": 0,
+        "fix-error": 0,
+        "fill-form": 0,
+        "rewrite": 0,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "adjective-order",
+      "name": "Trật tự tính từ (Order of Adjectives)",
+      "group": "Tính từ/Trạng từ",
+      "order": 400,
+      "prerequisites": [],
+      "status": "planned",
+      "total": 0,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 0,
+        "advanced": 0
+      },
+      "by_type": {
+        "choose": 0,
+        "fix-error": 0,
+        "fill-form": 0,
+        "rewrite": 0,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "adjectives-ed-ing",
+      "name": "Tính từ đuôi -ed và -ing",
+      "group": "Tính từ/Trạng từ",
+      "order": 410,
+      "prerequisites": [],
+      "status": "planned",
+      "total": 0,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 0,
+        "advanced": 0
+      },
+      "by_type": {
+        "choose": 0,
+        "fix-error": 0,
+        "fill-form": 0,
+        "rewrite": 0,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "adverbs",
+      "name": "Trạng từ: cách thành lập và vị trí (Adverbs)",
+      "group": "Tính từ/Trạng từ",
+      "order": 420,
+      "prerequisites": [],
+      "status": "created",
+      "total": 10,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 6,
+        "advanced": 4
+      },
+      "by_type": {
+        "choose": 6,
+        "fix-error": 1,
+        "fill-form": 1,
+        "rewrite": 1,
+        "arrange": 1
+      }
+    },
+    {
+      "id": "comparatives-superlatives",
+      "name": "So sánh hơn và so sánh nhất",
+      "group": "Tính từ/Trạng từ",
+      "order": 430,
+      "prerequisites": [
+        "adverbs"
+      ],
+      "status": "created",
+      "total": 10,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 6,
+        "advanced": 4
+      },
+      "by_type": {
+        "choose": 7,
+        "fix-error": 1,
+        "fill-form": 1,
+        "rewrite": 1,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "comparisons-advanced",
+      "name": "So sánh bằng và so sánh kép (as…as, the more…the more)",
+      "group": "Tính từ/Trạng từ",
+      "order": 440,
+      "prerequisites": [
+        "comparatives-superlatives"
+      ],
+      "status": "created",
+      "total": 10,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 6,
+        "advanced": 4
+      },
+      "by_type": {
+        "choose": 7,
+        "fix-error": 1,
+        "fill-form": 1,
+        "rewrite": 1,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "too-enough-so-such",
+      "name": "too, enough, so, such",
+      "group": "Tính từ/Trạng từ",
+      "order": 450,
+      "prerequisites": [],
+      "status": "planned",
+      "total": 0,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 0,
+        "advanced": 0
+      },
+      "by_type": {
+        "choose": 0,
+        "fix-error": 0,
+        "fill-form": 0,
+        "rewrite": 0,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "adjective-structures",
+      "name": "Cấu trúc với tính từ (be + adj + to V, It is + adj + that / for sb to V)",
+      "group": "Tính từ/Trạng từ",
+      "order": 460,
+      "prerequisites": [
+        "gerund-infinitive"
+      ],
+      "status": "created",
+      "total": 10,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 6,
+        "advanced": 4
+      },
+      "by_type": {
+        "choose": 6,
+        "fix-error": 2,
+        "fill-form": 1,
+        "rewrite": 1,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "questions",
+      "name": "Câu hỏi (Yes/No, Wh-, câu hỏi chủ ngữ)",
+      "group": "Câu và cấu trúc",
+      "order": 500,
+      "prerequisites": [
+        "present-simple",
+        "past-simple"
+      ],
+      "status": "planned",
+      "total": 0,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 0,
+        "advanced": 0
+      },
+      "by_type": {
+        "choose": 0,
+        "fix-error": 0,
+        "fill-form": 0,
+        "rewrite": 0,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "tag-questions",
+      "name": "Câu hỏi đuôi (Tag Questions)",
+      "group": "Câu và cấu trúc",
+      "order": 510,
+      "prerequisites": [
+        "questions"
+      ],
+      "status": "planned",
+      "total": 0,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 0,
+        "advanced": 0
+      },
+      "by_type": {
+        "choose": 0,
+        "fix-error": 0,
+        "fill-form": 0,
+        "rewrite": 0,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "indirect-questions",
+      "name": "Câu hỏi gián tiếp (Indirect Questions)",
+      "group": "Câu và cấu trúc",
+      "order": 520,
+      "prerequisites": [
+        "questions"
+      ],
+      "status": "planned",
+      "total": 0,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 0,
+        "advanced": 0
+      },
+      "by_type": {
+        "choose": 0,
+        "fix-error": 0,
+        "fill-form": 0,
+        "rewrite": 0,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "subject-verb-agreement",
+      "name": "Sự hòa hợp chủ ngữ – động từ (Subject–Verb Agreement)",
+      "group": "Câu và cấu trúc",
+      "order": 530,
+      "prerequisites": [
+        "present-simple"
+      ],
+      "status": "created",
+      "total": 15,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 9,
+        "advanced": 6
+      },
+      "by_type": {
+        "choose": 12,
+        "fix-error": 2,
+        "fill-form": 1,
+        "rewrite": 0,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "parallel-structure",
+      "name": "Cấu trúc song song (Parallel Structure)",
+      "group": "Câu và cấu trúc",
+      "order": 535,
+      "prerequisites": [
+        "conjunctions"
+      ],
+      "status": "created",
+      "total": 10,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 6,
+        "advanced": 4
+      },
+      "by_type": {
+        "choose": 6,
+        "fix-error": 2,
+        "fill-form": 1,
+        "rewrite": 1,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "conditionals",
+      "name": "Câu điều kiện loại 0, 1, 2, 3 (Conditionals)",
+      "group": "Câu và cấu trúc",
+      "order": 540,
+      "prerequisites": [
+        "present-simple",
+        "past-simple",
+        "past-perfect",
+        "future-simple"
+      ],
+      "status": "created",
+      "total": 15,
+      "by_level": {
+        "basic": 2,
+        "intermediate": 8,
+        "advanced": 5
+      },
+      "by_type": {
+        "choose": 10,
+        "fix-error": 2,
+        "fill-form": 1,
+        "rewrite": 2,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "mixed-conditionals",
+      "name": "Câu điều kiện hỗn hợp và đảo ngữ điều kiện",
+      "group": "Câu và cấu trúc",
+      "order": 550,
+      "prerequisites": [
+        "conditionals"
+      ],
+      "status": "created",
+      "total": 10,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 6,
+        "advanced": 4
+      },
+      "by_type": {
+        "choose": 6,
+        "fix-error": 1,
+        "fill-form": 2,
+        "rewrite": 1,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "wish-if-only",
+      "name": "Câu ước (wish, if only)",
+      "group": "Câu và cấu trúc",
+      "order": 560,
+      "prerequisites": [
+        "conditionals"
+      ],
+      "status": "created",
+      "total": 10,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 6,
+        "advanced": 4
+      },
+      "by_type": {
+        "choose": 6,
+        "fix-error": 1,
+        "fill-form": 2,
+        "rewrite": 1,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "relative-clauses",
+      "name": "Mệnh đề quan hệ (Relative Clauses)",
+      "group": "Câu và cấu trúc",
+      "order": 570,
+      "prerequisites": [
+        "pronouns"
+      ],
+      "status": "created",
+      "total": 10,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 6,
+        "advanced": 4
+      },
+      "by_type": {
+        "choose": 8,
+        "fix-error": 1,
+        "fill-form": 0,
+        "rewrite": 1,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "reduced-relative-clauses",
+      "name": "Rút gọn mệnh đề quan hệ",
+      "group": "Câu và cấu trúc",
+      "order": 580,
+      "prerequisites": [
+        "relative-clauses",
+        "passive-voice"
+      ],
+      "status": "created",
+      "total": 10,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 6,
+        "advanced": 4
+      },
+      "by_type": {
+        "choose": 7,
+        "fix-error": 1,
+        "fill-form": 1,
+        "rewrite": 1,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "participle-clauses",
+      "name": "Mệnh đề phân từ (Participle Clauses)",
+      "group": "Câu và cấu trúc",
+      "order": 590,
+      "prerequisites": [
+        "reduced-relative-clauses"
+      ],
+      "status": "planned",
+      "total": 0,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 0,
+        "advanced": 0
+      },
+      "by_type": {
+        "choose": 0,
+        "fix-error": 0,
+        "fill-form": 0,
+        "rewrite": 0,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "reported-speech",
+      "name": "Câu tường thuật (Reported Speech)",
+      "group": "Câu và cấu trúc",
+      "order": 600,
+      "prerequisites": [
+        "past-perfect",
+        "indirect-questions"
+      ],
+      "status": "planned",
+      "total": 0,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 0,
+        "advanced": 0
+      },
+      "by_type": {
+        "choose": 0,
+        "fix-error": 0,
+        "fill-form": 0,
+        "rewrite": 0,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "sequence-of-tenses",
+      "name": "Sự phối hợp thì (Sequence of Tenses)",
+      "group": "Câu và cấu trúc",
+      "order": 610,
+      "prerequisites": [
+        "past-perfect",
+        "future-simple"
+      ],
+      "status": "planned",
+      "total": 0,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 0,
+        "advanced": 0
+      },
+      "by_type": {
+        "choose": 0,
+        "fix-error": 0,
+        "fill-form": 0,
+        "rewrite": 0,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "clauses-of-contrast",
+      "name": "Mệnh đề nhượng bộ (although, despite, in spite of)",
+      "group": "Câu và cấu trúc",
+      "order": 620,
+      "prerequisites": [
+        "gerund-infinitive"
+      ],
+      "status": "created",
+      "total": 10,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 6,
+        "advanced": 4
+      },
+      "by_type": {
+        "choose": 8,
+        "fix-error": 1,
+        "fill-form": 0,
+        "rewrite": 1,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "clauses-of-reason-purpose",
+      "name": "Mệnh đề lý do, mục đích, kết quả (because, so that, so…that)",
+      "group": "Câu và cấu trúc",
+      "order": 630,
+      "prerequisites": [
+        "too-enough-so-such"
+      ],
+      "status": "planned",
+      "total": 0,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 0,
+        "advanced": 0
+      },
+      "by_type": {
+        "choose": 0,
+        "fix-error": 0,
+        "fill-form": 0,
+        "rewrite": 0,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "inversion",
+      "name": "Đảo ngữ (Inversion)",
+      "group": "Câu và cấu trúc",
+      "order": 640,
+      "prerequisites": [
+        "mixed-conditionals"
+      ],
+      "status": "created",
+      "total": 10,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 6,
+        "advanced": 4
+      },
+      "by_type": {
+        "choose": 6,
+        "fix-error": 1,
+        "fill-form": 1,
+        "rewrite": 1,
+        "arrange": 1
+      }
+    },
+    {
+      "id": "cleft-sentences",
+      "name": "Câu chẻ (It is … that …)",
+      "group": "Câu và cấu trúc",
+      "order": 650,
+      "prerequisites": [
+        "relative-clauses"
+      ],
+      "status": "planned",
+      "total": 0,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 0,
+        "advanced": 0
+      },
+      "by_type": {
+        "choose": 0,
+        "fix-error": 0,
+        "fill-form": 0,
+        "rewrite": 0,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "subjunctive",
+      "name": "Thức giả định; It's time, would rather, had better",
+      "group": "Câu và cấu trúc",
+      "order": 660,
+      "prerequisites": [
+        "wish-if-only"
+      ],
+      "status": "created",
+      "total": 10,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 6,
+        "advanced": 4
+      },
+      "by_type": {
+        "choose": 6,
+        "fix-error": 1,
+        "fill-form": 2,
+        "rewrite": 1,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "prepositions-time",
+      "name": "Giới từ chỉ thời gian (in, on, at…)",
+      "group": "Từ loại khác",
+      "order": 700,
+      "prerequisites": [],
+      "status": "created",
+      "total": 10,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 6,
+        "advanced": 4
+      },
+      "by_type": {
+        "choose": 7,
+        "fix-error": 2,
+        "fill-form": 0,
+        "rewrite": 1,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "prepositions-place",
+      "name": "Giới từ chỉ nơi chốn và chuyển động",
+      "group": "Từ loại khác",
+      "order": 710,
+      "prerequisites": [],
+      "status": "created",
+      "total": 10,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 6,
+        "advanced": 4
+      },
+      "by_type": {
+        "choose": 7,
+        "fix-error": 2,
+        "fill-form": 0,
+        "rewrite": 1,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "dependent-prepositions",
+      "name": "Giới từ đi kèm tính từ, động từ, danh từ",
+      "group": "Từ loại khác",
+      "order": 720,
+      "prerequisites": [
+        "prepositions-time",
+        "prepositions-place"
+      ],
+      "status": "created",
+      "total": 10,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 6,
+        "advanced": 4
+      },
+      "by_type": {
+        "choose": 7,
+        "fix-error": 1,
+        "fill-form": 1,
+        "rewrite": 1,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "conjunctions",
+      "name": "Liên từ (and, but, or, so, both…and, either…or)",
+      "group": "Từ loại khác",
+      "order": 730,
+      "prerequisites": [],
+      "status": "created",
+      "total": 10,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 6,
+        "advanced": 4
+      },
+      "by_type": {
+        "choose": 8,
+        "fix-error": 1,
+        "fill-form": 0,
+        "rewrite": 1,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "linking-words",
+      "name": "Từ nối (however, therefore, moreover…)",
+      "group": "Từ loại khác",
+      "order": 740,
+      "prerequisites": [
+        "conjunctions"
+      ],
+      "status": "created",
+      "total": 10,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 6,
+        "advanced": 4
+      },
+      "by_type": {
+        "choose": 8,
+        "fix-error": 1,
+        "fill-form": 0,
+        "rewrite": 1,
+        "arrange": 0
+      }
+    },
+    {
+      "id": "word-formation",
+      "name": "Cấu tạo từ: tiền tố, hậu tố, từ loại (Word Formation)",
+      "group": "Từ loại khác",
+      "order": 750,
+      "prerequisites": [],
+      "status": "created",
+      "total": 15,
+      "by_level": {
+        "basic": 0,
+        "intermediate": 9,
+        "advanced": 6
+      },
+      "by_type": {
+        "choose": 11,
+        "fix-error": 2,
+        "fill-form": 2,
+        "rewrite": 0,
+        "arrange": 0
+      }
+    }
+  ]
+}

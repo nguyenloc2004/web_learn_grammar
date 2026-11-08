@@ -1,0 +1,349 @@
+[
+  {
+    "id": "fp-001",
+    "topic": "future-perfect",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "By the time the auditors arrive next Monday, our accounting team ___ all the receipts from the last quarter.",
+    "options": [
+      "will have organized",
+      "has organized",
+      "organized",
+      "organizes"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "**By the time + hiện tại đơn** (arrive next Monday) → việc sắp xếp sẽ **xong trước** mốc tương lai đó: **will have organized**.",
+      "wrong": {
+        "1": "\"has organized\" là hiện tại hoàn thành, tính đến hiện tại; ở đây mốc là \"next Monday\" trong tương lai.",
+        "2": "\"organized\" là quá khứ đơn, không phù hợp với mốc tương lai.",
+        "3": "\"organizes\" là hiện tại đơn; mệnh đề chính đi với \"by the time + mốc tương lai\" phải dùng tương lai hoàn thành."
+      },
+      "rule": "By the time + S + V (hiện tại đơn), S + will have + V3.",
+      "examples": [
+        "By the time you get to the office, I will have sent the contract.",
+        "By the time the store opens, the staff will have restocked the shelves."
+      ],
+      "common_mistake": "Thấy \"arrive\" ở hiện tại liền chia mệnh đề chính ở hiện tại, không nhận ra cả câu nói về tương lai."
+    },
+    "tags": [
+      "by-the-time",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "fp-002",
+    "topic": "future-perfect",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "By the time the new branch in Can Tho ___ in March, we will have hired thirty more employees.",
+    "options": [
+      "will open",
+      "will have opened",
+      "opened",
+      "opens"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Trong **mệnh đề thời gian** sau \"by the time\", dùng **hiện tại đơn** để chỉ tương lai: **opens**.",
+      "wrong": {
+        "0": "\"will open\" sai vì không dùng \"will\" trong mệnh đề thời gian (by the time, when, before, after, until).",
+        "1": "\"will have opened\" cũng là dạng tương lai, không dùng trong mệnh đề thời gian; tương lai hoàn thành nằm ở mệnh đề chính.",
+        "2": "\"opened\" là quá khứ đơn, mâu thuẫn với mệnh đề chính \"will have hired\" và mốc \"in March\" sắp tới."
+      },
+      "rule": "Mệnh đề thời gian (by the time / when / before / as soon as) + hiện tại đơn; mệnh đề chính + will / will have V3.",
+      "examples": [
+        "By the time the meeting starts, everyone will have read the agenda.",
+        "We will have finished the tests before the client visits."
+      ],
+      "common_mistake": "Dịch \"khi chi nhánh sẽ mở\" thành \"will open\", đưa \"will\" vào cả hai vế."
+    },
+    "tags": [
+      "by-the-time",
+      "time-clause",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "fp-003",
+    "topic": "future-perfect",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "By the end of this year, Mr. Hai ___ for the company for exactly twenty-five years, and a small ceremony is being planned for him.",
+    "options": [
+      "will work",
+      "has worked",
+      "will have worked",
+      "works"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "**By the end of this year** (mốc tương lai) + **for exactly twenty-five years** (thời lượng tính đến mốc đó) → **will have worked**.",
+      "wrong": {
+        "0": "\"will work\" là tương lai đơn, không diễn tả thời lượng tích lũy tính đến một mốc tương lai.",
+        "1": "\"has worked\" là hiện tại hoàn thành, tính đến hiện tại chứ không đến \"the end of this year\".",
+        "3": "\"works\" là hiện tại đơn, không đi với \"by the end of this year\" và \"for twenty-five years\"."
+      },
+      "rule": "By + mốc tương lai, S + will have + V3 + for + khoảng thời gian: thời lượng tính đến mốc đó.",
+      "examples": [
+        "By next June, she will have taught at this school for ten years.",
+        "By 2030, the bridge will have stood here for a century."
+      ],
+      "common_mistake": "Dùng hiện tại hoàn thành vì quen \"for + thời gian → have V3\", quên rằng mốc ở tương lai."
+    },
+    "tags": [
+      "by-the-end-of",
+      "duration",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "fp-004",
+    "topic": "future-perfect",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Please don't call Ms. Yen at 10 a.m. tomorrow; she ___ the new interns in the training room at that time.",
+    "options": [
+      "will have trained",
+      "has been training",
+      "trained",
+      "will be training"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "**at that time** (đúng 10 a.m. ngày mai) → việc **đang diễn ra** tại một thời điểm tương lai: tương lai tiếp diễn **will be training**.",
+      "wrong": {
+        "0": "\"will have trained\" nghĩa là đến 10 giờ việc đào tạo đã xong; nhưng người nói dặn đừng gọi vì lúc đó cô ấy **đang** bận đào tạo.",
+        "1": "\"has been training\" là hiện tại hoàn thành tiếp diễn, kéo dài đến hiện tại, không hợp với \"10 a.m. tomorrow\".",
+        "2": "\"trained\" là quá khứ đơn, mâu thuẫn với mốc tương lai \"tomorrow\"."
+      },
+      "rule": "at + giờ cụ thể / at that time (tương lai) → will be V-ing (đang diễn ra); by + mốc tương lai → will have V3 (đã xong).",
+      "examples": [
+        "At 3 p.m. tomorrow, I will be meeting the suppliers.",
+        "By 3 p.m. tomorrow, I will have met all the suppliers."
+      ],
+      "common_mistake": "Không phân biệt \"at\" (đang diễn ra) với \"by\" (xong trước), dùng tương lai hoàn thành cho mọi câu có mốc tương lai."
+    },
+    "tags": [
+      "future-continuous-contrast",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "fp-005",
+    "topic": "future-perfect",
+    "level": "intermediate",
+    "type": "fill-form",
+    "question": "By next Friday, the contractor ___ (complete) the renovation of the second floor, so staff can move back in on Monday.",
+    "options": [
+      "will have been completed",
+      "will have completed",
+      "has completed",
+      "completes"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "**By next Friday** + việc phải xong trước mốc đó để nhân viên dọn về vào thứ Hai → **will have completed** (chủ động, vì nhà thầu là người hoàn thành).",
+      "wrong": {
+        "0": "\"will have been completed\" là bị động; chủ ngữ \"the contractor\" là người thực hiện và có tân ngữ \"the renovation\" phía sau.",
+        "2": "\"has completed\" là hiện tại hoàn thành, không dùng với mốc tương lai \"by next Friday\".",
+        "3": "\"completes\" là hiện tại đơn, không diễn tả được việc xong trước một mốc tương lai."
+      },
+      "rule": "By + mốc tương lai → S + will have + V3 (chủ động); bị động: will have been + V3 khi chủ ngữ là đối tượng chịu tác động.",
+      "examples": [
+        "By Monday, the IT team will have installed the new printers.",
+        "By Monday, the new printers will have been installed."
+      ],
+      "common_mistake": "Thấy cụm \"have been\" quen thuộc nên chọn dạng bị động, không xét chủ ngữ là người làm hay vật bị tác động."
+    },
+    "tags": [
+      "by-deadline",
+      "active-passive",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "fp-006",
+    "topic": "future-perfect",
+    "level": "intermediate",
+    "type": "rewrite",
+    "question": "Chọn câu đồng nghĩa với: *The shipment will arrive on June 10. We will finish the inventory check on June 8.*",
+    "options": [
+      "We will have finished the inventory check by the time the shipment will arrive.",
+      "We will finish the inventory check after the shipment arrives.",
+      "We will have finished the inventory check by the time the shipment arrives.",
+      "We have finished the inventory check by the time the shipment arrives."
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Kiểm kê xong (ngày 8) **trước** khi hàng đến (ngày 10) → mệnh đề chính dùng **will have finished**, mệnh đề \"by the time\" dùng **hiện tại đơn** (arrives).",
+      "wrong": {
+        "0": "Sai vì dùng \"will arrive\" trong mệnh đề thời gian \"by the time\"; phải là \"arrives\".",
+        "1": "Sai nghĩa: \"after the shipment arrives\" nói kiểm kê xong **sau** khi hàng đến, ngược với câu gốc.",
+        "3": "\"have finished\" là hiện tại hoàn thành, không dùng cho việc sẽ xong trước một mốc tương lai."
+      },
+      "rule": "Việc A xong trước việc B trong tương lai: S + will have V3 (A) + by the time + S + V hiện tại đơn (B).",
+      "examples": [
+        "The guests will have left by the time we finish cleaning.",
+        "By the time the bus arrives, we will have waited for an hour."
+      ],
+      "common_mistake": "Chia \"will\" ở cả hai mệnh đề vì cả hai sự việc đều ở tương lai."
+    },
+    "tags": [
+      "by-the-time",
+      "rewrite",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "fp-007",
+    "topic": "future-perfect",
+    "level": "advanced",
+    "type": "fix-error",
+    "question": "Tìm phần sai: By the time <u>you read</u> (A) this email, I <u>will board</u> (B) the plane to Singapore, so please <u>contact</u> (C) Ms. Trang <u>if</u> (D) anything urgent comes up.",
+    "options": [
+      "you read",
+      "will board",
+      "contact",
+      "if"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Phần sai là (B). Việc lên máy bay **xong trước** lúc người nhận đọc email (by the time) → sửa thành **will have boarded**.",
+      "wrong": {
+        "0": "(A) đúng: mệnh đề thời gian sau \"by the time\" dùng hiện tại đơn \"you read\".",
+        "2": "(C) đúng: câu mệnh lệnh \"please contact\" dùng động từ nguyên mẫu.",
+        "3": "(D) đúng: \"if anything urgent comes up\" là mệnh đề điều kiện, dùng hiện tại đơn."
+      },
+      "rule": "By the time + hiện tại đơn, S + will have V3: hành động trong mệnh đề chính hoàn tất trước hành động trong mệnh đề \"by the time\".",
+      "examples": [
+        "By the time you receive this letter, I will have moved to Hanoi.",
+        "By the time the client calls back, we will have prepared a new quote."
+      ],
+      "common_mistake": "Dùng tương lai đơn \"will board\" vì nghĩ chỉ cần \"sẽ\", không nhận ra hành động đã xong trước mốc."
+    },
+    "tags": [
+      "by-the-time",
+      "email",
+      "toeic-part6"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "fp-008",
+    "topic": "future-perfect",
+    "level": "advanced",
+    "type": "choose",
+    "question": "Unless the delivery trucks arrive earlier than planned, the warehouse staff ___ the stock count by the time the store reopens on Saturday.",
+    "options": [
+      "won't have completed",
+      "haven't completed",
+      "didn't complete",
+      "won't be completed"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Mốc tương lai \"by the time the store reopens on Saturday\" + phủ định (việc **chưa xong** trước mốc) → **won't have completed**.",
+      "wrong": {
+        "1": "\"haven't completed\" là hiện tại hoàn thành phủ định, tính đến hiện tại, không đến mốc thứ Bảy.",
+        "2": "\"didn't complete\" là quá khứ đơn, mâu thuẫn với các mốc tương lai trong câu.",
+        "3": "\"won't be completed\" là bị động; \"the warehouse staff\" là người thực hiện và có tân ngữ \"the stock count\"."
+      },
+      "rule": "Phủ định tương lai hoàn thành: S + won't (will not) have + V3 + by + mốc tương lai.",
+      "examples": [
+        "They won't have received the parcel by Friday.",
+        "I won't have finished the report by the time you arrive."
+      ],
+      "common_mistake": "Bỏ \"have\" khi chia phủ định hoặc lẫn sang bị động vì câu dài, nhiều mệnh đề."
+    },
+    "tags": [
+      "negative",
+      "by-the-time",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "fp-009",
+    "topic": "future-perfect",
+    "level": "advanced",
+    "type": "choose",
+    "question": "The new warehouse in Binh Duong is scheduled to open in October. By then, we ___ most of the seasonal staff we need for the holiday rush.",
+    "options": [
+      "will be recruited",
+      "have recruited",
+      "would have recruited",
+      "will have recruited"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "**By then** = by October (mốc tương lai nêu ở câu trước) → việc tuyển dụng **xong trước** mốc đó: **will have recruited**.",
+      "wrong": {
+        "0": "\"will be recruited\" là bị động tương lai đơn; \"we\" là người tuyển, có tân ngữ \"most of the seasonal staff\".",
+        "1": "\"have recruited\" là hiện tại hoàn thành, mốc là hiện tại chứ không phải tháng Mười.",
+        "2": "\"would have recruited\" dùng cho giả định trái với quá khứ (điều kiện loại 3), không hợp một kế hoạch có thật."
+      },
+      "rule": "by then / by that time (chỉ mốc tương lai đã nêu) → will have + V3.",
+      "examples": [
+        "The conference starts at nine. By then, the technicians will have tested the microphones.",
+        "We launch in May. By then, the website will have been redesigned."
+      ],
+      "common_mistake": "Không nhận ra \"by then\" thay cho mốc tương lai ở câu trước, chọn hiện tại hoàn thành vì thấy \"have + V3\"."
+    },
+    "tags": [
+      "by-then",
+      "toeic-part6"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "fp-010",
+    "topic": "future-perfect",
+    "level": "advanced",
+    "type": "choose",
+    "question": "According to the IT department's plan, all branch computers ___ with the new security software by the end of next quarter.",
+    "options": [
+      "will have upgraded",
+      "will be upgrading",
+      "will have been upgraded",
+      "have been upgraded"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Chủ ngữ \"all branch computers\" **được** nâng cấp (bị động) và việc xong trước \"by the end of next quarter\" → tương lai hoàn thành bị động **will have been upgraded**.",
+      "wrong": {
+        "0": "\"will have upgraded\" là chủ động; máy tính không tự nâng cấp, và sau chỗ trống không có tân ngữ.",
+        "1": "\"will be upgrading\" là tương lai tiếp diễn chủ động, vừa sai nghĩa (máy tính không tự làm) vừa không diễn tả việc xong trước mốc.",
+        "3": "\"have been upgraded\" là hiện tại hoàn thành bị động, không dùng với mốc tương lai \"by the end of next quarter\"."
+      },
+      "rule": "Tương lai hoàn thành bị động: S + will have been + V3 + by + mốc tương lai.",
+      "examples": [
+        "All invoices will have been paid by the end of the month.",
+        "The new road will have been completed by 2028."
+      ],
+      "common_mistake": "Chỉ để ý mốc thời gian mà quên xét chủ ngữ là người làm hay vật bị tác động."
+    },
+    "tags": [
+      "passive",
+      "by-the-end-of",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  }
+]

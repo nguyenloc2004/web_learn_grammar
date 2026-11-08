@@ -1,0 +1,519 @@
+[
+  {
+    "id": "sva-001",
+    "topic": "subject-verb-agreement",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The list of approved suppliers ___ updated every three months.",
+    "options": [
+      "is",
+      "are",
+      "have",
+      "be"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Chủ ngữ chính là **The list** (số ít); \"of approved suppliers\" chỉ là cụm bổ nghĩa. Bị động hiện tại đơn số ít: **is updated**.",
+      "wrong": {
+        "1": "\"are\" chia theo \"suppliers\" (danh từ gần nhất) chứ không theo chủ ngữ chính \"list\".",
+        "2": "\"have updated\" là chủ động và chia số nhiều, sai cả hai mặt.",
+        "3": "\"be\" không chia, không làm động từ chính của câu."
+      },
+      "rule": "Danh từ 1 + of + danh từ 2 → động từ chia theo danh từ 1.",
+      "examples": [
+        "The quality of the products is excellent.",
+        "The results of the survey are on your desk."
+      ],
+      "common_mistake": "Chia động từ theo danh từ đứng sát ngay trước nó."
+    },
+    "tags": [
+      "of-phrase",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "sva-002",
+    "topic": "subject-verb-agreement",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Each of the new employees ___ a laptop on the first day of work.",
+    "options": [
+      "receive",
+      "are receiving",
+      "have received",
+      "receives"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "**Each of + danh từ số nhiều** → động từ số ít: **receives**. Nói về quy trình chung → hiện tại đơn.",
+      "wrong": {
+        "0": "\"receive\" chia số nhiều theo \"employees\", sai vì chủ ngữ là \"Each\".",
+        "1": "\"are receiving\" chia số nhiều.",
+        "2": "\"have received\" chia số nhiều."
+      },
+      "rule": "Each / Every one / One / Neither / Either of + N số nhiều → động từ số ít.",
+      "examples": [
+        "Each of the rooms has a private balcony.",
+        "One of my colleagues speaks Japanese."
+      ],
+      "common_mistake": "Thấy \"employees\" số nhiều nên chia động từ số nhiều."
+    },
+    "tags": [
+      "each-of",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "sva-003",
+    "topic": "subject-verb-agreement",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Neither the manager nor the assistants ___ aware of the schedule change yesterday.",
+    "options": [
+      "was",
+      "were",
+      "is",
+      "has been"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Với **neither … nor**, động từ chia theo chủ ngữ **gần nhất** là \"the assistants\" (số nhiều); \"yesterday\" → quá khứ: **were**.",
+      "wrong": {
+        "0": "\"was\" chia theo \"the manager\", nhưng phải chia theo chủ ngữ gần động từ nhất.",
+        "2": "\"is\" vừa số ít vừa sai thì (có \"yesterday\").",
+        "3": "\"has been\" là số ít và không dùng với \"yesterday\"."
+      },
+      "rule": "Neither A nor B / Either A or B / Not only A but also B → động từ chia theo B.",
+      "examples": [
+        "Neither the director nor the managers were at the meeting.",
+        "Either the students or the teacher has the key."
+      ],
+      "common_mistake": "Coi \"neither … nor\" là hai người nên luôn chia số nhiều, hoặc luôn chia theo chủ ngữ đầu."
+    },
+    "tags": [
+      "neither-nor",
+      "proximity",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "sva-004",
+    "topic": "subject-verb-agreement",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The number of customer complaints ___ dropped sharply since we hired more staff.",
+    "options": [
+      "have",
+      "are",
+      "is",
+      "has"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "**The number of + N số nhiều** → động từ số ít (chủ ngữ là \"the number\"); \"since\" → hiện tại hoàn thành: **has dropped**.",
+      "wrong": {
+        "0": "\"have\" chia theo \"complaints\", sai vì chủ ngữ là \"the number\".",
+        "1": "\"are dropped\" là bị động số nhiều, sai cả số lẫn nghĩa.",
+        "2": "\"is dropped\" là bị động, sai nghĩa và không hợp \"since\"."
+      },
+      "rule": "The number of + N số nhiều → V số ít. A number of + N số nhiều → V số nhiều.",
+      "examples": [
+        "The number of visitors has doubled this year.",
+        "A number of visitors have complained about the noise."
+      ],
+      "common_mistake": "Nhầm \"the number of\" với \"a number of\"."
+    },
+    "tags": [
+      "the-number-of",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "sva-005",
+    "topic": "subject-verb-agreement",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "A number of employees ___ asked to work from home during the office renovation.",
+    "options": [
+      "has",
+      "have",
+      "is",
+      "was"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "**A number of** (= nhiều) + N số nhiều → động từ số nhiều: **have asked** (đã xin được làm việc ở nhà).",
+      "wrong": {
+        "0": "\"has\" chia số ít, nhầm với cấu trúc \"the number of\".",
+        "2": "\"is asked\" là số ít.",
+        "3": "\"was asked\" là số ít."
+      },
+      "rule": "A number of + N số nhiều → V số nhiều (chủ ngữ thực là danh từ số nhiều).",
+      "examples": [
+        "A number of problems have been reported.",
+        "A number of guests were waiting in the lobby."
+      ],
+      "common_mistake": "Thấy \"A number\" có mạo từ \"a\" nên chia số ít."
+    },
+    "tags": [
+      "a-number-of",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "sva-006",
+    "topic": "subject-verb-agreement",
+    "level": "intermediate",
+    "type": "fill-form",
+    "question": "The information in these brochures ___ (be) out of date, so please do not hand them out.",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "be"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "**information** là danh từ không đếm được → động từ số ít: **is**. Lời yêu cầu hiện tại → hiện tại đơn.",
+      "wrong": {
+        "0": "\"are\" chia số nhiều theo \"brochures\", nhưng chủ ngữ là \"information\".",
+        "1": "\"were\" là số nhiều (và ở quá khứ), sai với danh từ không đếm được.",
+        "3": "\"be\" không chia."
+      },
+      "rule": "Danh từ không đếm được (information, equipment, advice, furniture, luggage) → động từ số ít.",
+      "examples": [
+        "The equipment has been checked.",
+        "Your advice was very helpful."
+      ],
+      "common_mistake": "Coi \"information\", \"equipment\" là số nhiều vì trong tiếng Việt chúng chỉ nhiều thứ."
+    },
+    "tags": [
+      "uncountable",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "sva-007",
+    "topic": "subject-verb-agreement",
+    "level": "advanced",
+    "type": "choose",
+    "question": "The director, together with three senior engineers, ___ visiting the factory in Binh Duong this week.",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "have been"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Cụm **together with …** (đặt giữa hai dấu phẩy) không làm thay đổi chủ ngữ; chủ ngữ là \"The director\" (số ít): **is visiting**.",
+      "wrong": {
+        "1": "\"are\" chia theo \"engineers\", nhưng cụm \"together with…\" không phải chủ ngữ.",
+        "2": "\"were\" là số nhiều và ở quá khứ, sai với \"this week\".",
+        "3": "\"have been\" là số nhiều."
+      },
+      "rule": "S + together with / along with / as well as / accompanied by + N → động từ chia theo S.",
+      "examples": [
+        "The CEO, along with her assistants, is arriving at noon.",
+        "The manager, as well as the staff, was invited."
+      ],
+      "common_mistake": "Hiểu \"together with\" như \"and\" nên chia số nhiều."
+    },
+    "tags": [
+      "together-with",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "sva-008",
+    "topic": "subject-verb-agreement",
+    "level": "advanced",
+    "type": "choose",
+    "question": "Hiring qualified engineers ___ become increasingly difficult in recent years.",
+    "options": [
+      "have",
+      "are",
+      "is",
+      "has"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Chủ ngữ là **cụm danh động từ** \"Hiring qualified engineers\" → luôn số ít; \"in recent years\" → hiện tại hoàn thành: **has become**.",
+      "wrong": {
+        "0": "\"have\" chia theo \"engineers\", nhưng chủ ngữ là hành động \"Hiring\".",
+        "1": "\"are become\" sai cấu trúc (\"become\" là V3, không đi với \"are\" ở đây).",
+        "2": "\"is become\" sai cấu trúc; câu cần thì hiện tại hoàn thành \"has become\"."
+      },
+      "rule": "V-ing / To V / mệnh đề làm chủ ngữ → động từ số ít.",
+      "examples": [
+        "Meeting tight deadlines is part of the job.",
+        "Learning new skills takes time."
+      ],
+      "common_mistake": "Chia số nhiều vì cụm chủ ngữ chứa danh từ số nhiều."
+    },
+    "tags": [
+      "gerund-subject",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "sva-009",
+    "topic": "subject-verb-agreement",
+    "level": "advanced",
+    "type": "fix-error",
+    "question": "Tìm phần sai: One of the most important <u>factors</u> (A) that <u>affect</u> (B) sales <u>are</u> (C) the price of raw <u>materials</u> (D).",
+    "options": [
+      "factors",
+      "affect",
+      "are",
+      "materials"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Phần sai là (C). Chủ ngữ chính là **One** (of the … factors) → số ít: sửa thành **is**.",
+      "wrong": {
+        "0": "(A) đúng: sau \"one of the most important\" dùng danh từ số nhiều \"factors\".",
+        "1": "(B) đúng: \"that\" thay cho \"factors\" (số nhiều) nên \"affect\" không thêm -s.",
+        "3": "(D) đúng: \"raw materials\" là danh từ số nhiều thông dụng."
+      },
+      "rule": "One of the + N số nhiều + V số ít. Động từ trong mệnh đề quan hệ chia theo danh từ mà đại từ quan hệ thay thế.",
+      "examples": [
+        "One of our biggest clients is based in Singapore.",
+        "One of the reasons that explain the delay is the weather."
+      ],
+      "common_mistake": "Chia động từ chính theo \"factors\" hoặc \"materials\" vì chúng đứng gần."
+    },
+    "tags": [
+      "one-of",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "sva-010",
+    "topic": "subject-verb-agreement",
+    "level": "advanced",
+    "type": "choose",
+    "question": "Every manager and supervisor ___ required to attend the safety workshop on Thursday.",
+    "options": [
+      "are",
+      "have",
+      "is",
+      "were"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "**Every A and B** → động từ số ít (mỗi người được xét riêng lẻ): **is required**.",
+      "wrong": {
+        "0": "\"are\" chia số nhiều vì thấy \"and\", nhưng có \"every\" đứng đầu.",
+        "1": "\"have required\" là chủ động số nhiều, sai nghĩa và sai số.",
+        "3": "\"were\" là số nhiều và ở quá khứ, không hợp với buổi hội thảo sắp tới."
+      },
+      "rule": "A and B → V số nhiều, nhưng Every / Each + A and B → V số ít.",
+      "examples": [
+        "Every desk and chair has been replaced.",
+        "Each student and teacher was given a badge."
+      ],
+      "common_mistake": "Thấy \"and\" là chia số nhiều mà bỏ qua \"every\"."
+    },
+    "tags": [
+      "every",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "sva-011",
+    "topic": "subject-verb-agreement",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The proposals submitted by the design team for the new head office in District 7 ___ currently under review by the board.",
+    "options": [
+      "are",
+      "is",
+      "has been",
+      "was"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Chủ ngữ chính là **The proposals** (số nhiều); cụm phân từ \"submitted by the design team for the new head office in District 7\" chỉ bổ nghĩa. Có \"currently\" → hiện tại: **are**.",
+      "wrong": {
+        "1": "\"is\" chia theo \"District 7\" / \"head office\" (danh từ số ít đứng gần), không phải chủ ngữ chính.",
+        "2": "\"has been\" là động từ số ít, không hợp với \"The proposals\".",
+        "3": "\"was\" vừa số ít vừa là quá khứ, mâu thuẫn với \"currently\"."
+      },
+      "rule": "N (chủ ngữ) + V3 / V-ing + … (cụm phân từ) + V: động từ chia theo danh từ đứng đầu, bỏ qua cụm phân từ chen giữa.",
+      "examples": [
+        "The products displayed in the front window are on sale.",
+        "The report prepared by the two analysts is very detailed."
+      ],
+      "common_mistake": "Chia động từ theo danh từ đứng ngay trước chỗ trống thay vì tìm chủ ngữ chính."
+    },
+    "tags": [
+      "participle-phrase",
+      "distance",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "sva-012",
+    "topic": "subject-verb-agreement",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The cost of the new machines for the packaging lines at both of our factories ___ much higher than the finance department had estimated.",
+    "options": [
+      "were",
+      "have been",
+      "are",
+      "was"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Chủ ngữ chính là **The cost** (số ít); chuỗi cụm giới từ \"of the new machines for the packaging lines at both of our factories\" không làm đổi số. Mệnh đề so sánh \"had estimated\" ở quá khứ → **was**.",
+      "wrong": {
+        "0": "\"were\" chia theo \"machines\" / \"factories\" (số nhiều) trong cụm giới từ.",
+        "1": "\"have been\" là động từ số nhiều, không hợp với \"The cost\".",
+        "2": "\"are\" vừa số nhiều vừa ở hiện tại, không khớp với chủ ngữ số ít và mốc quá khứ."
+      },
+      "rule": "N1 + of / for / at / in + N2 … + V: động từ chia theo N1, dù cụm giới từ dài và chứa nhiều danh từ số nhiều.",
+      "examples": [
+        "The price of the tickets for all three concerts is listed online.",
+        "The quality of the materials from our suppliers has improved."
+      ],
+      "common_mistake": "Càng nhiều danh từ số nhiều chen giữa, càng dễ quên chủ ngữ thật ở đầu câu."
+    },
+    "tags": [
+      "prepositional-phrase",
+      "distance",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "sva-013",
+    "topic": "subject-verb-agreement",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The consultant who worked with our sales teams in Hanoi and Hai Phong last year ___ recommended a new commission structure.",
+    "options": [
+      "have",
+      "has",
+      "are",
+      "were"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Chủ ngữ chính là **The consultant** (số ít); mệnh đề quan hệ \"who worked with our sales teams in Hanoi and Hai Phong last year\" chen giữa. \"recommended\" là V3 nên cần **has** (hiện tại hoàn thành).",
+      "wrong": {
+        "0": "\"have\" chia theo \"sales teams\" hoặc \"Hanoi and Hai Phong\" (cảm giác số nhiều), không phải chủ ngữ chính.",
+        "2": "\"are\" là động từ số nhiều, và \"are recommended\" lại thành bị động, sai nghĩa vì có tân ngữ \"a new commission structure\".",
+        "3": "\"were\" cũng số nhiều và tạo bị động \"were recommended\", sai cả số lẫn nghĩa."
+      },
+      "rule": "S + who / which / that … (mệnh đề quan hệ) + V: động từ chính chia theo S, không theo danh từ trong mệnh đề quan hệ.",
+      "examples": [
+        "The manager who supervises the three warehouses is on leave.",
+        "The engineer who designed these bridges has retired."
+      ],
+      "common_mistake": "Thấy \"Hanoi and Hai Phong\" có \"and\" liền chia số nhiều."
+    },
+    "tags": [
+      "relative-clause",
+      "distance",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "sva-014",
+    "topic": "subject-verb-agreement",
+    "level": "advanced",
+    "type": "fix-error",
+    "question": "Tìm phần sai: The <u>results</u> (A) of the survey that the marketing department <u>conducted</u> (B) among regular customers <u>shows</u> (C) a clear preference for <u>online</u> (D) ordering.",
+    "options": [
+      "results",
+      "conducted",
+      "shows",
+      "online"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Phần sai là (C). Chủ ngữ chính là **The results** (số nhiều); \"of the survey that the marketing department conducted among regular customers\" chỉ là phần bổ nghĩa. Sửa thành **show**.",
+      "wrong": {
+        "0": "(A) đúng: \"results\" số nhiều là chủ ngữ chính của câu.",
+        "1": "(B) đúng: \"conducted\" là động từ của mệnh đề quan hệ, chủ ngữ \"the marketing department\", quá khứ đơn.",
+        "3": "(D) đúng: \"online\" bổ nghĩa cho danh từ \"ordering\"."
+      },
+      "rule": "Chủ ngữ + cụm giới từ + mệnh đề quan hệ + V: gạch bỏ mọi phần bổ nghĩa để tìm chủ ngữ thật rồi mới chia động từ.",
+      "examples": [
+        "The findings of the study that the university published last year show a clear trend.",
+        "The list of guests that Ms. Ly sent us is incomplete."
+      ],
+      "common_mistake": "Chia theo danh từ số ít đứng gần (\"survey\", \"department\", \"customers\" đều gây nhiễu) mà bỏ qua chủ ngữ đầu câu."
+    },
+    "tags": [
+      "relative-clause",
+      "prepositional-phrase",
+      "distance",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "sva-015",
+    "topic": "subject-verb-agreement",
+    "level": "advanced",
+    "type": "choose",
+    "question": "The new guidelines, drafted by a committee of lawyers and approved by the board of directors last month, ___ how employees should handle confidential client data.",
+    "options": [
+      "explains",
+      "explaining",
+      "has explained",
+      "explain"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Chủ ngữ chính là **The new guidelines** (số nhiều); cụm phân từ giữa hai dấu phẩy chỉ là thông tin thêm. Câu đang thiếu động từ chính → **explain**.",
+      "wrong": {
+        "0": "\"explains\" chia theo \"the board\" / \"last month\" (số ít) đứng ngay trước chỗ trống.",
+        "1": "\"explaining\" là V-ing, không làm động từ chính; câu sẽ thiếu vị ngữ.",
+        "2": "\"has explained\" là động từ số ít, không hợp với chủ ngữ số nhiều \"guidelines\"."
+      },
+      "rule": "S, + cụm phân từ (V3 … and V3 …), + V: động từ chính chia theo S trước dấu phẩy thứ nhất.",
+      "examples": [
+        "The new rules, introduced by the city council in May, apply to all restaurants.",
+        "The museum, built in the 19th century and restored last year, attracts many tourists."
+      ],
+      "common_mistake": "Câu dài nhiều thông tin chen giữa nên quên mất chủ ngữ, hoặc tưởng câu đã có động từ chính (\"drafted\", \"approved\")."
+    },
+    "tags": [
+      "participle-phrase",
+      "distance",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  }
+]

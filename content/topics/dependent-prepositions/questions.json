@@ -1,0 +1,343 @@
+[
+  {
+    "id": "dp-001",
+    "topic": "dependent-prepositions",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "As the new project coordinator, Mr. Quang is responsible ___ scheduling all client meetings.",
+    "options": [
+      "for",
+      "about",
+      "of",
+      "with"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Cụm cố định **be responsible for + N / V-ing** (chịu trách nhiệm về).",
+      "wrong": {
+        "1": "\"responsible about\" là lỗi dịch từ \"chịu trách nhiệm về\"; tiếng Anh dùng \"for\".",
+        "2": "\"responsible of\" sai giới từ; \"of\" đi với các cụm như \"in charge of\", \"capable of\".",
+        "3": "\"responsible with\" không phải cụm đúng trong nghĩa \"phụ trách một nhiệm vụ\"."
+      },
+      "rule": "be responsible for + N / V-ing. Các tính từ cùng nhóm: accountable for, liable for, eligible for.",
+      "examples": [
+        "Ms. Lan is responsible for training new staff.",
+        "The supplier is responsible for any damage during shipping."
+      ],
+      "common_mistake": "Dịch giới từ theo tiếng Việt: \"responsible about\" (chịu trách nhiệm về)."
+    },
+    "tags": [
+      "adjective-preposition",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "dp-002",
+    "topic": "dependent-prepositions",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Only full-time employees who have worked here for at least one year are eligible ___ the annual performance bonus.",
+    "options": [
+      "to",
+      "with",
+      "in",
+      "for"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "**be eligible for + danh từ** (đủ điều kiện nhận / hưởng): *eligible for the bonus*.",
+      "wrong": {
+        "0": "\"eligible to\" chỉ đi với động từ nguyên mẫu (eligible to apply); trước danh từ \"the bonus\" phải dùng \"for\".",
+        "1": "\"eligible with\" không phải cụm đúng.",
+        "2": "\"eligible in\" không phải cụm đúng."
+      },
+      "rule": "be eligible for + N; be eligible to + V. Ví dụ: eligible for a discount / eligible to vote.",
+      "examples": [
+        "Members are eligible for a 10% discount.",
+        "Interns are not eligible to receive paid leave."
+      ],
+      "common_mistake": "Dùng \"eligible to\" trước danh từ vì nhớ nhầm sang cấu trúc \"eligible to V\"."
+    },
+    "tags": [
+      "adjective-preposition",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "dp-003",
+    "topic": "dependent-prepositions",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Applicants for the accounting assistant position should be familiar ___ standard spreadsheet software.",
+    "options": [
+      "to",
+      "about",
+      "with",
+      "in"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Người **biết rõ, thành thạo** một thứ → **be familiar with + N**.",
+      "wrong": {
+        "0": "\"familiar to\" dùng khi **sự vật quen thuộc với ai** (The software is familiar to me); chủ ngữ ở đây là người nên phải dùng \"with\".",
+        "1": "\"familiar about\" là lỗi dịch \"quen thuộc về\"; không phải cụm đúng.",
+        "3": "\"familiar in\" không phải cụm đúng."
+      },
+      "rule": "Người + be familiar with + vật. Vật + be familiar to + người.",
+      "examples": [
+        "Are you familiar with our refund policy?",
+        "The procedure should be familiar to all staff."
+      ],
+      "common_mistake": "Dùng \"familiar to\" với chủ ngữ là người vì không phân biệt chiều của quan hệ."
+    },
+    "tags": [
+      "adjective-preposition",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "dp-004",
+    "topic": "dependent-prepositions",
+    "level": "intermediate",
+    "type": "fix-error",
+    "question": "Tìm phần sai: All contractors <u>working</u> (A) on the site must comply <u>to</u> (B) the safety regulations <u>set out</u> (C) <u>in</u> (D) the employee handbook.",
+    "options": [
+      "working",
+      "to",
+      "set out",
+      "in"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Phần sai là (B). Động từ **comply** đi với giới từ **with**: *comply with the safety regulations*.",
+      "wrong": {
+        "0": "(A) đúng: \"working on the site\" là mệnh đề quan hệ rút gọn bổ nghĩa cho \"contractors\".",
+        "2": "(C) đúng: \"set out\" (được nêu ra) là phân từ bị động rút gọn, bổ nghĩa cho \"regulations\".",
+        "3": "(D) đúng: \"in the employee handbook\" (trong sổ tay nhân viên)."
+      },
+      "rule": "comply with + quy định / yêu cầu. Gần nghĩa: conform to, adhere to, abide by.",
+      "examples": [
+        "All products must comply with international standards.",
+        "Visitors are required to comply with the dress code."
+      ],
+      "common_mistake": "Viết \"comply to\" vì lẫn với \"conform to / adhere to\"."
+    },
+    "tags": [
+      "verb-preposition",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "dp-005",
+    "topic": "dependent-prepositions",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "There has been a sharp increase ___ demand for online banking services over the past two years.",
+    "options": [
+      "of",
+      "on",
+      "to",
+      "in"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "**increase in + thứ thay đổi** (tăng về cái gì): *an increase in demand*.",
+      "wrong": {
+        "0": "\"increase of\" chỉ đi với **con số / mức độ** (an increase of 20%); trước \"demand\" (thứ thay đổi) phải dùng \"in\".",
+        "1": "\"increase on\" không dùng để nói tăng về mặt nào.",
+        "2": "\"increase to\" đi với mức đạt tới (an increase to $5 million), không đi với \"demand\"."
+      },
+      "rule": "increase / rise / decrease / drop + in + lĩnh vực; + of + con số.",
+      "examples": [
+        "The report shows a decrease in production costs.",
+        "Sales rose by 12%, an increase of nearly $3 million."
+      ],
+      "common_mistake": "Dùng \"of\" vì dịch \"sự tăng lên của nhu cầu\"."
+    },
+    "tags": [
+      "noun-preposition",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "dp-006",
+    "topic": "dependent-prepositions",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Only members of the IT team have access ___ the confidential client files stored on the main server.",
+    "options": [
+      "for",
+      "to",
+      "of",
+      "into"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Danh từ **access** đi với giới từ **to**: *have access to + nơi / tài nguyên*.",
+      "wrong": {
+        "0": "\"access for\" không chỉ đối tượng được truy cập; \"for\" chỉ người được hưởng (access for wheelchair users).",
+        "2": "\"access of\" không phải cụm đúng.",
+        "3": "\"access into\" không phải cụm chuẩn; danh từ \"access\" luôn đi với \"to\"."
+      },
+      "rule": "have / gain / provide access to + N. (Động từ \"access\" thì không cần giới từ: access the files.)",
+      "examples": [
+        "Guests have access to the fitness center.",
+        "New employees will gain access to the database next week."
+      ],
+      "common_mistake": "Thêm giới từ sau động từ \"access\" (access to the files) hoặc dùng sai giới từ sau danh từ \"access\"."
+    },
+    "tags": [
+      "noun-preposition",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "dp-007",
+    "topic": "dependent-prepositions",
+    "level": "advanced",
+    "type": "choose",
+    "question": "Following her promotion, Ms. Thao has been put in ___ of the company's new branch in Can Tho.",
+    "options": [
+      "responsibility",
+      "lead",
+      "charge",
+      "head"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Cụm cố định **in charge of** (phụ trách, chịu trách nhiệm quản lý).",
+      "wrong": {
+        "0": "\"responsibility\" đúng nghĩa nhưng không đứng trong khuôn \"in ___ of\"; nói \"have responsibility for\".",
+        "1": "\"lead\" không tạo cụm \"in lead of\"; nói \"take the lead\" hoặc \"lead the branch\".",
+        "3": "\"head\" không tạo cụm \"in head of\"; nói \"be the head of\" hoặc \"head the branch\"."
+      },
+      "rule": "be / put sb in charge of + N / V-ing: phụ trách.",
+      "examples": [
+        "Mr. Hai is in charge of customer relations.",
+        "Who will be in charge of organizing the year-end party?"
+      ],
+      "common_mistake": "Ghép từ theo nghĩa tiếng Việt \"phụ trách\", tạo ra cụm không tồn tại như \"in responsibility of\"."
+    },
+    "tags": [
+      "fixed-phrase",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "dp-008",
+    "topic": "dependent-prepositions",
+    "level": "advanced",
+    "type": "choose",
+    "question": "___ the latest customer survey, most clients prefer to receive their invoices by email.",
+    "options": [
+      "According to",
+      "Due to",
+      "In addition to",
+      "Accordingly"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Mệnh đề chính nêu thông tin lấy **từ nguồn** \"the latest customer survey\" → **According to** (theo như).",
+      "wrong": {
+        "1": "\"Due to\" chỉ nguyên nhân (do, vì); khảo sát không phải nguyên nhân khiến khách hàng thích nhận hóa đơn qua email.",
+        "2": "\"In addition to\" nghĩa là \"ngoài … ra\", không nối nguồn thông tin với nội dung.",
+        "3": "\"Accordingly\" là trạng từ (do đó), không đi trực tiếp với cụm danh từ."
+      },
+      "rule": "according to + nguồn thông tin (report, survey, Mr. Nam). Không dùng \"according to me\".",
+      "examples": [
+        "According to the weather forecast, it will rain tomorrow.",
+        "According to Ms. Ha, the shipment has been delayed."
+      ],
+      "common_mistake": "Nhầm \"according to\" với \"due to\" vì cả hai đều có \"to\" và đứng đầu câu."
+    },
+    "tags": [
+      "fixed-phrase",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "dp-009",
+    "topic": "dependent-prepositions",
+    "level": "advanced",
+    "type": "fill-form",
+    "question": "Few local firms are capable of ___ (handle) projects of this scale, so the contract was awarded to an international consortium.",
+    "options": [
+      "handle",
+      "to handle",
+      "handled",
+      "handling"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "**capable of** kết thúc bằng giới từ \"of\", nên theo sau phải là **V-ing**: *capable of handling*.",
+      "wrong": {
+        "0": "\"handle\" là nguyên mẫu, không đứng sau giới từ.",
+        "1": "\"to handle\" sai vì \"capable\" không đi với to V (khác với \"able to handle\").",
+        "2": "\"handled\" là quá khứ/phân từ, không đứng sau giới từ trong nghĩa chủ động này."
+      },
+      "rule": "Tính từ + giới từ + V-ing: capable of doing, interested in joining, responsible for checking.",
+      "examples": [
+        "Our new machine is capable of printing 100 pages per minute.",
+        "We are interested in expanding into the Thai market."
+      ],
+      "common_mistake": "Dùng \"capable to do\" vì lẫn với \"able to do\"."
+    },
+    "tags": [
+      "adjective-preposition",
+      "preposition-ving",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "dp-010",
+    "topic": "dependent-prepositions",
+    "level": "advanced",
+    "type": "rewrite",
+    "question": "Chọn câu đồng nghĩa với: *More and more of our customers want to buy organic products.*",
+    "options": [
+      "There is a growing demand of organic products among our customers.",
+      "There is a growing demand in organic products among our customers.",
+      "There is a growing demand for organic products among our customers.",
+      "There is a growing demand to organic products among our customers."
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Danh từ **demand** (nhu cầu) đi với **for + sản phẩm / dịch vụ**: *demand for organic products*.",
+      "wrong": {
+        "0": "\"demand of\" là lỗi dịch \"nhu cầu của\"; tiếng Anh dùng \"demand for\".",
+        "1": "\"demand in\" sai; \"in\" đi với \"increase / rise in\", không đi với \"demand\" để chỉ món hàng.",
+        "3": "\"demand to\" sai; \"to\" không dùng để chỉ thứ được yêu cầu sau danh từ \"demand\"."
+      },
+      "rule": "demand / need / request / reason + for + N.",
+      "examples": [
+        "Demand for electric motorbikes has risen sharply.",
+        "There is a strong need for skilled technicians."
+      ],
+      "common_mistake": "Dùng \"demand of\" vì dịch \"nhu cầu của / về\"."
+    },
+    "tags": [
+      "noun-preposition",
+      "toeic-part6"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  }
+]

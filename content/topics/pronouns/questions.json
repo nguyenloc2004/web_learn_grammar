@@ -1,0 +1,520 @@
+[
+  {
+    "id": "pro-001",
+    "topic": "pronouns",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The clients were pleased with the proposal because ___ needs had been carefully considered.",
+    "options": [
+      "their",
+      "them",
+      "theirs",
+      "they"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Trước danh từ **needs** cần **tính từ sở hữu**: **their** (nhu cầu của họ).",
+      "wrong": {
+        "1": "\"them\" là đại từ tân ngữ, không đứng trước danh từ.",
+        "2": "\"theirs\" là đại từ sở hữu, đứng một mình, không đi kèm danh từ.",
+        "3": "\"they\" là đại từ chủ ngữ, không bổ nghĩa cho danh từ."
+      },
+      "rule": "Tính từ sở hữu (my, your, his, her, its, our, their) + danh từ.",
+      "examples": [
+        "The employees received their bonuses in December.",
+        "Our team presented its findings yesterday."
+      ],
+      "common_mistake": "Dùng \"them\" trước danh từ do tiếng Việt nói \"nhu cầu (của) họ\"."
+    },
+    "tags": [
+      "possessive-adjective",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pro-002",
+    "topic": "pronouns",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "If you have any questions about the new policy, please contact Mr. Lam or ___ directly.",
+    "options": [
+      "I",
+      "my",
+      "me",
+      "myself"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Sau động từ \"contact\" (qua liên từ \"or\") cần **đại từ tân ngữ**: **me**.",
+      "wrong": {
+        "0": "\"I\" là đại từ chủ ngữ, không làm tân ngữ cho \"contact\".",
+        "1": "\"my\" là tính từ sở hữu, phải đi kèm danh từ.",
+        "3": "\"myself\" chỉ dùng khi chủ ngữ cũng là \"I\"; ở đây chủ ngữ ngầm là \"you\"."
+      },
+      "rule": "Động từ / giới từ + đại từ tân ngữ (me, you, him, her, it, us, them), kể cả khi nối bằng and / or.",
+      "examples": [
+        "Please send the file to Ms. Hoa or me.",
+        "The director invited my colleague and me to lunch."
+      ],
+      "common_mistake": "Dùng \"myself\" thay cho \"me\" vì nghe có vẻ lịch sự hơn trong email công việc."
+    },
+    "tags": [
+      "object-pronoun",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pro-003",
+    "topic": "pronouns",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Our prices are lower than ___, and our delivery is faster too.",
+    "options": [
+      "their",
+      "theirs",
+      "them",
+      "themselves"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Cần **đại từ sở hữu** thay cho \"their prices\" để tránh lặp: **theirs**.",
+      "wrong": {
+        "0": "\"their\" là tính từ sở hữu, thiếu danh từ phía sau.",
+        "2": "\"them\" so sánh \"giá của chúng tôi\" với \"họ\" (người), không cân xứng.",
+        "3": "\"themselves\" là đại từ phản thân, không dùng để thay cho \"their prices\"."
+      },
+      "rule": "Đại từ sở hữu (mine, yours, his, hers, ours, theirs) = tính từ sở hữu + danh từ đã nhắc trước.",
+      "examples": [
+        "This laptop is mine, not yours.",
+        "Their office is bigger than ours."
+      ],
+      "common_mistake": "Viết \"lower than their\" vì quên rằng \"their\" phải có danh từ đi kèm."
+    },
+    "tags": [
+      "possessive-pronoun",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pro-004",
+    "topic": "pronouns",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The new interns completed the training module by ___ without any help from their supervisor.",
+    "options": [
+      "them",
+      "their",
+      "theirs",
+      "themselves"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "**by + đại từ phản thân** = tự mình, một mình: **by themselves**.",
+      "wrong": {
+        "0": "\"by them\" nghĩa là \"bởi họ\" (người khác), sai nghĩa \"tự làm\".",
+        "1": "\"their\" là tính từ sở hữu, thiếu danh từ.",
+        "2": "\"by theirs\" không có nghĩa trong ngữ cảnh này."
+      },
+      "rule": "by oneself = on one's own = tự mình làm, không có ai giúp.",
+      "examples": [
+        "She organized the whole event by herself.",
+        "Can you finish the report by yourself?"
+      ],
+      "common_mistake": "Viết \"by them\" khi muốn nói \"tự họ làm\"."
+    },
+    "tags": [
+      "reflexive",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pro-005",
+    "topic": "pronouns",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The general manager ___ will interview the final three candidates for the position.",
+    "options": [
+      "him",
+      "himself",
+      "his",
+      "he"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Đại từ phản thân dùng để **nhấn mạnh** ngay sau chủ ngữ: **The general manager himself** (đích thân giám đốc).",
+      "wrong": {
+        "0": "\"him\" là đại từ tân ngữ, không đứng sau chủ ngữ để nhấn mạnh.",
+        "2": "\"his\" là tính từ sở hữu, thiếu danh từ.",
+        "3": "\"he\" lặp lại chủ ngữ (\"The general manager he…\"), sai ngữ pháp."
+      },
+      "rule": "Đại từ phản thân nhấn mạnh: S + oneself + V hoặc S + V + O + oneself (= đích thân).",
+      "examples": [
+        "The CEO herself answered the customer's email.",
+        "I checked the figures myself."
+      ],
+      "common_mistake": "Lặp đại từ sau chủ ngữ theo kiểu nói tiếng Việt: \"Giám đốc, ông ấy sẽ…\"."
+    },
+    "tags": [
+      "reflexive",
+      "emphatic",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pro-006",
+    "topic": "pronouns",
+    "level": "intermediate",
+    "type": "fill-form",
+    "question": "Please let ___ (we) know if you need any further assistance with your order.",
+    "options": [
+      "we",
+      "our",
+      "us",
+      "ours"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Sau động từ \"let\" cần **đại từ tân ngữ**: **us** (let us know = cho chúng tôi biết).",
+      "wrong": {
+        "0": "\"we\" là đại từ chủ ngữ, không làm tân ngữ cho \"let\".",
+        "1": "\"our\" là tính từ sở hữu, phải đi với danh từ.",
+        "3": "\"ours\" là đại từ sở hữu (của chúng tôi), sai nghĩa."
+      },
+      "rule": "let / help / make + đại từ tân ngữ + V nguyên mẫu.",
+      "examples": [
+        "Let me know when you arrive.",
+        "Please help us improve our service."
+      ],
+      "common_mistake": "Viết \"let we know\" do dịch từng chữ \"để chúng tôi biết\"."
+    },
+    "tags": [
+      "object-pronoun",
+      "toeic-part6"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pro-007",
+    "topic": "pronouns",
+    "level": "advanced",
+    "type": "choose",
+    "question": "Ms. Thao told the clients that the decision to extend the deadline had been entirely ___.",
+    "options": [
+      "hers",
+      "her",
+      "herself",
+      "she"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Sau \"had been\" cần đại từ đứng một mình với nghĩa \"của cô ấy\" (= her decision): **hers**.",
+      "wrong": {
+        "1": "\"her\" (tính từ sở hữu) cần danh từ phía sau; nếu là tân ngữ thì \"had been her\" nghĩa là \"quyết định là cô ấy\", vô nghĩa.",
+        "2": "\"herself\" sau \"be\" mang nghĩa \"là chính mình (như bình thường)\", sai nghĩa.",
+        "3": "\"she\" là đại từ chủ ngữ, không mang nghĩa sở hữu."
+      },
+      "rule": "Đại từ sở hữu có thể làm bổ ngữ sau \"be\": The choice is yours. The mistake was mine.",
+      "examples": [
+        "The final decision is yours.",
+        "The idea was entirely his."
+      ],
+      "common_mistake": "Dùng \"her\" vì không phân biệt tính từ sở hữu và đại từ sở hữu."
+    },
+    "tags": [
+      "possessive-pronoun",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pro-008",
+    "topic": "pronouns",
+    "level": "advanced",
+    "type": "fix-error",
+    "question": "Tìm phần sai: Mr. Khoa and <u>I</u> (A) prepared the report <u>ourselves</u> (B), so please send any comments to <u>him</u> (C) or <u>myself</u> (D).",
+    "options": [
+      "I",
+      "ourselves",
+      "him",
+      "myself"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Phần sai là (D). Sau giới từ \"to\" cần đại từ tân ngữ **me**; \"myself\" chỉ dùng khi chủ ngữ của động từ là \"I\" (ở đây chủ ngữ ngầm là \"you\").",
+      "wrong": {
+        "0": "(A) đúng: \"Mr. Khoa and I\" là chủ ngữ nên dùng đại từ chủ ngữ \"I\".",
+        "1": "(B) đúng: \"ourselves\" nhấn mạnh việc chủ ngữ \"Mr. Khoa and I\" tự làm.",
+        "2": "(C) đúng: \"him\" là tân ngữ sau giới từ \"to\"."
+      },
+      "rule": "Đại từ phản thân chỉ dùng khi tân ngữ trùng chủ ngữ hoặc để nhấn mạnh; không thay cho đại từ tân ngữ.",
+      "examples": [
+        "Please contact Ms. Ha or me for details.",
+        "We designed the logo ourselves."
+      ],
+      "common_mistake": "Dùng \"myself\" thay \"me\" trong email công việc vì nghĩ nó trang trọng hơn."
+    },
+    "tags": [
+      "reflexive",
+      "object-pronoun",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pro-009",
+    "topic": "pronouns",
+    "level": "advanced",
+    "type": "choose",
+    "question": "Between you and ___, I don't think the merger will be approved by the regulators.",
+    "options": [
+      "I",
+      "myself",
+      "mine",
+      "me"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "\"between\" là giới từ, nên cả hai đại từ sau nó đều ở dạng tân ngữ: **between you and me** (nói riêng giữa hai ta).",
+      "wrong": {
+        "0": "\"I\" là đại từ chủ ngữ; \"between you and I\" là lỗi phổ biến kể cả với người bản ngữ.",
+        "1": "\"myself\" không phải tân ngữ trùng chủ ngữ nên không dùng ở đây.",
+        "2": "\"mine\" là đại từ sở hữu, sai nghĩa."
+      },
+      "rule": "Giới từ + đại từ tân ngữ, kể cả khi có hai đại từ nối bằng \"and\": between you and me, for him and her.",
+      "examples": [
+        "This is a secret between you and me.",
+        "The tickets are for my wife and me."
+      ],
+      "common_mistake": "Dùng \"you and I\" ở mọi vị trí vì nghĩ đó là cách nói lịch sự."
+    },
+    "tags": [
+      "object-pronoun",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pro-010",
+    "topic": "pronouns",
+    "level": "advanced",
+    "type": "choose",
+    "question": "Despite ___ small size, the start-up has attracted investors from all over the region.",
+    "options": [
+      "it's",
+      "it",
+      "its",
+      "itself"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Trước cụm danh từ \"small size\" cần tính từ sở hữu của \"the start-up\": **its** (quy mô nhỏ của nó).",
+      "wrong": {
+        "0": "\"it's\" là viết tắt của \"it is / it has\", không phải dạng sở hữu.",
+        "1": "\"it\" là đại từ, không bổ nghĩa cho danh từ.",
+        "3": "\"itself\" là đại từ phản thân, không đứng trước danh từ."
+      },
+      "rule": "its (sở hữu, không có dấu nháy) ≠ it's (= it is / it has).",
+      "examples": [
+        "The company has moved its headquarters.",
+        "It's important to check every invoice."
+      ],
+      "common_mistake": "Viết \"it's\" khi muốn nói \"của nó\" vì nhầm với sở hữu cách 's."
+    },
+    "tags": [
+      "possessive-adjective",
+      "its-vs-its",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pro-011",
+    "topic": "pronouns",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Everyone on the project team ___ to submit a weekly progress report to Mr. Tung by Friday afternoon.",
+    "options": [
+      "needs",
+      "need",
+      "are needing",
+      "have needed"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Đại từ bất định **everyone** (mọi người) luôn đi với **động từ số ít**: **needs**.",
+      "wrong": {
+        "1": "\"need\" là dạng số nhiều / nguyên mẫu, không hợp với \"everyone\".",
+        "2": "\"are needing\" chia số nhiều, và \"need\" là động từ trạng thái nên không dùng tiếp diễn.",
+        "3": "\"have needed\" chia số nhiều (\"have\"), không hợp với \"everyone\"; dạng đúng sẽ là \"has\"."
+      },
+      "rule": "everyone / everybody / someone / anyone / no one / nobody / everything + động từ số ít.",
+      "examples": [
+        "Everyone in the office has received the new password.",
+        "Nobody knows the exact cost yet."
+      ],
+      "common_mistake": "Chia động từ số nhiều vì \"mọi người\" nghe như số nhiều trong tiếng Việt."
+    },
+    "tags": [
+      "indefinite-pronoun",
+      "agreement",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pro-012",
+    "topic": "pronouns",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The sales and marketing departments rarely communicate with ___, which often causes delays in launching new products.",
+    "options": [
+      "themselves",
+      "them",
+      "theirs",
+      "each other"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Hai bộ phận giao tiếp **qua lại với nhau** → đại từ tương hỗ **each other**.",
+      "wrong": {
+        "0": "\"themselves\" nghĩa là mỗi bên tự giao tiếp với chính mình, không phải với nhau.",
+        "1": "\"them\" chỉ một nhóm người khác, trong khi câu muốn nói hai bộ phận với nhau.",
+        "2": "\"theirs\" là đại từ sở hữu (cái của họ), sai nghĩa."
+      },
+      "rule": "each other / one another = lẫn nhau (hành động qua lại). -selves = chính mình (hành động quay về chủ ngữ).",
+      "examples": [
+        "The two managers trust each other completely.",
+        "The team members helped one another during the busy season."
+      ],
+      "common_mistake": "Dùng \"themselves\" vì nghĩ \"với nhau\" cũng là \"với chính họ\"."
+    },
+    "tags": [
+      "each-other",
+      "reciprocal",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pro-013",
+    "topic": "pronouns",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Free parking at the conference venue is available only to ___ who have registered in advance.",
+    "options": [
+      "them",
+      "these",
+      "those",
+      "they"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Cấu trúc **those who + V** = những người mà… Đây là cách nói chuẩn khi đại từ được mệnh đề quan hệ bổ nghĩa.",
+      "wrong": {
+        "0": "\"them who\" không dùng trong tiếng Anh hiện đại; đại từ tân ngữ không được mệnh đề \"who\" bổ nghĩa theo cách này.",
+        "1": "\"these who\" sai: không dùng \"these\" với nghĩa \"những người mà\" trước \"who\".",
+        "3": "\"they\" là đại từ chủ ngữ, không đứng sau giới từ \"to\"."
+      },
+      "rule": "those who + V (số nhiều) = những người mà; anyone who + V (số ít) = bất kỳ ai mà.",
+      "examples": [
+        "Those who finish early may leave.",
+        "The prize will go to those who submit the best ideas."
+      ],
+      "common_mistake": "Dịch \"những người\" thành \"them\" hoặc \"these people who\" rồi rút gọn sai thành \"these who\"."
+    },
+    "tags": [
+      "those-who",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pro-014",
+    "topic": "pronouns",
+    "level": "advanced",
+    "type": "choose",
+    "question": "___ who wishes to attend the leadership training in Nha Trang must register with the HR department by Friday.",
+    "options": [
+      "Those",
+      "They",
+      "Whoever",
+      "Anyone"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Động từ **wishes** chia số ít → chủ ngữ phải là đại từ bất định số ít: **Anyone who wishes…** (bất kỳ ai muốn…).",
+      "wrong": {
+        "0": "\"Those who\" đi với động từ số nhiều (\"Those who wish…\"); \"Those who wishes\" sai hòa hợp.",
+        "1": "\"They who\" không phải cấu trúc chuẩn; đại từ chủ ngữ \"they\" không được mệnh đề \"who\" bổ nghĩa.",
+        "2": "\"Whoever\" đã bao hàm nghĩa \"who\", nên \"Whoever who\" bị lặp; đúng phải là \"Whoever wishes…\"."
+      },
+      "rule": "anyone who + V số ít; those who + V số nhiều; whoever + V (không thêm who).",
+      "examples": [
+        "Anyone who needs a parking permit should contact security.",
+        "Whoever arrives first should unlock the meeting room."
+      ],
+      "common_mistake": "Chọn \"Those\" theo thói quen mà không kiểm tra động từ \"wishes\" số ít phía sau."
+    },
+    "tags": [
+      "anyone-who",
+      "indefinite-pronoun",
+      "agreement",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pro-015",
+    "topic": "pronouns",
+    "level": "advanced",
+    "type": "fix-error",
+    "question": "Tìm phần sai: Although the two branch managers <u>rarely</u> (A) meet in person, they email <u>themselves</u> (B) almost <u>every</u> (C) day to compare <u>their</u> (D) sales figures.",
+    "options": [
+      "rarely",
+      "themselves",
+      "every",
+      "their"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Phần sai là (B). Hai quản lý gửi email **cho nhau** (hành động qua lại) → sửa thành **each other**.",
+      "wrong": {
+        "0": "(A) đúng: trạng từ tần suất \"rarely\" đứng trước động từ thường \"meet\".",
+        "2": "(C) đúng: \"every day\" = hằng ngày, \"every\" + danh từ số ít.",
+        "3": "(D) đúng: tính từ sở hữu \"their\" + danh từ \"sales figures\"."
+      },
+      "rule": "S (hai người / nhóm) + V + each other / one another: hành động qua lại. S + V + themselves: tự làm cho chính mình.",
+      "examples": [
+        "The two partners call each other every morning.",
+        "The interns introduced themselves to the director."
+      ],
+      "common_mistake": "Dùng đại từ phản thân cho mọi hành động \"với nhau\" vì tiếng Việt không phân biệt rõ."
+    },
+    "tags": [
+      "each-other",
+      "reflexive",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  }
+]

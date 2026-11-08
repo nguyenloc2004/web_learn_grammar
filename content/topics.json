@@ -1,0 +1,330 @@
+[
+  {
+    "id": "present-simple",
+    "name": "Hiện tại đơn (Present Simple)",
+    "group": "Thì",
+    "order": 10,
+    "prerequisites": []
+  },
+  {
+    "id": "present-continuous",
+    "name": "Hiện tại tiếp diễn (Present Continuous)",
+    "group": "Thì",
+    "order": 20,
+    "prerequisites": [
+      "present-simple"
+    ]
+  },
+  {
+    "id": "past-simple",
+    "name": "Quá khứ đơn (Past Simple)",
+    "group": "Thì",
+    "order": 30,
+    "prerequisites": [
+      "present-simple"
+    ]
+  },
+  {
+    "id": "past-continuous",
+    "name": "Quá khứ tiếp diễn (Past Continuous)",
+    "group": "Thì",
+    "order": 40,
+    "prerequisites": [
+      "past-simple",
+      "present-continuous"
+    ]
+  },
+  {
+    "id": "present-perfect",
+    "name": "Hiện tại hoàn thành (Present Perfect)",
+    "group": "Thì",
+    "order": 50,
+    "prerequisites": [
+      "present-simple",
+      "past-simple"
+    ]
+  },
+  {
+    "id": "present-perfect-continuous",
+    "name": "Hiện tại hoàn thành tiếp diễn (Present Perfect Continuous)",
+    "group": "Thì",
+    "order": 60,
+    "prerequisites": [
+      "present-perfect",
+      "present-continuous"
+    ]
+  },
+  {
+    "id": "past-perfect",
+    "name": "Quá khứ hoàn thành (Past Perfect)",
+    "group": "Thì",
+    "order": 70,
+    "prerequisites": [
+      "past-simple",
+      "present-perfect"
+    ]
+  },
+  {
+    "id": "future-simple",
+    "name": "Tương lai đơn (Future Simple – will)",
+    "group": "Thì",
+    "order": 90,
+    "prerequisites": [
+      "present-simple"
+    ]
+  },
+  {
+    "id": "future-perfect",
+    "name": "Tương lai hoàn thành (Future Perfect)",
+    "group": "Thì",
+    "order": 120,
+    "prerequisites": [
+      "future-simple",
+      "present-perfect"
+    ]
+  },
+  {
+    "id": "modal-verbs",
+    "name": "Động từ khuyết thiếu (can, could, may, might, must, should)",
+    "group": "Động từ",
+    "order": 200,
+    "prerequisites": [
+      "present-simple"
+    ]
+  },
+  {
+    "id": "modal-perfect",
+    "name": "Động từ khuyết thiếu + have V3 (Modal Perfect)",
+    "group": "Động từ",
+    "order": 210,
+    "prerequisites": [
+      "modal-verbs",
+      "present-perfect"
+    ]
+  },
+  {
+    "id": "gerund-infinitive",
+    "name": "Danh động từ và động từ nguyên mẫu (Gerund & Infinitive)",
+    "group": "Động từ",
+    "order": 220,
+    "prerequisites": []
+  },
+  {
+    "id": "passive-voice",
+    "name": "Câu bị động (Passive Voice)",
+    "group": "Động từ",
+    "order": 230,
+    "prerequisites": [
+      "present-simple",
+      "past-simple",
+      "present-perfect"
+    ]
+  },
+  {
+    "id": "nouns-countable-uncountable",
+    "name": "Danh từ đếm được và không đếm được",
+    "group": "Danh từ/Mạo từ/Đại từ",
+    "order": 300,
+    "prerequisites": []
+  },
+  {
+    "id": "articles",
+    "name": "Mạo từ (a, an, the)",
+    "group": "Danh từ/Mạo từ/Đại từ",
+    "order": 320,
+    "prerequisites": [
+      "nouns-countable-uncountable"
+    ]
+  },
+  {
+    "id": "quantifiers",
+    "name": "Từ chỉ lượng (some, any, much, many, a few, a little…)",
+    "group": "Danh từ/Mạo từ/Đại từ",
+    "order": 330,
+    "prerequisites": [
+      "nouns-countable-uncountable"
+    ]
+  },
+  {
+    "id": "pronouns",
+    "name": "Đại từ nhân xưng, tân ngữ, sở hữu (Pronouns)",
+    "group": "Danh từ/Mạo từ/Đại từ",
+    "order": 360,
+    "prerequisites": []
+  },
+  {
+    "id": "adverbs",
+    "name": "Trạng từ: cách thành lập và vị trí (Adverbs)",
+    "group": "Tính từ/Trạng từ",
+    "order": 420,
+    "prerequisites": []
+  },
+  {
+    "id": "comparatives-superlatives",
+    "name": "So sánh hơn và so sánh nhất",
+    "group": "Tính từ/Trạng từ",
+    "order": 430,
+    "prerequisites": [
+      "adverbs"
+    ]
+  },
+  {
+    "id": "comparisons-advanced",
+    "name": "So sánh bằng và so sánh kép (as…as, the more…the more)",
+    "group": "Tính từ/Trạng từ",
+    "order": 440,
+    "prerequisites": [
+      "comparatives-superlatives"
+    ]
+  },
+  {
+    "id": "adjective-structures",
+    "name": "Cấu trúc với tính từ (be + adj + to V, It is + adj + that / for sb to V)",
+    "group": "Tính từ/Trạng từ",
+    "order": 460,
+    "prerequisites": [
+      "gerund-infinitive"
+    ]
+  },
+  {
+    "id": "subject-verb-agreement",
+    "name": "Sự hòa hợp chủ ngữ – động từ (Subject–Verb Agreement)",
+    "group": "Câu và cấu trúc",
+    "order": 530,
+    "prerequisites": [
+      "present-simple"
+    ]
+  },
+  {
+    "id": "parallel-structure",
+    "name": "Cấu trúc song song (Parallel Structure)",
+    "group": "Câu và cấu trúc",
+    "order": 535,
+    "prerequisites": [
+      "conjunctions"
+    ]
+  },
+  {
+    "id": "conditionals",
+    "name": "Câu điều kiện loại 0, 1, 2, 3 (Conditionals)",
+    "group": "Câu và cấu trúc",
+    "order": 540,
+    "prerequisites": [
+      "present-simple",
+      "past-simple",
+      "past-perfect",
+      "future-simple"
+    ]
+  },
+  {
+    "id": "mixed-conditionals",
+    "name": "Câu điều kiện hỗn hợp và đảo ngữ điều kiện",
+    "group": "Câu và cấu trúc",
+    "order": 550,
+    "prerequisites": [
+      "conditionals"
+    ]
+  },
+  {
+    "id": "wish-if-only",
+    "name": "Câu ước (wish, if only)",
+    "group": "Câu và cấu trúc",
+    "order": 560,
+    "prerequisites": [
+      "conditionals"
+    ]
+  },
+  {
+    "id": "relative-clauses",
+    "name": "Mệnh đề quan hệ (Relative Clauses)",
+    "group": "Câu và cấu trúc",
+    "order": 570,
+    "prerequisites": [
+      "pronouns"
+    ]
+  },
+  {
+    "id": "reduced-relative-clauses",
+    "name": "Rút gọn mệnh đề quan hệ",
+    "group": "Câu và cấu trúc",
+    "order": 580,
+    "prerequisites": [
+      "relative-clauses",
+      "passive-voice"
+    ]
+  },
+  {
+    "id": "clauses-of-contrast",
+    "name": "Mệnh đề nhượng bộ (although, despite, in spite of)",
+    "group": "Câu và cấu trúc",
+    "order": 620,
+    "prerequisites": [
+      "gerund-infinitive"
+    ]
+  },
+  {
+    "id": "inversion",
+    "name": "Đảo ngữ (Inversion)",
+    "group": "Câu và cấu trúc",
+    "order": 640,
+    "prerequisites": [
+      "mixed-conditionals"
+    ]
+  },
+  {
+    "id": "subjunctive",
+    "name": "Thức giả định; It's time, would rather, had better",
+    "group": "Câu và cấu trúc",
+    "order": 660,
+    "prerequisites": [
+      "wish-if-only"
+    ]
+  },
+  {
+    "id": "prepositions-time",
+    "name": "Giới từ chỉ thời gian (in, on, at…)",
+    "group": "Từ loại khác",
+    "order": 700,
+    "prerequisites": []
+  },
+  {
+    "id": "prepositions-place",
+    "name": "Giới từ chỉ nơi chốn và chuyển động",
+    "group": "Từ loại khác",
+    "order": 710,
+    "prerequisites": []
+  },
+  {
+    "id": "dependent-prepositions",
+    "name": "Giới từ đi kèm tính từ, động từ, danh từ",
+    "group": "Từ loại khác",
+    "order": 720,
+    "prerequisites": [
+      "prepositions-time",
+      "prepositions-place"
+    ]
+  },
+  {
+    "id": "conjunctions",
+    "name": "Liên từ (and, but, or, so, both…and, either…or)",
+    "group": "Từ loại khác",
+    "order": 730,
+    "prerequisites": []
+  },
+  {
+    "id": "linking-words",
+    "name": "Từ nối (however, therefore, moreover…)",
+    "group": "Từ loại khác",
+    "order": 740,
+    "prerequisites": [
+      "conjunctions"
+    ]
+  },
+  {
+    "id": "word-formation",
+    "name": "Cấu tạo từ: tiền tố, hậu tố, từ loại (Word Formation)",
+    "group": "Từ loại khác",
+    "order": 750,
+    "prerequisites": []
+  }
+]

@@ -1,0 +1,524 @@
+[
+  {
+    "id": "wf-001",
+    "topic": "word-formation",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The new scheduling software has greatly improved the ___ of our customer service team.",
+    "options": [
+      "efficiency",
+      "efficient",
+      "efficiently",
+      "more efficient"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Sau mạo từ **the** và trước giới từ **of**, vị trí này cần một **danh từ** làm tân ngữ của \"improved\": **efficiency** (sự hiệu quả).",
+      "wrong": {
+        "1": "\"efficient\" là tính từ, không thể đứng một mình sau \"the … of\" để làm tân ngữ.",
+        "2": "\"efficiently\" là trạng từ, chỉ bổ nghĩa cho động từ/tính từ, không làm tân ngữ.",
+        "3": "\"more efficient\" là dạng so sánh hơn của tính từ, vẫn là tính từ nên không đứng ở vị trí danh từ."
+      },
+      "rule": "the / a / tính từ sở hữu + ___ + of → cần danh từ. Đuôi danh từ hay gặp: -tion, -ment, -ness, -ity, -ency / -ancy.",
+      "examples": [
+        "The accuracy of the report was questioned by the auditors.",
+        "We were impressed by the reliability of their service."
+      ],
+      "common_mistake": "Thấy nghĩa \"hiệu quả\" là chọn ngay \"efficient\" mà không xét vị trí trong câu, vì tiếng Việt không đổi hình thức từ theo từ loại."
+    },
+    "tags": [
+      "noun",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "wf-002",
+    "topic": "word-formation",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Ms. Linh reviewed every clause of the agreement ___ before she signed it.",
+    "options": [
+      "careful",
+      "care",
+      "carefulness",
+      "carefully"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Câu đã đủ chủ ngữ, động từ \"reviewed\" và tân ngữ \"every clause of the agreement\". Chỗ trống cần **trạng từ** bổ nghĩa cho động từ: **carefully**.",
+      "wrong": {
+        "0": "\"careful\" là tính từ, không bổ nghĩa cho động từ \"reviewed\".",
+        "1": "\"care\" là danh từ/động từ, đặt vào đây làm câu thừa thành phần.",
+        "2": "\"carefulness\" là danh từ, không thể làm trạng ngữ chỉ cách thức."
+      },
+      "rule": "Trạng từ (thường = tính từ + -ly) bổ nghĩa cho động từ; khi câu đã đủ S + V + O, chỗ trống ở cuối thường là trạng từ.",
+      "examples": [
+        "He explained the new procedure clearly.",
+        "The team has quickly adapted to the changes."
+      ],
+      "common_mistake": "Dùng tính từ thay cho trạng từ: \"She checked the figures careful.\""
+    },
+    "tags": [
+      "adverb",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "wf-003",
+    "topic": "word-formation",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Applicants for the position should have a ___ knowledge of financial reporting software.",
+    "options": [
+      "thoroughly",
+      "thoroughness",
+      "thorough",
+      "more thoroughly"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Giữa mạo từ **a** và danh từ **knowledge** cần một **tính từ** bổ nghĩa cho danh từ: **thorough** (kỹ lưỡng, sâu sắc).",
+      "wrong": {
+        "0": "\"thoroughly\" là trạng từ, không bổ nghĩa trực tiếp cho danh từ \"knowledge\".",
+        "1": "\"thoroughness\" là danh từ; \"a thoroughness knowledge\" không phải cụm danh từ đúng.",
+        "3": "\"more thoroughly\" là trạng từ so sánh hơn, vừa sai từ loại vừa không có đối tượng so sánh."
+      },
+      "rule": "Cụm danh từ: a / an / the + (trạng từ) + tính từ + danh từ.",
+      "examples": [
+        "She has a solid background in marketing.",
+        "We need a detailed analysis of the costs."
+      ],
+      "common_mistake": "Chọn trạng từ vì nghĩ \"kỹ lưỡng\" là cách thức: \"a thoroughly knowledge\"."
+    },
+    "tags": [
+      "adjective",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "wf-004",
+    "topic": "word-formation",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The quarterly sales figures were ___ higher than the board had expected.",
+    "options": [
+      "considerable",
+      "consider",
+      "consideration",
+      "considerably"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Đứng trước tính từ so sánh **higher** cần một **trạng từ chỉ mức độ**: **considerably** (đáng kể).",
+      "wrong": {
+        "0": "\"considerable\" là tính từ, không bổ nghĩa cho một tính từ khác (\"considerable higher\" sai).",
+        "1": "\"consider\" là động từ, câu đã có động từ \"were\".",
+        "2": "\"consideration\" là danh từ, không đứng trước tính từ để chỉ mức độ."
+      },
+      "rule": "Trạng từ bổ nghĩa cho tính từ, kể cả tính từ so sánh: considerably / significantly / slightly / much + higher.",
+      "examples": [
+        "Prices are significantly lower this year.",
+        "The new model is slightly heavier than the old one."
+      ],
+      "common_mistake": "Dùng tính từ trước so sánh hơn: \"considerable higher\", \"significant better\"."
+    },
+    "tags": [
+      "adverb",
+      "comparative",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "wf-005",
+    "topic": "word-formation",
+    "level": "intermediate",
+    "type": "fill-form",
+    "question": "Our company is committed to protecting the ___ (confidential) of customer data.",
+    "options": [
+      "confidential",
+      "confidentiality",
+      "confidentially",
+      "confide"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Sau **the** và trước **of** cần danh từ làm tân ngữ của \"protecting\": **confidentiality** (tính bảo mật).",
+      "wrong": {
+        "0": "\"confidential\" là tính từ (bí mật), không làm tân ngữ sau \"the … of\".",
+        "2": "\"confidentially\" là trạng từ, không đứng ở vị trí danh từ.",
+        "3": "\"confide\" là động từ (tâm sự, giãi bày), sai cả từ loại lẫn nghĩa."
+      },
+      "rule": "Tính từ đuôi -al thường tạo danh từ bằng -ity: confidential → confidentiality, personal → personality, formal → formality.",
+      "examples": [
+        "Patient confidentiality is taken very seriously at this clinic.",
+        "The formality of the ceremony surprised the new staff."
+      ],
+      "common_mistake": "Giữ nguyên tính từ \"confidential\" vì không nhớ dạng danh từ."
+    },
+    "tags": [
+      "noun",
+      "suffix",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "wf-006",
+    "topic": "word-formation",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The instructions for assembling the shelf were not very ___, so many customers called our helpline.",
+    "options": [
+      "information",
+      "inform",
+      "informative",
+      "informatively"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Sau động từ **be** (\"were\") và trạng từ **very** cần một **tính từ** làm bổ ngữ: **informative** (cung cấp nhiều thông tin, dễ hiểu).",
+      "wrong": {
+        "0": "\"information\" là danh từ; \"very\" không bổ nghĩa cho danh từ.",
+        "1": "\"inform\" là động từ nguyên mẫu, không đứng sau \"were not very\".",
+        "3": "\"informatively\" là trạng từ, không làm bổ ngữ cho chủ ngữ sau \"be\"."
+      },
+      "rule": "be / seem / become + (very / quite / extremely) + tính từ.",
+      "examples": [
+        "The presentation was very informative.",
+        "The new manager seems quite approachable."
+      ],
+      "common_mistake": "Dùng danh từ sau \"very\" do dịch \"rất thông tin\"."
+    },
+    "tags": [
+      "adjective",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "wf-007",
+    "topic": "word-formation",
+    "level": "advanced",
+    "type": "choose",
+    "question": "Due to rising fuel costs, the airline has made several ___ to its flight schedule.",
+    "options": [
+      "adjustments",
+      "adjustment",
+      "adjustable",
+      "adjusts"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Sau **several** (một vài) phải là **danh từ đếm được số nhiều**: **adjustments**. Cụm \"make adjustments to\" = điều chỉnh.",
+      "wrong": {
+        "1": "\"adjustment\" đúng từ loại nhưng là số ít, không đi với \"several\".",
+        "2": "\"adjustable\" là tính từ (có thể điều chỉnh), không làm tân ngữ của \"made\".",
+        "3": "\"adjusts\" là động từ chia ngôi thứ ba số ít, không đứng sau \"several\"."
+      },
+      "rule": "several / many / a few / various + danh từ đếm được số nhiều. Đề TOEIC thường cho cả dạng số ít và số nhiều để bẫy.",
+      "examples": [
+        "The editor made several changes to the article.",
+        "Various options are available to our clients."
+      ],
+      "common_mistake": "Chỉ để ý từ loại mà quên số ít/số nhiều, vì tiếng Việt không có hình thức số nhiều."
+    },
+    "tags": [
+      "noun",
+      "plural",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "wf-008",
+    "topic": "word-formation",
+    "level": "advanced",
+    "type": "choose",
+    "question": "The proposal was rejected not because it was poorly written but because it was financially ___.",
+    "options": [
+      "unsustainably",
+      "sustainability",
+      "sustain",
+      "unsustainable"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Sau \"was\" cần **tính từ** làm bổ ngữ; trạng từ **financially** đứng trước để bổ nghĩa cho tính từ đó: **unsustainable** (không bền vững về tài chính).",
+      "wrong": {
+        "0": "\"unsustainably\" là trạng từ; hai trạng từ liền nhau không tạo được bổ ngữ cho \"was\". Đây là bẫy khi thấy đuôi -ly trước chỗ trống.",
+        "1": "\"sustainability\" là danh từ; danh từ không được trạng từ \"financially\" bổ nghĩa.",
+        "2": "\"sustain\" là động từ nguyên mẫu, không đứng sau \"was\"."
+      },
+      "rule": "be + trạng từ + tính từ: financially stable, highly competitive, environmentally friendly.",
+      "examples": [
+        "The company is financially stable.",
+        "The market has become highly competitive."
+      ],
+      "common_mistake": "Thấy từ đuôi -ly đứng trước rồi chọn tiếp một trạng từ, quên rằng sau \"be\" phải có tính từ."
+    },
+    "tags": [
+      "adjective",
+      "prefix",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "wf-009",
+    "topic": "word-formation",
+    "level": "advanced",
+    "type": "fix-error",
+    "question": "Tìm phần sai: The <u>newly</u> (A) appointed manager has <u>successful</u> (B) <u>reduced</u> (C) production costs <u>without</u> (D) cutting jobs.",
+    "options": [
+      "newly",
+      "successful",
+      "reduced",
+      "without"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Phần sai là (B). Giữa trợ động từ \"has\" và động từ chính \"reduced\" cần **trạng từ**: sửa thành **successfully**.",
+      "wrong": {
+        "0": "(A) đúng: trạng từ \"newly\" bổ nghĩa cho phân từ \"appointed\" (mới được bổ nhiệm).",
+        "2": "(C) đúng: has + V3 (reduced) là thì hiện tại hoàn thành.",
+        "3": "(D) đúng: giới từ \"without\" + V-ing (cutting)."
+      },
+      "rule": "have / has / be + trạng từ + V3 / V-ing: has successfully completed, is rapidly growing.",
+      "examples": [
+        "She has successfully completed the training program.",
+        "Our online sales are rapidly growing."
+      ],
+      "common_mistake": "Dùng tính từ chen giữa trợ động từ và động từ chính: \"has successful reduced\"."
+    },
+    "tags": [
+      "adverb",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "wf-010",
+    "topic": "word-formation",
+    "level": "advanced",
+    "type": "choose",
+    "question": "Visitors are reminded that photography is strictly prohibited and that ___ of this rule may be asked to leave the museum.",
+    "options": [
+      "violations",
+      "violates",
+      "violators",
+      "violated"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Chỗ trống là chủ ngữ của \"may be asked to leave\", nên phải là **danh từ chỉ người**: **violators** (người vi phạm).",
+      "wrong": {
+        "0": "\"violations\" là danh từ chỉ sự việc (các vụ vi phạm); sự việc không thể \"be asked to leave\".",
+        "1": "\"violates\" là động từ chia, không làm chủ ngữ.",
+        "3": "\"violated\" là quá khứ/phân từ, không làm chủ ngữ."
+      },
+      "rule": "Phân biệt danh từ chỉ người (-or, -er, -ant, -ee) và danh từ chỉ sự việc (-tion, -ment) theo nghĩa của động từ đi kèm.",
+      "examples": [
+        "Applicants must submit their documents by Friday.",
+        "Applications must be submitted by Friday.",
+        "All participants received a certificate."
+      ],
+      "common_mistake": "Chọn danh từ chỉ sự việc chỉ vì đúng từ loại, không kiểm tra nghĩa với động từ phía sau."
+    },
+    "tags": [
+      "noun",
+      "person-noun",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "wf-011",
+    "topic": "word-formation",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Since its launch last year, our online store has served more than 20,000 ___ across Southeast Asia.",
+    "options": [
+      "customer",
+      "customers",
+      "custom",
+      "customary"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Sau số lượng \"more than 20,000\" cần **danh từ đếm được số nhiều** chỉ người: **customers**.",
+      "wrong": {
+        "0": "\"customer\" đúng từ loại nhưng là số ít, không đi với số đếm lớn hơn một.",
+        "2": "\"custom\" nghĩa là phong tục / tập quán, sai nghĩa và không phải danh từ chỉ người mua hàng.",
+        "3": "\"customary\" là tính từ (theo thông lệ), không làm tân ngữ của \"served\"."
+      },
+      "rule": "Số đếm (> 1) / many / several + danh từ đếm được số nhiều. Đề TOEIC hay cho cả dạng số ít để bẫy.",
+      "examples": [
+        "The hotel welcomed over 5,000 guests during the festival.",
+        "Our firm employs about 300 engineers."
+      ],
+      "common_mistake": "Chỉ chú ý từ loại mà quên thêm -s cho danh từ số nhiều, vì tiếng Việt không đổi hình thức danh từ."
+    },
+    "tags": [
+      "noun",
+      "plural",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "wf-012",
+    "topic": "word-formation",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Applicants must provide proof of previous ___ when they submit their CV to the human resources department.",
+    "options": [
+      "employee",
+      "employer",
+      "employed",
+      "employment"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Sau \"proof of previous\" cần **danh từ chỉ sự việc** (việc làm): **employment**. \"previous employment\" = công việc trước đây, là danh từ không đếm được nên không cần mạo từ.",
+      "wrong": {
+        "0": "\"employee\" là danh từ chỉ người (nhân viên), đếm được số ít nên cần mạo từ; \"proof of previous employee\" cũng sai nghĩa.",
+        "1": "\"employer\" là danh từ chỉ người (người sử dụng lao động), đếm được số ít nên không đứng một mình sau \"previous\".",
+        "2": "\"employed\" là phân từ / tính từ, không làm tân ngữ của giới từ \"of\"."
+      },
+      "rule": "-ment: danh từ chỉ sự việc (employment); -er: người làm chủ (employer); -ee: người được thuê (employee).",
+      "examples": [
+        "She is looking for full-time employment in Da Nang.",
+        "Please list your previous employers and the dates you worked for them."
+      ],
+      "common_mistake": "Chọn danh từ chỉ người vì cùng gốc \"employ\", không xét nghĩa và việc danh từ đếm được số ít cần mạo từ."
+    },
+    "tags": [
+      "noun",
+      "person-noun",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "wf-013",
+    "topic": "word-formation",
+    "level": "intermediate",
+    "type": "fill-form",
+    "question": "As your ___ (employ), Minh Phat Trading is required to provide you with health insurance from your first day of work.",
+    "options": [
+      "employee",
+      "employment",
+      "employer",
+      "employing"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "\"Minh Phat Trading\" là công ty **thuê** người lao động → danh từ chỉ người/tổ chức sử dụng lao động: **employer**.",
+      "wrong": {
+        "0": "\"employee\" là người được thuê (nhân viên); công ty không phải là \"nhân viên của bạn\".",
+        "1": "\"employment\" là danh từ chỉ sự việc (việc làm), không chỉ chủ thể \"Minh Phat Trading\".",
+        "3": "\"employing\" là V-ing, không đứng sau tính từ sở hữu \"your\" để chỉ một chủ thể."
+      },
+      "rule": "employer (bên thuê) ≠ employee (bên được thuê); trainer ≠ trainee; interviewer ≠ interviewee.",
+      "examples": [
+        "The employer must pay all employees by the fifth of each month.",
+        "The interviewer asked each interviewee the same questions."
+      ],
+      "common_mistake": "Nhầm -er và -ee vì cả hai đều dịch chung là \"người … \"."
+    },
+    "tags": [
+      "noun",
+      "person-noun",
+      "suffix",
+      "toeic-part6"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "wf-014",
+    "topic": "word-formation",
+    "level": "advanced",
+    "type": "choose",
+    "question": "The keynote speaker's flight was cancelled at the last minute; ___, a replacement speaker had already agreed to step in.",
+    "options": [
+      "fortunate",
+      "fortune",
+      "more fortunate",
+      "fortunately"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Sau dấu chấm phẩy và trước dấu phẩy + mệnh đề đầy đủ, cần **trạng từ bổ nghĩa cho cả câu**: **fortunately** (may mắn là).",
+      "wrong": {
+        "0": "\"fortunate\" là tính từ, không đứng một mình trước mệnh đề để bổ nghĩa cho cả câu.",
+        "1": "\"fortune\" là danh từ (vận may / tài sản), không làm trạng ngữ cho cả mệnh đề.",
+        "2": "\"more fortunate\" là tính từ so sánh hơn, vẫn sai từ loại và không có đối tượng so sánh."
+      },
+      "rule": "Adv-ly, + S + V: trạng từ đứng đầu mệnh đề bổ nghĩa cho cả câu (fortunately, surprisingly, unfortunately, clearly).",
+      "examples": [
+        "The printer broke down; luckily, we had a spare one.",
+        "Unfortunately, the shipment will arrive two days late."
+      ],
+      "common_mistake": "Dùng tính từ vì tiếng Việt nói \"May mắn, …\" mà không đổi hình thức từ."
+    },
+    "tags": [
+      "adverb",
+      "sentence-adverb",
+      "toeic-part6"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "wf-015",
+    "topic": "word-formation",
+    "level": "advanced",
+    "type": "fix-error",
+    "question": "Tìm phần sai: <u>Surprising</u> (A), the <u>newly</u> (B) launched model <u>attracted</u> (C) fewer <u>customers</u> (D) than the original version.",
+    "options": [
+      "Surprising",
+      "newly",
+      "attracted",
+      "customers"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Phần sai là (A). Từ đứng đầu câu, có dấu phẩy, bổ nghĩa cho cả mệnh đề phải là **trạng từ**: sửa thành **Surprisingly**.",
+      "wrong": {
+        "1": "(B) đúng: trạng từ \"newly\" bổ nghĩa cho phân từ \"launched\".",
+        "2": "(C) đúng: quá khứ đơn \"attracted\" kể sự việc đã xảy ra.",
+        "3": "(D) đúng: \"fewer\" đi với danh từ đếm được số nhiều \"customers\"."
+      },
+      "rule": "Trạng từ bổ nghĩa cả câu đứng đầu, theo sau là dấu phẩy: Surprisingly, … / Interestingly, … / Obviously, …",
+      "examples": [
+        "Interestingly, most of the orders came from small towns.",
+        "Surprisingly, the cheaper model sold better."
+      ],
+      "common_mistake": "Dùng tính từ -ing ở đầu câu vì dịch \"Đáng ngạc nhiên là…\"."
+    },
+    "tags": [
+      "adverb",
+      "sentence-adverb",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  }
+]

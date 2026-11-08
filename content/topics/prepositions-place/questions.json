@@ -1,0 +1,344 @@
+[
+  {
+    "id": "ppl-001",
+    "topic": "prepositions-place",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Our human resources office has moved to a larger space ___ the fifth floor of Saigon Tower.",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "into"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Với **tầng** của tòa nhà (floor) luôn dùng **on**: *on the fifth floor*.",
+      "wrong": {
+        "1": "\"in the fifth floor\" là lỗi dịch từ \"ở trong tầng năm\"; tiếng Anh coi tầng là một mặt bằng nên dùng \"on\".",
+        "2": "\"at\" dùng cho một điểm cụ thể (at the entrance), không dùng cho tầng.",
+        "3": "\"into\" chỉ chuyển động vào bên trong; ở đây \"a larger space ___ the fifth floor\" chỉ vị trí, không phải chuyển động."
+      },
+      "rule": "on + the + số thứ tự + floor: on the ground floor, on the third floor.",
+      "examples": [
+        "The cafeteria is on the ground floor.",
+        "Meeting Room 4 is on the second floor, next to the elevator."
+      ],
+      "common_mistake": "Dùng \"in the … floor\" vì tiếng Việt nói \"ở trong tầng / ở tầng\"."
+    },
+    "tags": [
+      "at-on-in",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ppl-002",
+    "topic": "prepositions-place",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "All visitors must sign in ___ the reception desk before going up to the meeting rooms.",
+    "options": [
+      "in",
+      "on",
+      "into",
+      "at"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "\"the reception desk\" là **một điểm** nơi diễn ra hoạt động (đăng ký, tiếp khách) → **at**.",
+      "wrong": {
+        "0": "\"in the reception desk\" nghĩa là ở bên trong cái bàn, vô lý.",
+        "1": "\"on the reception desk\" nghĩa là ở trên mặt bàn, chỉ dùng cho đồ vật (the keys are on the desk), không dùng cho người đăng ký.",
+        "2": "\"into\" chỉ chuyển động vào bên trong, không hợp với \"sign in\" và \"desk\"."
+      },
+      "rule": "at + điểm / quầy / cửa nơi diễn ra hoạt động: at the front desk, at the counter, at the gate, at the entrance.",
+      "examples": [
+        "Please collect your badge at the security counter.",
+        "A taxi will be waiting at the main entrance."
+      ],
+      "common_mistake": "Dùng \"in\" cho mọi địa điểm vì tiếng Việt chỉ nói \"ở\"."
+    },
+    "tags": [
+      "at-on-in",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ppl-003",
+    "topic": "prepositions-place",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The new branch is located directly ___ the central post office, on the other side of Dong Khoi Street.",
+    "options": [
+      "across of",
+      "in front",
+      "across from",
+      "next"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "\"on the other side of the street\" = đối diện → **across from** (= opposite).",
+      "wrong": {
+        "0": "\"across of\" không tồn tại; cụm đúng là \"across from\".",
+        "1": "\"in front\" thiếu \"of\" (in front of); hơn nữa \"ở phía trước\" không khớp nghĩa \"ở bên kia đường\".",
+        "3": "\"next\" thiếu \"to\" (next to), và \"bên cạnh\" mâu thuẫn với \"on the other side of the street\"."
+      },
+      "rule": "across from + N = opposite + N: đối diện. Nhớ đủ giới từ: across from, in front of, next to.",
+      "examples": [
+        "The hotel is across from the train station.",
+        "There is a pharmacy opposite our office."
+      ],
+      "common_mistake": "Bỏ giới từ thứ hai trong cụm: \"next the bank\", \"in front the hotel\"."
+    },
+    "tags": [
+      "across-from",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ppl-004",
+    "topic": "prepositions-place",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Free product samples were handed out ___ the visitors at the Hanoi trade fair.",
+    "options": [
+      "among",
+      "between",
+      "along",
+      "throughout"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "\"the visitors\" là **một nhóm nhiều người** không liệt kê cụ thể → **among** (giữa, trong số).",
+      "wrong": {
+        "1": "\"between\" dùng khi nêu rõ hai (hoặc vài) đối tượng riêng biệt, thường có \"and\" (between Lan and Minh); không dùng cho một nhóm chung.",
+        "2": "\"along\" nghĩa là dọc theo (đường, sông), không dùng cho người.",
+        "3": "\"throughout\" đi với nơi chốn hoặc khoảng thời gian (throughout the hall), không đi với nhóm người."
+      },
+      "rule": "between A and B (các đối tượng riêng, được nêu rõ); among + danh từ số nhiều chỉ một nhóm.",
+      "examples": [
+        "The bonus was shared among all team members.",
+        "The contract is between our company and the supplier."
+      ],
+      "common_mistake": "Dùng \"between\" cho mọi trường hợp vì tiếng Việt chỉ có một từ \"giữa\"."
+    },
+    "tags": [
+      "among-between",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ppl-005",
+    "topic": "prepositions-place",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Several new cafés have opened ___ the riverside road, attracting more tourists to the area.",
+    "options": [
+      "among",
+      "along",
+      "between",
+      "into"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "\"the riverside road\" là một con đường dài → **along** (dọc theo).",
+      "wrong": {
+        "0": "\"among\" dùng cho một nhóm người/vật, không dùng với một con đường.",
+        "2": "\"between\" cần hai đối tượng (between the bridge and the market).",
+        "3": "\"into\" chỉ chuyển động vào bên trong, không hợp với \"have opened\" chỉ vị trí."
+      },
+      "rule": "along + đường / sông / bờ biển / hành lang: dọc theo chiều dài.",
+      "examples": [
+        "There are many hotels along the beach in Nha Trang.",
+        "Emergency exits are located along the corridor."
+      ],
+      "common_mistake": "Dùng \"among\" vì nhầm nghĩa \"nằm giữa những…\"."
+    },
+    "tags": [
+      "along",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ppl-006",
+    "topic": "prepositions-place",
+    "level": "intermediate",
+    "type": "fix-error",
+    "question": "Tìm phần sai: The technician <u>carefully</u> (A) lifted the new printer <u>onto</u> (B) the desk <u>next</u> (C) the window <u>in</u> (D) Ms. Hoa's office.",
+    "options": [
+      "carefully",
+      "onto",
+      "next",
+      "in"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Phần sai là (C). \"next\" chỉ vị trí bên cạnh phải đi với **to**: *the desk next to the window*.",
+      "wrong": {
+        "0": "(A) đúng: trạng từ \"carefully\" bổ nghĩa cho động từ \"lifted\".",
+        "1": "(B) đúng: động từ chuyển động \"lifted\" + onto (lên trên bề mặt) the desk.",
+        "3": "(D) đúng: in + phòng / văn phòng (in Ms. Hoa's office)."
+      },
+      "rule": "next to + N (bên cạnh) = beside + N. onto: chuyển động lên một bề mặt.",
+      "examples": [
+        "The printer is next to the water cooler.",
+        "She put the boxes onto the shelf."
+      ],
+      "common_mistake": "Bỏ \"to\" sau \"next\" vì dịch thẳng \"cạnh cửa sổ\"."
+    },
+    "tags": [
+      "next-to",
+      "into-onto",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ppl-007",
+    "topic": "prepositions-place",
+    "level": "advanced",
+    "type": "choose",
+    "question": "___ offering free Wi-Fi in every room, the hotel provides a complimentary shuttle to the airport.",
+    "options": [
+      "Beside",
+      "Next to",
+      "Along",
+      "Besides"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Nghĩa câu là **\"ngoài việc** cung cấp Wi-Fi, khách sạn **còn** có xe đưa đón\" → **Besides** (= In addition to) + V-ing.",
+      "wrong": {
+        "0": "\"Beside\" (không có -s) là giới từ chỉ vị trí \"bên cạnh\", không mang nghĩa bổ sung. Đây là bẫy chính của câu.",
+        "1": "\"Next to\" cũng chỉ vị trí \"bên cạnh\", không nối hai ý bổ sung.",
+        "2": "\"Along\" nghĩa là \"dọc theo\", sai nghĩa."
+      },
+      "rule": "besides + N / V-ing = in addition to (ngoài … ra); beside + N = next to (bên cạnh).",
+      "examples": [
+        "Besides English, Ms. Thu speaks Japanese and Korean.",
+        "The printer is beside the photocopier."
+      ],
+      "common_mistake": "Nhầm \"beside\" và \"besides\" vì chỉ khác chữ \"s\" và đều dịch là \"bên cạnh / ngoài ra\"."
+    },
+    "tags": [
+      "beside-besides",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ppl-008",
+    "topic": "prepositions-place",
+    "level": "advanced",
+    "type": "choose",
+    "question": "Recycling bins have been placed ___ the building so that employees can find one easily on every floor.",
+    "options": [
+      "among",
+      "between",
+      "throughout",
+      "along"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "\"on every floor\" cho thấy thùng rác được đặt **khắp mọi nơi** trong tòa nhà → **throughout**.",
+      "wrong": {
+        "0": "\"among\" đi với một nhóm danh từ số nhiều (among the desks), không đi với một tòa nhà số ít.",
+        "1": "\"between\" cần hai đối tượng được nêu rõ.",
+        "3": "\"along the building\" nghĩa là dọc theo chiều dài tòa nhà (bên ngoài), mâu thuẫn với \"on every floor\"."
+      },
+      "rule": "throughout + nơi chốn = khắp nơi trong; throughout + giai đoạn = suốt (thời gian).",
+      "examples": [
+        "Wi-Fi is available throughout the hotel.",
+        "The company has offices throughout Southeast Asia."
+      ],
+      "common_mistake": "Chọn \"among\" vì nghĩ \"khắp các tầng\" là \"giữa các tầng\"."
+    },
+    "tags": [
+      "throughout",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ppl-009",
+    "topic": "prepositions-place",
+    "level": "advanced",
+    "type": "rewrite",
+    "question": "Chọn câu đồng nghĩa với: *The café is on one side of Hai Ba Trung Street, and the bookstore is on the other side, facing it.*",
+    "options": [
+      "The café is next to the bookstore on Hai Ba Trung Street.",
+      "The café is across from the bookstore on Hai Ba Trung Street.",
+      "The café is across the bookstore on Hai Ba Trung Street.",
+      "The café is between the bookstore on Hai Ba Trung Street."
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Hai nơi ở **hai bên đường, nhìn sang nhau** → **across from** (= opposite).",
+      "wrong": {
+        "0": "\"next to\" nghĩa là sát bên cạnh, cùng một bên đường; sai nghĩa.",
+        "2": "\"across the bookstore\" thiếu \"from\"; \"across\" + N nghĩa là băng qua chính nơi đó.",
+        "3": "\"between\" cần hai đối tượng (between the bookstore and the bank); ở đây chỉ có một."
+      },
+      "rule": "across from / opposite + N: đối diện. across + N (bề mặt): băng qua (walk across the street).",
+      "examples": [
+        "Our office is opposite the city museum.",
+        "The bus stop is across from the hospital."
+      ],
+      "common_mistake": "Viết \"across the bank\" để nói \"đối diện ngân hàng\"."
+    },
+    "tags": [
+      "across-from",
+      "opposite",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ppl-010",
+    "topic": "prepositions-place",
+    "level": "advanced",
+    "type": "fix-error",
+    "question": "Tìm phần sai: Delegates <u>arriving</u> (A) by taxi should wait <u>in</u> (B) the information counter <u>on</u> (C) the left side <u>of</u> (D) the main lobby.",
+    "options": [
+      "arriving",
+      "in",
+      "on",
+      "of"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Phần sai là (B). \"the information counter\" là **một điểm** (quầy) → phải dùng **at**: *wait at the information counter*.",
+      "wrong": {
+        "0": "(A) đúng: \"arriving by taxi\" là mệnh đề quan hệ rút gọn bổ nghĩa cho \"Delegates\".",
+        "2": "(C) đúng: \"on the left side\" (ở phía bên trái) là cụm cố định.",
+        "3": "(D) đúng: \"the left side of the main lobby\" (phía bên trái của sảnh chính)."
+      },
+      "rule": "at + quầy / cửa / điểm hẹn (at the counter, at the gate); in + không gian kín (in the lobby).",
+      "examples": [
+        "Please wait at the check-in counter.",
+        "The welcome drinks will be served in the lobby."
+      ],
+      "common_mistake": "Dùng \"in\" cho quầy vì nghĩ quầy là một khu vực."
+    },
+    "tags": [
+      "at-on-in",
+      "toeic-part6"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  }
+]

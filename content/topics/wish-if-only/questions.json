@@ -1,0 +1,345 @@
+[
+  {
+    "id": "wio-001",
+    "topic": "wish-if-only",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "I wish I ___ more time to prepare for tomorrow's presentation, but I have three meetings this afternoon.",
+    "options": [
+      "have",
+      "had",
+      "will have",
+      "had had"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Mong ước trái với thực tế **hiện tại** (\"but I have three meetings\") → wish + quá khứ đơn: **had**.",
+      "wrong": {
+        "0": "\"have\" là hiện tại đơn; sau wish phải lùi thì để diễn tả điều không có thật.",
+        "2": "\"will have\" không dùng sau wish; muốn nói về tương lai dùng \"would\" hoặc \"could\".",
+        "3": "\"had had\" là quá khứ hoàn thành, dùng cho tiếc nuối về quá khứ, không hợp với việc chuẩn bị cho ngày mai."
+      },
+      "rule": "S + wish + S + V2 / were: ước điều trái với hiện tại.",
+      "examples": [
+        "I wish I knew the answer.",
+        "She wishes her office had more natural light."
+      ],
+      "common_mistake": "Giữ nguyên thì hiện tại sau wish (\"I wish I have…\") vì tiếng Việt không đổi dạng động từ."
+    },
+    "tags": [
+      "wish-present",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "wio-002",
+    "topic": "wish-if-only",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Mai missed the application deadline yesterday. She wishes she ___ the form earlier.",
+    "options": [
+      "submitted",
+      "would submit",
+      "has submitted",
+      "had submitted"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Tiếc nuối về việc **đã xảy ra** trong quá khứ (\"yesterday\") → wish + quá khứ hoàn thành: **had submitted**.",
+      "wrong": {
+        "0": "\"submitted\" (quá khứ đơn sau wish) diễn tả điều trái với hiện tại, không dùng cho sự việc đã qua.",
+        "1": "\"would submit\" dùng để mong người khác thay đổi hành động, không dùng cho chính chủ ngữ và không chỉ quá khứ.",
+        "2": "\"has submitted\" không phù hợp sau wish và mâu thuẫn với thực tế cô ấy đã lỡ hạn."
+      },
+      "rule": "S + wish + S + had (not) + V3: tiếc điều đã (không) xảy ra trong quá khứ.",
+      "examples": [
+        "I wish I had saved the file before the computer crashed.",
+        "They wish they hadn't chosen that supplier."
+      ],
+      "common_mistake": "Chỉ lùi một bậc (dùng quá khứ đơn) khi nói về quá khứ."
+    },
+    "tags": [
+      "wish-past",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "wio-003",
+    "topic": "wish-if-only",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "I wish our supplier ___ sending us incomplete invoices. It happens almost every month!",
+    "options": [
+      "stops",
+      "will stop",
+      "would stop",
+      "had stopped"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Phàn nàn về hành động lặp lại của **người khác** (\"It happens almost every month\") và mong họ thay đổi → wish + **would** + V: **would stop**.",
+      "wrong": {
+        "0": "\"stops\" là hiện tại đơn; sau wish không dùng thì hiện tại.",
+        "1": "\"will stop\" không dùng sau wish; \"I hope they will stop\" mới dùng will.",
+        "3": "\"had stopped\" là tiếc về quá khứ, không hợp với việc vẫn đang lặp lại hằng tháng."
+      },
+      "rule": "S + wish + S khác + would (not) + V: phàn nàn, mong người / vật khác thay đổi.",
+      "examples": [
+        "I wish my colleague would stop interrupting me.",
+        "We wish the client would reply to our emails faster."
+      ],
+      "common_mistake": "Nhầm wish với hope: \"I wish they will stop…\"."
+    },
+    "tags": [
+      "wish-would",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "wio-004",
+    "topic": "wish-if-only",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "If only I ___ Ms. Thu's email address! I could send her the revised contract right now.",
+    "options": [
+      "know",
+      "had known",
+      "will know",
+      "knew"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "\"If only\" + mong ước trái với **hiện tại** (\"right now\", \"I could send\") → quá khứ đơn: **knew**.",
+      "wrong": {
+        "0": "\"know\" không lùi thì nên không diễn tả được điều trái thực tế.",
+        "1": "\"had known\" là tiếc về quá khứ, không hợp với \"right now\".",
+        "2": "\"will know\" không dùng sau \"if only\"."
+      },
+      "rule": "If only + S + V2 / were (hiện tại); If only + S + had V3 (quá khứ). Nghĩa mạnh hơn wish.",
+      "examples": [
+        "If only we had a bigger budget!",
+        "If only the train were on time for once."
+      ],
+      "common_mistake": "Hiểu \"if only\" như \"if\" của câu điều kiện loại 1 nên dùng hiện tại đơn."
+    },
+    "tags": [
+      "if-only",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "wio-005",
+    "topic": "wish-if-only",
+    "level": "intermediate",
+    "type": "fill-form",
+    "question": "The project manager wishes he ___ (not / agree) to such a tight deadline when he met the client last month.",
+    "options": [
+      "didn't agree",
+      "hadn't agreed",
+      "wouldn't agree",
+      "doesn't agree"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Tiếc nuối về quyết định **đã xảy ra** (\"last month\") → wish + had not + V3: **hadn't agreed**.",
+      "wrong": {
+        "0": "\"didn't agree\" (quá khứ đơn) sau wish chỉ điều trái với hiện tại, không dùng cho việc đã xảy ra tháng trước.",
+        "2": "\"wouldn't agree\" không dùng khi chủ ngữ của wish và mệnh đề sau là cùng một người.",
+        "3": "\"doesn't agree\" là hiện tại đơn, không lùi thì sau wish."
+      },
+      "rule": "S + wish + S + hadn't + V3: ước rằng mình đã không làm việc gì trong quá khứ.",
+      "examples": [
+        "I wish I hadn't sent that email.",
+        "He wishes he hadn't sold his shares so early."
+      ],
+      "common_mistake": "Dùng \"didn't\" vì thấy câu nói về quá khứ, quên phải lùi thêm một bậc."
+    },
+    "tags": [
+      "wish-past",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "wio-006",
+    "topic": "wish-if-only",
+    "level": "intermediate",
+    "type": "fix-error",
+    "question": "Tìm phần sai: I wish I <u>can</u> (A) speak Korean <u>fluently</u> (B) because our <u>new</u> (C) business partners <u>are</u> (D) from Seoul.",
+    "options": [
+      "can",
+      "fluently",
+      "new",
+      "are"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Phần sai là (A). Ước về khả năng ở hiện tại phải lùi thì: \"can\" → **could**: *I wish I could speak Korean fluently.*",
+      "wrong": {
+        "1": "(B) đúng: trạng từ \"fluently\" bổ nghĩa cho \"speak\".",
+        "2": "(C) đúng: tính từ \"new\" bổ nghĩa cho \"business partners\".",
+        "3": "(D) đúng: \"are\" nêu sự thật ở hiện tại trong mệnh đề \"because\", không chịu ảnh hưởng của wish."
+      },
+      "rule": "wish + S + could + V: ước có khả năng làm gì (trái với hiện tại).",
+      "examples": [
+        "I wish I could attend the workshop.",
+        "She wishes she could work from home on Fridays."
+      ],
+      "common_mistake": "Giữ \"can\" sau wish vì dịch sát \"tôi ước tôi có thể\"."
+    },
+    "tags": [
+      "wish-could",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "wio-007",
+    "topic": "wish-if-only",
+    "level": "advanced",
+    "type": "fill-form",
+    "question": "If only the board ___ (listen) to our proposal at last week's meeting instead of rejecting it immediately.",
+    "options": [
+      "listened",
+      "would listen",
+      "had listened",
+      "has listened"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "\"at last week's meeting … instead of rejecting it\" cho biết việc **đã không xảy ra** trong quá khứ → If only + had + V3: **had listened**.",
+      "wrong": {
+        "0": "\"listened\" (quá khứ đơn) sau \"if only\" diễn tả điều trái với hiện tại, không phải sự việc tuần trước.",
+        "1": "\"would listen\" là phàn nàn / mong thay đổi trong hiện tại hoặc tương lai, không đi với \"last week's meeting\".",
+        "3": "\"has listened\" không dùng sau \"if only\" và không hợp với mốc quá khứ."
+      },
+      "rule": "If only + S + had (not) + V3: giá mà điều gì đó đã (không) xảy ra.",
+      "examples": [
+        "If only I had checked the figures before printing the report.",
+        "If only they had told us about the price increase."
+      ],
+      "common_mistake": "Không có chữ \"wish\" nên quên lùi thì, hoặc lùi chưa đủ (dùng quá khứ đơn cho sự việc đã qua)."
+    },
+    "tags": [
+      "if-only",
+      "wish-past",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "wio-008",
+    "topic": "wish-if-only",
+    "level": "advanced",
+    "type": "choose",
+    "question": "I wish I ___ so nervous whenever I have to speak at the monthly sales meeting.",
+    "options": [
+      "weren't",
+      "wouldn't be",
+      "am not",
+      "hadn't been"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Ước về tình trạng trái với **hiện tại** (thói quen hiện tại \"whenever I have to\") của **chính mình** → wish + were (not): **weren't**.",
+      "wrong": {
+        "1": "\"wouldn't be\" sai vì chủ ngữ của wish và của mệnh đề sau là cùng một người (\"I wish I would…\" không dùng).",
+        "2": "\"am not\" không lùi thì sau wish.",
+        "3": "\"hadn't been\" là tiếc về quá khứ, không hợp với thói quen hiện tại \"whenever I have to\"."
+      },
+      "rule": "wish + would chỉ dùng cho người / vật khác. Với chính mình: wish + I + V2 / were / could.",
+      "examples": [
+        "I wish I weren't so shy in meetings.",
+        "He wishes he didn't have to commute so far."
+      ],
+      "common_mistake": "Dùng \"I wish I would…\" vì nghĩ would luôn dùng được sau wish để nói về mong muốn."
+    },
+    "tags": [
+      "wish-present",
+      "wish-would",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "wio-009",
+    "topic": "wish-if-only",
+    "level": "advanced",
+    "type": "rewrite",
+    "question": "Chọn câu đồng nghĩa với: *It's a pity I didn't accept the job offer from Saigon Tech last year.*",
+    "options": [
+      "I wish I accepted the job offer from Saigon Tech last year.",
+      "I wish I hadn't accepted the job offer from Saigon Tech last year.",
+      "I wish I would accept the job offer from Saigon Tech last year.",
+      "I wish I had accepted the job offer from Saigon Tech last year."
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Câu gốc: tiếc vì **đã không** nhận lời (quá khứ) → wish + had + V3, đổi phủ định thành khẳng định: **I wish I had accepted…**",
+      "wrong": {
+        "0": "\"wish + accepted\" (quá khứ đơn) chỉ điều trái với hiện tại, không hợp với \"last year\".",
+        "1": "\"hadn't accepted\" làm ngược nghĩa: thực tế là đã không nhận, nên mong ước phải là \"đã nhận\".",
+        "2": "\"would accept\" không dùng khi cùng chủ ngữ và không diễn tả quá khứ."
+      },
+      "rule": "It's a pity / I regret + S + didn't V → S + wish + S + had + V3 (đảo khẳng định ↔ phủ định).",
+      "examples": [
+        "It's a pity we didn't book earlier. → We wish we had booked earlier.",
+        "I regret that I spent so much. → I wish I hadn't spent so much."
+      ],
+      "common_mistake": "Giữ nguyên phủ định của câu gốc (\"I wish I hadn't accepted…\"), làm sai nghĩa."
+    },
+    "tags": [
+      "wish-past",
+      "rewrite",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "wio-010",
+    "topic": "wish-if-only",
+    "level": "advanced",
+    "type": "choose",
+    "question": "The team leader wishes she ___ attend the training course in Singapore next week, but she has to stay for the annual audit.",
+    "options": [
+      "can",
+      "would",
+      "could",
+      "will"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Ước có **khả năng** làm việc gì trong tương lai gần nhưng thực tế không thể (\"but she has to stay\") → wish + **could** + V.",
+      "wrong": {
+        "0": "\"can\" không lùi thì sau wish.",
+        "1": "\"would\" không dùng khi chủ ngữ của wish và mệnh đề sau là cùng một người (\"she wishes she would…\").",
+        "3": "\"will\" không dùng sau wish; nếu điều đó có thể xảy ra thì dùng \"hope\" + will."
+      },
+      "rule": "S + wish + S + could + V: ước có thể làm gì ở hiện tại / tương lai nhưng thực tế không thể.",
+      "examples": [
+        "I wish I could come to your farewell party next Friday.",
+        "We wish we could offer you a bigger discount."
+      ],
+      "common_mistake": "Thấy \"next week\" nên dùng \"will\", nhầm cấu trúc wish với hope."
+    },
+    "tags": [
+      "wish-could",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  }
+]

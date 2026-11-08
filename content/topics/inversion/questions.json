@@ -1,0 +1,344 @@
+[
+  {
+    "id": "inv-001",
+    "topic": "inversion",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Never ___ such a high level of customer satisfaction in our company's twenty-year history.",
+    "options": [
+      "have we seen",
+      "we have seen",
+      "we saw",
+      "did we saw"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "**Never** đứng đầu câu → đảo trợ động từ lên trước chủ ngữ. \"in our twenty-year history\" (tính đến nay) → hiện tại hoàn thành: **have we seen**.",
+      "wrong": {
+        "1": "\"we have seen\" giữ trật tự câu thường; sau \"Never\" đầu câu bắt buộc đảo ngữ.",
+        "2": "\"we saw\" không đảo ngữ; nếu dùng quá khứ đơn phải viết \"did we see\".",
+        "3": "\"did we saw\" sai: sau \"did\" động từ phải ở nguyên mẫu (\"see\")."
+      },
+      "rule": "Never / Rarely / Seldom + trợ động từ + S + V (đúng thì của câu gốc).",
+      "examples": [
+        "Never have I worked with such a talented team.",
+        "Seldom do we receive complaints about our service."
+      ],
+      "common_mistake": "Giữ trật tự S + V như câu thường vì tiếng Việt không có đảo ngữ."
+    },
+    "tags": [
+      "never",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "inv-002",
+    "topic": "inversion",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Rarely ___ late for meetings, so his absence this morning surprised everyone in the department.",
+    "options": [
+      "Mr. Khoa is",
+      "does Mr. Khoa",
+      "Mr. Khoa does",
+      "is Mr. Khoa"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "**Rarely** đầu câu → đảo ngữ. Câu gốc dùng động từ \"be\" (\"Mr. Khoa is rarely late\") nên đảo \"is\" lên trước chủ ngữ: **is Mr. Khoa**.",
+      "wrong": {
+        "0": "\"Mr. Khoa is\" không đảo ngữ sau \"Rarely\".",
+        "1": "\"does Mr. Khoa late\" sai: \"late\" là tính từ, cần động từ \"be\"; không mượn \"does\" khi câu đã có \"be\".",
+        "2": "\"Mr. Khoa does\" vừa không đảo ngữ vừa thiếu động từ \"be\" trước tính từ \"late\"."
+      },
+      "rule": "Câu có be: Rarely + be + S + adj / N. Câu có động từ thường: Rarely + do / does / did + S + V.",
+      "examples": [
+        "Rarely is the office this quiet.",
+        "Rarely does she take a day off."
+      ],
+      "common_mistake": "Luôn mượn \"do / does\" khi đảo ngữ, kể cả với động từ \"be\"."
+    },
+    "tags": [
+      "rarely",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "inv-003",
+    "topic": "inversion",
+    "level": "intermediate",
+    "type": "fill-form",
+    "question": "Hardly ___ (she / start) the presentation when the projector suddenly stopped working.",
+    "options": [
+      "she had started",
+      "she started",
+      "had she started",
+      "has she started"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Cặp **Hardly … when** (vừa mới… thì): vế đầu dùng quá khứ hoàn thành và đảo ngữ: **had she started**.",
+      "wrong": {
+        "0": "\"she had started\" đúng thì nhưng không đảo ngữ sau \"Hardly\" đầu câu.",
+        "1": "\"she started\" vừa không đảo ngữ vừa sai thì (cần quá khứ hoàn thành cho hành động xảy ra trước).",
+        "3": "\"has she started\" là hiện tại hoàn thành, không khớp với \"stopped\" ở quá khứ."
+      },
+      "rule": "Hardly / Scarcely + had + S + V3 + when + S + V2.",
+      "examples": [
+        "Hardly had we sat down when the fire alarm rang.",
+        "Scarcely had the store opened when customers rushed in."
+      ],
+      "common_mistake": "Dùng \"than\" thay cho \"when\", hoặc quên đảo ngữ."
+    },
+    "tags": [
+      "hardly-when",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "inv-004",
+    "topic": "inversion",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "No sooner had the year-end sale been announced ___ customers started calling the store to reserve items.",
+    "options": [
+      "when",
+      "then",
+      "that",
+      "than"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Cấu trúc cố định **No sooner … than** (vừa… thì): sau vế đảo ngữ \"No sooner had…\" phải là **than**.",
+      "wrong": {
+        "0": "\"when\" đi với \"Hardly / Scarcely\", không đi với \"No sooner\".",
+        "1": "\"then\" là trạng từ (sau đó), nhầm chính tả và chức năng với \"than\".",
+        "2": "\"that\" không tạo cặp với \"No sooner\"."
+      },
+      "rule": "No sooner + had + S + V3 + than + S + V2.",
+      "examples": [
+        "No sooner had I left the office than it started to rain.",
+        "No sooner had the CEO finished speaking than reporters began asking questions."
+      ],
+      "common_mistake": "Dùng \"when\" vì nhầm với \"Hardly … when\", hoặc viết \"then\"."
+    },
+    "tags": [
+      "no-sooner-than",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "inv-005",
+    "topic": "inversion",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Under no circumstances ___ share their login passwords with anyone outside the company.",
+    "options": [
+      "employees should",
+      "should employees",
+      "employees shouldn't",
+      "shouldn't employees"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Cụm phủ định **Under no circumstances** đứng đầu → đảo trợ động từ: **should employees** + V. Cụm này đã mang nghĩa phủ định nên không thêm \"not\".",
+      "wrong": {
+        "0": "\"employees should\" không đảo ngữ sau cụm phủ định đầu câu.",
+        "2": "\"employees shouldn't\" vừa không đảo ngữ vừa phủ định hai lần.",
+        "3": "\"shouldn't employees\" có đảo ngữ nhưng phủ định hai lần (no + not), làm ngược nghĩa."
+      },
+      "rule": "Under no circumstances / On no account / In no way + trợ động từ + S + V (không thêm not).",
+      "examples": [
+        "Under no circumstances should the fire doors be locked.",
+        "On no account must visitors enter the laboratory alone."
+      ],
+      "common_mistake": "Thêm \"not\" vì tiếng Việt nói \"trong bất kỳ trường hợp nào cũng không được\"."
+    },
+    "tags": [
+      "under-no-circumstances",
+      "toeic-part5",
+      "toeic-part6"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "inv-006",
+    "topic": "inversion",
+    "level": "intermediate",
+    "type": "fix-error",
+    "question": "Tìm phần sai: Only after the accountant <u>had checked</u> (A) the figures <u>the report was</u> (B) sent <u>to</u> (C) the board <u>for approval</u> (D).",
+    "options": [
+      "had checked",
+      "the report was",
+      "to",
+      "for approval"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Phần sai là (B). Với **Only after + mệnh đề** đứng đầu, mệnh đề chính phải đảo ngữ: **was the report** sent to the board.",
+      "wrong": {
+        "0": "(A) đúng: quá khứ hoàn thành diễn tả việc kiểm tra xảy ra trước việc gửi; mệnh đề sau \"Only after\" không đảo ngữ.",
+        "2": "(C) đúng: send something to somebody.",
+        "3": "(D) đúng: \"for approval\" = để phê duyệt."
+      },
+      "rule": "Only after / Only when / Not until + mệnh đề (không đảo), + trợ động từ + S + V (đảo ở mệnh đề chính).",
+      "examples": [
+        "Only after the payment was received did we ship the goods.",
+        "Only when the manager arrived did the meeting start."
+      ],
+      "common_mistake": "Đảo ngữ nhầm vào mệnh đề sau \"Only after\" hoặc quên đảo ngữ ở mệnh đề chính."
+    },
+    "tags": [
+      "only-after",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "inv-007",
+    "topic": "inversion",
+    "level": "advanced",
+    "type": "choose",
+    "question": "Not until the contract was signed by both parties ___ the first shipment of components.",
+    "options": [
+      "the supplier released",
+      "the supplier did release",
+      "did the supplier release",
+      "had the supplier released"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "**Not until + mệnh đề** đứng đầu → đảo ngữ ở mệnh đề chính, câu gốc ở quá khứ đơn nên mượn \"did\": **did the supplier release**.",
+      "wrong": {
+        "0": "\"the supplier released\" không đảo ngữ.",
+        "1": "\"the supplier did release\" có \"did\" nhưng đặt sau chủ ngữ, không phải đảo ngữ.",
+        "3": "\"had the supplier released\" dùng quá khứ hoàn thành, sai trình tự: việc giao hàng xảy ra **sau** khi ký hợp đồng; \"Had + S + V3\" đầu mệnh đề còn dễ nhầm với đảo ngữ điều kiện."
+      },
+      "rule": "Not until + thời điểm / mệnh đề + trợ động từ + S + V = S + didn't + V + until…",
+      "examples": [
+        "Not until I read the email did I understand the problem.",
+        "Not until 2028 will the new factory be completed."
+      ],
+      "common_mistake": "Đảo ngữ ngay sau \"Not until\" (\"Not until was the contract signed…\") thay vì ở mệnh đề chính."
+    },
+    "tags": [
+      "not-until",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "inv-008",
+    "topic": "inversion",
+    "level": "advanced",
+    "type": "arrange",
+    "question": "Sắp xếp thành câu đúng: so popular / was / the new phone model / that it sold out within two hours",
+    "options": [
+      "So popular was the new phone model that it sold out within two hours.",
+      "So popular the new phone model was that it sold out within two hours.",
+      "So the new phone model was popular that it sold out within two hours.",
+      "So popular did the new phone model that it sold out within two hours."
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Đảo ngữ với **So + tính từ** đầu câu: So + adj + **be** + S + that… → *So popular was the new phone model that…*",
+      "wrong": {
+        "1": "Đưa \"So popular\" lên đầu nhưng không đảo \"was\" lên trước chủ ngữ.",
+        "2": "\"So\" phải đi liền với tính từ \"popular\" khi đứng đầu câu; trật tự này sai.",
+        "3": "\"did\" không dùng được vì câu có động từ \"be\" với tính từ \"popular\"."
+      },
+      "rule": "So + adj / adv + trợ động từ / be + S + that + mệnh đề kết quả = S + be + so + adj + that…",
+      "examples": [
+        "So successful was the campaign that sales doubled.",
+        "So quickly did the team work that they finished a week early."
+      ],
+      "common_mistake": "Chỉ đưa \"so + adj\" lên đầu mà quên đảo động từ."
+    },
+    "tags": [
+      "so-that",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "inv-009",
+    "topic": "inversion",
+    "level": "advanced",
+    "type": "rewrite",
+    "question": "Chọn câu đồng nghĩa với: *We understood the scale of the problem only when the auditors arrived.*",
+    "options": [
+      "Only when the auditors arrived we understood the scale of the problem.",
+      "Only when did the auditors arrive we understood the scale of the problem.",
+      "Only when the auditors arrived we did understand the scale of the problem.",
+      "Only when the auditors arrived did we understand the scale of the problem."
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "**Only when + mệnh đề** đưa lên đầu → đảo ngữ ở mệnh đề chính, quá khứ đơn mượn \"did\": *…did we understand…*",
+      "wrong": {
+        "0": "Không đảo ngữ ở mệnh đề chính sau \"Only when …\".",
+        "1": "Đảo ngữ nhầm vào mệnh đề thời gian (\"did the auditors arrive\") thay vì mệnh đề chính.",
+        "2": "\"we did understand\" giữ chủ ngữ trước trợ động từ, không phải đảo ngữ."
+      },
+      "rule": "Only when / Only after / Only if + S + V, trợ động từ + S + V (mệnh đề chính đảo ngữ).",
+      "examples": [
+        "Only when you register will you receive the discount code.",
+        "Only if all members agree can the plan go ahead."
+      ],
+      "common_mistake": "Đảo ngữ ở mệnh đề ngay sau \"Only when\"."
+    },
+    "tags": [
+      "only-when",
+      "rewrite",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "inv-010",
+    "topic": "inversion",
+    "level": "advanced",
+    "type": "choose",
+    "question": "Such ___ that the company had to hire fifty temporary workers for the holiday season.",
+    "options": [
+      "the demand for our products was",
+      "did the demand for our products",
+      "was the demand for our products",
+      "had the demand for our products"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "**Such + be + N + that…** (đảo ngữ, nhấn mạnh mức độ): *Such was the demand for our products that…* = The demand was so great that…",
+      "wrong": {
+        "0": "Không đảo \"was\" lên trước chủ ngữ sau \"Such\" đầu câu.",
+        "1": "\"did\" không dùng vì câu cần động từ \"be\" (nhu cầu lớn đến mức…), không có động từ thường nào đi kèm.",
+        "3": "\"had\" không đi được với \"the demand\" mà không có V3; \"Had + S\" đầu câu còn dễ nhầm với đảo ngữ điều kiện loại 3."
+      },
+      "rule": "Such + be + N + that + mệnh đề = N + be + so great that… / It was such a … that…",
+      "examples": [
+        "Such was her talent that she was promoted within a year.",
+        "Such was the noise that we couldn't hear the speaker."
+      ],
+      "common_mistake": "Không biết \"Such\" có thể đứng một mình đầu câu + be, nên giữ trật tự câu thường."
+    },
+    "tags": [
+      "such-that",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  }
+]

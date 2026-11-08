@@ -1,0 +1,349 @@
+[
+  {
+    "id": "sj-001",
+    "topic": "subjunctive",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The HR manager suggested that every new employee ___ the online safety training before Friday.",
+    "options": [
+      "complete",
+      "completes",
+      "to complete",
+      "will complete"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Sau **suggest that + S**, động từ ở dạng **nguyên mẫu** cho mọi ngôi (thức giả định): **complete**.",
+      "wrong": {
+        "1": "\"completes\" chia theo ngôi thứ ba số ít; thức giả định không thêm -s, và hiện tại đơn cũng không khớp với \"suggested\" ở quá khứ.",
+        "2": "\"to complete\" sai: sau \"that + S\" cần động từ, không dùng \"to V\".",
+        "3": "\"will complete\" không dùng trong mệnh đề giả định sau suggest."
+      },
+      "rule": "suggest / recommend / propose + that + S + V nguyên mẫu (không -s, không chia thì).",
+      "examples": [
+        "The consultant suggested that the company reduce its costs.",
+        "I suggest that he call the client today."
+      ],
+      "common_mistake": "Thêm -s vì chủ ngữ \"every new employee\" là số ít."
+    },
+    "tags": [
+      "suggest-that",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "sj-002",
+    "topic": "subjunctive",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "It is essential that the contract ___ by both parties before any work begins.",
+    "options": [
+      "sign",
+      "signs",
+      "be signing",
+      "be signed"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Sau **It is essential that + S** dùng V nguyên mẫu; hợp đồng **được** ký nên dùng bị động: **be signed**.",
+      "wrong": {
+        "0": "\"sign\" là chủ động: hợp đồng không tự ký.",
+        "1": "\"signs\" vừa chủ động vừa thêm -s, sai cả nghĩa lẫn cấu trúc giả định.",
+        "2": "\"be signing\" là dạng tiếp diễn chủ động, sai nghĩa (hợp đồng không thực hiện hành động ký)."
+      },
+      "rule": "It is essential / vital / necessary / important that + S + V nguyên mẫu; bị động: be + V3.",
+      "examples": [
+        "It is vital that all data be backed up daily.",
+        "It is necessary that the report be checked by a manager."
+      ],
+      "common_mistake": "Quên \"be\" của bị động, hoặc dùng chủ động vì tiếng Việt nói \"hợp đồng ký bởi hai bên\"."
+    },
+    "tags": [
+      "it-is-essential",
+      "passive",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "sj-003",
+    "topic": "subjunctive",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Our lawyer recommended that we ___ the agreement until the payment terms are clarified.",
+    "options": [
+      "don't sign",
+      "not to sign",
+      "not sign",
+      "won't sign"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Phủ định trong mệnh đề giả định: **not + V nguyên mẫu**, không dùng trợ động từ do / does: **not sign**.",
+      "wrong": {
+        "0": "\"don't sign\" dùng trợ động từ của câu thường; thức giả định chỉ dùng \"not + V\".",
+        "1": "\"not to sign\" sai: sau \"that + S\" không dùng \"to V\".",
+        "3": "\"won't sign\" không dùng trong mệnh đề giả định sau recommend."
+      },
+      "rule": "recommend / suggest / insist + that + S + not + V nguyên mẫu.",
+      "examples": [
+        "The doctor recommended that she not work overtime.",
+        "We request that guests not smoke in the rooms."
+      ],
+      "common_mistake": "Dùng \"don't\" theo thói quen phủ định câu thường."
+    },
+    "tags": [
+      "recommend-that",
+      "negative",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "sj-004",
+    "topic": "subjunctive",
+    "level": "intermediate",
+    "type": "fill-form",
+    "question": "Our accounting software is ten years old. It's high time the company ___ (replace) it with a cloud-based system.",
+    "options": [
+      "replace",
+      "replaces",
+      "will replace",
+      "replaced"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "**It's (high) time + S + V2**: đã đến lúc (đáng lẽ phải làm rồi) → **replaced**, dù nói về hiện tại.",
+      "wrong": {
+        "0": "\"replace\" là V nguyên mẫu, chỉ dùng trong cấu trúc \"It's time to replace\", không đi sau chủ ngữ.",
+        "1": "\"replaces\" là hiện tại đơn, không dùng sau \"It's high time + S\".",
+        "2": "\"will replace\" không dùng sau \"It's time + S\"."
+      },
+      "rule": "It's (high / about) time + S + V2 = It's time (for sb) + to V.",
+      "examples": [
+        "It's time we left for the airport.",
+        "It's high time you updated your CV."
+      ],
+      "common_mistake": "Dùng hiện tại vì nghĩ câu nói về bây giờ, không biết cấu trúc này đòi hỏi V2."
+    },
+    "tags": [
+      "its-time",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "sj-005",
+    "topic": "subjunctive",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "I'd rather you ___ the meeting minutes to the client until I have checked them.",
+    "options": [
+      "don't send",
+      "didn't send",
+      "not to send",
+      "won't send"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "**S1 + would rather + S2 + V2**: muốn người khác (không) làm gì ở hiện tại / tương lai → **didn't send**.",
+      "wrong": {
+        "0": "\"don't send\" không lùi thì sau \"would rather + chủ ngữ khác\".",
+        "2": "\"not to send\" sai: sau \"would rather\" không dùng \"to V\", và đã có chủ ngữ \"you\".",
+        "3": "\"won't send\" không dùng sau \"would rather + S\"."
+      },
+      "rule": "would rather + V (cùng chủ ngữ); would rather + S khác + V2 / didn't V (hiện tại, tương lai).",
+      "examples": [
+        "I'd rather you came to the office tomorrow.",
+        "She'd rather we didn't discuss salaries in public."
+      ],
+      "common_mistake": "Dùng hiện tại vì việc gửi chưa xảy ra."
+    },
+    "tags": [
+      "would-rather",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "sj-006",
+    "topic": "subjunctive",
+    "level": "intermediate",
+    "type": "fill-form",
+    "question": "You had better ___ (not / be) late for the interview tomorrow; the director is very strict about punctuality.",
+    "options": [
+      "not to be",
+      "don't be",
+      "not be",
+      "weren't"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "**had better + V nguyên mẫu**; phủ định: **had better not + V** → **not be**.",
+      "wrong": {
+        "0": "\"not to be\" sai: \"had better\" không đi với \"to\".",
+        "1": "\"don't be\" là câu mệnh lệnh, không dùng sau \"had better\".",
+        "3": "\"weren't\" là V2; tuy có \"had\" nhưng \"had better\" theo sau bởi V nguyên mẫu."
+      },
+      "rule": "S + had better (not) + V nguyên mẫu: lời khuyên mạnh, có hàm ý cảnh báo.",
+      "examples": [
+        "You'd better back up your files before the update.",
+        "We had better not keep the client waiting."
+      ],
+      "common_mistake": "Thêm \"to\" như \"ought to\", hoặc đặt \"not\" sai vị trí (\"hadn't better\")."
+    },
+    "tags": [
+      "had-better",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "sj-007",
+    "topic": "subjunctive",
+    "level": "advanced",
+    "type": "fix-error",
+    "question": "Tìm phần sai: The client <u>insisted</u> (A) that the shipment <u>is delivered</u> (B) <u>no later than</u> (C) 9 a.m. <u>on</u> (D) Monday.",
+    "options": [
+      "insisted",
+      "is delivered",
+      "no later than",
+      "on"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Phần sai là (B). Sau **insist that + S** dùng V nguyên mẫu; lô hàng **được** giao nên dùng bị động **be delivered**.",
+      "wrong": {
+        "0": "(A) đúng: \"insisted\" là quá khứ của \"insist\", động từ chính được chia bình thường.",
+        "2": "(C) đúng: \"no later than\" = không muộn hơn.",
+        "3": "(D) đúng: dùng \"on\" trước ngày trong tuần."
+      },
+      "rule": "insist / demand / require + that + S + be + V3 (bị động giả định).",
+      "examples": [
+        "The manager insisted that the error be corrected immediately.",
+        "The law requires that all products be clearly marked with a price."
+      ],
+      "common_mistake": "Chia \"be\" theo thì (is / was) vì không quen với thức giả định."
+    },
+    "tags": [
+      "insist-that",
+      "passive",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "sj-008",
+    "topic": "subjunctive",
+    "level": "advanced",
+    "type": "choose",
+    "question": "The board's request that the CFO ___ the financial statements before the audit was finally accepted.",
+    "options": [
+      "revise",
+      "revises",
+      "to revise",
+      "revising"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Danh từ **request** + that + S cũng đòi hỏi thức giả định: V nguyên mẫu **revise**. Động từ chính của câu là \"was accepted\".",
+      "wrong": {
+        "1": "\"revises\" thêm -s theo chủ ngữ; mệnh đề sau \"request that\" dùng V nguyên mẫu.",
+        "2": "\"to revise\" sai: sau \"that + S\" cần động từ, không dùng \"to V\".",
+        "3": "\"revising\" không làm động từ chính của mệnh đề \"that the CFO…\"."
+      },
+      "rule": "request / recommendation / suggestion / requirement + that + S + V nguyên mẫu.",
+      "examples": [
+        "Her suggestion that the meeting be postponed was rejected.",
+        "There is a requirement that every visitor wear a badge."
+      ],
+      "common_mistake": "Chỉ nhận ra thức giả định sau động từ (request), không nhận ra khi \"request\" là danh từ."
+    },
+    "tags": [
+      "request-that",
+      "noun-that",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "sj-009",
+    "topic": "subjunctive",
+    "level": "advanced",
+    "type": "rewrite",
+    "question": "Chọn câu đồng nghĩa với: *I'd prefer you not to mention the budget cuts during the press conference.*",
+    "options": [
+      "I'd rather you hadn't mentioned the budget cuts during the press conference.",
+      "I'd rather you not to mention the budget cuts during the press conference.",
+      "I'd rather not you mention the budget cuts during the press conference.",
+      "I'd rather you didn't mention the budget cuts during the press conference."
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "\"prefer you not to V\" (mong ai đó không làm việc gì sắp tới) = **would rather + S + didn't + V**.",
+      "wrong": {
+        "0": "\"hadn't mentioned\" là mong muốn về quá khứ (đáng lẽ bạn đã không nhắc), sai thời điểm so với câu gốc.",
+        "1": "\"would rather\" không đi với \"to V\".",
+        "2": "\"not\" đặt sai vị trí; \"would rather not + V\" chỉ dùng khi không có chủ ngữ thứ hai."
+      },
+      "rule": "would prefer sb (not) to V = would rather sb + V2 / didn't V.",
+      "examples": [
+        "I'd rather you didn't use my laptop.",
+        "We'd rather the supplier delivered on Monday."
+      ],
+      "common_mistake": "Giữ \"to\" của \"prefer … to V\" khi đổi sang \"would rather\"."
+    },
+    "tags": [
+      "would-rather",
+      "rewrite",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "sj-010",
+    "topic": "subjunctive",
+    "level": "advanced",
+    "type": "choose",
+    "question": "The safety inspector demanded that the damaged equipment ___ until it had been fully repaired.",
+    "options": [
+      "not used",
+      "is not used",
+      "not be used",
+      "not being used"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Sau **demand that + S**: phủ định **not** + bị động **be + V3** → **not be used**.",
+      "wrong": {
+        "0": "\"not used\" thiếu \"be\"; câu bị động cần \"be + V3\".",
+        "1": "\"is not used\" chia thì hiện tại, sai thức giả định và không khớp với \"demanded\" ở quá khứ.",
+        "3": "\"not being used\" là V-ing, không làm động từ chính của mệnh đề \"that\"."
+      },
+      "rule": "demand / insist / require + that + S + not + be + V3.",
+      "examples": [
+        "They demanded that the results not be published yet.",
+        "It is important that the door not be left open."
+      ],
+      "common_mistake": "Đặt \"not\" sau \"be\" (\"be not used\") hoặc bỏ \"be\"."
+    },
+    "tags": [
+      "demand-that",
+      "negative",
+      "passive",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  }
+]

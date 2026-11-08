@@ -1,0 +1,347 @@
+[
+  {
+    "id": "as-001",
+    "topic": "adjective-structures",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Analysts expect that fuel prices are likely ___ again before the end of the year.",
+    "options": [
+      "to rise",
+      "rising",
+      "rise",
+      "to rising"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Cấu trúc **be likely + to V** (có khả năng sẽ): *are likely to rise*.",
+      "wrong": {
+        "1": "\"rising\" (V-ing) không theo sau \"likely\"; \"likely\" không đi với giới từ để nhận V-ing.",
+        "2": "\"rise\" thiếu \"to\"; sau \"be likely\" bắt buộc là to-infinitive.",
+        "3": "\"to rising\" sai vì \"to\" ở đây là to-infinitive, không phải giới từ."
+      },
+      "rule": "S + be likely / unlikely + to V: có khả năng / không có khả năng xảy ra.",
+      "examples": [
+        "The meeting is likely to run late.",
+        "Our main competitor is unlikely to lower its prices."
+      ],
+      "common_mistake": "Dùng \"is likely rising\" vì dịch \"có khả năng đang tăng\"."
+    },
+    "tags": [
+      "be-adj-to-v",
+      "likely",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "as-002",
+    "topic": "adjective-structures",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The new sales director is ___ to meet every major client personally during her first month.",
+    "options": [
+      "interested",
+      "eager",
+      "capable",
+      "fond"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Chỗ trống đứng trước **to V** (to meet) → cần tính từ đi với to-infinitive: **be eager to V** (háo hức, mong muốn làm).",
+      "wrong": {
+        "0": "\"interested\" đi với giới từ: be interested in + V-ing (interested in meeting), không đi với to V trong nghĩa này.",
+        "2": "\"capable\" đi với giới từ: be capable of + V-ing (capable of meeting), không đi với to V.",
+        "3": "\"fond\" đi với giới từ: be fond of + V-ing (thích), không đi với to V."
+      },
+      "rule": "be eager / willing / ready / reluctant + to V; be interested in / capable of / fond of + V-ing.",
+      "examples": [
+        "We are eager to hear your feedback.",
+        "The team is ready to launch the new campaign."
+      ],
+      "common_mistake": "Chọn tính từ theo nghĩa (\"muốn, thích\") mà không xét cấu trúc theo sau."
+    },
+    "tags": [
+      "be-adj-to-v",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "as-003",
+    "topic": "adjective-structures",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "It was very thoughtful ___ Mr. Duc to send flowers to the client after the long negotiation.",
+    "options": [
+      "for",
+      "to",
+      "of",
+      "with"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "\"thoughtful\" (chu đáo) là tính từ nhận xét **tính cách / hành vi của người** → **It is + adj + of sb + to V**.",
+      "wrong": {
+        "0": "\"for\" dùng với tính từ nhận xét về **việc làm** (important, necessary, difficult for sb to V), không phải về tính cách người.",
+        "1": "\"to\" không đứng giữa tính từ và người trong cấu trúc này (\"thoughtful to Mr. Duc\" có nghĩa khác: chu đáo với ai).",
+        "3": "\"with\" không dùng trong cấu trúc It is + adj + ___ + sb + to V."
+      },
+      "rule": "It is + kind / nice / generous / thoughtful / careless + of sb + to V. Mẹo: nói được \"Mr. Duc was thoughtful\" → dùng \"of\".",
+      "examples": [
+        "It was kind of you to drive me to the airport.",
+        "It was careless of him to leave the door unlocked."
+      ],
+      "common_mistake": "Dùng \"for\" cho mọi trường hợp vì đã quen mẫu \"It is important for sb to V\"."
+    },
+    "tags": [
+      "it-adj-of",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "as-004",
+    "topic": "adjective-structures",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "It is necessary ___ all visitors to wear a safety helmet in the factory area.",
+    "options": [
+      "for",
+      "of",
+      "that",
+      "to"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "\"necessary\" nhận xét về **việc làm** (đội mũ bảo hộ), theo sau là \"all visitors to wear\" → **It is necessary for sb to V**.",
+      "wrong": {
+        "1": "\"of\" chỉ dùng với tính từ chỉ tính cách người (kind of you), không dùng với \"necessary\".",
+        "2": "\"that\" phải theo sau bởi mệnh đề có động từ nguyên mẫu (that all visitors wear), không đi với \"to wear\".",
+        "3": "\"to all visitors to wear\" sai cấu trúc; người thực hiện hành động phải đi sau \"for\"."
+      },
+      "rule": "It is + necessary / important / essential / difficult + for sb + to V.",
+      "examples": [
+        "It is important for new staff to read the handbook.",
+        "It is difficult for small firms to compete with large chains."
+      ],
+      "common_mistake": "Viết \"It is necessary that all visitors to wear…\" vì trộn hai cấu trúc \"that\" và \"for sb to V\"."
+    },
+    "tags": [
+      "it-adj-for",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "as-005",
+    "topic": "adjective-structures",
+    "level": "intermediate",
+    "type": "fix-error",
+    "question": "Tìm phần sai: Our customer service team <u>is always</u> (A) <u>ready</u> (B) <u>answering</u> (C) any questions you may have <u>about</u> (D) our products.",
+    "options": [
+      "is always",
+      "ready",
+      "answering",
+      "about"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Phần sai là (C). Tính từ **ready** đi với **to V**: *ready to answer*.",
+      "wrong": {
+        "0": "(A) đúng: \"is\" chia theo danh từ tập hợp số ít \"team\", trạng từ tần suất \"always\" đứng sau \"be\".",
+        "1": "(B) đúng: \"ready\" (sẵn sàng) hợp nghĩa câu.",
+        "3": "(D) đúng: \"questions about our products\" (câu hỏi về sản phẩm)."
+      },
+      "rule": "be ready / willing / happy / pleased + to V.",
+      "examples": [
+        "We are always happy to help.",
+        "The documents are ready to be signed."
+      ],
+      "common_mistake": "Dùng V-ing sau \"ready\" vì nghĩ hành động đang diễn ra (\"sẵn sàng đang trả lời\")."
+    },
+    "tags": [
+      "be-adj-to-v",
+      "toeic-part6"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "as-006",
+    "topic": "adjective-structures",
+    "level": "intermediate",
+    "type": "fill-form",
+    "question": "Ms. Nhung was reluctant ___ (accept) the transfer to the Hue office because her family lives in Hanoi.",
+    "options": [
+      "accepting",
+      "to accept",
+      "accept",
+      "to accepting"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "**be reluctant + to V** (miễn cưỡng, không muốn làm): *reluctant to accept*.",
+      "wrong": {
+        "0": "\"accepting\" (V-ing) không theo sau \"reluctant\".",
+        "2": "\"accept\" thiếu \"to\"; sau tính từ \"reluctant\" cần to-infinitive.",
+        "3": "\"to accepting\" sai vì \"to\" ở đây là to-infinitive, không phải giới từ."
+      },
+      "rule": "be reluctant / hesitant / unwilling + to V: ngần ngại, không muốn làm gì.",
+      "examples": [
+        "Many customers are reluctant to share their personal data.",
+        "He was hesitant to ask for a pay rise."
+      ],
+      "common_mistake": "Dùng V-ing vì lẫn với \"avoid / mind + V-ing\" (cũng mang nghĩa không muốn làm)."
+    },
+    "tags": [
+      "be-adj-to-v",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "as-007",
+    "topic": "adjective-structures",
+    "level": "advanced",
+    "type": "choose",
+    "question": "It is essential that every employee ___ the new data security training by the end of March.",
+    "options": [
+      "completes",
+      "to complete",
+      "completing",
+      "complete"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Sau **It is essential that + S**, động từ ở **dạng nguyên mẫu không to** (thức giả định), không chia theo ngôi: *every employee complete*.",
+      "wrong": {
+        "0": "\"completes\" chia theo ngôi thứ ba số ít như câu thường; trong cấu trúc yêu cầu sau \"essential that\", động từ giữ nguyên mẫu. Đây là bẫy vì chủ ngữ \"every employee\" là số ít.",
+        "1": "\"to complete\" không đứng sau một chủ ngữ trong mệnh đề \"that\"; to V chỉ dùng trong mẫu \"It is essential for sb to V\".",
+        "2": "\"completing\" không làm động từ chính của mệnh đề."
+      },
+      "rule": "It is essential / important / necessary / vital that + S + V nguyên mẫu (hoặc should + V).",
+      "examples": [
+        "It is important that the client receive the samples by Friday.",
+        "It is vital that every passenger be at the gate on time."
+      ],
+      "common_mistake": "Thêm -s cho động từ vì chủ ngữ số ít, không biết đây là thức giả định."
+    },
+    "tags": [
+      "it-adj-that",
+      "subjunctive",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "as-008",
+    "topic": "adjective-structures",
+    "level": "advanced",
+    "type": "choose",
+    "question": "Please let us know by Wednesday whether ___ to attend the product demonstration on Friday.",
+    "options": [
+      "you are possible",
+      "it is possible of you",
+      "it is possible for you",
+      "you are possible for"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "\"possible\" không lấy người làm chủ ngữ; phải dùng chủ ngữ giả **It is possible for sb to V**.",
+      "wrong": {
+        "0": "\"you are possible\" sai: \"possible\" mô tả sự việc, không mô tả người (khác với \"you are able\").",
+        "1": "\"of you\" chỉ dùng với tính từ chỉ tính cách (kind of you); \"possible\" nhận xét việc làm nên dùng \"for\".",
+        "3": "\"you are possible for\" vừa sai chủ ngữ vừa thừa giới từ, không tạo thành cấu trúc nào."
+      },
+      "rule": "It is (im)possible / convenient / necessary for sb to V. Không nói: sb is possible / convenient to V.",
+      "examples": [
+        "Is it possible for you to send the invoice today?",
+        "It is not convenient for me to meet on Monday."
+      ],
+      "common_mistake": "Dịch \"bạn có thể\" thành \"you are possible\" vì tiếng Việt lấy người làm chủ ngữ."
+    },
+    "tags": [
+      "it-adj-for",
+      "possible",
+      "toeic-part6"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "as-009",
+    "topic": "adjective-structures",
+    "level": "advanced",
+    "type": "rewrite",
+    "question": "Chọn câu đồng nghĩa với: *You helped us move the equipment on a Sunday. That was very generous.*",
+    "options": [
+      "It was very generous for you to help us move the equipment on a Sunday.",
+      "It was very generous of you to help us move the equipment on a Sunday.",
+      "It was very generous of you help us move the equipment on a Sunday.",
+      "It was very generous that you to help us move the equipment on a Sunday."
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "\"generous\" khen **tính cách của người** làm việc đó → **It was + adj + of sb + to V**.",
+      "wrong": {
+        "0": "\"for you\" dùng với tính từ nhận xét việc làm (necessary, difficult); \"generous\" mô tả người nên phải dùng \"of\".",
+        "2": "\"of you help\" thiếu \"to\"; sau \"of sb\" cần to-infinitive.",
+        "3": "\"that you to help\" trộn hai cấu trúc: sau \"that\" phải là mệnh đề có động từ chia (that you helped)."
+      },
+      "rule": "It is / was + adj (tính cách) + of sb + to V = sb is / was + adj + to V.",
+      "examples": [
+        "It was nice of Ms. Trang to remember my birthday.",
+        "It was wise of the board to delay the launch."
+      ],
+      "common_mistake": "Dùng \"for\" vì tiếng Việt nói \"thật hào phóng cho bạn khi…\"."
+    },
+    "tags": [
+      "it-adj-of",
+      "combining",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "as-010",
+    "topic": "adjective-structures",
+    "level": "advanced",
+    "type": "fix-error",
+    "question": "Tìm phần sai: Market analysts <u>believe</u> (A) that the merger <u>is</u> (B) <u>likely</u> (C) <u>having</u> (D) a positive effect on both companies' share prices.",
+    "options": [
+      "believe",
+      "is",
+      "likely",
+      "having"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Phần sai là (D). Sau **be likely** phải dùng **to V**: *is likely to have a positive effect*.",
+      "wrong": {
+        "0": "(A) đúng: \"believe\" chia theo chủ ngữ số nhiều \"Market analysts\".",
+        "1": "(B) đúng: \"is\" chia theo chủ ngữ số ít \"the merger\".",
+        "2": "(C) đúng: \"likely\" là tính từ (có khả năng) đứng sau \"be\"."
+      },
+      "rule": "be likely / unlikely / sure / certain + to V.",
+      "examples": [
+        "The new policy is likely to reduce costs.",
+        "This product is sure to become a bestseller."
+      ],
+      "common_mistake": "Dùng V-ing sau \"likely\" vì dịch \"có khả năng đang có\"."
+    },
+    "tags": [
+      "be-adj-to-v",
+      "likely",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  }
+]

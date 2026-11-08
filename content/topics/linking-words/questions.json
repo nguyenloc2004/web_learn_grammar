@@ -1,0 +1,345 @@
+[
+  {
+    "id": "lw-001",
+    "topic": "linking-words",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Sales increased by 20 percent last quarter. ___, profits remained flat due to higher production costs.",
+    "options": [
+      "However",
+      "Therefore",
+      "Moreover",
+      "For example"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Hai câu **tương phản** (doanh số tăng ↔ lợi nhuận không đổi) → **However**.",
+      "wrong": {
+        "1": "\"Therefore\" chỉ kết quả: \"doanh số tăng, vì vậy lợi nhuận không đổi\" vô lý.",
+        "2": "\"Moreover\" bổ sung ý cùng chiều, không thể hiện sự tương phản.",
+        "3": "\"For example\" đưa ví dụ minh họa, nhưng câu sau không phải ví dụ của câu trước."
+      },
+      "rule": "However / Nevertheless (tương phản) + dấu phẩy, đứng đầu câu mới hoặc sau dấu chấm phẩy.",
+      "examples": [
+        "The hotel was expensive. However, the service was excellent.",
+        "The plan is risky; however, it could be very profitable."
+      ],
+      "common_mistake": "Dùng \"However\" như \"but\" để nối hai mệnh đề chỉ bằng dấu phẩy."
+    },
+    "tags": [
+      "contrast",
+      "toeic-part6"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "lw-002",
+    "topic": "linking-words",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The shipment was delayed by a severe storm. ___, several orders could not be delivered on time.",
+    "options": [
+      "However",
+      "Otherwise",
+      "In contrast",
+      "As a result"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Câu sau là **hệ quả** của câu trước (bão → giao trễ) → **As a result**.",
+      "wrong": {
+        "0": "\"However\" chỉ tương phản, nhưng hai câu cùng chiều nguyên nhân – kết quả.",
+        "1": "\"Otherwise\" nghĩa là \"nếu không thì\", sai nghĩa.",
+        "2": "\"In contrast\" so sánh hai đối tượng trái ngược, không phù hợp."
+      },
+      "rule": "As a result / Consequently / Therefore + dấu phẩy: chỉ kết quả.",
+      "examples": [
+        "The road was closed. As a result, we arrived late.",
+        "Demand has fallen; consequently, prices have dropped."
+      ],
+      "common_mistake": "Dùng \"Because,\" ở đầu câu thứ hai thay cho \"As a result,\", làm đảo ngược quan hệ nguyên nhân – kết quả."
+    },
+    "tags": [
+      "result",
+      "toeic-part6"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "lw-003",
+    "topic": "linking-words",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Please submit your expense report by Friday; ___, it will not be included in this month's payment.",
+    "options": [
+      "therefore",
+      "moreover",
+      "otherwise",
+      "however"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Vế sau nêu điều xảy ra **nếu không** làm theo vế trước → **otherwise** (nếu không thì).",
+      "wrong": {
+        "0": "\"therefore\" nghĩa là \"vì vậy\": nộp đúng hạn thì báo cáo không được tính, sai nghĩa.",
+        "1": "\"moreover\" bổ sung ý, không thể hiện điều kiện.",
+        "3": "\"however\" chỉ tương phản, không thể hiện hậu quả của việc không làm."
+      },
+      "rule": "Câu mệnh lệnh / yêu cầu; otherwise, + hậu quả nếu không làm.",
+      "examples": [
+        "Save your work regularly; otherwise, you may lose it.",
+        "Book early. Otherwise, the tickets may sell out."
+      ],
+      "common_mistake": "Nhầm \"otherwise\" với \"however\" vì cả hai đều đứng sau dấu chấm phẩy."
+    },
+    "tags": [
+      "condition",
+      "toeic-part6"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "lw-004",
+    "topic": "linking-words",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The new office is close to the metro station. ___, it has a large parking area for staff.",
+    "options": [
+      "However",
+      "Instead",
+      "Otherwise",
+      "In addition"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Câu sau **bổ sung** thêm một ưu điểm cùng chiều → **In addition**.",
+      "wrong": {
+        "0": "\"However\" chỉ tương phản, nhưng hai ý đều là ưu điểm.",
+        "1": "\"Instead\" nghĩa là \"thay vào đó\", dùng khi một việc thay thế việc khác.",
+        "2": "\"Otherwise\" nghĩa là \"nếu không thì\", sai nghĩa."
+      },
+      "rule": "In addition / Moreover / Furthermore / Besides + dấu phẩy: thêm ý cùng chiều.",
+      "examples": [
+        "The job pays well. In addition, it offers flexible hours.",
+        "The software is free. Moreover, it is easy to use."
+      ],
+      "common_mistake": "Dùng \"In addition to\" (cần danh từ / V-ing phía sau) thay cho \"In addition,\" ở đầu câu."
+    },
+    "tags": [
+      "addition",
+      "toeic-part6"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "lw-005",
+    "topic": "linking-words",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The CEO was unable to travel to the conference in Singapore. ___, she gave her speech via video call.",
+    "options": [
+      "Otherwise",
+      "Instead",
+      "Moreover",
+      "Similarly"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Việc phát biểu qua video **thay thế** cho việc đến trực tiếp → **Instead** (thay vào đó).",
+      "wrong": {
+        "0": "\"Otherwise\" nghĩa là \"nếu không thì\", sai nghĩa.",
+        "2": "\"Moreover\" bổ sung ý cùng chiều, không thể hiện sự thay thế.",
+        "3": "\"Similarly\" nghĩa là \"tương tự\", dùng khi hai sự việc giống nhau; ở đây hai câu không tương đồng."
+      },
+      "rule": "Instead, + hành động thay thế cho hành động ở câu trước (thường là hành động không xảy ra).",
+      "examples": [
+        "We didn't take a taxi. Instead, we walked.",
+        "He didn't call. Instead, he sent a text message."
+      ],
+      "common_mistake": "Dùng \"Instead of\" (cần danh từ / V-ing) ở đầu câu độc lập."
+    },
+    "tags": [
+      "substitution",
+      "toeic-part6"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "lw-006",
+    "topic": "linking-words",
+    "level": "intermediate",
+    "type": "rewrite",
+    "question": "Chọn câu đồng nghĩa với: *The proposal was expensive, but the board approved it.*",
+    "options": [
+      "The proposal was expensive; therefore, the board approved it.",
+      "The proposal was expensive; otherwise, the board approved it.",
+      "The proposal was expensive; nevertheless, the board approved it.",
+      "The proposal was expensive; moreover, the board approved it."
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "\"but\" (tương phản) ↔ **nevertheless** (tuy nhiên, dù vậy).",
+      "wrong": {
+        "0": "\"therefore\" biến thành quan hệ nhân quả: \"đắt nên được duyệt\", sai nghĩa.",
+        "1": "\"otherwise\" nghĩa là \"nếu không thì\", sai nghĩa.",
+        "3": "\"moreover\" bổ sung ý cùng chiều, mất ý tương phản."
+      },
+      "rule": "Câu 1; nevertheless / however, câu 2. Tương đương: Câu 1, but câu 2.",
+      "examples": [
+        "It was raining; nevertheless, the match continued.",
+        "The task was difficult; nevertheless, we finished it on time."
+      ],
+      "common_mistake": "Coi mọi từ nối đứng sau dấu chấm phẩy là đồng nghĩa với nhau."
+    },
+    "tags": [
+      "contrast",
+      "toeic-part6"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "lw-007",
+    "topic": "linking-words",
+    "level": "advanced",
+    "type": "choose",
+    "question": "Our engineers will finalize the product design this week. ___, the marketing department will prepare the launch campaign.",
+    "options": [
+      "Meanwhile",
+      "Otherwise",
+      "Nevertheless",
+      "In contrast"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Hai việc diễn ra **song song cùng thời gian** → **Meanwhile** (trong khi đó).",
+      "wrong": {
+        "1": "\"Otherwise\" nghĩa là \"nếu không thì\", sai nghĩa.",
+        "2": "\"Nevertheless\" chỉ tương phản bất ngờ, nhưng hai câu không đối lập.",
+        "3": "\"In contrast\" so sánh hai điều trái ngược, trong khi hai việc này chỉ diễn ra song song."
+      },
+      "rule": "Meanwhile / In the meantime: trong lúc đó (hai hành động cùng thời gian).",
+      "examples": [
+        "The chef prepared the main course. Meanwhile, his assistant made the salad.",
+        "Your new card will arrive next week. In the meantime, you can use online banking."
+      ],
+      "common_mistake": "Dùng \"while\" (liên từ) ở đầu câu độc lập thay cho \"Meanwhile,\"."
+    },
+    "tags": [
+      "time",
+      "toeic-part6"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "lw-008",
+    "topic": "linking-words",
+    "level": "advanced",
+    "type": "choose",
+    "question": "The supplier has repeatedly missed its delivery deadlines; ___, we have no choice but to look for a new one.",
+    "options": [
+      "however",
+      "otherwise",
+      "in addition",
+      "therefore"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Vế sau là **kết luận / hệ quả** của vế trước (trễ hạn nhiều lần → phải tìm nhà cung cấp mới) → **therefore**.",
+      "wrong": {
+        "0": "\"however\" chỉ tương phản, nhưng hai vế là nguyên nhân – kết quả.",
+        "1": "\"otherwise\" nghĩa là \"nếu không thì\", sai nghĩa.",
+        "2": "\"in addition\" chỉ bổ sung thông tin, không thể hiện hệ quả."
+      },
+      "rule": "Mệnh đề 1; therefore / consequently, mệnh đề 2 (kết quả).",
+      "examples": [
+        "Fuel prices rose; therefore, ticket prices went up.",
+        "The data was incomplete; therefore, the report was delayed."
+      ],
+      "common_mistake": "Nối hai mệnh đề bằng \"therefore\" chỉ với dấu phẩy, thiếu dấu chấm phẩy hoặc dấu chấm."
+    },
+    "tags": [
+      "result",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "lw-009",
+    "topic": "linking-words",
+    "level": "advanced",
+    "type": "choose",
+    "question": "The training session ran much longer than planned. ___, most participants found it very useful.",
+    "options": [
+      "Although",
+      "Despite",
+      "Nevertheless",
+      "Because"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Đứng đầu một **câu độc lập** có dấu phẩy phía sau, mang nghĩa tương phản → trạng từ nối **Nevertheless**.",
+      "wrong": {
+        "0": "\"Although\" là liên từ, phải nối hai mệnh đề trong cùng một câu, không đứng một mình với dấu phẩy ngay sau.",
+        "1": "\"Despite\" là giới từ, cần danh từ / V-ing theo sau.",
+        "3": "\"Because\" là liên từ chỉ lý do, vừa sai nghĩa vừa sai cấu trúc."
+      },
+      "rule": "Trạng từ nối (However, Nevertheless, Therefore) + dấu phẩy + câu. Liên từ (although, because) + mệnh đề. Giới từ (despite, because of) + danh từ / V-ing.",
+      "examples": [
+        "The test was hard. Nevertheless, everyone passed.",
+        "Although the test was hard, everyone passed.",
+        "Despite the difficult test, everyone passed."
+      ],
+      "common_mistake": "Không phân biệt từ nối, liên từ và giới từ có cùng nghĩa \"mặc dù / tuy nhiên\"."
+    },
+    "tags": [
+      "contrast",
+      "word-class",
+      "toeic-part6"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "lw-010",
+    "topic": "linking-words",
+    "level": "advanced",
+    "type": "fix-error",
+    "question": "Tìm phần sai: The price of raw materials <u>has risen</u> (A) sharply; <u>however</u> (B), we <u>have had</u> (C) to increase the prices of <u>our</u> (D) products.",
+    "options": [
+      "has risen",
+      "however",
+      "have had",
+      "our"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Phần sai là (B). Vế sau là **hệ quả** của vế trước (giá nguyên liệu tăng → phải tăng giá sản phẩm), nên phải dùng **therefore / consequently**, không phải \"however\".",
+      "wrong": {
+        "0": "(A) đúng: \"has risen\" (hiện tại hoàn thành) diễn tả sự thay đổi có kết quả ở hiện tại.",
+        "2": "(C) đúng: \"have had to\" = đã phải (hiện tại hoàn thành của \"have to\").",
+        "3": "(D) đúng: tính từ sở hữu \"our\" trước danh từ \"products\"."
+      },
+      "rule": "Chọn từ nối theo quan hệ ý nghĩa: tương phản (however), kết quả (therefore), bổ sung (moreover), điều kiện (otherwise).",
+      "examples": [
+        "Costs have gone up; therefore, we must raise our prices.",
+        "Costs have gone up; however, we will keep our prices the same."
+      ],
+      "common_mistake": "Dùng \"however\" như từ nối chung chung cho mọi trường hợp."
+    },
+    "tags": [
+      "result",
+      "contrast",
+      "toeic-part6"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  }
+]

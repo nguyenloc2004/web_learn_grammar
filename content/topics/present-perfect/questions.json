@@ -1,0 +1,480 @@
+[
+  {
+    "id": "pp-001",
+    "topic": "present-perfect",
+    "level": "basic",
+    "type": "choose",
+    "question": "She ___ in London since 2018.",
+    "options": [
+      "lives",
+      "has lived",
+      "lived",
+      "is living"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "\"since 2018\" chỉ hành động bắt đầu trong quá khứ và kéo dài đến hiện tại, nên dùng hiện tại hoàn thành: **has lived**.",
+      "wrong": {
+        "0": "\"lives\" là hiện tại đơn, chỉ diễn tả sự thật hiện tại, không thể hiện khoảng thời gian kéo dài từ 2018 đến nay.",
+        "2": "\"lived\" là quá khứ đơn, ngụ ý việc đã kết thúc; nhưng \"since 2018\" cho biết cô ấy vẫn đang sống ở đó.",
+        "3": "\"is living\" là hiện tại tiếp diễn, không đi với \"since\" + mốc thời gian."
+      },
+      "rule": "S + have/has + V3 + since + mốc thời gian / for + khoảng thời gian: hành động kéo dài từ quá khứ đến hiện tại.",
+      "examples": [
+        "I have worked here since 2020.",
+        "They have been married for twenty years.",
+        "He has known her since they were children."
+      ],
+      "common_mistake": "Người Việt thường dùng hiện tại đơn (\"She lives here since 2018\") vì tiếng Việt chỉ nói \"cô ấy sống ở đây từ năm 2018\"."
+    },
+    "tags": [
+      "since-for",
+      "present-perfect"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pp-002",
+    "topic": "present-perfect",
+    "level": "basic",
+    "type": "fill-form",
+    "question": "I have never ___ (eat) sushi.",
+    "options": [
+      "eat",
+      "ate",
+      "eaten",
+      "eating"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Sau \"have\" của thì hiện tại hoàn thành là quá khứ phân từ (V3). eat – ate – **eaten**. Câu nói về trải nghiệm (never).",
+      "wrong": {
+        "0": "\"eat\" là nguyên mẫu, không đứng sau \"have\" trong thì hoàn thành.",
+        "1": "\"ate\" là V2 (quá khứ đơn), không dùng sau have/has.",
+        "3": "\"eating\" là V-ing, dùng cho thì tiếp diễn (have been eating), không đứng ngay sau \"have\"."
+      },
+      "rule": "Hiện tại hoàn thành: have/has + V3. Dùng với ever/never để nói về trải nghiệm tính đến nay.",
+      "examples": [
+        "Have you ever been to Phu Quoc?",
+        "She has never seen snow.",
+        "We have tried this restaurant before."
+      ],
+      "common_mistake": "Dùng V2 thay cho V3 (\"I have ate\", \"She has went\"). Cần học thuộc cột 3 của động từ bất quy tắc."
+    },
+    "tags": [
+      "past-participle",
+      "experience"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pp-003",
+    "topic": "present-perfect",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "We have known each other ___ ten years.",
+    "options": [
+      "since",
+      "in",
+      "from",
+      "for"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "\"ten years\" là một khoảng thời gian, nên dùng **for**.",
+      "wrong": {
+        "0": "\"since\" đi với mốc thời gian (since 2015, since Monday), không đi với khoảng thời gian như \"ten years\".",
+        "1": "\"in ten years\" nghĩa là \"trong vòng mười năm nữa\" (tương lai) hoặc \"trong khoảng mười năm\", không diễn tả hành động kéo dài đến nay.",
+        "2": "\"from\" cần đi với \"to/until\" (from 2010 to 2020), không dùng một mình với khoảng thời gian trong thì hoàn thành."
+      },
+      "rule": "for + khoảng thời gian (for two hours, for ten years); since + mốc thời gian (since 9 a.m., since 2015).",
+      "examples": [
+        "I have studied English for five years.",
+        "She has worked here since January.",
+        "They haven't met for a long time."
+      ],
+      "common_mistake": "Vì tiếng Việt đều nói \"từ\" hoặc \"được\", người học hay dùng lẫn since và for: \"since ten years\"."
+    },
+    "tags": [
+      "since-for"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pp-004",
+    "topic": "present-perfect",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "I ___ your brother at the supermarket yesterday.",
+    "options": [
+      "saw",
+      "have seen",
+      "have been seeing",
+      "see"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "\"yesterday\" là thời điểm xác định đã kết thúc, nên dùng quá khứ đơn: **saw**, không dùng hiện tại hoàn thành.",
+      "wrong": {
+        "1": "\"have seen\" là hiện tại hoàn thành, không dùng với mốc thời gian xác định trong quá khứ như \"yesterday\".",
+        "2": "\"have been seeing\" là hiện tại hoàn thành tiếp diễn, vừa sai thì vừa sai nghĩa (\"see\" ở dạng tiếp diễn mang nghĩa hẹn hò).",
+        "3": "\"see\" là hiện tại đơn, mâu thuẫn với \"yesterday\"."
+      },
+      "rule": "Có thời điểm quá khứ xác định (yesterday, last week, in 2010, … ago) → quá khứ đơn. Không nêu thời điểm, hoặc kéo dài đến nay → hiện tại hoàn thành.",
+      "examples": [
+        "I have seen this film. (không nói khi nào)",
+        "I saw this film last month. (có thời điểm)",
+        "She has lost her phone. / She lost her phone two days ago."
+      ],
+      "common_mistake": "Thấy hành động \"đã xảy ra\" liền dùng hiện tại hoàn thành, kể cả khi có \"yesterday\": \"I have seen him yesterday\"."
+    },
+    "tags": [
+      "past-vs-present-perfect",
+      "time-marker"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pp-005",
+    "topic": "present-perfect",
+    "level": "advanced",
+    "type": "choose",
+    "question": "This is the first time I ___ such a beautiful beach.",
+    "options": [
+      "see",
+      "saw",
+      "am seeing",
+      "have seen"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Sau cấu trúc \"This is the first/second… time\", dùng hiện tại hoàn thành: **have seen**.",
+      "wrong": {
+        "0": "\"see\" là hiện tại đơn. Dù tiếng Việt nói \"lần đầu tôi thấy\", tiếng Anh bắt buộc dùng hoàn thành sau \"This is the first time\".",
+        "1": "\"saw\" là quá khứ đơn, chỉ dùng khi mệnh đề chính ở quá khứ: \"It was the first time I had seen…\".",
+        "2": "\"am seeing\" là hiện tại tiếp diễn, không dùng trong cấu trúc này."
+      },
+      "rule": "This/It is the first (second, third…) time + S + have/has + V3. Ở quá khứ: It was the first time + S + had + V3.",
+      "examples": [
+        "This is the first time I have flown on a plane.",
+        "It's the second time she has visited Ha Long Bay.",
+        "It was the first time they had met a famous singer."
+      ],
+      "common_mistake": "Dịch sát từ tiếng Việt nên dùng hiện tại đơn (\"This is the first time I see…\"), một lỗi rất phổ biến trong bài viết."
+    },
+    "tags": [
+      "first-time",
+      "fixed-structure"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pp-006",
+    "topic": "present-perfect",
+    "level": "advanced",
+    "type": "fix-error",
+    "question": "Tìm phần sai: I <u>have lived</u> (A) here <u>since</u> (B) five years, and I <u>have</u> (C) <u>made</u> (D) many good friends.",
+    "options": [
+      "have lived",
+      "since",
+      "have",
+      "made"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "\"five years\" là khoảng thời gian nên phải dùng **for**, không dùng \"since\": I have lived here for five years.",
+      "wrong": {
+        "0": "\"have lived\" đúng: hành động sống ở đây kéo dài đến hiện tại.",
+        "2": "\"have\" đúng: trợ động từ của hiện tại hoàn thành với chủ ngữ \"I\".",
+        "3": "\"made\" đúng: V3 của \"make\" là \"made\"; \"make friends\" là cụm cố định."
+      },
+      "rule": "for + khoảng thời gian; since + mốc thời gian. Đổi qua lại: for five years = since five years ago.",
+      "examples": [
+        "He has played the guitar for eight years.",
+        "He has played the guitar since 2017.",
+        "We have lived in this flat since we got married."
+      ],
+      "common_mistake": "Người Việt hay dùng \"since\" cho mọi trường hợp vì nghĩ nó tương đương \"từ\": \"since five years\", \"since a long time\"."
+    },
+    "tags": [
+      "since-for",
+      "error-correction"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pp-007",
+    "topic": "present-perfect",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Tom isn't here right now. He ___ to the bank. He'll be back in an hour.",
+    "options": [
+      "has gone",
+      "has been",
+      "is gone",
+      "have gone"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Tom đã đi và **chưa quay về** (He'll be back in an hour) → **has gone** to.",
+      "wrong": {
+        "1": "\"has been to\" nghĩa là đã đến đó rồi và đã quay về, mâu thuẫn với \"isn't here\".",
+        "2": "\"is gone\" không phải cấu trúc hiện tại hoàn thành chuẩn để diễn đạt việc đi đâu.",
+        "3": "\"have\" không hợp với chủ ngữ số ít \"He\"."
+      },
+      "rule": "have/has gone to + nơi chốn: đã đi, hiện chưa về. have/has been to + nơi chốn: đã từng đến và đã về.",
+      "examples": [
+        "My parents have gone to Da Lat. They'll be back on Sunday.",
+        "I have been to Da Lat three times."
+      ],
+      "common_mistake": "Dùng lẫn been và gone vì tiếng Việt đều dịch là \"đã đi\"."
+    },
+    "tags": [
+      "been-gone"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pp-008",
+    "topic": "present-perfect",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "I ___ three cups of coffee so far today, and it's only 10 a.m.",
+    "options": [
+      "drank",
+      "have drunk",
+      "have drank",
+      "drink"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "\"so far today\" chỉ khoảng thời gian chưa kết thúc (hôm nay vẫn còn), nên dùng hiện tại hoàn thành: **have drunk** (drink – drank – drunk).",
+      "wrong": {
+        "0": "\"drank\" là quá khứ đơn, dùng cho khoảng thời gian đã kết thúc; \"today\" vẫn đang diễn ra.",
+        "2": "\"have drank\" sai: V3 của drink là drunk.",
+        "3": "\"drink\" là hiện tại đơn, không diễn tả số lượng tích lũy đến hiện tại."
+      },
+      "rule": "Khoảng thời gian chưa kết thúc (today, this week, so far, up to now) + số lượng tích lũy → have/has + V3.",
+      "examples": [
+        "She has written two emails this morning.",
+        "We have visited five museums so far."
+      ],
+      "common_mistake": "Nhầm V2 và V3 của các động từ i–a–u: drink–drank–drunk, swim–swam–swum, sing–sang–sung."
+    },
+    "tags": [
+      "unfinished-time",
+      "irregular-verb"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pp-009",
+    "topic": "present-perfect",
+    "level": "intermediate",
+    "type": "fill-form",
+    "question": "She ___ (not / see) her parents since she moved to Canada.",
+    "options": [
+      "didn't see",
+      "hasn't saw",
+      "hasn't seen",
+      "haven't seen"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "\"since she moved\" chỉ khoảng thời gian từ quá khứ đến nay → phủ định hiện tại hoàn thành với chủ ngữ số ít: **hasn't seen**.",
+      "wrong": {
+        "0": "\"didn't see\" là quá khứ đơn, không diễn tả khoảng thời gian kéo dài đến hiện tại.",
+        "1": "\"hasn't saw\" sai: sau has phải là V3 (seen).",
+        "3": "\"haven't\" không hợp với chủ ngữ \"She\"."
+      },
+      "rule": "S + haven't/hasn't + V3 + since + mốc/mệnh đề quá khứ.",
+      "examples": [
+        "I haven't eaten anything since breakfast.",
+        "He hasn't called me since we argued."
+      ],
+      "common_mistake": "Dùng quá khứ đơn cho cả hai vế vì thấy \"moved\" ở quá khứ."
+    },
+    "tags": [
+      "since-clause",
+      "negative"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pp-010",
+    "topic": "present-perfect",
+    "level": "intermediate",
+    "type": "fix-error",
+    "question": "Tìm phần sai: My parents <u>have</u> (A) <u>been</u> (B) married <u>for</u> (C) twenty years and they <u>has</u> (D) never had a serious argument.",
+    "options": [
+      "have",
+      "been",
+      "for",
+      "has"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Chủ ngữ \"they\" số nhiều nên phải dùng **have** never had, không dùng \"has\".",
+      "wrong": {
+        "0": "\"have\" đúng: chủ ngữ \"My parents\" số nhiều.",
+        "1": "\"been\" đúng: V3 của be, \"be married\" = đã kết hôn.",
+        "2": "\"for\" đúng: đi với khoảng thời gian \"twenty years\"."
+      },
+      "rule": "have + V3 với I/you/we/they/danh từ số nhiều; has + V3 với he/she/it/danh từ số ít.",
+      "examples": [
+        "They have lived here since 2010.",
+        "My brother has never been abroad."
+      ],
+      "common_mistake": "Thấy \"had\" ở phía sau nên nhầm \"has\" là đúng, quên kiểm tra chủ ngữ \"they\"."
+    },
+    "tags": [
+      "have-has",
+      "error-correction"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pp-011",
+    "topic": "present-perfect",
+    "level": "advanced",
+    "type": "choose",
+    "question": "— How long ___ each other? — Since we were at primary school.",
+    "options": [
+      "have you known",
+      "do you know",
+      "did you know",
+      "are you knowing"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Câu trả lời \"Since we were at primary school\" cho thấy mối quan hệ kéo dài từ quá khứ đến nay: **have you known**.",
+      "wrong": {
+        "1": "\"How long do you know…?\" sai: không dùng hiện tại đơn để hỏi khoảng thời gian kéo dài đến nay.",
+        "2": "\"did you know\" ngụ ý mối quan hệ đã kết thúc, mâu thuẫn với câu trả lời \"Since…\".",
+        "3": "\"know\" là động từ trạng thái, không chia tiếp diễn."
+      },
+      "rule": "How long + have/has + S + V3? → Trả lời: for + khoảng thời gian / since + mốc.",
+      "examples": [
+        "How long have you lived in Hanoi?",
+        "How long has she worked for this company?"
+      ],
+      "common_mistake": "Hỏi \"How long do you know him?\" do dịch sát \"Bạn quen anh ấy bao lâu rồi?\"."
+    },
+    "tags": [
+      "how-long",
+      "stative-verb"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pp-012",
+    "topic": "present-perfect",
+    "level": "advanced",
+    "type": "rewrite",
+    "question": "Chọn câu đồng nghĩa với: *I met Lan for the first time ten years ago.*",
+    "options": [
+      "I have met Lan for ten years.",
+      "I have known Lan for ten years.",
+      "I knew Lan for ten years.",
+      "I have known Lan since ten years."
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "\"meet\" là hành động tức thời; mối quan hệ kéo dài từ lúc gặp đến nay diễn đạt bằng \"know\": **I have known Lan for ten years.**",
+      "wrong": {
+        "0": "\"have met … for ten years\" sai: meet là hành động diễn ra trong khoảnh khắc, không kéo dài được.",
+        "2": "\"knew … for ten years\" (quá khứ đơn) ngụ ý mối quan hệ đã chấm dứt.",
+        "3": "\"since ten years\" sai: khoảng thời gian dùng for, không dùng since."
+      },
+      "rule": "Động từ tức thời (meet, buy, start, get married) + ago → động từ trạng thái tương ứng (know, have, be married) + for/since.",
+      "examples": [
+        "I bought this car five years ago. → I have had this car for five years.",
+        "They got married in 2015. → They have been married since 2015."
+      ],
+      "common_mistake": "Giữ nguyên động từ tức thời khi chuyển sang \"for\": \"I have bought this car for five years\"."
+    },
+    "tags": [
+      "rewrite",
+      "momentary-verb"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pp-013",
+    "topic": "present-perfect",
+    "level": "advanced",
+    "type": "choose",
+    "question": "This is the most exciting match I ___.",
+    "options": [
+      "see ever",
+      "have seen ever",
+      "have ever seen",
+      "had ever seen"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Sau so sánh nhất (the most…, the best…) dùng hiện tại hoàn thành + ever, với ever đứng giữa have và V3: **have ever seen**.",
+      "wrong": {
+        "0": "\"see ever\" vừa sai thì vừa sai vị trí của ever.",
+        "1": "\"have seen ever\" sai vị trí: ever phải đứng trước V3.",
+        "3": "\"had ever seen\" là quá khứ hoàn thành, chỉ dùng khi mệnh đề chính ở quá khứ (That was the most…)."
+      },
+      "rule": "This/It is + the + so sánh nhất + N + (that) + S + have/has + ever + V3.",
+      "examples": [
+        "She is the kindest person I have ever met.",
+        "It's the best pho I have ever eaten."
+      ],
+      "common_mistake": "Đặt ever ở cuối câu theo trật tự tiếng Việt (\"…tôi từng xem\")."
+    },
+    "tags": [
+      "superlative-ever"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pp-014",
+    "topic": "present-perfect",
+    "level": "advanced",
+    "type": "choose",
+    "question": "Since she ___ to Hanoi, she ___ a lot of new friends.",
+    "options": [
+      "has moved / made",
+      "moved / made",
+      "has moved / has made",
+      "moved / has made"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Mệnh đề since chỉ mốc quá khứ → quá khứ đơn (**moved**); mệnh đề chính nói kết quả tích lũy đến nay → hiện tại hoàn thành (**has made**).",
+      "wrong": {
+        "0": "Đảo ngược thì của hai vế: mốc dùng quá khứ đơn, mệnh đề chính dùng hiện tại hoàn thành.",
+        "1": "\"made\" (quá khứ đơn) không diễn tả kết quả kéo dài đến hiện tại mà \"since\" yêu cầu.",
+        "2": "\"has moved\" sai trong mệnh đề since chỉ mốc thời điểm cụ thể."
+      },
+      "rule": "S + have/has + V3 + since + S + V2.",
+      "examples": [
+        "Since he started this job, he has learned a lot.",
+        "We have been friends since we met at university."
+      ],
+      "common_mistake": "Chia hiện tại hoàn thành ở cả hai vế."
+    },
+    "tags": [
+      "since-clause"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  }
+]

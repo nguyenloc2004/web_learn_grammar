@@ -1,0 +1,345 @@
+[
+  {
+    "id": "ppc-001",
+    "topic": "present-perfect-continuous",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Our IT team ___ on the server migration since early this morning, and they expect to finish by noon.",
+    "options": [
+      "is working",
+      "has been working",
+      "works",
+      "worked"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "**since early this morning** + việc vẫn chưa xong (\"expect to finish by noon\") → hành động bắt đầu trong quá khứ và còn kéo dài đến hiện tại: **has been working**.",
+      "wrong": {
+        "0": "\"is working\" là hiện tại tiếp diễn, chỉ nói việc đang diễn ra lúc này, không đi với \"since\" để nói khoảng thời gian từ quá khứ đến nay.",
+        "2": "\"works\" là hiện tại đơn, dùng cho thói quen / sự thật, không đi với \"since + mốc thời gian\".",
+        "3": "\"worked\" là quá khứ đơn, coi việc đã kết thúc, mâu thuẫn với ý vẫn đang làm và \"expect to finish by noon\"."
+      },
+      "rule": "S + have/has been + V-ing + since + mốc / for + khoảng thời gian: hành động kéo dài từ quá khứ đến hiện tại, nhấn mạnh quá trình.",
+      "examples": [
+        "The engineers have been testing the new software since Monday.",
+        "Ms. Vy has been preparing the budget for two weeks."
+      ],
+      "common_mistake": "Dịch \"đang làm từ sáng\" thành \"is working since this morning\", vì tiếng Việt chỉ dùng \"đang\" mà không đổi thì."
+    },
+    "tags": [
+      "since-for",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ppc-002",
+    "topic": "present-perfect-continuous",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Ms. Hoa ___ three of the five quarterly reports so far, so she will send them to the director before lunch.",
+    "options": [
+      "has been writing",
+      "is writing",
+      "had been writing",
+      "has written"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Câu nói **số lượng đã hoàn thành** (\"three of the five reports\", \"so far\") và kết quả dùng được ngay (\"will send them\") → dùng hiện tại hoàn thành **has written**, không dùng dạng tiếp diễn.",
+      "wrong": {
+        "0": "\"has been writing\" nhấn mạnh quá trình, không dùng khi nêu con số cụ thể những việc đã làm xong.",
+        "1": "\"is writing\" là hiện tại tiếp diễn, không đi với \"so far\" và không diễn tả kết quả ba báo cáo đã xong.",
+        "2": "\"had been writing\" là quá khứ hoàn thành tiếp diễn, cần một mốc trong quá khứ; câu này tính đến hiện tại (\"so far\")."
+      },
+      "rule": "Có con số / số lần đã hoàn thành → hiện tại hoàn thành (have/has + V3). Nhấn mạnh quá trình, thời lượng → hiện tại hoàn thành tiếp diễn.",
+      "examples": [
+        "I have been reading the contract all morning.",
+        "I have read twenty pages of the contract so far."
+      ],
+      "common_mistake": "Thấy \"so far\" là chọn ngay dạng tiếp diễn vì nghĩ \"đang làm dở\", không để ý câu nêu số lượng đã xong."
+    },
+    "tags": [
+      "result-vs-process",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ppc-003",
+    "topic": "present-perfect-continuous",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The marketing director ___ about the merger plan since last Friday, but she has not told her team yet.",
+    "options": [
+      "has been knowing",
+      "is knowing",
+      "has known",
+      "knows"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "**know** là động từ trạng thái, không dùng ở dạng tiếp diễn. Với \"since last Friday\" phải dùng hiện tại hoàn thành: **has known**.",
+      "wrong": {
+        "0": "\"has been knowing\" sai vì \"know\" là động từ trạng thái, không chia tiếp diễn kể cả khi có since/for.",
+        "1": "\"is knowing\" vừa chia tiếp diễn động từ trạng thái, vừa không đi được với \"since last Friday\".",
+        "3": "\"knows\" là hiện tại đơn, không diễn tả được khoảng thời gian từ thứ Sáu tuần trước đến nay."
+      },
+      "rule": "Động từ trạng thái (know, own, believe, belong, understand, want, need) + since/for → have/has + V3, không dùng have been + V-ing.",
+      "examples": [
+        "We have known about the price increase for a month.",
+        "Mr. Bao has owned this shop since 2015."
+      ],
+      "common_mistake": "Áp dụng máy móc \"since/for → have been V-ing\" cho mọi động từ, kể cả know, own, believe."
+    },
+    "tags": [
+      "stative-verbs",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ppc-004",
+    "topic": "present-perfect-continuous",
+    "level": "intermediate",
+    "type": "fill-form",
+    "question": "Mr. Lee looks exhausted because he ___ (deal) with customer complaints since the system crashed at 8 a.m.",
+    "options": [
+      "is dealing",
+      "dealt",
+      "has been dealt",
+      "has been dealing"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Việc bắt đầu từ lúc hệ thống sập (8 a.m.), kéo dài đến bây giờ và để lại hậu quả ở hiện tại (\"looks exhausted\") → **has been dealing**.",
+      "wrong": {
+        "0": "\"is dealing\" là hiện tại tiếp diễn, không dùng với \"since + mệnh đề quá khứ\".",
+        "1": "\"dealt\" là quá khứ đơn; mệnh đề chính có \"since\" chỉ khoảng thời gian kéo dài tới hiện tại nên không dùng quá khứ đơn.",
+        "2": "\"has been dealt\" là dạng bị động; Mr. Lee là người xử lý (chủ động), và sau đó còn có \"with customer complaints\"."
+      },
+      "rule": "since + mệnh đề quá khứ đơn (since the system crashed); mệnh đề chính dùng have/has been + V-ing để giải thích tình trạng hiện tại.",
+      "examples": [
+        "She is tired because she has been answering emails since she arrived.",
+        "The room smells of paint because the workers have been painting it."
+      ],
+      "common_mistake": "Chia cả hai mệnh đề cùng một thì quá khứ: \"he dealt with complaints since the system crashed\"."
+    },
+    "tags": [
+      "since-clause",
+      "present-result",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ppc-005",
+    "topic": "present-perfect-continuous",
+    "level": "intermediate",
+    "type": "fix-error",
+    "question": "Tìm phần sai: Mr. Quang <u>has been owning</u> (A) the restaurant <u>for</u> (B) more than a decade, and it <u>has become</u> (C) one of the most <u>popular</u> (D) places in the area.",
+    "options": [
+      "has been owning",
+      "for",
+      "has become",
+      "popular"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Phần sai là (A). **own** là động từ trạng thái, không dùng tiếp diễn: sửa thành **has owned**.",
+      "wrong": {
+        "1": "(B) đúng: \"for\" + khoảng thời gian (more than a decade).",
+        "2": "(C) đúng: hiện tại hoàn thành \"has become\" diễn tả kết quả tính đến hiện tại.",
+        "3": "(D) đúng: \"the most popular\" là so sánh nhất của tính từ dài."
+      },
+      "rule": "Động từ sở hữu / trạng thái (own, have = sở hữu, belong, possess) không chia tiếp diễn: dùng have/has + V3 với for/since.",
+      "examples": [
+        "The Nguyen family has owned this hotel for three generations.",
+        "This building has belonged to the city since 1990."
+      ],
+      "common_mistake": "Thấy \"for more than a decade\" liền dùng \"have been V-ing\" mà không xét động từ có phải động từ trạng thái hay không."
+    },
+    "tags": [
+      "stative-verbs",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ppc-006",
+    "topic": "present-perfect-continuous",
+    "level": "intermediate",
+    "type": "rewrite",
+    "question": "Chọn câu đồng nghĩa với: *Ms. Mai started negotiating with the new supplier two weeks ago, and she is still negotiating.*",
+    "options": [
+      "Ms. Mai has been negotiating with the new supplier since two weeks.",
+      "Ms. Mai has been negotiating with the new supplier for two weeks.",
+      "Ms. Mai negotiated with the new supplier for two weeks.",
+      "Ms. Mai has been negotiating with the new supplier two weeks ago."
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Việc bắt đầu cách đây hai tuần và **vẫn đang tiếp diễn** → have/has been + V-ing + **for** + khoảng thời gian.",
+      "wrong": {
+        "0": "Sai giới từ: \"two weeks\" là khoảng thời gian nên phải dùng \"for\", không dùng \"since\".",
+        "2": "Quá khứ đơn \"negotiated … for two weeks\" cho thấy việc đàm phán đã kết thúc, sai nghĩa câu gốc (\"still negotiating\").",
+        "3": "\"ago\" chỉ mốc quá khứ xác định, dùng với quá khứ đơn, không dùng với thì hoàn thành."
+      },
+      "rule": "started … ago, and still … = have/has been + V-ing + for + khoảng thời gian / since + mốc thời gian.",
+      "examples": [
+        "We have been waiting for the delivery for three days.",
+        "They have been renovating the lobby since last month."
+      ],
+      "common_mistake": "Viết \"since two weeks\" hoặc giữ \"ago\" trong câu hoàn thành do dịch từng chữ \"từ hai tuần trước\"."
+    },
+    "tags": [
+      "since-for",
+      "rewrite",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ppc-007",
+    "topic": "present-perfect-continuous",
+    "level": "advanced",
+    "type": "choose",
+    "question": "As of this month, Lotus Logistics ___ out of its Da Nang warehouse for nearly ten years.",
+    "options": [
+      "is operating",
+      "operated",
+      "has been operating",
+      "will operate"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "**As of this month** (tính đến tháng này) + **for nearly ten years** → khoảng thời gian kéo dài từ quá khứ đến hiện tại: **has been operating**.",
+      "wrong": {
+        "0": "\"is operating\" là hiện tại tiếp diễn, không diễn tả được thời lượng \"for nearly ten years\" tính đến hiện tại.",
+        "1": "\"operated\" là quá khứ đơn, coi việc đã chấm dứt, mâu thuẫn với \"as of this month\" (tính đến hiện tại).",
+        "3": "\"will operate\" là tương lai đơn; \"as of this month … for ten years\" là thời lượng tính đến nay, không phải dự định."
+      },
+      "rule": "As of + thời điểm hiện tại (today, this month, now) + for + khoảng thời gian → have/has (been V-ing / V3).",
+      "examples": [
+        "As of today, the museum has been welcoming visitors for fifty years.",
+        "As of this week, Mr. Toan has been leading the sales team for six months."
+      ],
+      "common_mistake": "Hiểu \"as of\" như một mốc tương lai rồi chọn \"will\", hoặc dịch \"đang hoạt động\" thành hiện tại tiếp diễn."
+    },
+    "tags": [
+      "as-of",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ppc-008",
+    "topic": "present-perfect-continuous",
+    "level": "advanced",
+    "type": "choose",
+    "question": "Since the new regional manager took over in March, sales in the northern provinces ___ steadily, and the board expects the trend to continue.",
+    "options": [
+      "have been rising",
+      "are rising",
+      "rose",
+      "had been rising"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "**Since + mệnh đề quá khứ** (took over in March) và xu hướng **còn tiếp tục** (\"expects the trend to continue\") → hành động kéo dài đến hiện tại: **have been rising**.",
+      "wrong": {
+        "1": "\"are rising\" là hiện tại tiếp diễn, không đi với \"since the new manager took over\".",
+        "2": "\"rose\" là quá khứ đơn; khi \"since\" mở đầu một khoảng thời gian kéo dài đến nay, mệnh đề chính không dùng quá khứ đơn.",
+        "3": "\"had been rising\" cần một mốc trong quá khứ; ở đây xu hướng kéo dài đến hiện tại và tiếp diễn trong tương lai."
+      },
+      "rule": "Since + S + V2 (quá khứ đơn), S + have/has been + V-ing: động từ \"since\" chia quá khứ đơn, mệnh đề chính chia thì hoàn thành.",
+      "examples": [
+        "Since the store moved downtown, it has been attracting more customers.",
+        "Prices have been falling since the new factory opened."
+      ],
+      "common_mistake": "Thấy \"took over\" ở quá khứ liền chia mệnh đề chính cũng ở quá khứ (\"rose\")."
+    },
+    "tags": [
+      "since-clause",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ppc-009",
+    "topic": "present-perfect-continuous",
+    "level": "advanced",
+    "type": "choose",
+    "question": "How long ___ for a response from the insurance company regarding your claim?",
+    "options": [
+      "are you waiting",
+      "you have been waiting",
+      "do you wait",
+      "have you been waiting"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Câu hỏi **How long** về một việc **còn đang diễn ra** (vẫn chưa có phản hồi) → How long + **have/has + S + been + V-ing**?: **have you been waiting**.",
+      "wrong": {
+        "0": "\"are you waiting\" là hiện tại tiếp diễn; \"How long are you waiting\" không hỏi được thời lượng từ quá khứ đến nay.",
+        "1": "\"you have been waiting\" đúng thì nhưng sai trật tự câu hỏi: trợ động từ \"have\" phải đứng trước chủ ngữ.",
+        "2": "\"do you wait\" là hiện tại đơn, hỏi về thói quen, không hợp ngữ cảnh một yêu cầu bồi thường đang chờ xử lý."
+      },
+      "rule": "How long + have/has + S + been + V-ing? hỏi thời lượng của việc bắt đầu trong quá khứ và còn tiếp diễn.",
+      "examples": [
+        "How long have you been working on this project?",
+        "How long has the printer been making that noise?"
+      ],
+      "common_mistake": "Giữ trật tự câu trần thuật trong câu hỏi (\"How long you have been…\") hoặc dùng \"are you waiting\" do dịch \"bạn đang chờ bao lâu\"."
+    },
+    "tags": [
+      "question-form",
+      "how-long",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "ppc-010",
+    "topic": "present-perfect-continuous",
+    "level": "advanced",
+    "type": "choose",
+    "question": "Our sales representatives ___ more time with existing clients lately, which partly explains the drop in new contracts this quarter.",
+    "options": [
+      "spend",
+      "had been spending",
+      "have been spending",
+      "were spent"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "**lately** + hành động lặp lại gần đây, có ảnh hưởng đến hiện tại (\"explains the drop … this quarter\") → **have been spending**.",
+      "wrong": {
+        "0": "\"spend\" là hiện tại đơn, nói về thói quen chung, không đi với \"lately\".",
+        "1": "\"had been spending\" là quá khứ hoàn thành tiếp diễn, cần mốc quá khứ; câu nói về giai đoạn gần đây đến hiện tại.",
+        "3": "\"were spent\" là bị động quá khứ; nhân viên là người dành thời gian (chủ động) và có tân ngữ \"more time\"."
+      },
+      "rule": "lately / recently + hoạt động lặp lại kéo dài đến hiện tại → have/has been + V-ing.",
+      "examples": [
+        "Customers have been calling about the delay lately.",
+        "Ms. Huong has been traveling a lot recently."
+      ],
+      "common_mistake": "Không nhận ra \"lately\" là dấu hiệu thì hoàn thành, chọn hiện tại đơn vì nghĩ đó là thói quen."
+    },
+    "tags": [
+      "lately-recently",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  }
+]

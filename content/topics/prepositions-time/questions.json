@@ -1,0 +1,343 @@
+[
+  {
+    "id": "pt-001",
+    "topic": "prepositions-time",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "All expense reports must be submitted to the finance department ___ Friday, March 14, so that they can be processed this month.",
+    "options": [
+      "until",
+      "since",
+      "by",
+      "within"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "\"submit\" là hành động xảy ra **một lần**, cần hoàn tất **không muộn hơn** thứ Sáu → **by** (hạn chót).",
+      "wrong": {
+        "0": "\"until\" dùng cho hành động/trạng thái **kéo dài liên tục** đến một mốc (wait until, stay until); việc nộp báo cáo không kéo dài.",
+        "1": "\"since\" chỉ mốc bắt đầu trong quá khứ, thường đi với thì hoàn thành, không dùng cho hạn chót trong tương lai.",
+        "3": "\"within\" đi với **khoảng thời gian** (within three days), không đi với một ngày cụ thể như \"Friday, March 14\"."
+      },
+      "rule": "by + mốc thời gian = hạn chót (không muộn hơn), dùng với động từ hoàn tất: submit, finish, return, complete by…",
+      "examples": [
+        "Please return the signed contract by Monday.",
+        "The renovation should be completed by the end of June."
+      ],
+      "common_mistake": "Dùng \"until\" cho hạn chót vì cả \"by\" và \"until\" đều được dịch là \"đến / trước\" trong tiếng Việt."
+    },
+    "tags": [
+      "by-until",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pt-002",
+    "topic": "prepositions-time",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The quarterly sales meeting is scheduled for 9:00 a.m. ___ Tuesday in Conference Room B.",
+    "options": [
+      "in",
+      "at",
+      "since",
+      "on"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "Trước **thứ trong tuần** (Tuesday) dùng **on**.",
+      "wrong": {
+        "0": "\"in\" dùng cho tháng, năm, quý, mùa (in May, in 2027), không dùng cho thứ.",
+        "1": "\"at\" dùng cho giờ (at 9:00 a.m.), không dùng cho thứ; câu đã có \"9:00 a.m.\" đứng trước làm nhiễu.",
+        "2": "\"since\" chỉ mốc bắt đầu của một việc kéo dài đến hiện tại, không dùng để nêu lịch họp."
+      },
+      "rule": "at + giờ; on + thứ / ngày tháng; in + tháng / năm / quý / mùa.",
+      "examples": [
+        "The workshop starts at 2 p.m. on Thursday.",
+        "Our new branch will open in the third quarter."
+      ],
+      "common_mistake": "Dùng \"at\" cho cả cụm thời gian vì thấy giờ đứng gần: \"at 9:00 a.m. at Tuesday\"."
+    },
+    "tags": [
+      "at-on-in",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pt-003",
+    "topic": "prepositions-time",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Ms. Phuong has worked in the accounting department ___ more than eight years.",
+    "options": [
+      "since",
+      "during",
+      "for",
+      "within"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "Sau chỗ trống là **khoảng thời gian** (more than eight years), động từ ở thì hiện tại hoàn thành → **for**.",
+      "wrong": {
+        "0": "\"since\" đi với **mốc** thời gian (since 2017), không đi với khoảng thời gian.",
+        "1": "\"during\" đi với danh từ chỉ sự kiện / giai đoạn (during the audit), không trả lời câu hỏi \"bao lâu\".",
+        "3": "\"within\" nghĩa là \"trong vòng (không vượt quá)\", dùng cho giới hạn thời gian, không hợp với thì hoàn thành chỉ quá trình kéo dài."
+      },
+      "rule": "have / has + V3 + for + khoảng thời gian; + since + mốc thời gian.",
+      "examples": [
+        "Mr. Tuan has managed this branch for six years.",
+        "Mr. Tuan has managed this branch since 2020."
+      ],
+      "common_mistake": "Dùng \"since\" với khoảng thời gian: \"since eight years\", do dịch \"từ tám năm nay\"."
+    },
+    "tags": [
+      "since-for",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pt-004",
+    "topic": "prepositions-time",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "Phone calls are not permitted ___ the training session, so please switch your devices to silent mode.",
+    "options": [
+      "during",
+      "while",
+      "when",
+      "since"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Sau chỗ trống là **cụm danh từ** \"the training session\" → dùng giới từ **during** (trong suốt / trong lúc diễn ra).",
+      "wrong": {
+        "1": "\"while\" là liên từ, phải theo sau bởi mệnh đề hoặc V-ing (while the session is in progress), không đi trực tiếp với danh từ.",
+        "2": "\"when\" cũng là liên từ, cần mệnh đề phía sau.",
+        "3": "\"since\" chỉ mốc bắt đầu của việc kéo dài đến hiện tại (đi với thì hoàn thành), không hợp với quy định hiện tại đơn này."
+      },
+      "rule": "during + danh từ; while / when + S + V (hoặc V-ing).",
+      "examples": [
+        "Several questions were raised during the presentation.",
+        "Several questions were raised while Ms. Nga was presenting."
+      ],
+      "common_mistake": "Dùng \"while\" trước danh từ vì cả \"during\" và \"while\" đều dịch là \"trong khi\"."
+    },
+    "tags": [
+      "during-while",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pt-005",
+    "topic": "prepositions-time",
+    "level": "intermediate",
+    "type": "fix-error",
+    "question": "Tìm phần sai: The store will remain <u>open</u> (A) <u>by</u> (B) 9 p.m. <u>on</u> (C) weekdays <u>during</u> (D) the holiday season.",
+    "options": [
+      "open",
+      "by",
+      "on",
+      "during"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Phần sai là (B). \"remain open\" là trạng thái **kéo dài liên tục** đến 9 giờ tối → phải dùng **until**: *remain open until 9 p.m.*",
+      "wrong": {
+        "0": "(A) đúng: remain + tính từ (open) là cấu trúc đúng.",
+        "2": "(C) đúng: on + ngày trong tuần (on weekdays).",
+        "3": "(D) đúng: during + danh từ (the holiday season)."
+      },
+      "rule": "until + mốc: trạng thái / hành động kéo dài đến mốc đó (remain, stay, wait, be open). by + mốc: hạn chót của hành động hoàn tất.",
+      "examples": [
+        "The library stays open until midnight during exam week.",
+        "Please wait in the lobby until your name is called."
+      ],
+      "common_mistake": "Dùng \"by\" cho trạng thái kéo dài vì nghĩ \"by\" cũng là \"đến\"."
+    },
+    "tags": [
+      "by-until",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pt-006",
+    "topic": "prepositions-time",
+    "level": "intermediate",
+    "type": "choose",
+    "question": "The new parking regulations will take effect ___ July 1, so employees should register their vehicles before then.",
+    "options": [
+      "since",
+      "as of",
+      "during",
+      "until"
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "**as of + ngày** = kể từ ngày đó (thường dùng trong thông báo quy định mới có hiệu lực).",
+      "wrong": {
+        "0": "\"since\" đi với thì hoàn thành và mốc trong quá khứ, không dùng với \"will take effect\".",
+        "2": "\"during\" cần danh từ chỉ giai đoạn/sự kiện, không đi với một ngày cụ thể để chỉ thời điểm bắt đầu.",
+        "3": "\"until\" chỉ điểm kết thúc của việc kéo dài, trái nghĩa với \"có hiệu lực từ ngày…\"."
+      },
+      "rule": "as of / effective / starting + mốc thời gian: kể từ (dùng được cho cả hiện tại và tương lai).",
+      "examples": [
+        "As of next Monday, the cafeteria will close at 3 p.m.",
+        "As of today, all visitors must sign in at the front desk."
+      ],
+      "common_mistake": "Dùng \"since\" cho tương lai vì cả \"since\" và \"as of\" đều dịch là \"kể từ\"."
+    },
+    "tags": [
+      "as-of",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pt-007",
+    "topic": "prepositions-time",
+    "level": "advanced",
+    "type": "choose",
+    "question": "Please arrive at least 20 minutes ___ your scheduled interview so that our staff can verify your identification.",
+    "options": [
+      "before of",
+      "prior",
+      "ahead",
+      "prior to"
+    ],
+    "answer": 3,
+    "explanation": {
+      "correct": "**prior to** + danh từ = before (trang trọng): *20 minutes prior to your interview*.",
+      "wrong": {
+        "0": "\"before of\" sai: \"before\" là giới từ, đi thẳng với danh từ, không thêm \"of\".",
+        "1": "\"prior\" đứng một mình là tính từ (prior experience); làm giới từ bắt buộc có \"to\".",
+        "2": "\"ahead\" phải đi với \"of\" (ahead of your interview); thiếu \"of\" là sai."
+      },
+      "rule": "prior to + N / V-ing = before; ahead of + N = before. Không viết \"prior the…\", \"ahead the…\", \"before of…\".",
+      "examples": [
+        "All guests must check out prior to 11 a.m.",
+        "The documents were reviewed prior to signing."
+      ],
+      "common_mistake": "Bỏ \"to\" sau \"prior\" hoặc \"of\" sau \"ahead\" vì dịch thẳng \"trước buổi phỏng vấn\"."
+    },
+    "tags": [
+      "prior-to",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pt-008",
+    "topic": "prepositions-time",
+    "level": "advanced",
+    "type": "choose",
+    "question": "Customers who are not satisfied with their purchase may return the item ___ 30 days of delivery for a full refund.",
+    "options": [
+      "during",
+      "throughout",
+      "within",
+      "until"
+    ],
+    "answer": 2,
+    "explanation": {
+      "correct": "**within + khoảng thời gian (+ of + mốc)** = trong vòng, không quá 30 ngày kể từ khi giao hàng.",
+      "wrong": {
+        "0": "\"during\" đi với một sự kiện/giai đoạn đã xác định (during the sale), không đi với cấu trúc \"30 days of delivery\" để chỉ giới hạn.",
+        "1": "\"throughout\" = suốt từ đầu đến cuối, nhấn mạnh sự liên tục, sai nghĩa với việc trả hàng một lần.",
+        "3": "\"until\" cần một mốc thời gian, không đi với \"30 days of delivery\"."
+      },
+      "rule": "within + khoảng thời gian (+ of + sự kiện): giới hạn tối đa. Ví dụ: within 48 hours of booking.",
+      "examples": [
+        "Complaints must be filed within seven days of purchase.",
+        "You will receive a confirmation email within 24 hours."
+      ],
+      "common_mistake": "Dùng \"during\" vì dịch \"trong 30 ngày\"."
+    },
+    "tags": [
+      "within",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pt-009",
+    "topic": "prepositions-time",
+    "level": "advanced",
+    "type": "rewrite",
+    "question": "Chọn câu đồng nghĩa với: *The company moved its headquarters to Da Nang in 2019, and it is still there now.*",
+    "options": [
+      "The company has had its headquarters in Da Nang for 2019.",
+      "The company has had its headquarters in Da Nang since 2019.",
+      "The company had its headquarters in Da Nang since 2019.",
+      "The company has had its headquarters in Da Nang during 2019."
+    ],
+    "answer": 1,
+    "explanation": {
+      "correct": "Việc bắt đầu năm 2019 và **vẫn còn đến nay** → hiện tại hoàn thành + **since + mốc** (2019).",
+      "wrong": {
+        "0": "\"for\" đi với khoảng thời gian (for seven years), không đi với mốc \"2019\".",
+        "2": "Quá khứ đơn \"had\" không đi với \"since\" khi việc vẫn còn tiếp diễn; phải dùng \"has had\".",
+        "3": "\"during 2019\" chỉ giới hạn trong năm 2019, làm mất nghĩa \"vẫn còn đến nay\"."
+      },
+      "rule": "S + have / has + V3 + since + mốc thời gian: việc bắt đầu trong quá khứ và kéo dài đến hiện tại.",
+      "examples": [
+        "We have used this supplier since 2021.",
+        "She has lived in Hue since she was a child."
+      ],
+      "common_mistake": "Dùng quá khứ đơn với \"since\" vì tiếng Việt không chia thì: \"The company had … since 2019\"."
+    },
+    "tags": [
+      "since-for",
+      "combining",
+      "toeic-part5"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  },
+  {
+    "id": "pt-010",
+    "topic": "prepositions-time",
+    "level": "advanced",
+    "type": "fix-error",
+    "question": "Tìm phần sai: <u>During</u> (A) the lobby is being renovated, visitors <u>are asked</u> (B) to use the side entrance, which is open <u>from</u> (C) 7 a.m. <u>until</u> (D) 8 p.m.",
+    "options": [
+      "During",
+      "are asked",
+      "from",
+      "until"
+    ],
+    "answer": 0,
+    "explanation": {
+      "correct": "Phần sai là (A). Sau chỗ trống là **mệnh đề** (the lobby is being renovated) nên phải dùng liên từ **While**; \"during\" là giới từ, chỉ đi với danh từ (during the renovation).",
+      "wrong": {
+        "1": "(B) đúng: bị động hiện tại \"are asked to use\" (được yêu cầu dùng).",
+        "2": "(C) đúng: from … until … chỉ khoảng giờ mở cửa.",
+        "3": "(D) đúng: \"until 8 p.m.\" chỉ trạng thái mở cửa kéo dài đến 8 giờ tối."
+      },
+      "rule": "While + S + V; During + danh từ. Cùng nghĩa: While the lobby is being renovated = During the renovation of the lobby.",
+      "examples": [
+        "While the system is being upgraded, online orders will be paused.",
+        "During the system upgrade, online orders will be paused."
+      ],
+      "common_mistake": "Dùng \"during\" trước mệnh đề vì chỉ nhớ nghĩa \"trong khi\", không xét từ loại."
+    },
+    "tags": [
+      "during-while",
+      "toeic-part6"
+    ],
+    "source": "ai",
+    "created_at": "2026-11-08"
+  }
+]
